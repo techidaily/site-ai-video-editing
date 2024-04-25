@@ -1,6 +1,6 @@
-# TechiDaily
+# Ai Video Editing Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://ai-video-editing.techidaily.com](https://ai-video-editing.techidaily.com)
 
 ## Publish
 
