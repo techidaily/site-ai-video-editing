@@ -1,4 +1,4 @@
-Sitemap: https://ai-video-editing.techidaily.com/sitemap.xml
+Sitemap: https://ai-video-editing.techidaily.com/sitemap_index.xml
 User-agent: Googlebot
 Disallow:
 
