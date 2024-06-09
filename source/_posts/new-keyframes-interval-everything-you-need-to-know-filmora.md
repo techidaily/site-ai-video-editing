@@ -1,7 +1,7 @@
 ---
 title: New Keyframes Interval Everything You Need To Know | Filmora
-date: 2024-05-19T05:12:21.548Z
-updated: 2024-05-20T05:12:21.548Z
+date: 2024-06-08T08:36:44.335Z
+updated: 2024-06-09T08:36:44.335Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New Keyframes Interval Everything You Need To Know | Filmora
 excerpt: This Article Describes New Keyframes Interval Everything You Need To Know | Filmora
 keywords: keyframes interval everything you need to know filmora,ai animation keyframes interval everything you need to know filmora,everything you need to know about color grading in photography,what is hdri everything you need to know about hdri,ai animation ai animation keyframes interval everything you need to know,ai animation keyframes interval everything you need to know,keyframes interval everything you need to know
-thumbnail: https://www.lifewire.com/thmb/znoWsXihZpXFxhbw3VKHAcQ2O3s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1443716794-411cf2c5404b4f35b2a1153826e5a280.jpg
+thumbnail: https://thmb.techidaily.com/06c74021872dcc3b0ce900f997f142db31fade534149e5bce6ee9984dd257b98.jpg
 ---
 
 ## Keyframes Interval: Everything You Need To Know | Filmora

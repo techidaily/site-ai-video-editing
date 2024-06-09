@@ -1,7 +1,7 @@
 ---
 title: How to Make Split Screen Videos in Filmora
-date: 2024-05-19T05:11:34.180Z
-updated: 2024-05-20T05:11:34.180Z
+date: 2024-06-08T08:36:49.761Z
+updated: 2024-06-09T08:36:49.761Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How to Make Split Screen Videos in Filmora
 excerpt: This Article Describes How to Make Split Screen Videos in Filmora
 keywords: ai animation how to make split screen videos in filmora,ai animation ai animation how to make split screen videos in filmora,make split screen videos in filmora,how to make a video by mouse in filmora,ai animation ai animation ai animation how to make split screen videos in filmora,make slideshow video filmora,how to make split screen videos in filmora
-thumbnail: https://www.lifewire.com/thmb/BzSvFjNWXiwqImdtAjFSSOWv3r4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/audio-books-56a324b93df78cf7727c00f5.jpg
+thumbnail: https://thmb.techidaily.com/f75585e4daf78953dd0ce1cfd0b26209fab1e9c588003fe7de564148a8e3e23c.jpg
 ---
 
 ## How to Make Split Screen Videos in Filmora

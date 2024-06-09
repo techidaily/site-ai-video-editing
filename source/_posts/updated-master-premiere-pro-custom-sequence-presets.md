@@ -1,7 +1,7 @@
 ---
 title: Updated Master Premiere Pro Custom Sequence Presets
-date: 2024-05-19T05:12:22.184Z
-updated: 2024-05-20T05:12:22.184Z
+date: 2024-06-08T08:36:40.425Z
+updated: 2024-06-09T08:36:40.425Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated Master Premiere Pro Custom Sequence Presets
 excerpt: This Article Describes Updated Master Premiere Pro Custom Sequence Presets
 keywords: pr custom sequence presets,ai animation master premiere pro custom sequence presets,ai animation how to create a custom sequence preset in premiere pro,ai animation ai animation how to create a custom sequence preset in premiere pro,15 camera shake preset for premiere pro,master premiere pro custom sequence presets,how to create a custom sequence preset in premiere pro
-thumbnail: https://www.lifewire.com/thmb/iVAserBnC6bUM-CQ2W6IX-_Wms0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-watch-taylor-swift-movies-in-order-a8e26851d3d94bf183a144766801c16c.jpg
+thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde0166f66e5a57d5c818d2809aa.jpg
 ---
 
 ## Master Premiere Pro: Custom Sequence Presets

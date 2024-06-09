@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved How To Make Split Screen Videos in Filmora
-date: 2024-05-19T05:13:00.252Z
-updated: 2024-05-20T05:13:00.252Z
+date: 2024-06-08T08:36:47.640Z
+updated: 2024-06-09T08:36:47.640Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New 2024 Approved How To Make Split Screen Videos in Filmora
 excerpt: This Article Describes New 2024 Approved How To Make Split Screen Videos in Filmora
 keywords: ai animation how to make split screen videos in filmora,ai animation ai animation ai animation ai animation how to make split screen videos in filmora,ai animation ai animation how to make split screen videos in filmora,how to make split screen videos in filmora,ai animation ai animation ai animation how to make split screen videos in filmora,make split screen videos in filmora,ai animation how to split videos in final cut pro
-thumbnail: https://www.lifewire.com/thmb/9P6TB9sqO-6Yq23O2BOj91c-Cvg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-541365354-5c8ad42246e0fb00014a9687.jpg
+thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9fefb2b304db02c765d66484d.jpg
 ---
 
 ## How To Make Split Screen Videos in Filmora

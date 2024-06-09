@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Working Out All Important Details of Slowing Down Video in After Effects
-date: 2024-05-19T05:12:11.134Z
-updated: 2024-05-20T05:12:11.134Z
+date: 2024-06-08T08:36:51.783Z
+updated: 2024-06-09T08:36:51.783Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes 2024 Approved Working Out All Important Details of Slowing Down Video in After Effects
 excerpt: This Article Describes 2024 Approved Working Out All Important Details of Slowing Down Video in After Effects
 keywords: ai animation perfecting the art of slowing down video on instagram,ai animation working out all important details of slowing down video in after effects,perfecting the art of slowing down video on instagram,working through the details of imovie slow motion video making 100 effective,working out all important details of slowing down video in after effects,ai animation ai animation working out all important details of slowing down video in after effects,ai animation working through the details of imovie slow motion video making 100 effective
-thumbnail: https://www.lifewire.com/thmb/UgZFn1LjdiPD7yj2MRRWCGpAQWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/d-link-default-password-list-2619152-d6281a924f45426f879c8707220ce92d.png
+thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01fc1cf31d37490fb679a3c33d.png
 ---
 
 ## Working Out All Important Details of Slowing Down Video in After Effects

@@ -1,7 +1,7 @@
 ---
 title: New Best AR Video Apps
-date: 2024-05-19T05:12:11.821Z
-updated: 2024-05-20T05:12:11.821Z
+date: 2024-06-08T08:36:43.292Z
+updated: 2024-06-09T08:36:43.292Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New Best AR Video Apps
 excerpt: This Article Describes New Best AR Video Apps
 keywords: best ar video apps,best 5 apps to add song to video,11 best video editing apps for iphone,ai animation best ar video apps,best ar video app top 10 picks,ar video app,top 11 best video editing apps for iphone
-thumbnail: https://www.lifewire.com/thmb/LszZcaAEzHRXWm3K0xWEG-T8gus=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/handstypingonkeyboardCROPPED-6b13200ac0d24ef58817343cc4975ebd.jpg
+thumbnail: https://thmb.techidaily.com/984f643c4b4f7bae0c2654dd17f8e46d49464b1fbd02ad27cef488f7c4915f8e.jpg
 ---
 
 ## Best AR Video Apps

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Using The AI Auto Reframe Feature | Wondershare Filmora Tutorial
-date: 2024-04-24T01:07:57.786Z
-updated: 2024-04-25T01:07:57.786Z
+date: 2024-06-08T08:36:39.741Z
+updated: 2024-06-09T08:36:39.741Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New In 2024, Using The AI Auto Reframe Feature | Wondershare Filmora Tutorial
 excerpt: This Article Describes New In 2024, Using The AI Auto Reframe Feature | Wondershare Filmora Tutorial
 keywords: ai animation wondershare filmora tutorial using the ai auto reframe feature,using the ai auto reframe feature wondershare filmora tutorial,ai animation fun easy masking tricks wondershare filmora tutorial,ai animation ai animation wondershare filmora tutorial using the ai auto reframe feature,wondershare filmora tutorial using the ai auto reframe feature,ai animation using the ai auto reframe feature wondershare filmora tutorial,ai animation before after editing trick wondershare filmora tutorial
-thumbnail: https://www.lifewire.com/thmb/Wnjr5d8PWtLhZKZOlT7PSsWhqZ8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YoungAsianmanusinglaptopandreadingnewspaperonplane-59960904685fbe00103478bd.jpg
+thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c63be7c3be4720f86eba5080f.jpg
 ---
 
 ## Using The AI Auto Reframe Feature | Wondershare Filmora Tutorial

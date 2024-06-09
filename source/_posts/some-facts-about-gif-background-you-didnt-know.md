@@ -1,7 +1,7 @@
 ---
 title: Some Facts About GIF Background You Didnt Know
-date: 2024-05-19T05:11:36.471Z
-updated: 2024-05-20T05:11:36.471Z
+date: 2024-06-08T08:36:43.599Z
+updated: 2024-06-09T08:36:43.599Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Some Facts About GIF Background You Didnt Know
 excerpt: This Article Describes Some Facts About GIF Background You Didnt Know
 keywords: here you can lean about the different ways for gimp transparent background png format files,ll about gif keyboard that you want to know,ai animation facts about gif background you didnt know,ai animation ai animation some facts about gif background you didnt know,ai animation some facts about gif background you didnt know,facts about gif background you didnt know,some facts about gif background you didnt know
-thumbnail: https://www.lifewire.com/thmb/ouXJb0p8iu69MptAZaPa-CTAUMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/relaxing-while-getting-his-studies-done-495857099-5a1ed8c5ec2f640037e369f4.jpg
+thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5b8df6a84d93cf668a943550.jpg
 ---
 
 ## Some Facts About GIF Background You Didn’t Know

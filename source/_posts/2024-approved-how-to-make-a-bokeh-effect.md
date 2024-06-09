@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Make a Bokeh Effect
-date: 2024-05-19T05:12:18.108Z
-updated: 2024-05-20T05:12:18.108Z
+date: 2024-06-08T08:36:50.152Z
+updated: 2024-06-09T08:36:50.152Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes 2024 Approved How to Make a Bokeh Effect
 excerpt: This Article Describes 2024 Approved How to Make a Bokeh Effect
 keywords: how to make hand shake effect with final cut pro,how to make ninja jump effect,how to create a bokeh effect,how to make a bokeh effect,ai animation how to make a bokeh effect,ai animation how to create a bokeh effect,how to make a timelapse in after effects
-thumbnail: https://www.lifewire.com/thmb/fNAEUmZEUUuqZzxr6hV391lXHYg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-11-best-whatsapp-tricks-and-tips-in-2020-4782877-fd12628437f34b85ac38f1a9ac95637e.jpg
+thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad97d3a8d2551786ec91da20e4.jpg
 ---
 
 ## How to Make a Bokeh Effect

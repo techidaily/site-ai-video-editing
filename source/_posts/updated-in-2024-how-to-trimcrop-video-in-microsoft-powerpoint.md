@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Trim/Crop Video in Microsoft Powerpoint
-date: 2024-04-24T01:03:01.091Z
-updated: 2024-04-25T01:03:01.091Z
+date: 2024-06-08T08:36:43.437Z
+updated: 2024-06-09T08:36:43.437Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated In 2024, How to Trim/Crop Video in Microsoft Powerpoint
 excerpt: This Article Describes Updated In 2024, How to Trim/Crop Video in Microsoft Powerpoint
 keywords: ai animation how to make loop video in powerpoint,how to trimcrop video in microsoft powerpoint,ai animation ai animation how to trimcrop video in microsoft powerpoint,ai animation how to trimcrop video in microsoft powerpoint,ai animation learn how to trimcrop video in microsoft powerpoint,ai animation how to loop a video in powerpoint,learn how to trimcrop video in microsoft powerpoint
-thumbnail: https://www.lifewire.com/thmb/b7hSKwI9Oajpbwr32n5Vsf7fcds=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/operationcouldnotcomplete-95695abe458d4062a2c2f7e46e656b08.png
+thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7eef6880dc4b8d8fa008ddde2f.png
 ---
 
 ## Learn How to Trim/Crop Video in Microsoft PowerPoint

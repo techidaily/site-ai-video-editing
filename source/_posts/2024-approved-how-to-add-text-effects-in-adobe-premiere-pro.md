@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Add Text Effects in Adobe Premiere Pro?
-date: 2024-05-19T05:12:16.266Z
-updated: 2024-05-20T05:12:16.266Z
+date: 2024-06-08T08:36:37.900Z
+updated: 2024-06-09T08:36:37.900Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes 2024 Approved How to Add Text Effects in Adobe Premiere Pro?
 excerpt: This Article Describes 2024 Approved How to Add Text Effects in Adobe Premiere Pro?
 keywords: how to fade in text in adobe premiere pro,ai animation how to fade in text in adobe premiere pro,how to add effects in premiere pro,how to add transitions in adobe premiere pro,ai animation how to add effects in premiere pro,ai animation how to add text effects in adobe premiere pro,how to add text effects in adobe premiere pro
-thumbnail: https://www.lifewire.com/thmb/Ngm9bpatigonc3AlRSUUdm9EIUQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-teen-movies-on-netflix-october-2023-5104880-3c4ee21786b64df693bfeebd65701d8e.jpg
+thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b20d9291b76fb465837bc25f3.jpg
 ---
 
 ## How to Add Text Effects in Adobe Premiere Pro?

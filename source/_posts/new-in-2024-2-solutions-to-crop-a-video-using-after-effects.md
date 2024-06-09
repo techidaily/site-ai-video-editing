@@ -1,7 +1,7 @@
 ---
 title: New In 2024, 2 Solutions to Crop a Video Using After Effects
-date: 2024-05-19T05:12:49.993Z
-updated: 2024-05-20T05:12:49.993Z
+date: 2024-06-08T08:36:54.907Z
+updated: 2024-06-09T08:36:54.907Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New In 2024, 2 Solutions to Crop a Video Using After Effects
 excerpt: This Article Describes New In 2024, 2 Solutions to Crop a Video Using After Effects
 keywords: ai animation 2 methods to crop a video using after effects,ai animation ai animation 2 methods to crop a video using after effects,4 solutions to crop a video on android easily,ai animation 2 solutions to crop a video using after effects,crop video using after effects,2 methods to crop a video using after effects,2 solutions to crop a video using after effects
-thumbnail: https://www.lifewire.com/thmb/5m3PFyS3dMrqXFE2iOSfA4BUn2Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-smart-tv-12dcac76114b4747b9b3db8bb3551ddc.jpg
+thumbnail: https://thmb.techidaily.com/85e69845f10f793c5b081e6eac45cea976095820d8ff765825e636a33b833fec.jpg
 ---
 
 ## 2 Solutions to Crop a Video Using After Effects

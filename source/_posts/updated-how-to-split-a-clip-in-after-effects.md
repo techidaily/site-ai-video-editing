@@ -1,7 +1,7 @@
 ---
 title: Updated How to Split a Clip in After Effects
-date: 2024-05-19T05:12:20.322Z
-updated: 2024-05-20T05:12:20.322Z
+date: 2024-06-08T08:36:46.712Z
+updated: 2024-06-09T08:36:46.712Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated How to Split a Clip in After Effects
 excerpt: This Article Describes Updated How to Split a Clip in After Effects
 keywords: how to add text in after effects,split a clip in after effects,ai animation how to split a clip in after effects,how to create a green screen video in after effects,how to replace sky in after effects,ai animation how to add text in after effects,how to split a clip in after effects
-thumbnail: https://www.lifewire.com/thmb/uayRyPYo9UvTUkcunakDixhwqrA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Robothandholdinganapple-fbe6ff482ed641e188dd6650b9ac132e.jpg
+thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e1719fd0426ca459ec8dc06e9a5.jpg
 ---
 
 ## How to Split a Clip in After Effects

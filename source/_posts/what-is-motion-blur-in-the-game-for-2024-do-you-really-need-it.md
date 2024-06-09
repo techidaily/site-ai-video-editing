@@ -1,7 +1,7 @@
 ---
 title: What Is Motion Blur in the Game for 2024 Do You Really Need It?
-date: 2024-05-19T05:12:27.889Z
-updated: 2024-05-20T05:12:27.889Z
+date: 2024-06-08T08:36:41.476Z
+updated: 2024-06-09T08:36:41.476Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes What Is Motion Blur in the Game for 2024 Do You Really Need It?
 excerpt: This Article Describes What Is Motion Blur in the Game for 2024 Do You Really Need It?
 keywords: ways to learn discord game bots even if youre just starting out 20,have you recently experienced motion blur in games do you wish to learn more about it this article provides an overview and the need for motion blur gaming,what is motion blur in the game do you really need it,ai animation ways to learn discord game bots even if youre just starting out 20,ai animation what is a transparent logo and why do you need it,ai animation what is motion blur in the game do you really need it,how to turn onoff motion blur in fortnite is it good for fortnite
-thumbnail: https://www.lifewire.com/thmb/Z7QL7-14ToGxatBbyXkMA5egnao=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-wh-1000xm2-wireless-noise-cancelling-headphones-59c91370c412440010f51191.PNG
+thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51b39e47e7a2ccf645d397043.PNG
 ---
 
 ## What Is Motion Blur in the Game? Do You Really Need It?

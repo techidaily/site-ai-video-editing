@@ -1,7 +1,7 @@
 ---
 title: Updated How to Color Grading in Final Cut Pro
-date: 2024-05-19T05:12:01.302Z
-updated: 2024-05-20T05:12:01.302Z
+date: 2024-06-08T08:36:43.635Z
+updated: 2024-06-09T08:36:43.635Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated How to Color Grading in Final Cut Pro
 excerpt: This Article Describes Updated How to Color Grading in Final Cut Pro
 keywords: ai animation how to color grading in final cut pro,how to split clip in final cut pro,ai animation how to use color grading in final cut pro,color grading final cut pro,how to color grading in final cut pro,ai animation ai animation how to color grading in final cut pro,how to use color grading in final cut pro
-thumbnail: https://www.lifewire.com/thmb/OhMYY4yKeVVtP9XO0SmqFIVtLJg=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dualsenseedge-749ef030e3c84376926d817913be924b.jpg
+thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e70815a31f4f65d2f9ea9ded629.jpg
 ---
 
 ## How to Color Grading in Final Cut Pro

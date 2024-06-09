@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Add Selective Color Effect to Your Videos Using Filmora
-date: 2024-05-19T05:12:55.951Z
-updated: 2024-05-20T05:12:55.951Z
+date: 2024-06-08T08:36:37.092Z
+updated: 2024-06-09T08:36:37.092Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New In 2024, Add Selective Color Effect to Your Videos Using Filmora
 excerpt: This Article Describes New In 2024, Add Selective Color Effect to Your Videos Using Filmora
 keywords: what is the selective color effect and how can you add this effect to your videos using wondershare filmora a complete guide for beginners,add selective color effect to your videos using filmora,ai animation add selective color effect to your videos using filmora,add selective color effect to video,ai animation ai animation add selective color effect to your videos using filmora,how to add selective color effect to your videos,ai animation how to add selective color effect to your videos
-thumbnail: https://www.lifewire.com/thmb/eHGlVdFJN-X634CkMYdDJQQVhoU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-165567842-58e5bd253df78c51625e84ab.jpg
+thumbnail: https://thmb.techidaily.com/dd1b377f0a177d81939c2e9879a9449aa15d2816c9d71de8279c052980247986.jpg
 ---
 
 ## Add Selective Color Effect to Your Videos Using Filmora

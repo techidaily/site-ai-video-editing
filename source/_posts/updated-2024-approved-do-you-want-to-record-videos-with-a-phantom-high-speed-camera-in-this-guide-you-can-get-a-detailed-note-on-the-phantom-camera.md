@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Do You Want to Record Videos with a Phantom High-Speed Camera? In This Guide, You Can Get a Detailed Note on the Phantom Camera
-date: 2024-04-24T01:09:23.093Z
-updated: 2024-04-25T01:09:23.093Z
+date: 2024-06-08T08:36:54.428Z
+updated: 2024-06-09T08:36:54.428Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Do You Want to Record Videos with a Phantom High-Speed Camera? In This Guide, You Can Get a Detailed Note on the Phantom Camera
 excerpt: This Article Describes Updated 2024 Approved Do You Want to Record Videos with a Phantom High-Speed Camera? In This Guide, You Can Get a Detailed Note on the Phantom Camera
 keywords: want to learn how to crop or trim video in powerpoint we have got you covered we have given a step by step guide that will allow you to trim and crop videos using this presentation program,want to speed up your video to create short duration instagram reels here is how you can change the speed of pre recorded and live videos on instagram reels,do you want to know all about video frame rates and speed wondershare filmora will help you to get more information on this matter,want to learn how to make gaming montage videos you have come to the right place this guide will teach you all you need to know to create montages of video games and share them with other players,learn how to change aspect ratio in imovie on mac ipad and iphone in this guide and you can also use imovie alternatives like wondershare filmora to edit your videos,do you want to record videos with a phantom high speed camera in this guide you can get a detailed note on the phantom camera,if you are experiencing a color distortion in your video you are in the right place we have provided a detailed guide with three methods that will help you correct this issue
-thumbnail: https://www.lifewire.com/thmb/ZDnyMd5y1TI-4l8Th58f2C_oJzA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/F8conferencelogo-7ec4475dc6624114aea076c2611df199.jpg
+thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb0b1ed4fef37387dcca189b5.jpg
 ---
 
 ## Do You Want to Record Videos with a Phantom High-Speed Camera? In This Guide, You Can Get a Detailed Note on the Phantom Camera

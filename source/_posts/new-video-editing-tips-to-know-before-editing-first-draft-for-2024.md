@@ -1,7 +1,7 @@
 ---
 title: New Video Editing Tips to Know Before Editing First Draft for 2024
-date: 2024-04-24T01:04:09.823Z
-updated: 2024-04-25T01:04:09.823Z
+date: 2024-06-08T08:36:46.650Z
+updated: 2024-06-09T08:36:46.650Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New Video Editing Tips to Know Before Editing First Draft for 2024
 excerpt: This Article Describes New Video Editing Tips to Know Before Editing First Draft for 2024
 keywords: ai animation best 22 video editing tips to know,best 22 video editing tips to know,ai animation 5 tips for faster editing in filmora video editor,5 tips for faster editing in filmora video editor,video editing tips to know before editing first draft,ai animation ai animation video editing tips to know before editing first draft,ai animation video editing tips to know before editing first draft
-thumbnail: https://www.lifewire.com/thmb/0zAfKCPSLtJGJZ4s7ICQ5FGmSzY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Verified-badge-on-phone-658ecad4f9104dae97a969bfa2f74eb3.jpg
+thumbnail: https://thmb.techidaily.com/bedeaab43df1b8b5afd8fae799c1b0ff2cb5a9adc8ca952932303c5e2c53ba39.jpg
 ---
 
 ## Video Editing Tips to Know Before Editing First Draft

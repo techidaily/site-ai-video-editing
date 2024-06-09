@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Create Intro with Legend Intro Maker
-date: 2024-04-24T01:05:45.775Z
-updated: 2024-04-25T01:05:45.775Z
+date: 2024-06-08T08:36:40.518Z
+updated: 2024-06-09T08:36:40.518Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 2024 Approved How to Create Intro with Legend Intro Maker
 excerpt: This Article Describes Updated 2024 Approved How to Create Intro with Legend Intro Maker
 keywords: ai animation how to create intro with legend intro maker,ai animation how to create intro with renderforest,legend intro maker create intro video with ease,ai animation ai animation legend intro maker create intro video with ease,ai animation legend intro maker create intro video with ease,how to create intro with legend intro maker,how to create intro video with kinemaster
-thumbnail: https://www.lifewire.com/thmb/6e-dHhpfl-OgzUpZXzufYG-qf-Y=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/movie-night-at-home-with-popcorn_t20_yv3PA9-5c815f7fc9e77c0001fd5b49.jpg
+thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e55514d7bc0ce5bafaca00aee.jpg
 ---
 
 ## How to Create Intro with Legend Intro Maker

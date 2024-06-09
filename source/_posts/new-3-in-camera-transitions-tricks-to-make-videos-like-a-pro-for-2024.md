@@ -1,7 +1,7 @@
 ---
 title: New 3 In-Camera Transitions Tricks To Make Videos Like a Pro for 2024
-date: 2024-05-19T05:12:51.063Z
-updated: 2024-05-20T05:12:51.063Z
+date: 2024-06-08T08:36:48.657Z
+updated: 2024-06-09T08:36:48.657Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New 3 In-Camera Transitions Tricks To Make Videos Like a Pro for 2024
 excerpt: This Article Describes New 3 In-Camera Transitions Tricks To Make Videos Like a Pro for 2024
 keywords: 3 in camera transitions tricks to make videos,looking for a cheap camera to make slow motion video get it now,ai animation 3 in camera transitions tricks to make videos like a pro,ai animation ai animation 3 in camera transitions tricks to make videos like a pro,ai animation 3 in camera transitions tricks to make videos,ai animation the power of music in videos filmora editing tricks,3 in camera transitions tricks to make videos like a pro
-thumbnail: https://www.lifewire.com/thmb/XJmgdRFoTR4wOTi2HR5hRG_j3aA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificalIntelligenceChatbotConcept-c0e491e36fae46ef84b670334af5095f.jpg
+thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5a87dc01f6fa89f4e4093f9a.jpg
 ---
 
 ## 3 In-Camera Transitions Tricks To Make Videos Like a Pro

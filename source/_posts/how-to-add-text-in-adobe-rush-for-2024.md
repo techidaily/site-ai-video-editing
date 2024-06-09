@@ -1,7 +1,7 @@
 ---
 title: How to Add Text in Adobe Rush for 2024
-date: 2024-05-19T05:11:51.683Z
-updated: 2024-05-20T05:11:51.683Z
+date: 2024-06-08T08:36:38.729Z
+updated: 2024-06-09T08:36:38.729Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How to Add Text in Adobe Rush for 2024
 excerpt: This Article Describes How to Add Text in Adobe Rush for 2024
 keywords: how to add text behind objects in video,how to add text in adobe rush,how to fade in text in adobe premiere pro,adobe rush add text,how to add text effects in adobe premiere pro,how to add text in after effects,ai animation how to add text in adobe rush
-thumbnail: https://www.lifewire.com/thmb/hTKYwh0v7qXo9k56663KdHBIHZ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-a-critical-process-dies-windows-11-error-952a1ad6325f455aaef36516fb3f7120.jpg
+thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa481cdc60b824492075830e06.jpg
 ---
 
 ## How to Add Text in Adobe Rush

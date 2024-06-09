@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Use Canva Color Match
-date: 2024-04-24T01:06:36.478Z
-updated: 2024-04-25T01:06:36.478Z
+date: 2024-06-08T08:36:40.342Z
+updated: 2024-06-09T08:36:40.342Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated In 2024, How to Use Canva Color Match
 excerpt: This Article Describes Updated In 2024, How to Use Canva Color Match
 keywords: ai animation ai animation how to perfectly use canva color match,how to perfectly use canva color match,ai animation how to be a good podcast host 2024 updated,ai animation how to perfectly use canva color match,canva color match,ai animation how to use canva color match,how to use canva color match
-thumbnail: https://www.lifewire.com/thmb/vyzcJX9d4xPRDFBKmvNTGXpael0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-944229620-9cff560054804b72a431e9492c7445b4.jpg
+thumbnail: https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660eba98a715724fa951b431ee.jpg
 ---
 
 ## How to Use Canva Color Match

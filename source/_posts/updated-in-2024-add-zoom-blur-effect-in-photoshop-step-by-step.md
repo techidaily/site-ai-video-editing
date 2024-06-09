@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Add Zoom Blur Effect In Photoshop Step by Step
-date: 2024-05-19T05:12:56.830Z
-updated: 2024-05-20T05:12:56.830Z
+date: 2024-06-08T08:36:46.354Z
+updated: 2024-06-09T08:36:46.354Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated In 2024, Add Zoom Blur Effect In Photoshop Step by Step
 excerpt: This Article Describes Updated In 2024, Add Zoom Blur Effect In Photoshop Step by Step
 keywords: ai animation how to add zoom blur effect in photoshop,ai animation ai animation how to add zoom blur effect in photoshop,ai animation add zoom blur effect in photoshop step by step,step by step guide to creating halftone effects in photoshop,add zoom blur effect in photoshop step by step,ai animation step by step guide to creating halftone effects in photoshop,how to add zoom blur effect in photoshop
-thumbnail: https://www.lifewire.com/thmb/fZAyW_q2RrCH4bIuVh-tO15AFts=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/patch-tuesday-2625783-d6bcf232b3c64fc5958037ad31299bd9.png
+thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c5228f8bd6ca0d33294791ed.png
 ---
 
 ## Add Zoom Blur Effect In Photoshop [Step by Step]

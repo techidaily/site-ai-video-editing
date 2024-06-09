@@ -1,7 +1,7 @@
 ---
 title: New How to Enable and Use OBS Zoom Camera for 2024
-date: 2024-04-24T01:05:58.486Z
-updated: 2024-04-25T01:05:58.486Z
+date: 2024-06-08T08:36:37.974Z
+updated: 2024-06-09T08:36:37.974Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New How to Enable and Use OBS Zoom Camera for 2024
 excerpt: This Article Describes New How to Enable and Use OBS Zoom Camera for 2024
 keywords: ai animation how to enable and use obs zoom camera,how to use visual effect for zoom,how to enable and use obs zoom camera,ai animation free luts for obs how to use them,ai animation how to use visual effect for zoom,enable and use obs zoom camera,free luts for obs how to use them
-thumbnail: https://www.lifewire.com/thmb/0FZf3k28kLauMvGO0aGhDI7aaYY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sb10069770n-003-56a104403df78cafdaa7dd48-ba41d70c51114343aaa38409d9cdfc3f.jpg
+thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad25662873342662329d5363509351a52f0.jpg
 ---
 
 ## How to Enable and Use OBS Zoom Camera

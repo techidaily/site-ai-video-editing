@@ -1,7 +1,7 @@
 ---
 title: In 2024, Make A Countdown Video
-date: 2024-05-19T05:12:05.491Z
-updated: 2024-05-20T05:12:05.491Z
+date: 2024-06-08T08:36:36.749Z
+updated: 2024-06-09T08:36:36.749Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, Make A Countdown Video
 excerpt: This Article Describes In 2024, Make A Countdown Video
 keywords: ai animation ai animation make a countdown video,ai animation make a countdown video,how to make a countdown video,create countdown animation for videos,create countdown animation for video,ai animation how to make a countdown video,make a countdown video
-thumbnail: https://www.lifewire.com/thmb/WSLZcqxwmXkq850tQOgpRjODDjE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/football-referee-signaling-touchdown-in-stadium-599944339-5a84cb9e875db900367df025.jpg
+thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b85a4b94012ab008856dbcd1d.jpg
 ---
 
 ## Make A Countdown Video

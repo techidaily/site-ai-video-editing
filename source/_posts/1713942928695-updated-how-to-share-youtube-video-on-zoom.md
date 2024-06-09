@@ -1,7 +1,7 @@
 ---
 title: Updated | How to Share YouTube Video on Zoom?
-date: 2024-04-24T01:12:47.016Z
-updated: 2024-04-25T01:12:47.016Z
+date: 2024-06-08T08:36:36.890Z
+updated: 2024-06-09T08:36:36.890Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated | How to Share YouTube Video on Zoom?
 excerpt: This Article Describes Updated | How to Share YouTube Video on Zoom?
 keywords: ai animation how to share youtube video on zoom,ai animation ai animation ai animation how to share youtube video on zoom,share youtube video on zoom,how to share youtube video on zoom,ai animation how to slow mo youtube videos,ai animation ai animation how to share youtube video on zoom,how to slow mo youtube video
-thumbnail: https://www.lifewire.com/thmb/BEu1dTImTgj-gj19IMN4njOxWDE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/set-top-dvr-1130767-f2aa7f11e3d2442b966d53b8aa2d25fd.png
+thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f7257579ffa960f9e7a085032e4b04.png
 ---
 
 ## | How to Share YouTube Video on Zoom?

@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved How to Add Subtitles to MKV Videos on All Platforms
-date: 2024-04-24T01:02:12.161Z
-updated: 2024-04-25T01:02:12.161Z
+date: 2024-06-08T08:36:54.305Z
+updated: 2024-06-09T08:36:54.305Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New 2024 Approved How to Add Subtitles to MKV Videos on All Platforms
 excerpt: This Article Describes New 2024 Approved How to Add Subtitles to MKV Videos on All Platforms
 keywords: 7 ways add subtitles to mkv videos on all platforms,ai animation how to add subtitles to mkv videos on all platforms,ai animation 7 ways add subtitles to mkv videos on all platforms,quick solved how to add subtitles to a video on iphones,ai animation how to add subtitles to videos with kapwing,ai animation ai animation how to add subtitles to mkv videos on all platforms,how to add subtitles to mkv videos on all platforms
-thumbnail: https://www.lifewire.com/thmb/he26hNDyU2vpo9vDwma05qKk-R8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/espnplus-6d79c347f2df42d7a38cdb0ba9a2472b.jpg
+thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d750526e3d62954932be609de318.jpg
 ---
 
 ## How to Add Subtitles to MKV Videos on All Platforms

@@ -1,7 +1,7 @@
 ---
 title: New How to Use Twixtor Effect to Add Slow-Motion Effect to Video?
-date: 2024-05-19T05:12:21.330Z
-updated: 2024-05-20T05:12:21.330Z
+date: 2024-06-08T08:36:49.258Z
+updated: 2024-06-09T08:36:49.258Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New How to Use Twixtor Effect to Add Slow-Motion Effect to Video?
 excerpt: This Article Describes New How to Use Twixtor Effect to Add Slow-Motion Effect to Video?
 keywords: ai animation how to add selective color effect to your videos,ai animation how to add echo effect to video,ai animation how to use twixtor effect to add slow motion effect to video,how to use twixtor effect to add slow motion effect to video,ai animation how to use twixtor effect to create super slow motion video,ai animation ai animation how to use twixtor effect to create super slow motion video,how to use twixtor effect to create super slow motion video
-thumbnail: https://www.lifewire.com/thmb/q3inw24-h4v92CyIU7_fxjPM1JU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-messages-889fef4cdfac41babb84770288f32cf2.jpg
+thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a3dc9eccb9055a4b28f7166a.jpg
 ---
 
 ## How to Use Twixtor Effect to Add Slow-Motion Effect to Video?

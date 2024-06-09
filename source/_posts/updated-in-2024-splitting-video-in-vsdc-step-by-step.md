@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Splitting Video in VSDC Step by Step
-date: 2024-04-24T01:03:37.698Z
-updated: 2024-04-25T01:03:37.698Z
+date: 2024-06-08T08:36:54.664Z
+updated: 2024-06-09T08:36:54.664Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated In 2024, Splitting Video in VSDC Step by Step
 excerpt: This Article Describes Updated In 2024, Splitting Video in VSDC Step by Step
 keywords: ai animation ai animation splitting video in vsdc step by step,splitting audio from video in sony vegas step by step,ai animation splitting a video in vsdc step by step,ai animation splitting video in vsdc step by step,splitting a video in vsdc step by step,cropping video in vlc step by step,splitting video in vsdc step by step
-thumbnail: https://www.lifewire.com/thmb/r5-nbFpZcg3uV6IKilx2-E6xQtA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-185223738-56a691fd5f9b58b7d0e3a1d9.jpg
+thumbnail: https://thmb.techidaily.com/0f399835ae801930fc09d856b55526ca68007b6aa28f7cfc8442056063114a14.jpg
 ---
 
 ## Splitting Video in VSDC [Step by Step]

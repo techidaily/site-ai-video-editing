@@ -1,7 +1,7 @@
 ---
 title: New How To Speed Up Video With Lightworks Video Editor for 2024
-date: 2024-04-24T01:06:30.585Z
-updated: 2024-04-25T01:06:30.585Z
+date: 2024-06-08T08:36:48.987Z
+updated: 2024-06-09T08:36:48.987Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New How To Speed Up Video With Lightworks Video Editor for 2024
 excerpt: This Article Describes New How To Speed Up Video With Lightworks Video Editor for 2024
 keywords: ai animation how to speed up video with lightworks video editor,ai animation how to speed up video with canva online tool,speed up video with lightworks,how to speed up video with canva online tool,how to speed up video with lightworks video editor,using vn editor to add luts for video editing,how to upload videos to twitch heres a guide for beginner
-thumbnail: https://www.lifewire.com/thmb/1X3sRGX1kbV-Ydn8ceXfqTlOH6I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/african-american-woman-opening-packages-of-shoes-on-sofa-580503483-5a735094d8fdd50036b63f8a.jpg
+thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01116c41da9ae37331ba659b6.jpg
 ---
 
 ## How To Speed Up Video With Lightworks Video Editor

@@ -1,7 +1,7 @@
 ---
 title: How to Use Renderforest Intro Video Maker
-date: 2024-05-19T05:11:39.373Z
-updated: 2024-05-20T05:11:39.373Z
+date: 2024-06-08T08:36:48.918Z
+updated: 2024-06-09T08:36:48.918Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How to Use Renderforest Intro Video Maker
 excerpt: This Article Describes How to Use Renderforest Intro Video Maker
 keywords: ai animation how to create intro with renderforest,ai animation how to use renderforest intro video maker,how to use renderforest intro video maker,how to create intro with renderforest,renderforest intro maker,how to make an intro video easy solution,online video makers to use
-thumbnail: https://www.lifewire.com/thmb/QlJ49L63E9oyywyXJAGv3C_qUuE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/switcheshero-4f3b792cb7014baf919e7c68b91e96ab.jpg
+thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a6b22046a96709ecae17c234.jpg
 ---
 
 ## How to Use Renderforest Intro Video Maker

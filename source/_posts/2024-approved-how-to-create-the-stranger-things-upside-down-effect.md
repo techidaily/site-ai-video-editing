@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Create the Stranger Things Upside Down Effect
-date: 2024-05-19T05:12:17.278Z
-updated: 2024-05-20T05:12:17.278Z
+date: 2024-06-08T08:36:52.435Z
+updated: 2024-06-09T08:36:52.435Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes 2024 Approved How to Create the Stranger Things Upside Down Effect
 excerpt: This Article Describes 2024 Approved How to Create the Stranger Things Upside Down Effect
 keywords: ai animation how to create the stranger things upside down effect,create stranger things upside down effect,ai animation create the stranger things upside down effect video,how to create the stranger things upside down effect,ai animation ai animation create the stranger things upside down effect video,create the stranger things upside down effect video,how to create glowing edge effect in tiktok dancing video
-thumbnail: https://www.lifewire.com/thmb/FO5DJQJt8EUiF4veEftl-goajY8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-151812569-ff7311e1de18461da9f8698205953384.jpg
+thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547c6bb5f5df0fa9181f11e1b7.jpg
 ---
 
 ## How to Create the Stranger Things Upside Down Effect

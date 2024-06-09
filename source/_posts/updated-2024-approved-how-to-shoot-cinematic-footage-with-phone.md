@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Shoot Cinematic Footage with Phone
-date: 2024-04-24T01:06:29.138Z
-updated: 2024-04-25T01:06:29.138Z
+date: 2024-06-08T08:36:50.078Z
+updated: 2024-06-09T08:36:50.078Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 2024 Approved How to Shoot Cinematic Footage with Phone
 excerpt: This Article Describes Updated 2024 Approved How to Shoot Cinematic Footage with Phone
 keywords: ai animation how to shoot cinematic footage with phone,shoot cinematic footage with phone,ai animation ai animation how to shoot cinematic footage from a smartphone,how to shoot cinematic footage with phone,ai animation how to shoot cinematic footage from a smartphone,how to shoot cinematic footage from a smartphone,ai animation how to be a good podcast host 2024 updated
-thumbnail: https://www.lifewire.com/thmb/xDM-B4zVSXt5n027L2C5oNwTDN8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AIrendering_CROPPED_Guillaume_GettyImages-1418477818-d0a9c5ce09584a1099f21a5f1f690a88.jpg
+thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304ad9ab12b451e3ff69d2619e.jpg
 ---
 
 ## How to Shoot Cinematic Footage with Phone

@@ -1,7 +1,7 @@
 ---
 title: Updated Top 10 Sony LUT for Different Purposes for 2024
-date: 2024-04-24T01:03:54.253Z
-updated: 2024-04-25T01:03:54.253Z
+date: 2024-06-08T08:36:39.668Z
+updated: 2024-06-09T08:36:39.668Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated Top 10 Sony LUT for Different Purposes for 2024
 excerpt: This Article Describes Updated Top 10 Sony LUT for Different Purposes for 2024
 keywords: ai animation 10 best sony lut for different purposes,ai animation ai animation top 10 sony lut for different purposes,ai animation updated 2024 top free vintage luts to use,10 best sony lut for different purposes,ai animation top 10 sony lut for different purposes,updated 2024 top free vintage luts to use,top 10 sony lut for different purposes
-thumbnail: https://www.lifewire.com/thmb/3tobj7wbVapRfa4KsiobKg3Nu40=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-184415451-9f59b82b64ac421cad0f28540a515b5f.jpg
+thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10f0ed6607a3b7c4f98575dff.jpg
 ---
 
 ## Top 10 Sony LUT for Different Purposes

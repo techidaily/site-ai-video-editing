@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Steps to Create Green Screen Videos in After Effects
-date: 2024-04-24T01:07:19.789Z
-updated: 2024-04-25T01:07:19.789Z
+date: 2024-06-08T08:36:41.095Z
+updated: 2024-06-09T08:36:41.095Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Steps to Create Green Screen Videos in After Effects
 excerpt: This Article Describes Updated 2024 Approved Steps to Create Green Screen Videos in After Effects
 keywords: ai animation how to create a green screen video in after effects,how to create a green screen video in after effects,ai animation ai animation how to create a green screen video in after effects,steps to create green screen videos in after effects,how to create a diy green screen video effect,ai animation steps to create green screen videos in after effects,easy steps to create intro video with after effects
-thumbnail: https://www.lifewire.com/thmb/medNi2-ezQAi4chkGlIzs91_k0o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Watch-Ultra-2-23e8ec3e4ee04c6e98c9d654a35f59ec.jpg
+thumbnail: https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a369ed52226c792a6ec4885ea2.jpg
 ---
 
 ## Steps to Create Green Screen Videos in After Effects

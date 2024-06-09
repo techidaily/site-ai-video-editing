@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Want to Make a Slide Show Video? Heres How
-date: 2024-04-24T01:07:59.995Z
-updated: 2024-04-25T01:07:59.995Z
+date: 2024-06-08T08:36:37.481Z
+updated: 2024-06-09T08:36:37.481Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated In 2024, Want to Make a Slide Show Video? Heres How
 excerpt: This Article Describes Updated In 2024, Want to Make a Slide Show Video? Heres How
 keywords: want make a slide show video heres how,ai animation want make a slide show video heres how,ai animation ai animation want make a slide show video heres how,ai animation want to make a slide show video heres how,want to make a slide show video heres how,ai animation how to make a video slideshow in imovie,how to make a video slideshow in imovie
-thumbnail: https://www.lifewire.com/thmb/HEBDZLC1jMr1OKZ2CcKnILwP_lk=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sonyplaystation5-dc53869451d7416cbb32881a35c3fc32.jpg
+thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056bf2dd14982465e8c7b5b6a1.jpg
 ---
 
 ## Want to Make a Slide Show Video? Here's How

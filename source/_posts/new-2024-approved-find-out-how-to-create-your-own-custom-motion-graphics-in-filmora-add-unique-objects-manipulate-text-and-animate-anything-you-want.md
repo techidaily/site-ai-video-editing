@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Find Out How to Create Your Own Custom Motion Graphics in Filmora. Add Unique Objects, Manipulate Text, and Animate Anything You Want
-date: 2024-04-24T01:09:38.135Z
-updated: 2024-04-25T01:09:38.135Z
+date: 2024-06-08T08:36:36.960Z
+updated: 2024-06-09T08:36:36.960Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New 2024 Approved Find Out How to Create Your Own Custom Motion Graphics in Filmora. Add Unique Objects, Manipulate Text, and Animate Anything You Want
 excerpt: This Article Describes New 2024 Approved Find Out How to Create Your Own Custom Motion Graphics in Filmora. Add Unique Objects, Manipulate Text, and Animate Anything You Want
 keywords: learn how to create custom titles in filmora and add a unique lower third animation effect in six simple steps,find out how to create your own custom motion graphics in filmora add unique objects manipulate text and animate anything you want,create eye catching slow motion videos to set your own trend for this purpose read this article to find and learn to use capcuts new slow motion templates,are you curious about finding a good iphone slow motion app discover the top rated applications in the market that will help you create the perfect video,you can make attractive videos by adding text behind objects this article will explain how to use wondershare filmora to create these videos,this post will make you learn anything and everything about animated gifs the ways to use cool gifs in my marketing and how to create unique custom animated gifs,learn how to change aspect ratio in imovie on mac ipad and iphone in this guide and you can also use imovie alternatives like wondershare filmora to edit your videos
-thumbnail: https://www.lifewire.com/thmb/efwW06nbzdIi0kzLWEWTbso7lT8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-instagram-captions-4171697-ae21b04e6866470c80a50c9bef1cc26e.png
+thumbnail: https://thmb.techidaily.com/ac86b0aa564fee722115c20830e542db073002bfbdd584be2acd66419238b8a6.png
 ---
 
 ## Find Out How to Create Your Own Custom Motion Graphics in Filmora. Add Unique Objects, Manipulate Text, and Animate Anything You Want

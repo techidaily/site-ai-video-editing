@@ -1,7 +1,7 @@
 ---
 title: Updated 10 Best Old Film Overlays to Make Your Videos Look Vintage for 2024
-date: 2024-05-19T05:12:47.568Z
-updated: 2024-05-20T05:12:47.568Z
+date: 2024-06-08T08:36:43.232Z
+updated: 2024-06-09T08:36:43.232Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 10 Best Old Film Overlays to Make Your Videos Look Vintage for 2024
 excerpt: This Article Describes Updated 10 Best Old Film Overlays to Make Your Videos Look Vintage for 2024
 keywords: ai animation 10 best old film overlays to make your videos look vintage,top 10 old film overlays to make your videos look vintage,looking for the best quiz making tools read our full review to find out the 10 best video quiz makers available,best 10 mind blowing video collage maker for pc,ai animation ai animation top 10 old film overlays to make your videos look vintage,ai animation top 10 old film overlays to make your videos look vintage,10 best old film overlays to make your videos look vintage
-thumbnail: https://www.lifewire.com/thmb/UchI0OfcFuiZjMJhTw31h6uHSHQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Race-982fb219114a48fb96b9c5a2c6f93847.jpg
+thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce093f59dcdf2b6479e3403f82d.jpg
 ---
 
 ## 10 Best Old Film Overlays to Make Your Videos Look Vintage

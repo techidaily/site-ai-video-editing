@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Make a Video Podcast
-date: 2024-05-19T05:12:18.477Z
-updated: 2024-05-20T05:12:18.477Z
+date: 2024-06-08T08:36:41.573Z
+updated: 2024-06-09T08:36:41.573Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, How To Make a Video Podcast
 excerpt: This Article Describes In 2024, How To Make a Video Podcast
 keywords: how to make a video longer,ai animation how to make a political video,how to make a video podcast,ai animation how to make a video podcast,how to record video podcast,how to make a political video,4 methods how to make a recap video
-thumbnail: https://www.lifewire.com/thmb/A1hfnW-9b0eVXXkLwD_6ei9mr2I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AE-lock-572ece975f9b58c34c0a2492.jpg
+thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f0e7070951ebc50a7e45bfdb.jpg
 ---
 
 ## How To Make a Video Podcast

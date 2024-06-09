@@ -1,7 +1,7 @@
 ---
 title: Updated How to Create OBS Slideshow for 2024
-date: 2024-04-24T01:02:28.615Z
-updated: 2024-04-25T01:02:28.615Z
+date: 2024-06-08T08:36:51.901Z
+updated: 2024-06-09T08:36:51.901Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated How to Create OBS Slideshow for 2024
 excerpt: This Article Describes Updated How to Create OBS Slideshow for 2024
 keywords: how to create obs slideshow,ai animation how to create obs slideshow,how to create a slideshow on iphone,ai animation how to create a slideshow gif,how to create simple slideshow word,how to make obs slideshow,how to create a slideshow gif
-thumbnail: https://www.lifewire.com/thmb/cg-pvlQ-M_jrTyGYcdlhXW_MCvc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/inside-impero-cinema--central-region--asmara--eritrea----1174900385-f49e10d112a6451c89a8310bdb0ecc4e.jpg
+thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242da2e6ee8d5c9aeccc24af52d.jpg
 ---
 
 ## How to Make OBS Slideshow

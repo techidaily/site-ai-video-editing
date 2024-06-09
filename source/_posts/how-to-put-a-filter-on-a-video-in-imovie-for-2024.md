@@ -1,7 +1,7 @@
 ---
 title: How to Put a Filter on a Video in iMovie for 2024
-date: 2024-05-19T05:12:19.461Z
-updated: 2024-05-20T05:12:19.461Z
+date: 2024-06-08T08:36:42.242Z
+updated: 2024-06-09T08:36:42.242Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How to Put a Filter on a Video in iMovie for 2024
 excerpt: This Article Describes How to Put a Filter on a Video in iMovie for 2024
 keywords: ai animation how to add filter to video in premiere pro,how to add filters on imovie,put a filter on a video in imovie,how to put a filter on a video in imovie,how to time lapse a video on imovie,ai animation how to put a filter on a video in imovie,how to add filter to video in premiere pro
-thumbnail: https://www.lifewire.com/thmb/aqzoJvuc7HUCTQdUzpa5GXlHCac=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Mini-Splash-ef002ffe8db643d2a2b4de772ff46790.jpg
+thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425a670680d043fc15ab445500.jpg
 ---
 
 ## How to Put a Filter on a Video in iMovie

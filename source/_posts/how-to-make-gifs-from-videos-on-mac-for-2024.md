@@ -1,7 +1,7 @@
 ---
 title: How to Make GIFs From Videos on Mac for 2024
-date: 2024-05-19T05:12:03.120Z
-updated: 2024-05-20T05:12:03.120Z
+date: 2024-06-08T08:36:51.086Z
+updated: 2024-06-09T08:36:51.086Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How to Make GIFs From Videos on Mac for 2024
 excerpt: This Article Describes How to Make GIFs From Videos on Mac for 2024
 keywords: how to edit gopro videos on mac,7 ways to make gif from videos on mac,how to cut videos for instagram on mac,ai animation 7 ways to make gif from videos on mac,how to make gifs from videos on mac,ai animation how to make gifs from videos on mac,ai animation ai animation how to make gifs from videos on mac
-thumbnail: https://www.lifewire.com/thmb/_atXbVpqt-bBP3NhxI9aFSkiOqU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1305200685-e977d0ca4e9a47e2b006e5b32a9922fd.jpg
+thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f8bfa2b570a90a8bfa430bd1.jpg
 ---
 
 ## How to Make GIFs From Videos on Mac

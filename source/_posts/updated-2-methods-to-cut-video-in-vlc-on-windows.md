@@ -1,7 +1,7 @@
 ---
 title: Updated 2 Methods to Cut Video in VLC on Windows
-date: 2024-05-19T05:11:46.291Z
-updated: 2024-05-20T05:11:46.291Z
+date: 2024-06-08T08:36:48.539Z
+updated: 2024-06-09T08:36:48.539Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 2 Methods to Cut Video in VLC on Windows
 excerpt: This Article Describes Updated 2 Methods to Cut Video in VLC on Windows
 keywords: ai animation 2 methods to cut video in vlc on windows,2 methods to cut video in vlc on windows,ai animation ai animation 2 methods to cut video in vlc on windows,2 solutions to cut video in vlc on windows,ai animation 2 solutions to cut video in vlc on windows,2 methods to crop video in vlc,ai animation 2 methods to crop video in vlc
-thumbnail: https://www.lifewire.com/thmb/Ngm9bpatigonc3AlRSUUdm9EIUQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-teen-movies-on-netflix-october-2023-5104880-3c4ee21786b64df693bfeebd65701d8e.jpg
+thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b20d9291b76fb465837bc25f3.jpg
 ---
 
 ## 2 Methods to Cut Video in VLC on Windows
