@@ -1,7 +1,7 @@
 ---
 title: New Learn How to Create a Kinetic Typography Text Effect in Filmora, One of the Best Video Editors for All Skill Levels. Check Out This Simple Step-by-Step Guide
-date: 2024-05-19T05:12:39.122Z
-updated: 2024-05-20T05:12:39.122Z
+date: 2024-06-15T18:56:34.057Z
+updated: 2024-06-16T18:56:34.057Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New Learn How to Create a Kinetic Typography Text Effect in Filmora, One of the Best Video Editors for All Skill Levels. Check Out This Simple Step-by-Step Guide
 excerpt: This Article Describes New Learn How to Create a Kinetic Typography Text Effect in Filmora, One of the Best Video Editors for All Skill Levels. Check Out This Simple Step-by-Step Guide
 keywords: learn how to create your own custom animated text intro in the filmora video editor follow a few simple steps to create something that looks incredible,how to create a special animated transition in filmora in just 2 minutes this simple step by step guide will show you the easy way,learn how to create a unique repeated text animation in the filmora video editor follow the simple step by step instructions,start your creative journey now follow this step by step guide on how to add double exposure effects to your personal videos by using the filmora video editor,learn how to create animated titles and text in the filmora video editor this is a simple step by step tutorial for any skill level,learn how to create a kinetic typography text effect in filmora one of the best video editors for all skill levels check out this simple step by step guide,follow a few simple steps and learn how to create a professional glowing edge effect to your videos in filmora
-thumbnail: https://www.lifewire.com/thmb/ouXJb0p8iu69MptAZaPa-CTAUMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/relaxing-while-getting-his-studies-done-495857099-5a1ed8c5ec2f640037e369f4.jpg
+thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5b8df6a84d93cf668a943550.jpg
 ---
 
 ## Learn How to Create a Kinetic Typography Text Effect in Filmora, One of the Best Video Editors for All Skill Levels. Check Out This Simple Step-by-Step Guide

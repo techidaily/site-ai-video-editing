@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fade in Text in Adobe Premiere Pro
-date: 2024-05-19T05:12:02.367Z
-updated: 2024-05-20T05:12:02.367Z
+date: 2024-06-15T18:56:40.961Z
+updated: 2024-06-16T18:56:40.961Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, How to Fade in Text in Adobe Premiere Pro
 excerpt: This Article Describes In 2024, How to Fade in Text in Adobe Premiere Pro
 keywords: how to fade in text in adobe premiere pro,ai animation how to fade in text in adobe premiere pro,ai animation 2 ways to fade in text in premiere pro,2 ways to fade in text in premiere pro,ai animation ai animation how to fade in text in adobe premiere pro,fade in text in premiere pro,how to add text effects in adobe premiere pro
-thumbnail: https://www.lifewire.com/thmb/8ROImJcMy0nz5unlY1bdTJLi7tk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dns-wordcloud-lifewire-2-0c92c02113cb4832870891ac0e13ccbc.png
+thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de65b71eab7da2ab3371e3a0f.png
 ---
 
 ## How to Fade in Text in Adobe Premiere Pro

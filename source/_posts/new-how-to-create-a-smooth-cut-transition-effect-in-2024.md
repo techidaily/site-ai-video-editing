@@ -1,7 +1,7 @@
 ---
 title: New How to Create a Smooth Cut Transition Effect, In 2024
-date: 2024-04-24T01:05:39.433Z
-updated: 2024-04-25T01:05:39.433Z
+date: 2024-06-15T18:56:26.885Z
+updated: 2024-06-16T18:56:26.885Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New How to Create a Smooth Cut Transition Effect, In 2024
 excerpt: This Article Describes New How to Create a Smooth Cut Transition Effect, In 2024
 keywords: create a smooth cut transition effect,ai animation how to create a bokeh effect,ai animation how to create a light sweep shine effect with filmora,ai animation how to create a glitch text effect,ai animation how to create a text effect video with filmora,how to create a smooth cut transition effect,ai animation how to create a smooth cut transition effect
-thumbnail: https://www.lifewire.com/thmb/XJmgdRFoTR4wOTi2HR5hRG_j3aA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificalIntelligenceChatbotConcept-c0e491e36fae46ef84b670334af5095f.jpg
+thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5a87dc01f6fa89f4e4093f9a.jpg
 ---
 
 ## How to Create a Smooth Cut Transition Effect?

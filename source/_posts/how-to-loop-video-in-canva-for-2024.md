@@ -1,7 +1,7 @@
 ---
 title: How to Loop Video in Canva for 2024
-date: 2024-05-19T05:12:02.519Z
-updated: 2024-05-20T05:12:02.519Z
+date: 2024-06-15T18:56:23.755Z
+updated: 2024-06-16T18:56:23.755Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How to Loop Video in Canva for 2024
 excerpt: This Article Describes How to Loop Video in Canva for 2024
 keywords: how to loop a video on vimeo,how to loop a video in powerpoint,ai animation how to loop video in canva,how to loop a video on android,ai animation how to loop a video in canva editor,how to loop a video in canva editor,how to loop video in canva
-thumbnail: https://www.lifewire.com/thmb/tog6m8Yd2L1pQ_0Pktyl-fbgcRs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/camera-56e0976d3df78c5ba0566b37.jpg
+thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a94f5e0b261b4ccf5f3207b46.jpg
 ---
 
 ## How to Loop Video in Canva

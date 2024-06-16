@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Quick and Simple Way to Mirror Video in Premiere Pro
-date: 2024-04-24T01:07:28.131Z
-updated: 2024-04-25T01:07:28.131Z
+date: 2024-06-15T18:56:38.185Z
+updated: 2024-06-16T18:56:38.185Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 2024 Approved The Quick and Simple Way to Mirror Video in Premiere Pro
 excerpt: This Article Describes Updated 2024 Approved The Quick and Simple Way to Mirror Video in Premiere Pro
 keywords: a detailed guid to remove background from a video in premier pro,ai animation how to remove background from a video in premier pro,ai animation the quick and simple way to mirror video in premiere pro,the quick and simple way to mirror video in premiere pro,ai animation a detailed guid to remove background from a video in premier pro,ai animation how to mirror a video clip in premiere pro,how to mirror a video clip in premiere pro
-thumbnail: https://www.lifewire.com/thmb/YPMhKL59WGdTUpxCrpaB_OS--cc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-speech-to-text-on-android-0-928c48ab121248f9aa543a136d971f9a.jpg
+thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afdff538e1080a5add013b39bf.jpg
 ---
 
 ## The Quick and Simple Way to Mirror Video in Premiere Pro

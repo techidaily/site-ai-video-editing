@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Animate Your Designs With Canva GIF
-date: 2024-05-19T05:12:01.101Z
-updated: 2024-05-20T05:12:01.101Z
+date: 2024-06-15T18:56:22.992Z
+updated: 2024-06-16T18:56:22.992Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes 2024 Approved How to Animate Your Designs With Canva GIF
 excerpt: This Article Describes 2024 Approved How to Animate Your Designs With Canva GIF
 keywords: ai animation why your transparent gif is hard to remove and how to do with it,ai animation discover how to change sky background with the best applications a review,ai animation how to animate your designs with canva gif,how to animate your designs with canva gif,ai animation how to animate designs with canva gif,how to animate designs with canva gif,ai animation ai animation how to animate your designs with canva gif
-thumbnail: https://www.lifewire.com/thmb/yeBMpxlKjRXXKI0Ay67NUTI2xl0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hexadecimal-code-security-key-krzysztof-zmij-e-plus-getty-images-57c76b825f9b5829f4bd185e.jpg
+thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83da4a3303db46e26dc1ec6ec7.jpg
 ---
 
 ## How to Animate Designs With Canva GIF

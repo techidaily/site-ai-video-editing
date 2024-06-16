@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How To Add Scrolling Text Effect
-date: 2024-05-19T05:12:55.913Z
-updated: 2024-05-20T05:12:55.913Z
+date: 2024-06-15T18:56:30.777Z
+updated: 2024-06-16T18:56:30.777Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 2024 Approved How To Add Scrolling Text Effect
 excerpt: This Article Describes Updated 2024 Approved How To Add Scrolling Text Effect
 keywords: add scrolling text effect,how to add scrolling text effect,ai animation how to add scrolling text effect,how to create a glitch text effect,how to add text in after effects,how to add text effects in adobe premiere pro,ai animation how to add text in after effects
-thumbnail: https://www.lifewire.com/thmb/2mfMkf9Nh38PrId0xERnppf9iAg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-view-instagram-without-an-account-5271416-505eeceaf0e142ed8674d2ce2244a8be.jpg
+thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1418a5a54e50bbd98af412de.jpg
 ---
 
 ## How To Add Scrolling Text Effect

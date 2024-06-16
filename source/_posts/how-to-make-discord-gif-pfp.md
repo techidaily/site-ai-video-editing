@@ -1,7 +1,7 @@
 ---
 title: How to Make Discord GIF PFP
-date: 2024-05-19T05:11:38.912Z
-updated: 2024-05-20T05:11:38.912Z
+date: 2024-06-15T18:56:36.142Z
+updated: 2024-06-16T18:56:36.142Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How to Make Discord GIF PFP
 excerpt: This Article Describes How to Make Discord GIF PFP
 keywords: discord gif pfp,how to make discord emoji gif,how to make discord gif pfp,how to make discord gif pfp solved,ai animation how to make discord gif pfp solved,ai animation how to make discord gif pfp,how to make discord logo gif
-thumbnail: https://www.lifewire.com/thmb/Ngm9bpatigonc3AlRSUUdm9EIUQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-teen-movies-on-netflix-october-2023-5104880-3c4ee21786b64df693bfeebd65701d8e.jpg
+thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b20d9291b76fb465837bc25f3.jpg
 ---
 
 ## How to Make Discord GIF PFP

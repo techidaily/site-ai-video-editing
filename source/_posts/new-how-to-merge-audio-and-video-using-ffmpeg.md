@@ -1,7 +1,7 @@
 ---
 title: New How to Merge Audio and Video Using FFmpeg
-date: 2024-05-19T05:12:03.463Z
-updated: 2024-05-20T05:12:03.463Z
+date: 2024-06-15T18:56:26.365Z
+updated: 2024-06-16T18:56:26.365Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New How to Merge Audio and Video Using FFmpeg
 excerpt: This Article Describes New How to Merge Audio and Video Using FFmpeg
 keywords: ai animation ai animation how to merge audio and video using ffmpeg,mastering ffmpeg how to merge audio and video with ease,how to merge audio and video using ffmpeg,5 simple tools to merge video and audio online,ai animation mastering ffmpeg how to merge audio and video with ease,ai animation how to merge audio and video using ffmpeg,ffmpeg merge audio and video
-thumbnail: https://www.lifewire.com/thmb/M6MEEf2A7TVTzphPjYFZQ34ewjs=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-attaching-action-camera-to-chest-664655587-5c8c2559c9e77c0001ac184b.jpg
+thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2bf2f2b4b3c5585601cba7b98.jpg
 ---
 
 ## How to Merge Audio and Video Using FFmpeg

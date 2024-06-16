@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Updated 8 Ways to Merge SRT with MP4
-date: 2024-04-24T01:12:49.073Z
-updated: 2024-04-25T01:12:49.073Z
+date: 2024-06-15T18:56:49.671Z
+updated: 2024-06-16T18:56:49.671Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes 2024 Approved Updated 8 Ways to Merge SRT with MP4
 excerpt: This Article Describes 2024 Approved Updated 8 Ways to Merge SRT with MP4
 keywords: ai animation ai animation ai animation ai animation updated 8 ways to merge srt with mp4,merge srt with mp4,ai animation updated 8 ways to merge srt with mp4,4 ways to merge mp4 and mp3,ai animation ai animation ai animation updated 8 ways to merge srt with mp4,ai animation ai animation updated 8 ways to merge srt with mp4,updated 8 ways to merge srt with mp4
-thumbnail: https://www.lifewire.com/thmb/xk4sG4I9EUDVvTCEXSRMmg2yPjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/superbowl_dmytroAksonov_Getty-5a775189119fa8003752b313.jpg
+thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c706e3284222e7ce2389a41f.jpg
 ---
 
 ## Updated 8 Ways to Merge SRT with MP4

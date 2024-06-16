@@ -1,7 +1,7 @@
 ---
 title: Updated So, without Further Dilly-Dallying, Lets Learn How to Create a Retro 1950-Style Video with This Simple Filmora Tutorial
-date: 2024-05-19T05:12:41.433Z
-updated: 2024-05-20T05:12:41.433Z
+date: 2024-06-15T18:56:27.740Z
+updated: 2024-06-16T18:56:27.740Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated So, without Further Dilly-Dallying, Lets Learn How to Create a Retro 1950-Style Video with This Simple Filmora Tutorial
 excerpt: This Article Describes Updated So, without Further Dilly-Dallying, Lets Learn How to Create a Retro 1950-Style Video with This Simple Filmora Tutorial
 keywords: so without further dilly dallying lets learn how to create a retro 1950 style video with this simple filmora tutorial,learn how to create your own custom animated text intro in the filmora video editor follow a few simple steps to create something that looks incredible,in this article you will learn how to record creative cinematic videos using a smartphone and edit the video with wondershare filmora,follow a few simple steps and learn how to create a professional glowing edge effect to your videos in filmora,learn how to create animated titles and text in the filmora video editor this is a simple step by step tutorial for any skill level,so in this short tutorial well learn how to create a vintage 1980 style video with a retro effect that will leave your audience yearning for more,lets learn how to convert a normal video into a film shot in the 1920s with wondershare filmora
-thumbnail: https://www.lifewire.com/thmb/Dp9islCb9GD3RtQaIU23WoKYMSs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-lgbt-movies-on-netflix-right-now-5069913-92c9bcd3792548908be32c420bc4fa27.jpg
+thumbnail: https://thmb.techidaily.com/84a7e5fe8a2d746104e06bccf0ffdc78d9a7d9997cdcaec1704f07c09aed014e.jpg
 ---
 
 ## So, without Further Dilly-Dallying, Let’s Learn How to Create a Retro 1950-Style Video with This Simple Filmora Tutorial

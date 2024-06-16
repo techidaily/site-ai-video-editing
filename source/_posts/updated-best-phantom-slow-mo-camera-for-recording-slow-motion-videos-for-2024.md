@@ -1,7 +1,7 @@
 ---
 title: Updated Best Phantom Slow-Mo Camera For Recording Slow Motion Videos for 2024
-date: 2024-04-24T01:04:41.748Z
-updated: 2024-04-25T01:04:41.748Z
+date: 2024-06-15T18:56:50.915Z
+updated: 2024-06-16T18:56:50.915Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated Best Phantom Slow-Mo Camera For Recording Slow Motion Videos for 2024
 excerpt: This Article Describes Updated Best Phantom Slow-Mo Camera For Recording Slow Motion Videos for 2024
 keywords: ai animation ai animation record slow motion videos with phantom slow mo camera,ai animation record slow motion videos with phantom slow mo camera,record slow motion videos with phantom slow mo camera,best phantom slow mo camera for recording slow motion videos,phantom slow mo camera for recording slow motion video,ai animation best phantom slow mo camera for recording slow motion videos,create amazing slow motion videos 8 affordable slow motion cameras
-thumbnail: https://www.lifewire.com/thmb/5m3PFyS3dMrqXFE2iOSfA4BUn2Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-smart-tv-12dcac76114b4747b9b3db8bb3551ddc.jpg
+thumbnail: https://thmb.techidaily.com/85e69845f10f793c5b081e6eac45cea976095820d8ff765825e636a33b833fec.jpg
 ---
 
 ## Best Phantom Slow-Mo Camera For Recording Slow Motion Videos

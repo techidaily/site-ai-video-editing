@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Perfect Quick and Efficient Video Editing | Keyboard Shortcuts in Filmora
-date: 2024-04-24T01:02:52.393Z
-updated: 2024-04-25T01:02:52.393Z
+date: 2024-06-15T18:56:44.559Z
+updated: 2024-06-16T18:56:44.559Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated In 2024, How to Perfect Quick and Efficient Video Editing | Keyboard Shortcuts in Filmora
 excerpt: This Article Describes Updated In 2024, How to Perfect Quick and Efficient Video Editing | Keyboard Shortcuts in Filmora
 keywords: the way to quick and efficient editing keyboard shortcuts in filmora,ai animation how to create one click video reverse effect in filmora,ai animation ai animation how to perfect quick and efficient video editing keyboard shortcuts in filmora,how to perfect quick and efficient video editing keyboard shortcuts in filmora,ai animation how to perfect quick and efficient video editing keyboard shortcuts in filmora,ai animation the way to quick and efficient editing keyboard shortcuts in filmora,quick and efficient editing with filmora
-thumbnail: https://www.lifewire.com/thmb/-bcmaokZfvwTgJE1q3LjnihDbBY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-678913139-58a4ece73df78c345bcd781b.jpg
+thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f620077177c71b194a7d51d8ecab.jpg
 ---
 
 ## How to Perfect Quick and Efficient Video Editing | Keyboard Shortcuts in Filmora

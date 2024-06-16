@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Add VHS Green Screen to Your Video
-date: 2024-04-24T01:02:13.269Z
-updated: 2024-04-25T01:02:13.269Z
+date: 2024-06-15T18:56:35.878Z
+updated: 2024-06-16T18:56:35.878Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New In 2024, How to Add VHS Green Screen to Your Video
 excerpt: This Article Describes New In 2024, How to Add VHS Green Screen to Your Video
 keywords: ai animation how to add vhs green screen to your video,how to add a green screen to zoom,how to add vhs green screen to your video,how to add green screen in obs,how to easily add vhs green screen to your video,ai animation how to easily add vhs green screen to your video,ai animation ai animation how to add vhs green screen to your video
-thumbnail: https://www.lifewire.com/thmb/yUwTZpCNo69jlc1KnyqQFn2f6SQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-screen-mirroring-842272124-5a7897e104d1cf0037763c0a.jpg
+thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c3cb7fed4a8969e3e80f00a3.jpg
 ---
 
 ## How to Add VHS Green Screen to Your Video

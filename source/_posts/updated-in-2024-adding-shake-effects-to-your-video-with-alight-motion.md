@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Adding Shake Effects to Your Video With Alight Motion
-date: 2024-05-19T05:12:56.880Z
-updated: 2024-05-20T05:12:56.880Z
+date: 2024-06-15T18:56:24.505Z
+updated: 2024-06-16T18:56:24.505Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated In 2024, Adding Shake Effects to Your Video With Alight Motion
 excerpt: This Article Describes Updated In 2024, Adding Shake Effects to Your Video With Alight Motion
 keywords: ai animation adding shake effects to your video with alight motion,ai animation how to add video effects with movavi slideshow maker,ai animation ai animation adding shake effects to your video with alight motion,add some shake to videos with alight motion,adding shake effects to your video with alight motion,ai animation add some shake to videos with alight motion,ai animation how to add miniature effect in video with filmora
-thumbnail: https://www.lifewire.com/thmb/Wnjr5d8PWtLhZKZOlT7PSsWhqZ8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YoungAsianmanusinglaptopandreadingnewspaperonplane-59960904685fbe00103478bd.jpg
+thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c63be7c3be4720f86eba5080f.jpg
 ---
 
 ## Adding Shake Effects to Your Video With Alight Motion

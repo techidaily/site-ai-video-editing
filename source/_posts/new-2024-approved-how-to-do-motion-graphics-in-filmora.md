@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved How to Do Motion Graphics in Filmora
-date: 2024-04-24T01:05:54.749Z
-updated: 2024-04-25T01:05:54.749Z
+date: 2024-06-15T18:56:40.887Z
+updated: 2024-06-16T18:56:40.887Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New 2024 Approved How to Do Motion Graphics in Filmora
 excerpt: This Article Describes New 2024 Approved How to Do Motion Graphics in Filmora
 keywords: ai animation how to do motion graphics in filmora,how to do motion graphics in filmora,how to make a slow motion video in wondershare filmora,ai animation how to export video in filmora,do motion graphics in filmora,ai animation how to film better in public 2024 guide,ai animation how to add custom filters in vn app 2024 quick guide
-thumbnail: https://www.lifewire.com/thmb/bJZjivkvkiXSPidjAhZPdQz2Xu8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-545995058-58ed21243df78cadab023f3c.jpg
+thumbnail: https://thmb.techidaily.com/6a8b7b3cdb25a03e07ba1819bb3940ce3cb079bf3680cebd2f9e48a956c136d3.jpg
 ---
 
 ## How to Do Motion Graphics in Filmora

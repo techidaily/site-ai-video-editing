@@ -1,7 +1,7 @@
 ---
 title: Updated How to Make a Slideshow GIF, In 2024
-date: 2024-04-24T01:02:43.502Z
-updated: 2024-04-25T01:02:43.502Z
+date: 2024-06-15T18:56:46.251Z
+updated: 2024-06-16T18:56:46.251Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated How to Make a Slideshow GIF, In 2024
 excerpt: This Article Describes Updated How to Make a Slideshow GIF, In 2024
 keywords: how to make a vacation slideshow in 5 minutes,how to make a slideshow gif,how to make a video slideshow in imovie,ai animation how to make a slideshow gif,how to create a slideshow gif,ai animation how to create a slideshow gif,how to make a slideshow on iphone
-thumbnail: https://www.lifewire.com/thmb/Ov60TE6o0ZdI6Oaw589hEL_tVLg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-944229088-5bd1f61e46e0fb0026fdf2f0.jpg
+thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a50d24fd1a27318344d95b256.jpg
 ---
 
 ## How to Make a Slideshow GIF?

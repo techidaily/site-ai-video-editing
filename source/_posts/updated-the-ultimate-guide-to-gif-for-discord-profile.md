@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate Guide to GIF for Discord Profile
-date: 2024-05-19T05:12:07.379Z
-updated: 2024-05-20T05:12:07.379Z
+date: 2024-06-15T18:56:52.714Z
+updated: 2024-06-16T18:56:52.714Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated The Ultimate Guide to GIF for Discord Profile
 excerpt: This Article Describes Updated The Ultimate Guide to GIF for Discord Profile
 keywords: gif for discord profile,ai animation ai animation the ultimate guide to gif for discord profile,ai animation the ultimate guide to gif for discord profile,ai animation the complete guide to gif for discord profile,how to create discord gif avatar in depth guide,the complete guide to gif for discord profile,the ultimate guide to gif for discord profile
-thumbnail: https://www.lifewire.com/thmb/8ROImJcMy0nz5unlY1bdTJLi7tk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dns-wordcloud-lifewire-2-0c92c02113cb4832870891ac0e13ccbc.png
+thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de65b71eab7da2ab3371e3a0f.png
 ---
 
 ## The Complete Guide to GIF for Discord Profile

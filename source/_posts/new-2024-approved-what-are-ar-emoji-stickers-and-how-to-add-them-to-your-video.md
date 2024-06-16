@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved What Are AR Emoji Stickers & How to Add Them to Your Video
-date: 2024-04-24T01:04:13.901Z
-updated: 2024-04-25T01:04:13.901Z
+date: 2024-06-15T18:56:48.220Z
+updated: 2024-06-16T18:56:48.220Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New 2024 Approved What Are AR Emoji Stickers & How to Add Them to Your Video
 excerpt: This Article Describes New 2024 Approved What Are AR Emoji Stickers & How to Add Them to Your Video
 keywords: how to add a lower third to your video,ai animation ai animation what are ar emoji stickers how to add them to your video,the ultimate guide to using ar emoji stickers in your videos,ai animation how to add the popular video text effects to your video,what are ar emoji stickers how to add them to your video,ai animation what are ar emoji stickers how to add them to your video,ai animation how to add a lower third to your video
-thumbnail: https://www.lifewire.com/thmb/HNtneePKuJeaZXX7qZjEwvmSz6M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flora_and_Son-f6517d3de531487e89f5e0e99192d13f.jpg
+thumbnail: https://thmb.techidaily.com/4815bdc4b07f62378c934e8844c6ab3ed5ccd8bb0ecbd12c41105ddecee78795.jpg
 ---
 
 ## What Are AR Emoji Stickers & How to Add Them to Your Video

@@ -1,7 +1,7 @@
 ---
 title: The Way to Quick and Efficient Editing | Keyboard Shortcuts in Filmora
-date: 2024-05-19T05:11:40.277Z
-updated: 2024-05-20T05:11:40.277Z
+date: 2024-06-15T18:56:28.564Z
+updated: 2024-06-16T18:56:28.564Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes The Way to Quick and Efficient Editing | Keyboard Shortcuts in Filmora
 excerpt: This Article Describes The Way to Quick and Efficient Editing | Keyboard Shortcuts in Filmora
 keywords: how to perfect quick and efficient video editing keyboard shortcuts in filmora,ai animation ai animation how to perfect quick and efficient video editing keyboard shortcuts in filmora,ai animation how to perfect quick and efficient video editing keyboard shortcuts in filmora,ai animation the way to quick and efficient editing keyboard shortcuts in filmora,finding the finest way to add subtitles to videos filmora,quick and efficient editing with filmora,the way to quick and efficient editing keyboard shortcuts in filmora
-thumbnail: https://www.lifewire.com/thmb/wAMAGSxPA1Fx2QobaiyABiSggJ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-753288077-5bb0f9b2cff47e00261aa8fc.jpg
+thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a5594338591ba06831ec971383.jpg
 ---
 
 ## The Way to Quick and Efficient Editing | Keyboard Shortcuts in Filmora

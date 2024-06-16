@@ -1,7 +1,7 @@
 ---
 title: In 2024, Learn to Merge Clips in DaVinci Resolve with Simple Steps
-date: 2024-05-19T05:12:04.988Z
-updated: 2024-05-20T05:12:04.988Z
+date: 2024-06-15T18:56:45.123Z
+updated: 2024-06-16T18:56:45.123Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, Learn to Merge Clips in DaVinci Resolve with Simple Steps
 excerpt: This Article Describes In 2024, Learn to Merge Clips in DaVinci Resolve with Simple Steps
 keywords: learn to merge clips in davinci resolve simple steps,learn to merge clips in davinci resolve with simple steps,how to split a clip in davinci resolve step by step,ai animation ai animation learn to merge clips in davinci resolve with simple steps,merge clips in davinci resolve,ai animation learn to merge clips in davinci resolve simple steps,ai animation learn to merge clips in davinci resolve with simple steps
-thumbnail: https://www.lifewire.com/thmb/Xyb0vuGu9TpKbUdQlZdFVVUv0Bc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HotelTransylvaniaTransformania-71f0792728254936864ad509c847c73c.jpg
+thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4aedd9106177497020dbae72.jpg
 ---
 
 ## Learn to Merge Clips in DaVinci Resolve with Simple Steps

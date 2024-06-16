@@ -1,7 +1,7 @@
 ---
 title: Updated How to Rotate AVI in Vertical/Portrait Orientation Windows, Mac，Android, iPhone & Online
-date: 2024-05-19T05:12:03.959Z
-updated: 2024-05-20T05:12:03.959Z
+date: 2024-06-15T18:56:20.260Z
+updated: 2024-06-16T18:56:20.260Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated How to Rotate AVI in Vertical/Portrait Orientation Windows, Mac，Android, iPhone & Online
 excerpt: This Article Describes Updated How to Rotate AVI in Vertical/Portrait Orientation Windows, Mac，Android, iPhone & Online
 keywords: how to rotate avi in verticalportrait orientation windows macandroid iphone online,ai animation how to resize flv videos efficiently windows macandroid iphone online,ai animation ai animation how to rotate avi in verticalportrait orientation windows macandroid iphone online,ai animation how to rotate avi in verticalportrait orientation windows macandro,ai animation how to combine several xvid files into one windows macandroid iphone online,ai animation how to rotate avi in verticalportrait orientation windows macandroid iphone online,how to rotate avi in verticalportrait orientation windows macandro
-thumbnail: https://www.lifewire.com/thmb/efwW06nbzdIi0kzLWEWTbso7lT8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-instagram-captions-4171697-ae21b04e6866470c80a50c9bef1cc26e.png
+thumbnail: https://thmb.techidaily.com/ac86b0aa564fee722115c20830e542db073002bfbdd584be2acd66419238b8a6.png
 ---
 
 ## How to Rotate AVI in Vertical/Portrait Orientation [Windows, Mac，Android, iPhone & Online]

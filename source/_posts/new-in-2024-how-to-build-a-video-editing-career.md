@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Build A Video Editing Career
-date: 2024-04-24T01:02:15.324Z
-updated: 2024-04-25T01:02:15.324Z
+date: 2024-06-15T18:56:34.199Z
+updated: 2024-06-16T18:56:34.199Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New In 2024, How to Build A Video Editing Career
 excerpt: This Article Describes New In 2024, How to Build A Video Editing Career
 keywords: ai animation how to build a video editing career,ai animation how to start a video editing career,how to loop a video in canva editor,ai animation ai animation how to build a video editing career,how to build a video editing career,how to start a video editing career,start a video editing career
-thumbnail: https://www.lifewire.com/thmb/bUgwWBmVwo2R1WJT-qkM52ppdCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ipad-pro-pencil-56a533763df78cf77286e0e0.png
+thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99199e876bd020898984fe0d1.png
 ---
 
 ## How to Build A Video Editing Career

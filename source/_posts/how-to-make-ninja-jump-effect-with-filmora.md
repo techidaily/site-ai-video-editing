@@ -1,7 +1,7 @@
 ---
 title: How To Make Ninja Jump Effect with Filmora
-date: 2024-05-19T05:11:38.941Z
-updated: 2024-05-20T05:11:38.941Z
+date: 2024-06-15T18:56:42.446Z
+updated: 2024-06-16T18:56:42.446Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How To Make Ninja Jump Effect with Filmora
 excerpt: This Article Describes How To Make Ninja Jump Effect with Filmora
 keywords: how to make ninja jump effect,how to make censor effects with filmora,how to make glitch effect with filmora,ai animation how to make ninja jump effect,ai animation how to make ninja jump effect with filmora,how to make a neon dance effect with filmora,how to make ninja jump effect with filmora
-thumbnail: https://www.lifewire.com/thmb/NVfSH4Rjse-W0WAejPd1W9V_3ag=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1253176532-e5ce8e507433489f87c8b37818c13a01.jpg
+thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36feed408fdb0ec7f3ca8b4ddc2.jpg
 ---
 
 ## How To Make Ninja Jump Effect with Filmora

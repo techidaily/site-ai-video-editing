@@ -1,7 +1,7 @@
 ---
 title: Updated Detailed Steps to Add Border to Video Using Premiere Pro
-date: 2024-05-19T05:11:57.652Z
-updated: 2024-05-20T05:11:57.652Z
+date: 2024-06-15T18:56:26.697Z
+updated: 2024-06-16T18:56:26.697Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated Detailed Steps to Add Border to Video Using Premiere Pro
 excerpt: This Article Describes Updated Detailed Steps to Add Border to Video Using Premiere Pro
 keywords: detailed steps to add border to video using premiere pro,ai animation detailed steps to add border to video using premiere pro,ai animation step by step to add border to video using premiere pro,detailed steps to rotate video using kmplayer,step by step to add border to video using premiere pro,ai animation ai animation detailed steps to add border to video using premiere pro,how to add filter to video in premiere pro
-thumbnail: https://www.lifewire.com/thmb/x5hFLtVYVUkR-_nqhbxS_f11j5E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netgear-default-password-list-2619154-b581fdcf136848d29e944638cd2ad444.png
+thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe2bd45f2ec6f3eb305fb3d58.png
 ---
 
 ## Detailed Steps to Add Border to Video Using Premiere Pro

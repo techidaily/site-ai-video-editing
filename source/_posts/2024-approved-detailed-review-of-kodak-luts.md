@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Detailed Review of Kodak LUTs
-date: 2024-05-19T05:12:13.594Z
-updated: 2024-05-20T05:12:13.594Z
+date: 2024-06-15T18:56:25.862Z
+updated: 2024-06-16T18:56:25.862Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes 2024 Approved Detailed Review of Kodak LUTs
 excerpt: This Article Describes 2024 Approved Detailed Review of Kodak LUTs
 keywords: complete guide 2024 a review on 3d lut creator,detailed review of kodak luts,a full review of leeming lut pro,ai animation ai animation getting into the details a review of kodak luts,ai animation getting into the details a review of kodak luts,ai animation detailed review of kodak luts,getting into the details a review of kodak luts
-thumbnail: https://www.lifewire.com/thmb/crqf7aw9F6RC6VSVWVhQdSAcGQg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duet-c82ee94b39e24788bcfd51d1eea24288.jpg
+thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35913acbf3e4fc8c5af445646.jpg
 ---
 
 ## Detailed Review of Kodak LUTs

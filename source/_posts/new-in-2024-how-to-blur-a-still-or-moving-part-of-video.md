@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Blur a Still or Moving Part of Video
-date: 2024-04-24T01:02:14.691Z
-updated: 2024-04-25T01:02:14.691Z
+date: 2024-06-15T18:56:41.650Z
+updated: 2024-06-16T18:56:41.650Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New In 2024, How to Blur a Still or Moving Part of Video
 excerpt: This Article Describes New In 2024, How to Blur a Still or Moving Part of Video
 keywords: learn how to blur a still or moving part of video,blur a part of video,how to use motion blur on video star,ai animation how to blur a still or moving part of video,how to blur a still or moving part of video,ai animation learn how to blur a still or moving part of video,ai animation ai animation how to blur a still or moving part of video
-thumbnail: https://www.lifewire.com/thmb/Xyb0vuGu9TpKbUdQlZdFVVUv0Bc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HotelTransylvaniaTransformania-71f0792728254936864ad509c847c73c.jpg
+thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4aedd9106177497020dbae72.jpg
 ---
 
 ## Learn How to Blur a Still or Moving Part of Video

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved 100 Workable How to Mask Track with Adobe Premiere Pro
-date: 2024-05-19T05:12:48.418Z
-updated: 2024-05-20T05:12:48.418Z
+date: 2024-06-15T18:56:17.870Z
+updated: 2024-06-16T18:56:17.870Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 2024 Approved 100 Workable How to Mask Track with Adobe Premiere Pro
 excerpt: This Article Describes Updated 2024 Approved 100 Workable How to Mask Track with Adobe Premiere Pro
 keywords: ai animation how to add transitions in adobe premiere pro,ai animation ai animation 100 workable how to mask track with adobe premiere pro,mask tracking with adobe premiere pro a detailed guide,ai animation 100 workable how to mask track with adobe premiere pro,how to add transitions in adobe premiere pro,ai animation mask tracking with adobe premiere pro a detailed guide,100 workable how to mask track with adobe premiere pro
-thumbnail: https://www.lifewire.com/thmb/-bcmaokZfvwTgJE1q3LjnihDbBY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-678913139-58a4ece73df78c345bcd781b.jpg
+thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f620077177c71b194a7d51d8ecab.jpg
 ---
 
 ## [100% Workable] How to Mask Track with Adobe Premiere Pro

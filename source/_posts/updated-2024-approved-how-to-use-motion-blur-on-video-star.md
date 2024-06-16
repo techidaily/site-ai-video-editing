@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How To Use Motion Blur On Video Star?
-date: 2024-04-24T01:06:40.372Z
-updated: 2024-04-25T01:06:40.372Z
+date: 2024-06-15T18:56:24.315Z
+updated: 2024-06-16T18:56:24.315Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 2024 Approved How To Use Motion Blur On Video Star?
 excerpt: This Article Describes Updated 2024 Approved How To Use Motion Blur On Video Star?
 keywords: ai animation how to blur a still or moving part of video,ai animation learn how to blur a still or moving part of video,video star motion blur,ai animation how to use motion blur on video star,ai animation how to speed up a video on splice,how to use motion blur on video star,ai animation how to speed up video on instagram reels
-thumbnail: https://www.lifewire.com/thmb/mDhxV8MNRpKsVw-MZy5n6Aic8pw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-soundbar-dolby-atmos-569f1fdd925e46ab8b3e1f51d95e1e6c.jpg
+thumbnail: https://thmb.techidaily.com/eb0b88fc8ea01a6f57ac593062a230bcd4f411a04c405e68f58f5857acd450ec.jpg
 ---
 
 ## How To Use Motion Blur On Video Star?

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Easily Add VHS Green Screen to Your Video
-date: 2024-05-19T05:12:17.784Z
-updated: 2024-05-20T05:12:17.784Z
+date: 2024-06-15T18:56:27.345Z
+updated: 2024-06-16T18:56:27.345Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes 2024 Approved How to Easily Add VHS Green Screen to Your Video
 excerpt: This Article Describes 2024 Approved How to Easily Add VHS Green Screen to Your Video
 keywords: ai animation ai animation how to add vhs green screen to your video,how to easily add vhs green screen to your video,easy way to apply green screen to youtube videos,ai animation easy way to apply green screen to youtube videos,ai animation how to easily add vhs green screen to your video,how to add vhs green screen to your video,ai animation how to add vhs green screen to your video
-thumbnail: https://www.lifewire.com/thmb/LSRhv9V0PxzBAHOqiakqf0M89LI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1302402871-ea3debd2e3c64ec5a78a99e580b6a8d1.jpg
+thumbnail: https://thmb.techidaily.com/930df60c591e2a9cac7ea1bfd12cb488be55e4b8a96b142f6b85654b12ef9f8e.jpg
 ---
 
 ## How to Easily Add VHS Green Screen to Your Video

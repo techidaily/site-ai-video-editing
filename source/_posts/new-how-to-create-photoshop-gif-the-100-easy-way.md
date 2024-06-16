@@ -1,7 +1,7 @@
 ---
 title: New How to Create Photoshop GIF The 100 Easy Way
-date: 2024-05-19T05:12:01.697Z
-updated: 2024-05-20T05:12:01.697Z
+date: 2024-06-15T18:56:27.826Z
+updated: 2024-06-16T18:56:27.826Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New How to Create Photoshop GIF The 100 Easy Way
 excerpt: This Article Describes New How to Create Photoshop GIF The 100 Easy Way
 keywords: ai animation how to create photoshop gif the 100 easy way,ai animation ai animation how to create photoshop gif the 100 easy way,how to create an adobe slideshow the easy way,how to create photoshop gif the easy way,how to create photoshop gif the 100 easy way,ai animation how to create an adobe slideshow the easy way,ai animation how to create photoshop gif the easy way
-thumbnail: https://www.lifewire.com/thmb/hXsx55Jq_t9VhBh8GdAq7SriZ7k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-check-ram-in-android-5192499-8e8b91b6d94b4ab98c3bfa9ba41a4f66.jpg
+thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5486b2d51ee08c850ba80fdd.jpg
 ---
 
 ## How to Create Photoshop GIF The 100% Easy Way

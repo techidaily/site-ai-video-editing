@@ -1,7 +1,7 @@
 ---
 title: Updated How to Use LUTs in Lumafusion & Free Resource for 2024
-date: 2024-04-24T01:06:38.501Z
-updated: 2024-04-25T01:06:38.501Z
+date: 2024-06-15T18:56:16.478Z
+updated: 2024-06-16T18:56:16.478Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated How to Use LUTs in Lumafusion & Free Resource for 2024
 excerpt: This Article Describes Updated How to Use LUTs in Lumafusion & Free Resource for 2024
 keywords: how to use luts in lumafusion free resource,ai animation how to use luts in lumafusion free luts resource,updated 2024 top free vintage luts to use,ai animation ai animation how to use luts in lumafusion free luts resource,how to use luts in lumafusion free luts resource,ai animation updated 2024 top free vintage luts to use,ai animation how to use luts in lumafusion free resource
-thumbnail: https://www.lifewire.com/thmb/UchI0OfcFuiZjMJhTw31h6uHSHQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Race-982fb219114a48fb96b9c5a2c6f93847.jpg
+thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce093f59dcdf2b6479e3403f82d.jpg
 ---
 
 ## How to Use LUTs in Lumafusion & Free Resource

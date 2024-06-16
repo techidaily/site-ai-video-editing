@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Best 10 Crazy-Cool Examples of AR Video
-date: 2024-04-24T01:04:28.831Z
-updated: 2024-04-25T01:04:28.831Z
+date: 2024-06-15T18:56:42.315Z
+updated: 2024-06-16T18:56:42.315Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Best 10 Crazy-Cool Examples of AR Video
 excerpt: This Article Describes Updated 2024 Approved Best 10 Crazy-Cool Examples of AR Video
 keywords: ai animation ai animation 10 crazy cool examples of ar video,ai animation 10 best video editing apps with templates,best 10 crazy cool examples of ar video,10 crazy cool examples of ar video,ai animation 10 crazy cool examples of ar video,10 best video editing apps with templates,ai animation best 10 crazy cool examples of ar video
-thumbnail: https://www.lifewire.com/thmb/asCAao3Tfs8ZxVZumyLz52-mVek=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-increase-internet-speed-5181475-b6fd84098c634a04a6934302184c5b1b.jpg
+thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc10a8c5dcc535bfa16bc60ba0.jpg
 ---
 
 ## Best 10 Crazy-Cool Examples of AR Video

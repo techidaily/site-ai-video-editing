@@ -1,7 +1,7 @@
 ---
 title: TikTok Velocity Dance Tutorial| Filmora
-date: 2024-05-19T05:11:40.326Z
-updated: 2024-05-20T05:11:40.326Z
+date: 2024-06-15T18:56:22.508Z
+updated: 2024-06-16T18:56:22.508Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes TikTok Velocity Dance Tutorial| Filmora
 excerpt: This Article Describes TikTok Velocity Dance Tutorial| Filmora
 keywords: make tutorial video with filmora,ai animation tiktok velocity dance tutorial filmora,tiktok velocity dance tutorial filmora,ai animation how to make tutorial video with filmora,how to make tutorial video with filmora,tiktok velocity dance tutorial,text animation intro tutorial in filmora
-thumbnail: https://www.lifewire.com/thmb/Y2dFEkloSSnyILemqVCv7_6sfHI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/twittermute-5bc42bbd46e0fb002679ac08.jpg
+thumbnail: https://thmb.techidaily.com/3fd32f657ca906fd6ed8ec321bcb0a471e050e9fdbe1e0332d4aba568afc6cd5.jpg
 ---
 
 ## TikTok Velocity Dance Tutorial| Filmora

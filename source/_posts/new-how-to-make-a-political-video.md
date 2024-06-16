@@ -1,7 +1,7 @@
 ---
 title: New How To Make A Political Video
-date: 2024-05-19T05:12:02.699Z
-updated: 2024-05-20T05:12:02.699Z
+date: 2024-06-15T18:56:31.099Z
+updated: 2024-06-16T18:56:31.099Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New How To Make A Political Video
 excerpt: This Article Describes New How To Make A Political Video
 keywords: how to make a video with my phone,ai animation how to make a video podcast,how to make a video podcast,how to make a political video,ai animation how to make a political video,ai animation ai animation how to make a political video,ultimate guide to make a political video
-thumbnail: https://www.lifewire.com/thmb/7wWwLeV8KAaB-XqPIbKe8lIgaY4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/reddit-app-for-andoird-652f6fcd646245e9807afbac25a072ee.jpg
+thumbnail: https://thmb.techidaily.com/ca9ebd9e5568d283ff74716c5b52278ddfb01bff412fbb14fb93882fc8d1dc09.jpg
 ---
 
 ## How To Make A Political Video

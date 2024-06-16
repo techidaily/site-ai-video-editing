@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Add Subtitles to MKV Videos on All Platforms
-date: 2024-04-24T01:02:11.688Z
-updated: 2024-04-25T01:02:11.688Z
+date: 2024-06-15T18:56:30.176Z
+updated: 2024-06-16T18:56:30.176Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New In 2024, How to Add Subtitles to MKV Videos on All Platforms
 excerpt: This Article Describes New In 2024, How to Add Subtitles to MKV Videos on All Platforms
 keywords: 7 ways add subtitles to mkv videos on all platforms,how to split a video into parts on all platforms,how to add subtitles to mkv videos on all platforms,ai animation how to split a video into parts on all platforms,ai animation ai animation how to add subtitles to mkv videos on all platforms,ai animation how to add subtitles to mkv videos on all platforms,ai animation 7 ways add subtitles to mkv videos on all platforms
-thumbnail: https://www.lifewire.com/thmb/71reoJ08pe9fxU7SLDHBCk0MgVg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-remote-access-on-your-samsung-smart-tv-4688935-01-29c7de5dc77e4747a8070d12f0c3d84c.jpg
+thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641c77398dacbaad68cbaf2be6.jpg
 ---
 
 ## How to Add Subtitles to MKV Videos on All Platforms

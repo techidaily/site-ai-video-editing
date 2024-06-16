@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Use Lumetri Color in Adobe After Effects
-date: 2024-05-19T05:12:04.361Z
-updated: 2024-05-20T05:12:04.361Z
+date: 2024-06-15T18:56:39.282Z
+updated: 2024-06-16T18:56:39.282Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes 2024 Approved How to Use Lumetri Color in Adobe After Effects
 excerpt: This Article Describes 2024 Approved How to Use Lumetri Color in Adobe After Effects
 keywords: how to use lumetri color in after effects,how to use track matte and tracking in adobe after effects,ai animation how to use lumetri color in adobe after effects,ai animation how to use lumetri color in after effects,lumetri color after effects,how to use lumetri color in adobe after effects,ai animation ai animation how to use lumetri color in adobe after effects
-thumbnail: https://www.lifewire.com/thmb/wAMAGSxPA1Fx2QobaiyABiSggJ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-753288077-5bb0f9b2cff47e00261aa8fc.jpg
+thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a5594338591ba06831ec971383.jpg
 ---
 
 ## How to Use Lumetri Color in Adobe After Effects

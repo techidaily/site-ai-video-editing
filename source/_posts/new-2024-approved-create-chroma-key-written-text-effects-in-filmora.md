@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Create Chroma Key Written Text Effects in Filmora
-date: 2024-05-19T05:13:02.420Z
-updated: 2024-05-20T05:13:02.420Z
+date: 2024-06-15T18:56:52.056Z
+updated: 2024-06-16T18:56:52.056Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New 2024 Approved Create Chroma Key Written Text Effects in Filmora
 excerpt: This Article Describes New 2024 Approved Create Chroma Key Written Text Effects in Filmora
 keywords: ai animation create chroma key written text effects in filmora,create chroma key written text effects in filmora,how to create chroma key written text effects in filmora,ai animation ai animation create chroma key written text effects in filmora,ai animation how to create chroma key written text effects in filmora,create chroma key written text effects,ai animation create kinetice typography text effect in filmora
-thumbnail: https://www.lifewire.com/thmb/9RF2k5zJ8slFGgduRb1qj6IFxoo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-77744394-e5f79596e54a4ba6a914eed31be7efc4.jpg
+thumbnail: https://thmb.techidaily.com/99f8be9be102276bc593db3bcc6b07419f9816f2452ed4f5c2e0bd34aa16b628.jpg
 ---
 
 ## How to Create Chroma Key Written Text Effects in Filmora

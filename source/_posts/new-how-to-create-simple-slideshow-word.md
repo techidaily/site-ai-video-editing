@@ -1,7 +1,7 @@
 ---
 title: New How to Create Simple Slideshow Word
-date: 2024-05-19T05:12:01.766Z
-updated: 2024-05-20T05:12:01.766Z
+date: 2024-06-15T18:56:37.202Z
+updated: 2024-06-16T18:56:37.202Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New How to Create Simple Slideshow Word
 excerpt: This Article Describes New How to Create Simple Slideshow Word
 keywords: how to make simple slideshow word,ai animation how to create simple slideshow word,how to create a clideo slideshow simply,ai animation ai animation how to create simple slideshow word,how to create simple slideshow word,ai animation how to make simple slideshow word,how to create a slideshow gif
-thumbnail: https://www.lifewire.com/thmb/wAMAGSxPA1Fx2QobaiyABiSggJ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-753288077-5bb0f9b2cff47e00261aa8fc.jpg
+thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a5594338591ba06831ec971383.jpg
 ---
 
 ## How to Create Simple Slideshow Word

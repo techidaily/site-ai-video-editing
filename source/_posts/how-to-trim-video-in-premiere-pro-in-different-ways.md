@@ -1,7 +1,7 @@
 ---
 title: How To Trim Video In Premiere Pro in Different Ways
-date: 2024-05-19T05:11:36.169Z
-updated: 2024-05-20T05:11:36.169Z
+date: 2024-06-15T18:56:23.223Z
+updated: 2024-06-16T18:56:23.223Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How To Trim Video In Premiere Pro in Different Ways
 excerpt: This Article Describes How To Trim Video In Premiere Pro in Different Ways
 keywords: ai animation different ways to trim video in premiere pro,how to overlay video in premiere pro,ai animation how to trim video in premiere pro in different ways,ai animation ai animation how to trim video in premiere pro in different ways,how to trim video in premiere pro in different ways,how to brighten video in premiere pro,different ways to trim video in premiere pro
-thumbnail: https://www.lifewire.com/thmb/17eYx3JlNgYWrNsT2X2f6cCUjf0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edit-tweet-after-publish-3476767-34af9aa3b62b4bf4b11891460076916b.png
+thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea886bdb64936441ab4225274.png
 ---
 
 ## How To Trim Video In Premiere Pro in Different Ways

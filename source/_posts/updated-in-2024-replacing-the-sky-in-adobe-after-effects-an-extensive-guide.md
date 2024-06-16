@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Replacing the Sky in Adobe After Effects An Extensive Guide
-date: 2024-04-24T01:03:29.896Z
-updated: 2024-04-25T01:03:29.896Z
+date: 2024-06-15T18:56:22.027Z
+updated: 2024-06-16T18:56:22.027Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated In 2024, Replacing the Sky in Adobe After Effects An Extensive Guide
 excerpt: This Article Describes Updated In 2024, Replacing the Sky in Adobe After Effects An Extensive Guide
 keywords: ai animation splitting the clips in adobe after effects step by step,replacing the sky in adobe after effects an extensive guide,ai animation ai animation replacing the sky in adobe after effects an extensive guide,guiding principles of track matte and tracking in adobe after effects,3d ray traced settings in after effects a comprehensive guide,ai animation 3d ray traced settings in after effects a comprehensive guide,ai animation replacing the sky in adobe after effects an extensive guide
-thumbnail: https://www.lifewire.com/thmb/ZDnyMd5y1TI-4l8Th58f2C_oJzA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/F8conferencelogo-7ec4475dc6624114aea076c2611df199.jpg
+thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb0b1ed4fef37387dcca189b5.jpg
 ---
 
 ## Replacing the Sky in Adobe After Effects: An Extensive Guide

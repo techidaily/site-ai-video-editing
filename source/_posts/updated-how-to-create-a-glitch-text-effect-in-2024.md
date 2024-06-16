@@ -1,7 +1,7 @@
 ---
 title: Updated How to Create a Glitch Text Effect, In 2024
-date: 2024-04-24T01:05:37.981Z
-updated: 2024-04-25T01:05:37.981Z
+date: 2024-06-15T18:56:24.954Z
+updated: 2024-06-16T18:56:24.954Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated How to Create a Glitch Text Effect, In 2024
 excerpt: This Article Describes Updated How to Create a Glitch Text Effect, In 2024
 keywords: how to create an alternate reality effect,how to create chroma key written text effects in filmora,how to create a glitch text effect,how to create a text effect video with filmora,create glitch text effect,ai animation how to create a glitch text effect,ai animation create glitch text effect
-thumbnail: https://www.lifewire.com/thmb/sRg_08XfVq4XQxaZ8LbMjkBmMPo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-534572567-56facec43df78c784197b92d.jpg
+thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8ff0fa954ebc9cead95a6f721.jpg
 ---
 
 ## How to Create a Glitch Text Effect?

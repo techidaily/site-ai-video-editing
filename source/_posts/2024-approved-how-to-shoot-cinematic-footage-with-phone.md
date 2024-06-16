@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Shoot Cinematic Footage with Phone
-date: 2024-05-19T05:12:20.032Z
-updated: 2024-05-20T05:12:20.032Z
+date: 2024-06-15T18:56:32.214Z
+updated: 2024-06-16T18:56:32.214Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes 2024 Approved How to Shoot Cinematic Footage with Phone
 excerpt: This Article Describes 2024 Approved How to Shoot Cinematic Footage with Phone
 keywords: ai animation ai animation how to shoot cinematic footage from a smartphone,how to shoot cinematic footage with phone,shoot cinematic footage with phone,how to shoot cinematic footage from a smartphone,ai animation how to shoot cinematic footage from a smartphone,ai animation how to shoot cinematic footage with phone,ai animation how to make hand shake effect with final cut pro
-thumbnail: https://www.lifewire.com/thmb/EVPMwUvvJxpJdiKeU4q7SREScME=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mothersday_NataliaCampbell_Getty-5a4baef6c7822d00371e56cd.jpg
+thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d920b7ae31f5d249d448106c6d.jpg
 ---
 
 ## How to Shoot Cinematic Footage with Phone

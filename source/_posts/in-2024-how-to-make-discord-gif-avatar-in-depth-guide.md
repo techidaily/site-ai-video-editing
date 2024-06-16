@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Make Discord GIF Avatar in Depth Guide
-date: 2024-05-19T05:12:18.769Z
-updated: 2024-05-20T05:12:18.769Z
+date: 2024-06-15T18:56:50.381Z
+updated: 2024-06-16T18:56:50.381Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, How to Make Discord GIF Avatar in Depth Guide
 excerpt: This Article Describes In 2024, How to Make Discord GIF Avatar in Depth Guide
 keywords: ai animation how to make discord gif avatar in depth guide,ai animation ai animation how to create discord gif avatar in depth guide,ai animation how to make discord gif pfp,how to create discord gif avatar in depth guide,how to make discord gif pfp,how to make discord gif avatar in depth guide,ai animation how to create discord gif avatar in depth guide
-thumbnail: https://www.lifewire.com/thmb/eS1YD0LsEQhVuAP3cxZA8t-_eDU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Pro_creative-sketch_10302018-5be0773ac9e77c0051d5d51c.jpg
+thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70cf5906bbca11c158a428c514.jpg
 ---
 
 ## How to Make Discord GIF Avatar in Depth Guide

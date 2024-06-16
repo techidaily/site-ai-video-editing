@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved How to Make Censor Effects with Filmora
-date: 2024-04-24T01:06:12.249Z
-updated: 2024-04-25T01:06:12.249Z
+date: 2024-06-15T18:56:51.422Z
+updated: 2024-06-16T18:56:51.422Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New 2024 Approved How to Make Censor Effects with Filmora
 excerpt: This Article Describes New 2024 Approved How to Make Censor Effects with Filmora
 keywords: how to make glitch effect with filmora,ai animation how to make censor effects with filmora,how to do censor effects with filmora,how to make a neon dance effect with filmora,ai animation how to do censor effects with filmora,make censor effects with filmora,how to make censor effects with filmora
-thumbnail: https://www.lifewire.com/thmb/n7XTjADWmcwt2P_LF7WoPjqi8O4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-538600261-56c643115f9b5879cc3d6bde.jpg
+thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d56bb43f9e5c26e9a6768a6cd.jpg
 ---
 
 ## How to Make Censor Effects with Filmora

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How To Achieve LumaFusion Color Grading Through LUTs
-date: 2024-04-24T01:05:25.062Z
-updated: 2024-04-25T01:05:25.062Z
+date: 2024-06-15T18:56:15.407Z
+updated: 2024-06-16T18:56:15.407Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New In 2024, How To Achieve LumaFusion Color Grading Through LUTs
 excerpt: This Article Describes New In 2024, How To Achieve LumaFusion Color Grading Through LUTs
 keywords: ai animation how to achieve lumafusion color grading through luts,ai animation how to use color grading in final cut pro,lumafusion color grading lut,how to achieve lumafusion color grading through luts,lumafusion color grading achieving it through luts,ai animation ai animation lumafusion color grading achieving it through luts,ai animation lumafusion color grading achieving it through luts
-thumbnail: https://www.lifewire.com/thmb/tJAkAFLn8PgYLDdSxKT4QReLsyg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macOS-Sonoma-Banner-fe4ffda2caaf4040b81ae0b66f2d6dc0.jpg
+thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc319264524a7b728bfe67ef7f7.jpg
 ---
 
 ## How To Achieve LumaFusion Color Grading Through LUTs

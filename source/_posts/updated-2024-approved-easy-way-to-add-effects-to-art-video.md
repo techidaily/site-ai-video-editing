@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Easy Way to Add Effects to Art Video
-date: 2024-05-19T05:12:54.736Z
-updated: 2024-05-20T05:12:54.736Z
+date: 2024-06-15T18:56:21.707Z
+updated: 2024-06-16T18:56:21.707Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Easy Way to Add Effects to Art Video
 excerpt: This Article Describes Updated 2024 Approved Easy Way to Add Effects to Art Video
 keywords: easy steps to add miniature effect to videos,easy ways to add text overlay to video,ai animation easy way to add effects to art video,easy way to add effects to art video,add effects to art video,ai animation easy steps to add miniature effect to videos,ai animation easy ways to add text overlay to video
-thumbnail: https://www.lifewire.com/thmb/KgjSvzxLL1eXMJCNvZxcbrcPyWA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificialIntelligence-Chatbot-6921166a1d9e447eb0251f52694d919a.jpg
+thumbnail: https://thmb.techidaily.com/0e8ec29ee6248aac03a17afe8cf5cfd2ec9d4e36dfc8648cae868f4622fb576a.jpg
 ---
 
 ## Easy Way to Add Effects to Art Video

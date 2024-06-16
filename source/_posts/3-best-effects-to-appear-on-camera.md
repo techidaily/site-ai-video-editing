@@ -1,7 +1,7 @@
 ---
 title: 3 Best Effects to Appear on Camera
-date: 2024-05-19T05:11:33.584Z
-updated: 2024-05-20T05:11:33.584Z
+date: 2024-06-15T18:56:29.247Z
+updated: 2024-06-16T18:56:29.247Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes 3 Best Effects to Appear on Camera
 excerpt: This Article Describes 3 Best Effects to Appear on Camera
 keywords: ai animation ai animation 3 best effects to appear on camera,best 5 tips to freeze frame in after effects,best effects to appear on camera with filmora,3 best effects to appear on camera made with filmora,ai animation 3 best effects to appear on camera made with filmora,3 best effects to appear on camera,ai animation 3 best effects to appear on camera
-thumbnail: https://www.lifewire.com/thmb/4ql928fMUKkO_EPWrgDkfeEcVtE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/family-hanging-out-watching-videos-online-1166432791-309c6f7ac8cb4cc99875db5a77fd6f35.jpg
+thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28dd2151c249d15e615be6f528.jpg
 ---
 
 ## 3 Best Effects to Appear on Camera

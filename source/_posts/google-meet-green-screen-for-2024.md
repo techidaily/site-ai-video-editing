@@ -1,7 +1,7 @@
 ---
 title: Google Meet Green Screen for 2024
-date: 2024-05-19T05:11:54.474Z
-updated: 2024-05-20T05:11:54.474Z
+date: 2024-06-15T18:56:22.111Z
+updated: 2024-06-16T18:56:22.111Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Google Meet Green Screen for 2024
 excerpt: This Article Describes Google Meet Green Screen for 2024
 keywords: blender green screen,ai animation ai animation google meet green screen,how to google meet green screen,free green screen mobile frame downloads,google meet green screen,ai animation google meet green screen,ai animation how to google meet green screen
-thumbnail: https://www.lifewire.com/thmb/YPMhKL59WGdTUpxCrpaB_OS--cc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-speech-to-text-on-android-0-928c48ab121248f9aa543a136d971f9a.jpg
+thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afdff538e1080a5add013b39bf.jpg
 ---
 
 ## Google Meet Green Screen

@@ -1,7 +1,7 @@
 ---
 title: New What You Should Know About Speech-to-Text Technology
-date: 2024-04-24T01:12:49.705Z
-updated: 2024-04-25T01:12:49.705Z
+date: 2024-06-15T18:56:24.809Z
+updated: 2024-06-16T18:56:24.809Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New What You Should Know About Speech-to-Text Technology
 excerpt: This Article Describes New What You Should Know About Speech-to-Text Technology
 keywords: what you should know about speech to text technology,ai animation ai animation ai animation what you should know about speech to text technology,ai animation ai animation what you should know about speech to text technology,ai animation ai animation ai animation ai animation what you should know about speech to text technology,speech to text technology,something that you should know about mp4 video format,ai animation what you should know about speech to text technology
-thumbnail: https://www.lifewire.com/thmb/sc_11h-4MIwIvQmqfGAXxwLWyt8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/istabletworthit-a75b20684e5241b8a64efc0733092fcd.jpg
+thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2b309e9331565432f2ce8641.jpg
 ---
 
 ## What You Should Know About Speech-to-Text Technology

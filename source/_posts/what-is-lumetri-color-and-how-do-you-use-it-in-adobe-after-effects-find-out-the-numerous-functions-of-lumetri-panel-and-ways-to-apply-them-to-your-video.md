@@ -1,7 +1,7 @@
 ---
 title: What Is Lumetri Color and How Do You Use It in Adobe After Effects? Find Out the Numerous Functions of Lumetri Panel and Ways to Apply Them to Your Video
-date: 2024-05-19T05:11:43.557Z
-updated: 2024-05-20T05:11:43.557Z
+date: 2024-06-15T18:56:19.801Z
+updated: 2024-06-16T18:56:19.801Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes What Is Lumetri Color and How Do You Use It in Adobe After Effects? Find Out the Numerous Functions of Lumetri Panel and Ways to Apply Them to Your Video
 excerpt: This Article Describes What Is Lumetri Color and How Do You Use It in Adobe After Effects? Find Out the Numerous Functions of Lumetri Panel and Ways to Apply Them to Your Video
 keywords: have you ever wondered how to add camera shake to video in adobe after effects let us share with you some tips and tricks on how to do just that,are you seeking free lumetri presets to enhance your videos find out all about lumetri color presets and how to use them in presenting proper color grading,what is lumetri color and how do you use it in adobe after effects find out the numerous functions of lumetri panel and ways to apply them to your video,are you looking for the best app to prank your friends here is a complete guide on the funcall app how to use it to change your voice and its best alternatives,find out what the flexclip trimmer is its key features and how to use it to trim your videos to remove unwanted parts with just a few clicks,what is the selective color effect and how can you add this effect to your videos using wondershare filmora a complete guide for beginners,do you want to professionally blur the background in your video read this article to find out the easiest way to blur the background in videos using adobe after effects
-thumbnail: https://www.lifewire.com/thmb/v4AbqnTlju8lMmkS1DJOcvntGsY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-839864362-59c51d1daf5d3a0010919ae9.jpg
+thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4ff28b2032ed8b7104437026.jpg
 ---
 
 ## What Is Lumetri Color and How Do You Use It in Adobe After Effects? Find Out the Numerous Functions of Lumetri Panel and Ways to Apply Them to Your Video

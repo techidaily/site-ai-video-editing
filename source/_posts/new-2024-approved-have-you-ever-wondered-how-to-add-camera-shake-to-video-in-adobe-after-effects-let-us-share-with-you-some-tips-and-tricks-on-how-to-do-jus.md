@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Have You Ever Wondered How to Add Camera Shake to Video in Adobe After Effects? Let Us Share with You some Tips and Tricks on How to Do Just That
-date: 2024-04-24T01:09:52.132Z
-updated: 2024-04-25T01:09:52.132Z
+date: 2024-06-15T18:56:31.233Z
+updated: 2024-06-16T18:56:31.233Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New 2024 Approved Have You Ever Wondered How to Add Camera Shake to Video in Adobe After Effects? Let Us Share with You some Tips and Tricks on How to Do Just That
 excerpt: This Article Describes New 2024 Approved Have You Ever Wondered How to Add Camera Shake to Video in Adobe After Effects? Let Us Share with You some Tips and Tricks on How to Do Just That
 keywords: do you wish to design the perfect slow motion video on your smartphone learn some top rated free slow mo apps for android and ios users in this article,what is lumetri color and how do you use it in adobe after effects find out the numerous functions of lumetri panel and ways to apply them to your video,you will also be guided on how to use this software to crop your videos dont worry and just take it one step at a time,several tips can facilitate how you edit videos faster and easier all you need to do is to read this article to find out what they are,do you know how to create a lol montage video had you ever tried that video type before connect with this article to study the tips and tricks associated with the making of montage videos,camera shake effects in videos helps to showcase aesthetics and vibes do you wish to add a camera shake in videos consider using the video editor discussed here for this,have you ever wondered how to add camera shake to video in adobe after effects let us share with you some tips and tricks on how to do just that
-thumbnail: https://www.lifewire.com/thmb/q2YzogdKG5J-JDQw9ed7I5Iu49A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/full-frame-shot-of-speakers-1138109687-33289baddc314b44ae87abc2fc8060cd-e7bccad6d81244509ed97ddf557f89e4.jpg
+thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90367153732b7b65655c151cd.jpg
 ---
 
 ## Have You Ever Wondered How to Add Camera Shake to Video in Adobe After Effects? Let Us Share with You some Tips and Tricks on How to Do Just That

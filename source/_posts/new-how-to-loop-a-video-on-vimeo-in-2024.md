@@ -1,7 +1,7 @@
 ---
 title: New How to Loop a Video on Vimeo, In 2024
-date: 2024-04-24T01:02:39.060Z
-updated: 2024-04-25T01:02:39.060Z
+date: 2024-06-15T18:56:52.978Z
+updated: 2024-06-16T18:56:52.978Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New How to Loop a Video on Vimeo, In 2024
 excerpt: This Article Describes New How to Loop a Video on Vimeo, In 2024
 keywords: ai animation how to loop video in canva,how to loop a video on vimeo,ai animation ai animation how to loop a video on vimeo,4 ways to loop a video on vimeo,how to make a video loop in quicktime,ai animation how to loop a video on vimeo,how to loop a video on android
-thumbnail: https://www.lifewire.com/thmb/INF6SYasZPz8DbBoNXqU2flP540=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/before-you-buy-a-video-projector-1847845-v3-ED-8a08e03f2cfc4835a13872618bd4ad00.png
+thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb90774e1fcb8b0eea83e6c871.png
 ---
 
 ## How to Loop a Video on Vimeo?

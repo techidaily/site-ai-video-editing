@@ -1,7 +1,7 @@
 ---
 title: Updated Step by Step to Rotate Video in Google Photos
-date: 2024-05-19T05:11:53.424Z
-updated: 2024-05-20T05:11:53.424Z
+date: 2024-06-15T18:56:22.707Z
+updated: 2024-06-16T18:56:22.707Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated Step by Step to Rotate Video in Google Photos
 excerpt: This Article Describes Updated Step by Step to Rotate Video in Google Photos
 keywords: ai animation step by step to rotate video in google photos,step by step to rotate video in google photos,rotate video google photos,step by step to rotate videos in davinci resolve,ai animation ai animation ai animation step by step to rotate video in google photos,ai animation ai animation step by step to rotate video in google photos,step by step to rotate videos using obs
-thumbnail: https://www.lifewire.com/thmb/xk4sG4I9EUDVvTCEXSRMmg2yPjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/superbowl_dmytroAksonov_Getty-5a775189119fa8003752b313.jpg
+thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c706e3284222e7ce2389a41f.jpg
 ---
 
 ## Step by Step to Rotate Video in Google Photos

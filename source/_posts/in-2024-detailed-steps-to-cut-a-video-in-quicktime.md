@@ -1,7 +1,7 @@
 ---
 title: In 2024, Detailed Steps to Cut a Video in QuickTime
-date: 2024-05-19T05:11:57.655Z
-updated: 2024-05-20T05:11:57.655Z
+date: 2024-06-15T18:56:30.079Z
+updated: 2024-06-16T18:56:30.079Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, Detailed Steps to Cut a Video in QuickTime
 excerpt: This Article Describes In 2024, Detailed Steps to Cut a Video in QuickTime
 keywords: step by step to cut a video in quicktime,ai animation detailed steps to cut a video in quicktime,ai animation ai animation detailed steps to cut a video in quicktime,ai animation detailed steps to resize video in davinci resolve,detailed steps to cut a video in quicktime,ai animation step by step to cut a video in quicktime,ai animation detailed steps to rotate videos in blender
-thumbnail: https://www.lifewire.com/thmb/bBM9LsJLxfsckFRQQI91FGiTONA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-it-when-reddit-apps-arent-working-f4c8fe50a9ff4c90a28e6a056b427208.jpg
+thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45f3ba370acbb24c0cc43ac69.jpg
 ---
 
 ## Detailed Steps to Cut a Video in QuickTime

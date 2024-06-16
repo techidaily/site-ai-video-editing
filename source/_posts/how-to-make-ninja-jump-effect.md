@@ -1,7 +1,7 @@
 ---
 title: How To Make Ninja Jump Effect
-date: 2024-05-19T05:11:36.076Z
-updated: 2024-05-20T05:11:36.076Z
+date: 2024-06-15T18:56:27.519Z
+updated: 2024-06-16T18:56:27.519Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How To Make Ninja Jump Effect
 excerpt: This Article Describes How To Make Ninja Jump Effect
 keywords: how to make a bokeh effect,how to make ninja jump effect,ai animation ai animation how to make ninja jump effect,ai animation how to make ninja jump effect,ai animation how to make ninja jump effect with filmora,how to make ninja jump effect with filmora,ninja jump video effect
-thumbnail: https://www.lifewire.com/thmb/ir-tdkJhetInDNhHCkfbZa8f19M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flack-6b3c3167132c467db22bae39689c44ef.jpg
+thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d114b5800bdb87d98b552aa6d.jpg
 ---
 
 ## How To Make Ninja Jump Effect

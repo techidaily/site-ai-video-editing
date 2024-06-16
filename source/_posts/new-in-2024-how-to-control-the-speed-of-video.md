@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Control the Speed of Video
-date: 2024-04-24T01:05:35.116Z
-updated: 2024-04-25T01:05:35.116Z
+date: 2024-06-15T18:56:37.029Z
+updated: 2024-06-16T18:56:37.029Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New In 2024, How to Control the Speed of Video
 excerpt: This Article Describes New In 2024, How to Control the Speed of Video
 keywords: how can i control speed of a video,how to change speed of video in final cut pro,control the speed of video,ai animation how can i control speed of a video,how to control the speed of video,how to change the speed of video in davinci resolve,ai animation how to control the speed of video
-thumbnail: https://www.lifewire.com/thmb/-_m0G8vbbxxIlkvVQDjlQ1eCN-4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-541916248-593842a43df78c537be2cf44.jpg
+thumbnail: https://thmb.techidaily.com/69a1f779573ffb1d9703aa1f0c2a82407b77bc35052e19faef90f3eeabcd3dc4.jpg
 ---
 
 ## How to Control the Speed of Video

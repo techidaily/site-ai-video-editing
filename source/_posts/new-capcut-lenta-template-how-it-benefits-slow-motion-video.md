@@ -1,7 +1,7 @@
 ---
 title: New CapCut Lenta Template How It Benefits Slow Motion Video
-date: 2024-05-19T05:12:12.746Z
-updated: 2024-05-20T05:12:12.746Z
+date: 2024-06-15T18:56:29.419Z
+updated: 2024-06-16T18:56:29.419Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New CapCut Lenta Template How It Benefits Slow Motion Video
 excerpt: This Article Describes New CapCut Lenta Template How It Benefits Slow Motion Video
 keywords: best capcut templates for slow motion video trend,best capcut template for slow motion video trend,create slow motion video with the best capcut template,capcut lenta template and slow motion video,ai animation capcut lenta template how it benefits slow motion video,capcut lenta template how it benefits slow motion video,understanding more about capcut lenta template and slow motion videos
-thumbnail: https://www.lifewire.com/thmb/9RF2k5zJ8slFGgduRb1qj6IFxoo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-77744394-e5f79596e54a4ba6a914eed31be7efc4.jpg
+thumbnail: https://thmb.techidaily.com/99f8be9be102276bc593db3bcc6b07419f9816f2452ed4f5c2e0bd34aa16b628.jpg
 ---
 
 ## CapCut Lenta Template: How It Benefits Slow Motion Video

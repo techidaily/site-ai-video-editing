@@ -1,7 +1,7 @@
 ---
 title: How to Trim Video in QuickTime Player on Your Mac for 2024
-date: 2024-05-19T05:12:20.527Z
-updated: 2024-05-20T05:12:20.527Z
+date: 2024-06-15T18:56:36.932Z
+updated: 2024-06-16T18:56:36.932Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How to Trim Video in QuickTime Player on Your Mac for 2024
 excerpt: This Article Describes How to Trim Video in QuickTime Player on Your Mac for 2024
 keywords: how to change quicktime player speed on mac,how to trim video in quicktime player on your mac,how to make a video loop in quicktime,how to trim video in quicktime player on mac,ai animation how to trim video in quicktime player on your mac,ai animation ai animation how to trim video in quicktime player on mac,ai animation how to trim video in quicktime player on mac
-thumbnail: https://www.lifewire.com/thmb/5m3PFyS3dMrqXFE2iOSfA4BUn2Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-smart-tv-12dcac76114b4747b9b3db8bb3551ddc.jpg
+thumbnail: https://thmb.techidaily.com/85e69845f10f793c5b081e6eac45cea976095820d8ff765825e636a33b833fec.jpg
 ---
 
 ## How to Trim Video in QuickTime Player on Your Mac

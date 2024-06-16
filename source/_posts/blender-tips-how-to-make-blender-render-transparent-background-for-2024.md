@@ -1,7 +1,7 @@
 ---
 title: Blender Tips - How to Make Blender Render Transparent Background for 2024
-date: 2024-05-19T05:11:56.716Z
-updated: 2024-05-20T05:11:56.716Z
+date: 2024-06-15T18:56:45.996Z
+updated: 2024-06-16T18:56:45.996Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Blender Tips - How to Make Blender Render Transparent Background for 2024
 excerpt: This Article Describes Blender Tips - How to Make Blender Render Transparent Background for 2024
 keywords: how to make blender render transparent background,ai animation blender tips how to make blender render transparent background,ai animation ai animation blender tips how to make blender render transparent background,blender render transparent background,blender tips how to make blender render transparent background,ai animation how to make blender render transparent background,end this problem make transparent background video today
-thumbnail: https://www.lifewire.com/thmb/U882-EUGEoQajhN4rEvQp6D4miQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/are-you-really-getting-dolby-atmos-sound-135ec4330d004250883e2acab9423191.jpg
+thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04e77596617ba912c21778696.jpg
 ---
 
 ## Blender Tips - How to Make Blender Render Transparent Background

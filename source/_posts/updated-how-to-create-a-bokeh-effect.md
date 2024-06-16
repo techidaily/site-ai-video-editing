@@ -1,7 +1,7 @@
 ---
 title: Updated How to Create a Bokeh Effect
-date: 2024-05-19T05:11:54.713Z
-updated: 2024-05-20T05:11:54.713Z
+date: 2024-06-15T18:56:28.494Z
+updated: 2024-06-16T18:56:28.494Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated How to Create a Bokeh Effect
 excerpt: This Article Describes Updated How to Create a Bokeh Effect
 keywords: ai animation how to make a bokeh effect,ai animation ai animation how to create a bokeh effect,ai animation how to create a bokeh effect,how to make a bokeh effect,how to create a glitch text effect,how to create after effects gifs,how to create a bokeh effect
-thumbnail: https://www.lifewire.com/thmb/YPMhKL59WGdTUpxCrpaB_OS--cc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-speech-to-text-on-android-0-928c48ab121248f9aa543a136d971f9a.jpg
+thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afdff538e1080a5add013b39bf.jpg
 ---
 
 ## How to Create a Bokeh Effect

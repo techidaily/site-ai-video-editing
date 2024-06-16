@@ -1,7 +1,7 @@
 ---
 title: Updated Best iPhone LUTs App to Use
-date: 2024-05-19T05:12:12.023Z
-updated: 2024-05-20T05:12:12.023Z
+date: 2024-06-15T18:56:45.842Z
+updated: 2024-06-16T18:56:45.842Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated Best iPhone LUTs App to Use
 excerpt: This Article Describes Updated Best iPhone LUTs App to Use
 keywords: best iphone luts app to use,ai animation best free luts to use in shotcut,best free luts to use in shotcut,best iphone luts app,best free luts to use,ai animation best iphone luts app to use,ai animation best free luts to use
-thumbnail: https://www.lifewire.com/thmb/9P6TB9sqO-6Yq23O2BOj91c-Cvg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-541365354-5c8ad42246e0fb00014a9687.jpg
+thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9fefb2b304db02c765d66484d.jpg
 ---
 
 ## Best iPhone LUTs App to Use

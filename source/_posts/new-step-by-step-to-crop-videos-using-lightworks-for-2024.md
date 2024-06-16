@@ -1,7 +1,7 @@
 ---
 title: New Step by Step to Crop Videos Using Lightworks for 2024
-date: 2024-04-24T01:03:38.817Z
-updated: 2024-04-25T01:03:38.817Z
+date: 2024-06-15T18:56:32.125Z
+updated: 2024-06-16T18:56:32.125Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New Step by Step to Crop Videos Using Lightworks for 2024
 excerpt: This Article Describes New Step by Step to Crop Videos Using Lightworks for 2024
 keywords: ai animation step by step to crop a video using lightworks,step by step to cut a video in lightworks,step by step to crop a video using lightworks,ai animation ai animation step by step to crop videos using lightworks,step by step to crop videos using lightworks,step by step to cut videos in lightworks,ai animation step by step to crop videos using lightworks
-thumbnail: https://www.lifewire.com/thmb/8ROImJcMy0nz5unlY1bdTJLi7tk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dns-wordcloud-lifewire-2-0c92c02113cb4832870891ac0e13ccbc.png
+thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de65b71eab7da2ab3371e3a0f.png
 ---
 
 ## Step by Step to Crop Videos Using Lightworks

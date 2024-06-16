@@ -1,7 +1,7 @@
 ---
 title: How to Create Text Animation for Videos
-date: 2024-05-19T05:11:35.917Z
-updated: 2024-05-20T05:11:35.917Z
+date: 2024-06-15T18:56:35.366Z
+updated: 2024-06-16T18:56:35.366Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How to Create Text Animation for Videos
 excerpt: This Article Describes How to Create Text Animation for Videos
 keywords: ai animation how to create video in text intro,ai animation how to create 3d text in video,ai animation how to create text animation for videos,create countdown animation for videos,how to create text animation for videos,ai animation how to create motion text effects for your video,create text animation for videos
-thumbnail: https://www.lifewire.com/thmb/__rERyiFiVgLZNIfMljI1DDoPFE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tropical-beach-wallpaper-beach-backgrounds-587fbb765f9b584db3241860.jpg
+thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975f435870883240d8e13b1f76.jpg
 ---
 
 ## How to Create Text Animation for Videos

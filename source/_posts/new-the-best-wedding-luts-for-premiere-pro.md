@@ -1,7 +1,7 @@
 ---
 title: New The Best Wedding LUTs for Premiere Pro
-date: 2024-05-19T05:12:24.582Z
-updated: 2024-05-20T05:12:24.582Z
+date: 2024-06-15T18:56:17.275Z
+updated: 2024-06-16T18:56:17.275Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New The Best Wedding LUTs for Premiere Pro
 excerpt: This Article Describes New The Best Wedding LUTs for Premiere Pro
 keywords: ai animation the best wedding luts for premiere pro,the best wedding luts for premiere pro,top best free luts for premiere pro,discovering the best wedding luts for premiere pro an overview,best free luts for premiere pro,wedding luts premiere pro,learn top best free luts for premiere pro
-thumbnail: https://www.lifewire.com/thmb/xgo6tGI-HONOfys81EHMpcUqTKU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-970157966-65f3dd434f3e4dc98e28a635b8cacc87.jpg
+thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325d71d7edbcfdaf185bcde8ae.jpg
 ---
 
 ## The Best Wedding LUTs for Premiere Pro

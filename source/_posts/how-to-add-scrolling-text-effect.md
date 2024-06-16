@@ -1,7 +1,7 @@
 ---
 title: How To Add Scrolling Text Effect
-date: 2024-05-19T05:11:33.936Z
-updated: 2024-05-20T05:11:33.936Z
+date: 2024-06-15T18:56:51.686Z
+updated: 2024-06-16T18:56:51.686Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How To Add Scrolling Text Effect
 excerpt: This Article Describes How To Add Scrolling Text Effect
 keywords: how to add font effect,how to create a glitch text effect,how to add text effects in adobe premiere pro,add scrolling text effect,how to add text in after effects,ai animation how to add scrolling text effect,how to add scrolling text effect
-thumbnail: https://www.lifewire.com/thmb/17eYx3JlNgYWrNsT2X2f6cCUjf0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edit-tweet-after-publish-3476767-34af9aa3b62b4bf4b11891460076916b.png
+thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea886bdb64936441ab4225274.png
 ---
 
 ## How To Add Scrolling Text Effect

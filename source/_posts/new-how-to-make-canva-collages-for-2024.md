@@ -1,7 +1,7 @@
 ---
 title: New How to Make Canva Collages for 2024
-date: 2024-04-24T01:02:46.399Z
-updated: 2024-04-25T01:02:46.399Z
+date: 2024-06-15T18:56:23.559Z
+updated: 2024-06-16T18:56:23.559Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New How to Make Canva Collages for 2024
 excerpt: This Article Describes New How to Make Canva Collages for 2024
 keywords: ways to make canva collages,ai animation ways to make canva collages,ai animation ai animation how to make canva collages,how to make a polaroid collage,how to use canva color match,how to make canva collages,ai animation how to make canva collages
-thumbnail: https://www.lifewire.com/thmb/vIq8aJ1XOE0Q97nXhFUuoQCZpKI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/youtube-s-free-streaming-movies-and-tv-shows-1357439-ddbc3cf482e24a539c67009c07310ae1.png
+thumbnail: https://thmb.techidaily.com/be42a9800526c31b5bfdef3ed18cce59bd7b3192524b647f6f87b51df7e044d8.png
 ---
 
 ## How to Make Canva Collages

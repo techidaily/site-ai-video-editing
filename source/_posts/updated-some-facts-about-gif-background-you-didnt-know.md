@@ -1,7 +1,7 @@
 ---
 title: Updated Some Facts About GIF Background You Didnt Know
-date: 2024-05-19T05:12:06.566Z
-updated: 2024-05-20T05:12:06.566Z
+date: 2024-06-15T18:56:31.444Z
+updated: 2024-06-16T18:56:31.444Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated Some Facts About GIF Background You Didnt Know
 excerpt: This Article Describes Updated Some Facts About GIF Background You Didnt Know
 keywords: ai animation some facts about gif background you didnt know,ai animation facts about gif background you didnt know,want to immediately know something about discord gif,ai animation ai animation some facts about gif background you didnt know,facts about gif background you didnt know,some facts about gif background you didnt know,ll about gif keyboard that you want to know
-thumbnail: https://www.lifewire.com/thmb/9RF2k5zJ8slFGgduRb1qj6IFxoo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-77744394-e5f79596e54a4ba6a914eed31be7efc4.jpg
+thumbnail: https://thmb.techidaily.com/99f8be9be102276bc593db3bcc6b07419f9816f2452ed4f5c2e0bd34aa16b628.jpg
 ---
 
 ## Some Facts About GIF Background You Didn’t Know

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Dollar-Store DIY Hacks to Use for Filmmaking on a Budget
-date: 2024-04-24T01:01:45.396Z
-updated: 2024-04-25T01:01:45.396Z
+date: 2024-06-15T18:56:32.773Z
+updated: 2024-06-16T18:56:32.773Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Dollar-Store DIY Hacks to Use for Filmmaking on a Budget
 excerpt: This Article Describes Updated 2024 Approved Dollar-Store DIY Hacks to Use for Filmmaking on a Budget
 keywords: ai animation updated 2024 top free vintage luts to use,dollar store diy hacks to use for filmmaking,dollar store hack in filmmaking,ai animation ai animation dollar store diy hacks to use for filmmaking on a budget,dollar store diy hacks to use for filmmaking on a budget,ai animation dollar store diy hacks to use for filmmaking,ai animation dollar store diy hacks to use for filmmaking on a budget
-thumbnail: https://www.lifewire.com/thmb/dXcXyOjh5f14j9Nzv8d0qtr4jHE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-850120538-4d2af54c23a641c8a5f2e00ef7a9aa37.jpg
+thumbnail: https://thmb.techidaily.com/805432a26a63c24a3ad7f94c306f1a1291a2364beb1c1710fc99d1f9d71ae26e.jpg
 ---
 
 ## Dollar-Store DIY Hacks to Use for Filmmaking on a Budget

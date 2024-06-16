@@ -1,7 +1,7 @@
 ---
 title: Updated How to Use Lumetri Color in After Effects
-date: 2024-05-19T05:12:21.138Z
-updated: 2024-05-20T05:12:21.138Z
+date: 2024-06-15T18:56:51.906Z
+updated: 2024-06-16T18:56:51.906Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated How to Use Lumetri Color in After Effects
 excerpt: This Article Describes Updated How to Use Lumetri Color in After Effects
 keywords: ai animation how to use lumetri color in adobe after effects,how to use lumetri color in after effects,how to create and use adjustment layers in after effects,ai animation ai animation how to use lumetri color in adobe after effects,how to use lumetri color in adobe after effects,lumetri color after effects,ai animation how to use lumetri color in after effects
-thumbnail: https://www.lifewire.com/thmb/8693hBAeE81sk6n359fo6i01-Hc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1168002788-1bccccf67a1f4988bd355c09748383ab.jpg
+thumbnail: https://thmb.techidaily.com/8ab6ea565c08148258cccefd3c4e69bde02c4b3dbfe57b65bd55e5629cfc57b6.jpg
 ---
 
 ## How to Use Lumetri Color in After Effects

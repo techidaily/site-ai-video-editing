@@ -1,7 +1,7 @@
 ---
 title: Cropping Videos in Final Cut Pro Step by Step for 2024
-date: 2024-05-19T05:12:13.322Z
-updated: 2024-05-20T05:12:13.322Z
+date: 2024-06-15T18:56:49.475Z
+updated: 2024-06-16T18:56:49.475Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Cropping Videos in Final Cut Pro Step by Step for 2024
 excerpt: This Article Describes Cropping Videos in Final Cut Pro Step by Step for 2024
 keywords: ai animation ai animation cropping a video in final cut pro step by step,ai animation cropping videos in final cut pro step by step,cropping video in vlc step by step,cropping videos in vlc step by step,ai animation cropping a video in final cut pro step by step,cropping a video in final cut pro step by step,cropping videos in final cut pro step by step
-thumbnail: https://www.lifewire.com/thmb/AOVQTNyOWIZPYiKZehcoYQS3DNU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-820926684-5c7747ebc45847708ac311b709bdc1f2.jpg
+thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343ebf5ad117060d9466fac18ee3.jpg
 ---
 
 ## Cropping Videos in Final Cut Pro [Step by Step]

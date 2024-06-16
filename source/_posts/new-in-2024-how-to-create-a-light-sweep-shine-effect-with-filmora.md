@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Create a Light Sweep (Shine) Effect with Filmora
-date: 2024-04-24T01:05:38.299Z
-updated: 2024-04-25T01:05:38.299Z
+date: 2024-06-15T18:56:23.620Z
+updated: 2024-06-16T18:56:23.620Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New In 2024, How to Create a Light Sweep (Shine) Effect with Filmora
 excerpt: This Article Describes New In 2024, How to Create a Light Sweep (Shine) Effect with Filmora
 keywords: how to add miniature effect in video with filmora,how to create a light sweep shine effect,how to create a light sweep shine effect with filmora,ai animation how to create a light sweep shine effect with filmora,how to create a text effect video with filmora,create a light sweep shine effect,ai animation how to create a text effect video with filmora
-thumbnail: https://www.lifewire.com/thmb/4MzQVD7hvg3LqrJguvtCUGY_xnA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-990620130-ec2a7076e3f043bfa4f540b72d2034c6.jpg
+thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd4f5906c27990e96a64caabf.jpg
 ---
 
 ## How to Create a Light Sweep (Shine) Effect with Filmora

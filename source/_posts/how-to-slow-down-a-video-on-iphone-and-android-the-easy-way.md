@@ -1,7 +1,7 @@
 ---
 title: How to Slow Down a Video on iPhone and Android The Easy Way
-date: 2024-05-19T05:11:39.151Z
-updated: 2024-05-20T05:11:39.151Z
+date: 2024-06-15T18:56:31.957Z
+updated: 2024-06-16T18:56:31.957Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How to Slow Down a Video on iPhone and Android The Easy Way
 excerpt: This Article Describes How to Slow Down a Video on iPhone and Android The Easy Way
 keywords: the right ways to slow down a video on iphone,ai animation easy steps to slow down a video on iphone and android,how to slow down a video on iphone and android,easy steps to slow down a video on iphone and android,how to slow down a video on iphone,how to slow down a video on iphone and android the easy way,ai animation how to slow down a video on iphone and android the easy way
-thumbnail: https://www.lifewire.com/thmb/x0mFXdBc-1Q_2JlWzJG0rvyCFFg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dormroomentfeatured-5b5e9dd3c9e77c004f28632e.jpg
+thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401ca2b8aa427adfd091e8a1d2a.jpg
 ---
 
 ## How to Slow Down a Video on iPhone and Android The Easy Way

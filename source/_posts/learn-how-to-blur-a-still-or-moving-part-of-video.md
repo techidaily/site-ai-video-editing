@@ -1,7 +1,7 @@
 ---
 title: Learn How to Blur a Still or Moving Part of Video
-date: 2024-05-19T05:11:39.595Z
-updated: 2024-05-20T05:11:39.595Z
+date: 2024-06-15T18:56:38.035Z
+updated: 2024-06-16T18:56:38.035Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Learn How to Blur a Still or Moving Part of Video
 excerpt: This Article Describes Learn How to Blur a Still or Moving Part of Video
 keywords: blur a part of video,ai animation how to blur a still or moving part of video,learn how to blur a still or moving part of video,ai animation learn how to blur a still or moving part of video,how to use motion blur on video star,ai animation ai animation how to blur a still or moving part of video,how to blur a still or moving part of video
-thumbnail: https://www.lifewire.com/thmb/INF6SYasZPz8DbBoNXqU2flP540=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/before-you-buy-a-video-projector-1847845-v3-ED-8a08e03f2cfc4835a13872618bd4ad00.png
+thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb90774e1fcb8b0eea83e6c871.png
 ---
 
 ## Learn How to Blur a Still or Moving Part of Video

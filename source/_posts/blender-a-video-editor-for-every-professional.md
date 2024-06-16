@@ -1,7 +1,7 @@
 ---
 title: Blender - A Video Editor for Every Professional
-date: 2024-05-19T05:11:37.645Z
-updated: 2024-05-20T05:11:37.645Z
+date: 2024-06-15T18:56:51.546Z
+updated: 2024-06-16T18:56:51.546Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Blender - A Video Editor for Every Professional
 excerpt: This Article Describes Blender - A Video Editor for Every Professional
 keywords: blender a video editor for all professor,ai animation ai animation blender a video editor for all professor,8 frame rate video converters for a professional finish,ai animation blender a video editor for all professor,ai animation blender a video editor for every professional,vn editor a prominent option for adding luts for video editing,blender a video editor for every professional
-thumbnail: https://www.lifewire.com/thmb/x3esfFmI2Y55OmmlRvMWAY3TioM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-98471373-56a9ff935f9b58b7d0006b1a.jpg
+thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aacdfd70319b10cdaec65e638.jpg
 ---
 
 ## Blender - A Video Editor for Every Professional

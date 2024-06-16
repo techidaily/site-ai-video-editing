@@ -1,7 +1,7 @@
 ---
 title: In 2024, Repeated Text Animation Tutorial
-date: 2024-05-19T05:12:22.787Z
-updated: 2024-05-20T05:12:22.787Z
+date: 2024-06-15T18:56:43.300Z
+updated: 2024-06-16T18:56:43.300Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, Repeated Text Animation Tutorial
 excerpt: This Article Describes In 2024, Repeated Text Animation Tutorial
 keywords: ai animation how to create 3d text in video,repeated text animation tutorial,special animated transition tutorial,ai animation repeated text animation tutorial in filmora,text animation intro tutorial in filmora,ai animation repeated text animation tutorial,repeated text animation tutorial in filmora
-thumbnail: https://www.lifewire.com/thmb/DkM9pHd1hq5V02UbKX94h0TfJkQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duetinslides-fd2c11f1a91a4d7388cc25f2f4719cca.jpg
+thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c40f79ad9e48ab602a74cd56.jpg
 ---
 
 ## Repeated Text Animation Tutorial

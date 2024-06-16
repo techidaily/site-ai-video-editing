@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 6 Drones for Videography
-date: 2024-05-19T05:12:26.351Z
-updated: 2024-05-20T05:12:26.351Z
+date: 2024-06-15T18:56:15.691Z
+updated: 2024-06-16T18:56:15.691Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, Top 6 Drones for Videography
 excerpt: This Article Describes In 2024, Top 6 Drones for Videography
 keywords: top 5 online video converter for instagram 2024,top 11 best video editing apps for iphone,drone videography,top 6 drones for videography,ai animation top 6 drones for videography,best tips for better event videography,make cinematography for music video
-thumbnail: https://www.lifewire.com/thmb/ebrh4pryk1RCkUBx_N34Im614oA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-14050070541-0fc96b82fdc54287bf3bbce3ba323342.jpg
+thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef3415c454c76fbd282fafbfc.jpg
 ---
 
 ## Top 6 Drones for Videography

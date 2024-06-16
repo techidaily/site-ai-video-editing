@@ -1,7 +1,7 @@
 ---
 title: Merging Videos Like a Pro A Step-by-Step Guide to Use FFmpeg
-date: 2024-05-19T05:11:39.744Z
-updated: 2024-05-20T05:11:39.744Z
+date: 2024-06-15T18:56:17.960Z
+updated: 2024-06-16T18:56:17.960Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Merging Videos Like a Pro A Step-by-Step Guide to Use FFmpeg
 excerpt: This Article Describes Merging Videos Like a Pro A Step-by-Step Guide to Use FFmpeg
 keywords: splitting video into frames with the ffmpeg step by step,merging videos like a pro a step by step guide to use ffmpeg,step by step to rotate videos using kdenlive,step by step guide on using media player classic to rotate a video,splitting a video into frames with the ffmpeg step by step,ai animation merging videos like a pro a step by step guide to use ffmpeg,step by step to crop a video using lightworks
-thumbnail: https://www.lifewire.com/thmb/BEu1dTImTgj-gj19IMN4njOxWDE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/set-top-dvr-1130767-f2aa7f11e3d2442b966d53b8aa2d25fd.png
+thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f7257579ffa960f9e7a085032e4b04.png
 ---
 
 ## Merging Videos Like a Pro: A Step-by-Step Guide to Use FFmpeg

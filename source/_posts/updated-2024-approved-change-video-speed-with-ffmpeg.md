@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Change Video Speed with FFmpeg
-date: 2024-04-24T01:04:48.039Z
-updated: 2024-04-25T01:04:48.039Z
+date: 2024-06-15T18:56:39.205Z
+updated: 2024-06-16T18:56:39.205Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Change Video Speed with FFmpeg
 excerpt: This Article Describes Updated 2024 Approved Change Video Speed with FFmpeg
 keywords: how to remove audio from videos with ffmpeg,mastering video speed control slow down speed up and edit with ease,change video frame rate with filmora,speed up video ffmpeg,change video speed with ffmpeg,ai animation change video speed with ffmpeg,speed up video with final cut pro
-thumbnail: https://www.lifewire.com/thmb/xo05oNjxuGAf4v7-INYwiifcGHo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-instagram-filters-for-2018-4177148-1-5bc5e4b6c9e77c00517f198d.jpg
+thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad2338e40c998d0c7dc6ff96d9a.jpg
 ---
 
 ## Change Video Speed with FFmpeg

@@ -1,7 +1,7 @@
 ---
 title: New Free for 2024
-date: 2024-04-24T01:09:42.229Z
-updated: 2024-04-25T01:09:42.229Z
+date: 2024-06-15T18:56:31.372Z
+updated: 2024-06-16T18:56:31.372Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New Free for 2024
 excerpt: This Article Describes New Free for 2024
 keywords: how to add vhs effects to videos for free 2024,free luts for obs,free titles for final cut pro,free luts for shotcut,add vhs effects to videos for free a 2024 guide,vsdc free video editor review 2023,15 free cinematic luts for your film
-thumbnail: https://www.lifewire.com/thmb/6mx5ubcqWIE245JjiBlgZpvI48I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Horserace-56ca33a85f9b5879cc4bcc6e.jpg
+thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea081222f679c45ec271effc3.jpg
 ---
 
 ## Free

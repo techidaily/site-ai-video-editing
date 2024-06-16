@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Steps to Create Gold Text Effects After Effects
-date: 2024-04-24T01:03:41.674Z
-updated: 2024-04-25T01:03:41.674Z
+date: 2024-06-15T18:56:17.719Z
+updated: 2024-06-16T18:56:17.719Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New 2024 Approved Steps to Create Gold Text Effects After Effects
 excerpt: This Article Describes New 2024 Approved Steps to Create Gold Text Effects After Effects
 keywords: how to create after effects gifs,ai animation steps to create gold text effects after effects,steps to create green screen videos in after effects,ai animation create true 3d text effects using after effects,ai animation ai animation steps to create gold text effects after effects,steps to create gold text effects after effects,create true 3d text effects using after effects
-thumbnail: https://www.lifewire.com/thmb/6d3Pk0OpPHgsMtYTh0RE0ehMopY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-758317893-3ab5c26f770448db8b4a58205fb549f1.jpg
+thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3ee5edf935baeb75dd083d47.jpg
 ---
 
 ## Steps to Create Gold Text Effects After Effects

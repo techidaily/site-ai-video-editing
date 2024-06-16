@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved How to Zoom in Discord
-date: 2024-04-24T01:06:45.842Z
-updated: 2024-04-25T01:06:45.842Z
+date: 2024-06-15T18:56:45.641Z
+updated: 2024-06-16T18:56:45.641Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New 2024 Approved How to Zoom in Discord
 excerpt: This Article Describes New 2024 Approved How to Zoom in Discord
 keywords: zoom in discord,how to zoom in discord,ai animation how to make discord gif pfp solved,ai animation how to zoom in discord,zoom in and out on discord,zoom in and out on discord desktop app browser solutions,how to zoom in and out on mac
-thumbnail: https://www.lifewire.com/thmb/uOuMw8_e1pBrdfuZB3txnHBxmfk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sofya-NomETWcv2Fo-unsplash-be3fc2855a7e477db0273993fd22e822.jpg
+thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735f93f6027b47c78945bb4e75.jpg
 ---
 
 ## How to Zoom in Discord
