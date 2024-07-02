@@ -1,7 +1,7 @@
 ---
 title: In 2024, | Best 8 Online GIF to APNG Converters
-date: 2024-06-24T01:30:18.285Z
-updated: 2024-06-25T01:30:18.285Z
+date: 2024-07-01T13:02:25.853Z
+updated: 2024-07-02T13:02:25.853Z
 tags: 
   - ai
   - animation videos
@@ -2103,7 +2103,7 @@ Finally, you can add a Subscribe button from the new default Filmora element pac
 
 ## Wrapping up
 
-These are two ways you can create your own Lower Thirds in FIlmora. You can also change the keyframe settings to customize your lower thirds even more. Now, it's time to try it yourself, and let us know what you think![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+These are two ways you can create your own Lower Thirds in FIlmora. You can also change the keyframe settings to customize your lower thirds even more. Now, it's time to try it yourself, and let us know what you think ![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 ### (1) A simple line and texts
 

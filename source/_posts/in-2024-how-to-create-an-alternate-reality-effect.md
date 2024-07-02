@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Create an Alternate Reality Effect
-date: 2024-06-24T01:30:37.805Z
-updated: 2024-06-25T01:30:37.805Z
+date: 2024-07-01T13:02:27.667Z
+updated: 2024-07-02T13:02:27.667Z
 tags: 
   - ai
   - animation videos
@@ -1031,7 +1031,7 @@ Congratulations! The above steps allow you to add text behind objects in your vi
 
 Modern media is full of creative content. And if you are a content creator that wants to make it through the world of YouTube and video creating, you need to be the best. You can only be the best at what you do if you keep pushing the boundaries of your creativity.
 
-Adding text behind objects could be the first step in making your intros shine with creativity and innovation. It allows you to maintain and build your viewing audience. The more the audience, the more your content gets watched![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+Adding text behind objects could be the first step in making your intros shine with creativity and innovation. It allows you to maintain and build your viewing audience. The more the audience, the more your content gets watched ![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 It has a very engaging system UI, allowing even beginner users to get their hands on it instantly. You will learn how to add text behind your videos with a few simple steps.
 

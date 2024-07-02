@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Add Some Shake to Videos with Alight Motion
-date: 2024-05-19T05:12:56.032Z
-updated: 2024-05-20T05:12:56.032Z
+date: 2024-07-01T13:02:26.113Z
+updated: 2024-07-02T13:02:26.113Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Add Some Shake to Videos with Alight Motion
 excerpt: This Article Describes Updated 2024 Approved Add Some Shake to Videos with Alight Motion
 keywords: ai animation adding shake effects to your video with alight motion,ai animation ai animation adding shake effects to your video with alight motion,ai animation top photo video maker apps with song,ai animation add some shake to videos with alight motion,add some shake to videos with alight motion,adding shake effects to your video with alight motion,how to remove echo from videos with adobe audition 2022
-thumbnail: https://www.lifewire.com/thmb/hXsx55Jq_t9VhBh8GdAq7SriZ7k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-check-ram-in-android-5192499-8e8b91b6d94b4ab98c3bfa9ba41a4f66.jpg
+thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5486b2d51ee08c850ba80fdd.jpg
 ---
 
 ## Add Some Shake to Videos with Alight Motion

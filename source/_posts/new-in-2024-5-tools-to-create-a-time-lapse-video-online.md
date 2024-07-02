@@ -1,7 +1,7 @@
 ---
 title: New In 2024, 5 Tools to Create a Time-Lapse Video Online
-date: 2024-05-19T05:12:51.922Z
-updated: 2024-05-20T05:12:51.922Z
+date: 2024-07-01T13:02:25.613Z
+updated: 2024-07-02T13:02:25.613Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New In 2024, 5 Tools to Create a Time-Lapse Video Online
 excerpt: This Article Describes New In 2024, 5 Tools to Create a Time-Lapse Video Online
 keywords: guide to create a timelapse video in after effects,how to make a time lapse video online,5 tools to create a time lapse video online,ai animation ai animation 5 tools to create a time lapse video online,ai animation how to make a time lapse video online,ai animation 5 tools to create a time lapse video online,how to time lapse a video on imovie
-thumbnail: https://www.lifewire.com/thmb/LSRhv9V0PxzBAHOqiakqf0M89LI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1302402871-ea3debd2e3c64ec5a78a99e580b6a8d1.jpg
+thumbnail: https://thmb.techidaily.com/930df60c591e2a9cac7ea1bfd12cb488be55e4b8a96b142f6b85654b12ef9f8e.jpg
 ---
 
 ## 5 Tools to Create a Time-Lapse Video Online

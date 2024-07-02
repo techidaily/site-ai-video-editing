@@ -1,7 +1,7 @@
 ---
 title: In 2024, Getting To Know More About the Video Editing Interface of Wondershare Filmora
-date: 2024-05-19T05:11:59.363Z
-updated: 2024-05-20T05:11:59.363Z
+date: 2024-07-01T13:02:14.567Z
+updated: 2024-07-02T13:02:14.567Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, Getting To Know More About the Video Editing Interface of Wondershare Filmora
 excerpt: This Article Describes In 2024, Getting To Know More About the Video Editing Interface of Wondershare Filmora
 keywords: ai animation learn more about the video editing interface of wondershare filmora,do you know everything related to wondershare filmoras video editing interface if you are unaware of it read and learn about filmoras interface,ai animation ai animation getting to know more about the video editing interface of wondershare filmora,ai animation getting to know more about the video editing interface of wondershare filmora,learn more about the video editing interface of wondershare filmora,so without wasting time let me show you how to mask a video in wondershare filmora lets get started,getting to know more about the video editing interface of wondershare filmora
-thumbnail: https://www.lifewire.com/thmb/Z7QL7-14ToGxatBbyXkMA5egnao=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-wh-1000xm2-wireless-noise-cancelling-headphones-59c91370c412440010f51191.PNG
+thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51b39e47e7a2ccf645d397043.PNG
 ---
 
 ## Getting To Know More About the Video Editing Interface of Wondershare Filmora

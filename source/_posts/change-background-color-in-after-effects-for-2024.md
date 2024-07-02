@@ -1,7 +1,7 @@
 ---
 title: Change Background Color in After Effects for 2024
-date: 2024-05-19T05:11:56.801Z
-updated: 2024-05-20T05:11:56.801Z
+date: 2024-07-01T13:02:20.354Z
+updated: 2024-07-02T13:02:20.354Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Change Background Color in After Effects for 2024
 excerpt: This Article Describes Change Background Color in After Effects for 2024
 keywords: hard to remove black background in after effects,change background color in after effects,ai animation change background color in after effects,ai animation ai animation change background color in after effects,remove black background after effects,blur background after effects,how to blur the video background in after effects
-thumbnail: https://www.lifewire.com/thmb/4ql928fMUKkO_EPWrgDkfeEcVtE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/family-hanging-out-watching-videos-online-1166432791-309c6f7ac8cb4cc99875db5a77fd6f35.jpg
+thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28dd2151c249d15e615be6f528.jpg
 ---
 
 ## Change Background Color in After Effects

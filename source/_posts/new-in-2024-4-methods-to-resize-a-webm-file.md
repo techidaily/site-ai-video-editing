@@ -1,7 +1,7 @@
 ---
 title: New In 2024, 4 Methods to Resize a WebM File
-date: 2024-05-19T05:12:51.632Z
-updated: 2024-05-20T05:12:51.632Z
+date: 2024-07-01T13:02:27.612Z
+updated: 2024-07-02T13:02:27.612Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New In 2024, 4 Methods to Resize a WebM File
 excerpt: This Article Describes New In 2024, 4 Methods to Resize a WebM File
 keywords: 4 methods how to make a recap video,ai animation ai animation 4 methods to resize a webm file,ai animation 4 methods how to make a recap video,4 solutions to resize a webm file,ai animation 4 solutions to resize a webm file,4 methods to resize a webm file,ai animation 4 methods to resize a webm file
-thumbnail: https://www.lifewire.com/thmb/j6BDiuyaUokwtXDLEnyA5LApr9c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4062264-InCar6-1500-5b803f8ec9e77c0025d3f4de.jpg
+thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557e8c99c8c7fa75aee528315d.jpg
 ---
 
 ## 4 Methods to Resize a WebM File
@@ -1725,7 +1725,7 @@ As you have gained knowledge about motion tracking, there are many platforms tha
 
 **Step 2:** Lead to the "Layer" tab from the top and select the "New" option from the drop-down menu. Continue to select "Null Object" to add a layer to the timeline.
 
-![ create a null object layer](https://images.wondershare.com/filmora/article-images/2023/motion-tracking-using-the-best-video-editors-2.jpg)
+![create a null object layer](https://images.wondershare.com/filmora/article-images/2023/motion-tracking-using-the-best-video-editors-2.jpg)
 
 **Step 3:** Select the video clip and continue to the "Animation" tab from the top. Select "Track Motion" from the drop-down menu that appears. This will generate a box for selecting the object for motion tracking. You can extend the box and drag it anywhere in the video clip. To check the motion tracking object, click the “Analyze Forward” button on the bottom-right corner of the screen.
 
@@ -1835,7 +1835,7 @@ As you have gained knowledge about motion tracking, there are many platforms tha
 
 **Step 2:** Lead to the "Layer" tab from the top and select the "New" option from the drop-down menu. Continue to select "Null Object" to add a layer to the timeline.
 
-![ create a null object layer](https://images.wondershare.com/filmora/article-images/2023/motion-tracking-using-the-best-video-editors-2.jpg)
+![create a null object layer](https://images.wondershare.com/filmora/article-images/2023/motion-tracking-using-the-best-video-editors-2.jpg)
 
 **Step 3:** Select the video clip and continue to the "Animation" tab from the top. Select "Track Motion" from the drop-down menu that appears. This will generate a box for selecting the object for motion tracking. You can extend the box and drag it anywhere in the video clip. To check the motion tracking object, click the “Analyze Forward” button on the bottom-right corner of the screen.
 

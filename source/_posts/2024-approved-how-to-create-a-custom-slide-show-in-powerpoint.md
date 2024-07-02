@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Create a Custom Slide Show in PowerPoint
-date: 2024-05-19T05:12:01.471Z
-updated: 2024-05-20T05:12:01.471Z
+date: 2024-07-01T13:02:19.702Z
+updated: 2024-07-02T13:02:19.702Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes 2024 Approved How to Create a Custom Slide Show in PowerPoint
 excerpt: This Article Describes 2024 Approved How to Create a Custom Slide Show in PowerPoint
 keywords: ai animation ai animation how to create a custom slide show in powerpoint,ai animation how to make a custom slide show in powerpoint,how to create a custom slide show in powerpoint,how to create a powerpoint looping slideshow,how to add a slideshow in powerpoint,how to make a custom slide show in powerpoint,ai animation how to create a custom slide show in powerpoint
-thumbnail: https://www.lifewire.com/thmb/A1hfnW-9b0eVXXkLwD_6ei9mr2I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AE-lock-572ece975f9b58c34c0a2492.jpg
+thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f0e7070951ebc50a7e45bfdb.jpg
 ---
 
 ## How to Create a Custom Slide Show in PowerPoint
@@ -1127,19 +1127,19 @@ When adding a song to a video, everyone does not have complete technical knowled
 
 ##### Step1 Video Selection
 
-![Import or select videos ](https://images.wondershare.com/filmora/article-images/2022/02/video-song-6.png)
+![Import or select videos](https://images.wondershare.com/filmora/article-images/2022/02/video-song-6.png)
 
 Firstly, you should proceed by choosing the video you want to edit. For such a task, you should access the Filmora application. In the first interaction, you can see the CREATE NEW VIDEO button on the interface. You should click the button and select the desired video from the device. After choosing the video, you should click the ADD button.
 
 ##### Step2 Add Audio To Video
 
-![Add audio to video ](https://images.wondershare.com/filmora/article-images/2022/02/video-song-7.png)
+![Add audio to video](https://images.wondershare.com/filmora/article-images/2022/02/video-song-7.png)
 
 When the video is selected and added to the application, you should proceed with editing functionalities. Here, you should try to add audio to the videos. Here, you can see the option of MUSIC in the right toolbar. You can get an interface for choosing a song or audio file you want to add to the video by clicking such a button. The users will also get an option to listen to audio carefully to figure out the lyrics and outputs to make sure it is perfect for the video. After testing and confirming the audio, you should proceed further.
 
 ##### Step3 Export
 
-![Export ](https://images.wondershare.com/filmora/article-images/2022/02/video-song-9.png)
+![Export](https://images.wondershare.com/filmora/article-images/2022/02/video-song-9.png)
 
 After adding the audio and merging it with video, you should preview it once and then proceed by saving the changes. Now, you should focus on exporting the final files. While exporting files, you should be focused on some basic settings as well, such as – choosing the video format, etc.
 
@@ -1223,19 +1223,19 @@ When adding a song to a video, everyone does not have complete technical knowled
 
 ##### Step1 Video Selection
 
-![Import or select videos ](https://images.wondershare.com/filmora/article-images/2022/02/video-song-6.png)
+![Import or select videos](https://images.wondershare.com/filmora/article-images/2022/02/video-song-6.png)
 
 Firstly, you should proceed by choosing the video you want to edit. For such a task, you should access the Filmora application. In the first interaction, you can see the CREATE NEW VIDEO button on the interface. You should click the button and select the desired video from the device. After choosing the video, you should click the ADD button.
 
 ##### Step2 Add Audio To Video
 
-![Add audio to video ](https://images.wondershare.com/filmora/article-images/2022/02/video-song-7.png)
+![Add audio to video](https://images.wondershare.com/filmora/article-images/2022/02/video-song-7.png)
 
 When the video is selected and added to the application, you should proceed with editing functionalities. Here, you should try to add audio to the videos. Here, you can see the option of MUSIC in the right toolbar. You can get an interface for choosing a song or audio file you want to add to the video by clicking such a button. The users will also get an option to listen to audio carefully to figure out the lyrics and outputs to make sure it is perfect for the video. After testing and confirming the audio, you should proceed further.
 
 ##### Step3 Export
 
-![Export ](https://images.wondershare.com/filmora/article-images/2022/02/video-song-9.png)
+![Export](https://images.wondershare.com/filmora/article-images/2022/02/video-song-9.png)
 
 After adding the audio and merging it with video, you should preview it once and then proceed by saving the changes. Now, you should focus on exporting the final files. While exporting files, you should be focused on some basic settings as well, such as – choosing the video format, etc.
 
@@ -1319,19 +1319,19 @@ When adding a song to a video, everyone does not have complete technical knowled
 
 ##### Step1 Video Selection
 
-![Import or select videos ](https://images.wondershare.com/filmora/article-images/2022/02/video-song-6.png)
+![Import or select videos](https://images.wondershare.com/filmora/article-images/2022/02/video-song-6.png)
 
 Firstly, you should proceed by choosing the video you want to edit. For such a task, you should access the Filmora application. In the first interaction, you can see the CREATE NEW VIDEO button on the interface. You should click the button and select the desired video from the device. After choosing the video, you should click the ADD button.
 
 ##### Step2 Add Audio To Video
 
-![Add audio to video ](https://images.wondershare.com/filmora/article-images/2022/02/video-song-7.png)
+![Add audio to video](https://images.wondershare.com/filmora/article-images/2022/02/video-song-7.png)
 
 When the video is selected and added to the application, you should proceed with editing functionalities. Here, you should try to add audio to the videos. Here, you can see the option of MUSIC in the right toolbar. You can get an interface for choosing a song or audio file you want to add to the video by clicking such a button. The users will also get an option to listen to audio carefully to figure out the lyrics and outputs to make sure it is perfect for the video. After testing and confirming the audio, you should proceed further.
 
 ##### Step3 Export
 
-![Export ](https://images.wondershare.com/filmora/article-images/2022/02/video-song-9.png)
+![Export](https://images.wondershare.com/filmora/article-images/2022/02/video-song-9.png)
 
 After adding the audio and merging it with video, you should preview it once and then proceed by saving the changes. Now, you should focus on exporting the final files. While exporting files, you should be focused on some basic settings as well, such as – choosing the video format, etc.
 
@@ -1415,19 +1415,19 @@ When adding a song to a video, everyone does not have complete technical knowled
 
 ##### Step1 Video Selection
 
-![Import or select videos ](https://images.wondershare.com/filmora/article-images/2022/02/video-song-6.png)
+![Import or select videos](https://images.wondershare.com/filmora/article-images/2022/02/video-song-6.png)
 
 Firstly, you should proceed by choosing the video you want to edit. For such a task, you should access the Filmora application. In the first interaction, you can see the CREATE NEW VIDEO button on the interface. You should click the button and select the desired video from the device. After choosing the video, you should click the ADD button.
 
 ##### Step2 Add Audio To Video
 
-![Add audio to video ](https://images.wondershare.com/filmora/article-images/2022/02/video-song-7.png)
+![Add audio to video](https://images.wondershare.com/filmora/article-images/2022/02/video-song-7.png)
 
 When the video is selected and added to the application, you should proceed with editing functionalities. Here, you should try to add audio to the videos. Here, you can see the option of MUSIC in the right toolbar. You can get an interface for choosing a song or audio file you want to add to the video by clicking such a button. The users will also get an option to listen to audio carefully to figure out the lyrics and outputs to make sure it is perfect for the video. After testing and confirming the audio, you should proceed further.
 
 ##### Step3 Export
 
-![Export ](https://images.wondershare.com/filmora/article-images/2022/02/video-song-9.png)
+![Export](https://images.wondershare.com/filmora/article-images/2022/02/video-song-9.png)
 
 After adding the audio and merging it with video, you should preview it once and then proceed by saving the changes. Now, you should focus on exporting the final files. While exporting files, you should be focused on some basic settings as well, such as – choosing the video format, etc.
 

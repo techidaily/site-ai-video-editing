@@ -1,7 +1,7 @@
 ---
 title: New How to Make Transparent Background in Canva
-date: 2024-05-19T05:12:19.190Z
-updated: 2024-05-20T05:12:19.190Z
+date: 2024-07-01T13:02:21.711Z
+updated: 2024-07-02T13:02:21.711Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New How to Make Transparent Background in Canva
 excerpt: This Article Describes New How to Make Transparent Background in Canva
 keywords: how to make transparent background in canva,some facts that few people know on how to make transparent background in canva,how to make a gif with transparent background,ai animation how to make transparent background in canva,how to make gif with transparent background,how to make transparent background on picsart,transparent background in canva
-thumbnail: https://www.lifewire.com/thmb/85rwStNr21lvFIjCfmY8ErdogYI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wimbledonlivestream-c22d5eefbf8f40e9b25ba4cab1734ece.jpg
+thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c12bd8c02f2b01f747786c25.jpg
 ---
 
 ## How to Make Transparent Background in Canva

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How Can You Import and Adjust the Video Clips on Wondershare Filmora?
-date: 2024-06-15T18:56:35.437Z
-updated: 2024-06-16T18:56:35.437Z
+date: 2024-07-01T13:02:28.545Z
+updated: 2024-07-02T13:02:28.545Z
 tags: 
   - ai
   - animation videos
@@ -547,31 +547,31 @@ In this situation, using **wedding LUTs Premiere Pro** is an ideal solution. Thi
 
 LUTs and look-up tables are unique editing tools that enhance color gradients. For videos and photos, LUTs are a great source of color-enhancing tools. Meanwhile, for enhancing video content, there are specialized **wedding LUTs free**. To choose the best wedding LUT for yourself, proceed here:
 
-### [1\. Colorify Wedding LUTs](https://elements.envato.com/colorify-wedding-luts-262ASDQ?irgwc=1&clickid=wTd00pVxGxyNT2OUvxSEOx55UkAX0kSpUS4M0o0&iradid=298927&utm%5Fcampaign=elements%5Faf%5F493214&iradtype=ONLINE%5FTRACKING%5FLINK&irmptype=mediapartner&utm%5Fmedium=affiliate&utm%5Fsource=impact%5Fradius&mp=Theme%20Junkie)
+### 1\. Colorify Wedding LUTs
 
 Upscale your important wedding videography and photography with Colorify Wedding LUTs. This LUT wedding pack has special color presets that provide stunning visual looks. The color presets are packed within filters that enhance color brightness and sharpness. Thus, your important wedding videos and photos will be enhanced with enchanting colors. After all, this is amongst the **best wedding LUTs** available.
 
 ![colorify wedding luts](https://images.wondershare.com/filmora/article-images/2023/colorify-wedding-luts.jpg)
 
-### [2\. Blackmagic Film Wedding and Standard LUTs](https://elements.envato.com/blackmagic-film-wedding-and-standard-luts-for-fina-TY442SU?irgwc=1&clickid=wTd00pVxGxyNT2OUvxSEOx55UkAX0B1hUS4M0o0&iradid=298927&utm%5Fcampaign=elements%5Faf%5F493214&iradtype=ONLINE%5FTRACKING%5FLINK&irmptype=mediapartner&utm%5Fmedium=affiliate&utm%5Fsource=impact%5Fradius&mp=Theme%20Junkie)
+### 2\. Blackmagic Film Wedding and Standard LUTs
 
 Wedding visual content is always special. With Blackmagic wedding LUTs for Premiere Pro, you can enhance color schemas. Hence, your videos can be transformed with engaging black gradients. There are 25 LUTs to upscale the colors of your visual content. Every LUT offers unique color grades for upgrading color resolutions and overall quality.
 
 ![blackmagic film wedding and standard luts](https://images.wondershare.com/filmora/article-images/2023/blackmagic-film-wedding-and-standard-luts.jpg)
 
-### [3\. Slog3 Film Wedding and Standard LUTs](https://elements.envato.com/slog3-film-wedding-and-standard-luts-for-final-cut-D5LTKL3?irgwc=1&clickid=wTd00pVxGxyNT2OUvxSEOx55UkAX0DQFUS4M0o0&iradid=298927&utm%5Fcampaign=elements%5Faf%5F493214&iradtype=ONLINE%5FTRACKING%5FLINK&irmptype=mediapartner&utm%5Fmedium=affiliate&utm%5Fsource=impact%5Fradius&mp=Theme%20Junkie)
+### 3\. Slog3 Film Wedding and Standard LUTs
 
 Weddings are incomplete without the videos of this critical event. Thus, upscaling video colors is essential to promote video quality and engagement. In this matter, using this **wedding LUTs free download** is a great solution. After all, the pack contains 25 Sony Slog3 wedding LUTs. So, you can apply LUTs on your all-important wedding videos. The colors will be enhanced with stylish and unique gradients.
 
 ![slog3 film wedding and standard luts](https://images.wondershare.com/filmora/article-images/2023/slog3-film-wedding-and-standard-luts.jpg)
 
-### [4\. Film Wedding LUTs Pack](https://elements.envato.com/20-film-wedding-luts-pack-NHXXMQA?irgwc=1&clickid=wTd00pVxGxyNT2OUvxSEOx55UkAX0HWhUS4M0o0&iradid=298927&utm%5Fcampaign=elements%5Faf%5F493214&iradtype=ONLINE%5FTRACKING%5FLINK&irmptype=mediapartner&utm%5Fmedium=affiliate&utm%5Fsource=impact%5Fradius&mp=Theme%20Junkie)
+### 4\. Film Wedding LUTs Pack
 
 Add cinematic looks to your wedding photos and videos with this LUTs pack. There are 20 LUT film grades that can improve and enhance your wedding content. Meanwhile, you can also adjust intensity, contrast, and saturation. All the LUT colors preset are available in unique color composure and styles. This **LUTs Premiere Pro** free pack is compatible with Mac and Windows.
 
 ![film wedding luts pack](https://images.wondershare.com/filmora/article-images/2023/film-wedding-luts-pack.jpg)
 
-### [5\. Rustic Wedding LUTs](https://elements.envato.com/rustic-wedding-luts-video-color-grading-filters-PELW3D8?irgwc=1&clickid=wTd00pVxGxyNT2OUvxSEOx55UkAX0uzhUS4M0o0&iradid=298927&utm%5Fcampaign=elements%5Faf%5F493214&iradtype=ONLINE%5FTRACKING%5FLINK&irmptype=mediapartner&utm%5Fmedium=affiliate&utm%5Fsource=impact%5Fradius&mp=Theme%20Junkie)
+### 5\. Rustic Wedding LUTs
 
 Make your wedding photography and videography more enchanting. This wedding **LUTs for Premiere Pro pack** comprises 11 LUT presets in cube format. So, you can apply these LUTs to your wedding visual content. Meanwhile, you will see instant color corrections and color enhancements. This way, your wedding content will appear livelier and more engaging.
 
@@ -664,31 +664,31 @@ Like other events, weddings are also important occasions. This is why videograph
 
 LUTs and look-up tables are unique editing tools that enhance color gradients. For videos and photos, LUTs are a great source of color-enhancing tools. Meanwhile, for enhancing video content, there are specialized **wedding LUTs free**. To choose the best wedding LUT for yourself, proceed here:
 
-### [1\. Colorify Wedding LUTs](https://elements.envato.com/colorify-wedding-luts-262ASDQ?irgwc=1&clickid=wTd00pVxGxyNT2OUvxSEOx55UkAX0kSpUS4M0o0&iradid=298927&utm%5Fcampaign=elements%5Faf%5F493214&iradtype=ONLINE%5FTRACKING%5FLINK&irmptype=mediapartner&utm%5Fmedium=affiliate&utm%5Fsource=impact%5Fradius&mp=Theme%20Junkie)
+### 1\. Colorify Wedding LUTs
 
 Upscale your important wedding videography and photography with Colorify Wedding LUTs. This LUT wedding pack has special color presets that provide stunning visual looks. The color presets are packed within filters that enhance color brightness and sharpness. Thus, your important wedding videos and photos will be enhanced with enchanting colors. After all, this is amongst the **best wedding LUTs** available.
 
 ![colorify wedding luts](https://images.wondershare.com/filmora/article-images/2023/colorify-wedding-luts.jpg)
 
-### [2\. Blackmagic Film Wedding and Standard LUTs](https://elements.envato.com/blackmagic-film-wedding-and-standard-luts-for-fina-TY442SU?irgwc=1&clickid=wTd00pVxGxyNT2OUvxSEOx55UkAX0B1hUS4M0o0&iradid=298927&utm%5Fcampaign=elements%5Faf%5F493214&iradtype=ONLINE%5FTRACKING%5FLINK&irmptype=mediapartner&utm%5Fmedium=affiliate&utm%5Fsource=impact%5Fradius&mp=Theme%20Junkie)
+### 2\. Blackmagic Film Wedding and Standard LUTs
 
 Wedding visual content is always special. With Blackmagic wedding LUTs for Premiere Pro, you can enhance color schemas. Hence, your videos can be transformed with engaging black gradients. There are 25 LUTs to upscale the colors of your visual content. Every LUT offers unique color grades for upgrading color resolutions and overall quality.
 
 ![blackmagic film wedding and standard luts](https://images.wondershare.com/filmora/article-images/2023/blackmagic-film-wedding-and-standard-luts.jpg)
 
-### [3\. Slog3 Film Wedding and Standard LUTs](https://elements.envato.com/slog3-film-wedding-and-standard-luts-for-final-cut-D5LTKL3?irgwc=1&clickid=wTd00pVxGxyNT2OUvxSEOx55UkAX0DQFUS4M0o0&iradid=298927&utm%5Fcampaign=elements%5Faf%5F493214&iradtype=ONLINE%5FTRACKING%5FLINK&irmptype=mediapartner&utm%5Fmedium=affiliate&utm%5Fsource=impact%5Fradius&mp=Theme%20Junkie)
+### 3\. Slog3 Film Wedding and Standard LUTs
 
 Weddings are incomplete without the videos of this critical event. Thus, upscaling video colors is essential to promote video quality and engagement. In this matter, using this **wedding LUTs free download** is a great solution. After all, the pack contains 25 Sony Slog3 wedding LUTs. So, you can apply LUTs on your all-important wedding videos. The colors will be enhanced with stylish and unique gradients.
 
 ![slog3 film wedding and standard luts](https://images.wondershare.com/filmora/article-images/2023/slog3-film-wedding-and-standard-luts.jpg)
 
-### [4\. Film Wedding LUTs Pack](https://elements.envato.com/20-film-wedding-luts-pack-NHXXMQA?irgwc=1&clickid=wTd00pVxGxyNT2OUvxSEOx55UkAX0HWhUS4M0o0&iradid=298927&utm%5Fcampaign=elements%5Faf%5F493214&iradtype=ONLINE%5FTRACKING%5FLINK&irmptype=mediapartner&utm%5Fmedium=affiliate&utm%5Fsource=impact%5Fradius&mp=Theme%20Junkie)
+### 4\. Film Wedding LUTs Pack
 
 Add cinematic looks to your wedding photos and videos with this LUTs pack. There are 20 LUT film grades that can improve and enhance your wedding content. Meanwhile, you can also adjust intensity, contrast, and saturation. All the LUT colors preset are available in unique color composure and styles. This **LUTs Premiere Pro** free pack is compatible with Mac and Windows.
 
 ![film wedding luts pack](https://images.wondershare.com/filmora/article-images/2023/film-wedding-luts-pack.jpg)
 
-### [5\. Rustic Wedding LUTs](https://elements.envato.com/rustic-wedding-luts-video-color-grading-filters-PELW3D8?irgwc=1&clickid=wTd00pVxGxyNT2OUvxSEOx55UkAX0uzhUS4M0o0&iradid=298927&utm%5Fcampaign=elements%5Faf%5F493214&iradtype=ONLINE%5FTRACKING%5FLINK&irmptype=mediapartner&utm%5Fmedium=affiliate&utm%5Fsource=impact%5Fradius&mp=Theme%20Junkie)
+### 5\. Rustic Wedding LUTs
 
 Make your wedding photography and videography more enchanting. This wedding **LUTs for Premiere Pro pack** comprises 11 LUT presets in cube format. So, you can apply these LUTs to your wedding visual content. Meanwhile, you will see instant color corrections and color enhancements. This way, your wedding content will appear livelier and more engaging.
 
@@ -789,29 +789,29 @@ Lightworks is software based on the cloud that consists of particular functional
 
 **Step 1:** The first step is importing the video into the timeline. It is simply through dragging the file on which you have to work.
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-1.png)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-1.png)
 
 **Step 2:** When the uploading is complete, you can cut and split the clips depending on your needs. Now, keep moving the play head in the specific direction from where you have to cut the clips—Press "C" on your keyboard.
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-2.png)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-2.png)
 
 **Step 3:** After getting the split clip, you can delete the remaining part that is not in use. For this, selecting the particular part is necessary and selecting the option of "Delete". Even, you can press the "delete" key on your keyboard.
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-3.png)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-3.png)
 
 **Step 4:** When your video is ready, simply export the video by clicking right on the option of "All". On the left lower side of the timeline, it is now clicked on "Export".
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-4.png)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-4.png)
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-5.png)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-5.png)
 
 ### Part 2- trimming of the clips in Lightworks
 
 To trim the video clips in Lightworks, you require to hover the mouse towards the last of the video clip. Keep moving until and unless that part of the clip gets highlighted. After this step, start dragging till the previous where you want it.
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-6.png)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-6.png)
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-7.png)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-7.png)
 
 ## An easier way to split the video clip
 
@@ -840,15 +840,15 @@ Wondershare Filmora always offers to split the clips from the creative technique
 
 **Step 1\.** Selection of the clip in the timeline that you want to split. Your play head should be precisely at this particular place from where you need the splitting.
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-8.jpeg)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-8.jpeg)
 
 **Step 2\.** When your play head is on the correct point of the timeline, right-click on the clip for opening the menu. Select the option of "Split" or click on the scissor icon in red colour.
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-9.jpeg)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-9.jpeg)
 
 There is also a possibility of hiding the red icon of the scissor present. You can do it by tapping on the options of Wondershare Filmora. Then go to Preferencesàediting. Now uncheck the button of **Split.**
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-10.png)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-10.png)
 
 **Second method: detection of the scene**
 
@@ -856,11 +856,11 @@ If there are different shots in your clips or separation in the scenes, you can 
 
 **Step 1\.** Select your video clip from the media library that you want to split. After right-clicking on it, select the option of "Scene detection" from the menu.
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-11.jpeg)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-11.jpeg)
 
 **Step 2\.** The new window of the scene detection appears and then click on "Detect". Depending on the transitions of the video clips, it is divided into different parts.
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-12.jpeg)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-12.jpeg)
 
 There are hundreds of editing software present in the marketplace, but Wondershare Filmora's success rate is the highest. It is just because of its simplicity and advanced tools that fulfil the users' needs. The whole interface is hassle-free and clean no matter which operating system you use. It is also helpful in saving your time in terms of applying the settings of colour correction on more than one clip at all at once.
 
@@ -868,25 +868,25 @@ Exploration of the transition effects with the filters allows motion elements in
 
 **Step 2:** When the uploading is complete, you can cut and split the clips depending on your needs. Now, keep moving the play head in the specific direction from where you have to cut the clips—Press "C" on your keyboard.
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-2.png)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-2.png)
 
 **Step 3:** After getting the split clip, you can delete the remaining part that is not in use. For this, selecting the particular part is necessary and selecting the option of "Delete". Even, you can press the "delete" key on your keyboard.
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-3.png)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-3.png)
 
 **Step 4:** When your video is ready, simply export the video by clicking right on the option of "All". On the left lower side of the timeline, it is now clicked on "Export".
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-4.png)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-4.png)
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-5.png)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-5.png)
 
 ### Part 2- trimming of the clips in Lightworks
 
 To trim the video clips in Lightworks, you require to hover the mouse towards the last of the video clip. Keep moving until and unless that part of the clip gets highlighted. After this step, start dragging till the previous where you want it.
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-6.png)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-6.png)
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-7.png)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-7.png)
 
 ## An easier way to split the video clip
 
@@ -915,15 +915,15 @@ Wondershare Filmora always offers to split the clips from the creative technique
 
 **Step 1\.** Selection of the clip in the timeline that you want to split. Your play head should be precisely at this particular place from where you need the splitting.
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-8.jpeg)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-8.jpeg)
 
 **Step 2\.** When your play head is on the correct point of the timeline, right-click on the clip for opening the menu. Select the option of "Split" or click on the scissor icon in red colour.
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-9.jpeg)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-9.jpeg)
 
 There is also a possibility of hiding the red icon of the scissor present. You can do it by tapping on the options of Wondershare Filmora. Then go to Preferencesàediting. Now uncheck the button of **Split.**
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-10.png)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-10.png)
 
 **Second method: detection of the scene**
 
@@ -931,11 +931,11 @@ If there are different shots in your clips or separation in the scenes, you can 
 
 **Step 1\.** Select your video clip from the media library that you want to split. After right-clicking on it, select the option of "Scene detection" from the menu.
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-11.jpeg)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-11.jpeg)
 
 **Step 2\.** The new window of the scene detection appears and then click on "Detect". Depending on the transitions of the video clips, it is divided into different parts.
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-12.jpeg)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-12.jpeg)
 
 There are hundreds of editing software present in the marketplace, but Wondershare Filmora's success rate is the highest. It is just because of its simplicity and advanced tools that fulfil the users' needs. The whole interface is hassle-free and clean no matter which operating system you use. It is also helpful in saving your time in terms of applying the settings of colour correction on more than one clip at all at once.
 
@@ -943,25 +943,25 @@ Exploration of the transition effects with the filters allows motion elements in
 
 **Step 2:** When the uploading is complete, you can cut and split the clips depending on your needs. Now, keep moving the play head in the specific direction from where you have to cut the clips—Press "C" on your keyboard.
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-2.png)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-2.png)
 
 **Step 3:** After getting the split clip, you can delete the remaining part that is not in use. For this, selecting the particular part is necessary and selecting the option of "Delete". Even, you can press the "delete" key on your keyboard.
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-3.png)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-3.png)
 
 **Step 4:** When your video is ready, simply export the video by clicking right on the option of "All". On the left lower side of the timeline, it is now clicked on "Export".
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-4.png)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-4.png)
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-5.png)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-5.png)
 
 ### Part 2- trimming of the clips in Lightworks
 
 To trim the video clips in Lightworks, you require to hover the mouse towards the last of the video clip. Keep moving until and unless that part of the clip gets highlighted. After this step, start dragging till the previous where you want it.
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-6.png)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-6.png)
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-7.png)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-7.png)
 
 ## An easier way to split the video clip
 
@@ -990,15 +990,15 @@ Wondershare Filmora always offers to split the clips from the creative technique
 
 **Step 1\.** Selection of the clip in the timeline that you want to split. Your play head should be precisely at this particular place from where you need the splitting.
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-8.jpeg)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-8.jpeg)
 
 **Step 2\.** When your play head is on the correct point of the timeline, right-click on the clip for opening the menu. Select the option of "Split" or click on the scissor icon in red colour.
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-9.jpeg)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-9.jpeg)
 
 There is also a possibility of hiding the red icon of the scissor present. You can do it by tapping on the options of Wondershare Filmora. Then go to Preferencesàediting. Now uncheck the button of **Split.**
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-10.png)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-10.png)
 
 **Second method: detection of the scene**
 
@@ -1006,11 +1006,11 @@ If there are different shots in your clips or separation in the scenes, you can 
 
 **Step 1\.** Select your video clip from the media library that you want to split. After right-clicking on it, select the option of "Scene detection" from the menu.
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-11.jpeg)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-11.jpeg)
 
 **Step 2\.** The new window of the scene detection appears and then click on "Detect". Depending on the transitions of the video clips, it is divided into different parts.
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-12.jpeg)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-12.jpeg)
 
 There are hundreds of editing software present in the marketplace, but Wondershare Filmora's success rate is the highest. It is just because of its simplicity and advanced tools that fulfil the users' needs. The whole interface is hassle-free and clean no matter which operating system you use. It is also helpful in saving your time in terms of applying the settings of colour correction on more than one clip at all at once.
 
@@ -1018,25 +1018,25 @@ Exploration of the transition effects with the filters allows motion elements in
 
 **Step 2:** When the uploading is complete, you can cut and split the clips depending on your needs. Now, keep moving the play head in the specific direction from where you have to cut the clips—Press "C" on your keyboard.
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-2.png)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-2.png)
 
 **Step 3:** After getting the split clip, you can delete the remaining part that is not in use. For this, selecting the particular part is necessary and selecting the option of "Delete". Even, you can press the "delete" key on your keyboard.
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-3.png)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-3.png)
 
 **Step 4:** When your video is ready, simply export the video by clicking right on the option of "All". On the left lower side of the timeline, it is now clicked on "Export".
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-4.png)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-4.png)
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-5.png)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-5.png)
 
 ### Part 2- trimming of the clips in Lightworks
 
 To trim the video clips in Lightworks, you require to hover the mouse towards the last of the video clip. Keep moving until and unless that part of the clip gets highlighted. After this step, start dragging till the previous where you want it.
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-6.png)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-6.png)
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-7.png)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-7.png)
 
 ## An easier way to split the video clip
 
@@ -1065,15 +1065,15 @@ Wondershare Filmora always offers to split the clips from the creative technique
 
 **Step 1\.** Selection of the clip in the timeline that you want to split. Your play head should be precisely at this particular place from where you need the splitting.
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-8.jpeg)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-8.jpeg)
 
 **Step 2\.** When your play head is on the correct point of the timeline, right-click on the clip for opening the menu. Select the option of "Split" or click on the scissor icon in red colour.
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-9.jpeg)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-9.jpeg)
 
 There is also a possibility of hiding the red icon of the scissor present. You can do it by tapping on the options of Wondershare Filmora. Then go to Preferencesàediting. Now uncheck the button of **Split.**
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-10.png)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-10.png)
 
 **Second method: detection of the scene**
 
@@ -1081,11 +1081,11 @@ If there are different shots in your clips or separation in the scenes, you can 
 
 **Step 1\.** Select your video clip from the media library that you want to split. After right-clicking on it, select the option of "Scene detection" from the menu.
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-11.jpeg)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-11.jpeg)
 
 **Step 2\.** The new window of the scene detection appears and then click on "Detect". Depending on the transitions of the video clips, it is divided into different parts.
 
-![split a clip in lightworks ](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-12.jpeg)
+![split a clip in lightworks](https://images.wondershare.com/filmora/article-images/2022/01/split-a-clip-in-lightworks-12.jpeg)
 
 There are hundreds of editing software present in the marketplace, but Wondershare Filmora's success rate is the highest. It is just because of its simplicity and advanced tools that fulfil the users' needs. The whole interface is hassle-free and clean no matter which operating system you use. It is also helpful in saving your time in terms of applying the settings of colour correction on more than one clip at all at once.
 

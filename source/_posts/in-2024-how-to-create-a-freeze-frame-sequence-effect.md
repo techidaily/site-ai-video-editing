@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Create a Freeze Frame Sequence Effect
-date: 2024-05-19T05:12:16.669Z
-updated: 2024-05-20T05:12:16.669Z
+date: 2024-07-01T13:02:28.827Z
+updated: 2024-07-02T13:02:28.827Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes In 2024, How to Create a Freeze Frame Sequence Effect
 excerpt: This Article Describes In 2024, How to Create a Freeze Frame Sequence Effect
 keywords: how to create a freeze frame sequence effect,create a freeze frame sequence effect,ai animation how to create a freeze frame sequence in video,ai animation how to create a freeze frame sequence effect,how to create a freeze frame sequence in video,how to create freeze frame clone effect,create a freeze frame sequence in video
-thumbnail: https://www.lifewire.com/thmb/85rwStNr21lvFIjCfmY8ErdogYI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wimbledonlivestream-c22d5eefbf8f40e9b25ba4cab1734ece.jpg
+thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c12bd8c02f2b01f747786c25.jpg
 ---
 
 ## How to Create a Freeze Frame Sequence Effect

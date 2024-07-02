@@ -1,7 +1,7 @@
 ---
 title: Everything You Need to Know About Color Grading in Photography
-date: 2024-05-19T05:11:35.147Z
-updated: 2024-05-20T05:11:35.147Z
+date: 2024-07-01T13:02:14.747Z
+updated: 2024-07-02T13:02:14.747Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Everything You Need to Know About Color Grading in Photography
 excerpt: This Article Describes Everything You Need to Know About Color Grading in Photography
 keywords: everything you need to know about color grading in photography,ai animation everything you need to know about color grading in photography,things you need to know about color grading in photography,ai animation things you need to know about color grading in photography,ai animation ai animation everything you need to know about color grading in photography,what is hdri everything you need to know about hdri,color grading photography
-thumbnail: https://www.lifewire.com/thmb/znoWsXihZpXFxhbw3VKHAcQ2O3s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1443716794-411cf2c5404b4f35b2a1153826e5a280.jpg
+thumbnail: https://thmb.techidaily.com/06c74021872dcc3b0ce900f997f142db31fade534149e5bce6ee9984dd257b98.jpg
 ---
 
 ## Everything You Need to Know About Color Grading in Photography

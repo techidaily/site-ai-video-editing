@@ -1,7 +1,7 @@
 ---
 title: Updated What Is TS Format and How To Play TS Files?
-date: 2024-05-19T05:12:10.964Z
-updated: 2024-05-20T05:12:10.964Z
+date: 2024-07-01T13:02:24.248Z
+updated: 2024-07-02T13:02:24.248Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated What Is TS Format and How To Play TS Files?
 excerpt: This Article Describes Updated What Is TS Format and How To Play TS Files?
 keywords: ai animation ai animation what is ts format and how to play ts files,3gp video format what is 3gp format and how to play it,ai animation what is ts format and how to play ts files,what is mkv format and how to play mkv video,what is ts format and how to play ts files basic tips,what is ts format and how to play ts files,ai animation what is ts format and how to play ts files basic tips
-thumbnail: https://www.lifewire.com/thmb/FO5DJQJt8EUiF4veEftl-goajY8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-151812569-ff7311e1de18461da9f8698205953384.jpg
+thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547c6bb5f5df0fa9181f11e1b7.jpg
 ---
 
 ## What Is TS Format and How To Play TS Files?
@@ -599,7 +599,7 @@ Step6 Use the shortcuts you assigned to the keys in Step 4 to rotate your video 
 
 For instance, you can rotate your video from landscape to portrait by clicking "Alt-Num 1" and "Alt-Num 3," respectively. To revert your video to its original state, press "Alt-Num 5."
 
-## Need an alternative to Media Player Classic? Try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) To Rotate a Video
+## Need an alternative to Media Player Classic? Try Wondershare Filmora
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 

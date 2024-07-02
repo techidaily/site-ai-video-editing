@@ -1,7 +1,7 @@
 ---
 title: The Best 10 AI Video Analytics Companies at a Glance
-date: 2024-05-19T05:11:36.614Z
-updated: 2024-05-20T05:11:36.614Z
+date: 2024-07-01T13:02:18.270Z
+updated: 2024-07-02T13:02:18.270Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes The Best 10 AI Video Analytics Companies at a Glance
 excerpt: This Article Describes The Best 10 AI Video Analytics Companies at a Glance
 keywords: ai video analytics companies,the top 10 ai video analytics companies at a glance,ai animation the top 10 ai video analytics companies at a glance,ai animation the best 10 ai video analytics companies at a glance,the best 10 ai video analytics companies at a glance,ai animation ai animation the best 10 ai video analytics companies at a glance,ai animation top 10 best free video compressors
-thumbnail: https://www.lifewire.com/thmb/v4AbqnTlju8lMmkS1DJOcvntGsY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-839864362-59c51d1daf5d3a0010919ae9.jpg
+thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4ff28b2032ed8b7104437026.jpg
 ---
 
 ## The Best 10 AI Video Analytics Companies at a Glance

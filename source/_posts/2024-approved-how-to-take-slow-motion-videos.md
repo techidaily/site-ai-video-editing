@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Take Slow Motion Videos
-date: 2024-05-19T05:12:20.460Z
-updated: 2024-05-20T05:12:20.460Z
+date: 2024-07-01T13:02:24.367Z
+updated: 2024-07-02T13:02:24.367Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes 2024 Approved How to Take Slow Motion Videos
 excerpt: This Article Describes 2024 Approved How to Take Slow Motion Videos
 keywords: ai animation how to make video slow motion,how to film a slow motion video,how to take slow motion videos,ai animation how to take slow motion videos,how to take slow motion video,how to convert videos to slow motion,how to make video slow motion
-thumbnail: https://www.lifewire.com/thmb/BzSvFjNWXiwqImdtAjFSSOWv3r4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/audio-books-56a324b93df78cf7727c00f5.jpg
+thumbnail: https://thmb.techidaily.com/f75585e4daf78953dd0ce1cfd0b26209fab1e9c588003fe7de564148a8e3e23c.jpg
 ---
 
 ## How to Take Slow Motion Videos

@@ -1,7 +1,7 @@
 ---
 title: How to Use Zoom in Google for 2024
-date: 2024-05-19T05:12:21.353Z
-updated: 2024-05-20T05:12:21.353Z
+date: 2024-07-01T13:02:27.900Z
+updated: 2024-07-02T13:02:27.900Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How to Use Zoom in Google for 2024
 excerpt: This Article Describes How to Use Zoom in Google for 2024
 keywords: how to use kahoot on zoom,use zoom in google,how to zoom in discord,ai animation how to use zoom in google,how to use zoom in google,how to use visual effect for zoom,how to use slow zoom effect in your video
-thumbnail: https://www.lifewire.com/thmb/INF6SYasZPz8DbBoNXqU2flP540=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/before-you-buy-a-video-projector-1847845-v3-ED-8a08e03f2cfc4835a13872618bd4ad00.png
+thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb90774e1fcb8b0eea83e6c871.png
 ---
 
 ## How to Use Zoom in Google
@@ -718,7 +718,7 @@ Now you can see the subject has been selected and the background has been remove
 
 I have dragged my image to the left as I want my text to the right side.
 
-* Let’s drag the desired **background** into the timeline. ( I got this background from Pexel.com)
+* Let’s drag the desired **background** into the timeline. (I got this background from Pexel.com)
 
 ![change-video-thumbnail-google-drive](https://images.wondershare.com/filmora/article-images/2022/06/change-video-thumbnail-google-drive-7.jpg)
 
@@ -877,7 +877,7 @@ Now you can see the subject has been selected and the background has been remove
 
 I have dragged my image to the left as I want my text to the right side.
 
-* Let’s drag the desired **background** into the timeline. ( I got this background from Pexel.com)
+* Let’s drag the desired **background** into the timeline. (I got this background from Pexel.com)
 
 ![change-video-thumbnail-google-drive](https://images.wondershare.com/filmora/article-images/2022/06/change-video-thumbnail-google-drive-7.jpg)
 
@@ -1036,7 +1036,7 @@ Now you can see the subject has been selected and the background has been remove
 
 I have dragged my image to the left as I want my text to the right side.
 
-* Let’s drag the desired **background** into the timeline. ( I got this background from Pexel.com)
+* Let’s drag the desired **background** into the timeline. (I got this background from Pexel.com)
 
 ![change-video-thumbnail-google-drive](https://images.wondershare.com/filmora/article-images/2022/06/change-video-thumbnail-google-drive-7.jpg)
 
@@ -1195,7 +1195,7 @@ Now you can see the subject has been selected and the background has been remove
 
 I have dragged my image to the left as I want my text to the right side.
 
-* Let’s drag the desired **background** into the timeline. ( I got this background from Pexel.com)
+* Let’s drag the desired **background** into the timeline. (I got this background from Pexel.com)
 
 ![change-video-thumbnail-google-drive](https://images.wondershare.com/filmora/article-images/2022/06/change-video-thumbnail-google-drive-7.jpg)
 

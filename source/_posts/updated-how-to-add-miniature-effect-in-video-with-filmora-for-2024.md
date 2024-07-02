@@ -1,7 +1,7 @@
 ---
 title: Updated How to Add Miniature Effect in Video with Filmora for 2024
-date: 2024-04-24T01:02:10.893Z
-updated: 2024-04-25T01:02:10.893Z
+date: 2024-07-01T13:02:16.732Z
+updated: 2024-07-02T13:02:16.732Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated How to Add Miniature Effect in Video with Filmora for 2024
 excerpt: This Article Describes Updated How to Add Miniature Effect in Video with Filmora for 2024
 keywords: how to add miniature effect in video with filmora,ai animation how to create a text effect video with filmora,ai animation how to add miniature effect in video with filmora,turn any video into a paper rip effect with filmora,ai animation how to create intro video with filmora,how to create a text effect video with filmora,ai animation ai animation how to add miniature effect in video with filmora
-thumbnail: https://www.lifewire.com/thmb/d9lJRl6RYaLlK-VFLlHiI4bbn1o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-halloween-live-wallpaper-for-2019-4691483-019a40e91504436ca9fc9f1944d89c15.jpg
+thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c30695c76166aa925348b0ff1b74.jpg
 ---
 
 ## How to Add Miniature Effect in Video with Filmora

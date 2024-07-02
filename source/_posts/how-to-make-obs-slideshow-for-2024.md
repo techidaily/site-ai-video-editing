@@ -1,7 +1,7 @@
 ---
 title: How to Make OBS Slideshow for 2024
-date: 2024-06-24T01:30:32.112Z
-updated: 2024-06-25T01:30:32.112Z
+date: 2024-07-01T13:02:24.198Z
+updated: 2024-07-02T13:02:24.198Z
 tags: 
   - ai
   - animation videos
@@ -2075,7 +2075,7 @@ Editing from scratch is a time-consuming process, especially when you're a begin
 
 In this article, readers will learn about slow-mo CapCut templates for crafting slow-motion videos. For those unfamiliar with CapCut, a brief overview of its functions will be provided. In addition, we'll introduce some remarkable slow-mo CapCut templates. Moreover, you can learn about an extraordinary alternative for fashioning amazing slow-motion videos.
 
-**Slow Motion Video Maker** Slow your video’s speed with better control of your keyframes to create unique cinematic effects![Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [More Features](https://tools.techidaily.com/wondershare/filmora/download/)
+**Slow Motion Video Maker** Slow your video’s speed with better control of your keyframes to create unique cinematic effects ![Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [More Features](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 

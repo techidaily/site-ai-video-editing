@@ -1,7 +1,7 @@
 ---
 title: New In 2024, 3 In-Camera Transitions Tricks To Make Videos
-date: 2024-05-19T05:12:51.090Z
-updated: 2024-05-20T05:12:51.090Z
+date: 2024-07-01T13:02:17.819Z
+updated: 2024-07-02T13:02:17.819Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New In 2024, 3 In-Camera Transitions Tricks To Make Videos
 excerpt: This Article Describes New In 2024, 3 In-Camera Transitions Tricks To Make Videos
 keywords: 3 in camera transitions tricks to make videos like a pro,cheap camera to make slow motion video,3 in camera transitions tricks to make videos,ai animation 3 in camera transitions tricks to make videos,ai animation 3 in camera transitions tricks to make videos like a pro,ai animation ai animation 3 in camera transitions tricks to make videos like a pro,how to add video transitions in videos
-thumbnail: https://www.lifewire.com/thmb/d9lJRl6RYaLlK-VFLlHiI4bbn1o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-halloween-live-wallpaper-for-2019-4691483-019a40e91504436ca9fc9f1944d89c15.jpg
+thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c30695c76166aa925348b0ff1b74.jpg
 ---
 
 ## 3 In-Camera Transitions Tricks To Make Videos

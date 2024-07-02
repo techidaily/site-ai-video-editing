@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved How to Create Intro with Legend Intro Maker
-date: 2024-04-24T01:05:45.612Z
-updated: 2024-04-25T01:05:45.612Z
+date: 2024-07-01T13:02:18.443Z
+updated: 2024-07-02T13:02:18.443Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New 2024 Approved How to Create Intro with Legend Intro Maker
 excerpt: This Article Describes New 2024 Approved How to Create Intro with Legend Intro Maker
 keywords: ai animation how to create intro with legend intro maker,how to create intro video with kinemaster,legend intro maker create intro video with ease,ai animation ai animation legend intro maker create intro video with ease,how to create intro with legend intro maker,ai animation legend intro maker create intro video with ease,how to create intro with renderforest
-thumbnail: https://www.lifewire.com/thmb/2mfMkf9Nh38PrId0xERnppf9iAg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-view-instagram-without-an-account-5271416-505eeceaf0e142ed8674d2ce2244a8be.jpg
+thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1418a5a54e50bbd98af412de.jpg
 ---
 
 ## How to Create Intro with Legend Intro Maker

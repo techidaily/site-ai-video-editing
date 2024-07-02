@@ -1,7 +1,7 @@
 ---
 title: How to Make a Slideshow GIF for 2024
-date: 2024-05-19T05:12:02.723Z
-updated: 2024-05-20T05:12:02.723Z
+date: 2024-07-01T13:02:30.212Z
+updated: 2024-07-02T13:02:30.212Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How to Make a Slideshow GIF for 2024
 excerpt: This Article Describes How to Make a Slideshow GIF for 2024
 keywords: how to make a video slideshow in imovie,how to create a slideshow gif,how to make a slideshow on iphone,ai animation how to make a slideshow gif,how to make obs slideshow,how to make a slideshow gif,how to make simple slideshow word
-thumbnail: https://www.lifewire.com/thmb/eYqxG8EorGAmKcW0zOiG4PnWFkw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/homeweatherstation-34f9e9a9aaf64446a8f21ff05991c079.jpg
+thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2903fa4cfebcaa0c3ca3de95.jpg
 ---
 
 ## How to Make a Slideshow GIF?
@@ -657,7 +657,7 @@ Open Handbrake and follow the steps listed below.
 
 Once open, the software will present you with options to either import a single video file for resize or a whole batch via folder selection.
 
-**_Note:_** _If you do not have Handbrake, you can_ [_download it by visiting the official website_](https://handbrake.fr/)_. Also, you will need_ [_Windows .NET Framework 6.0_](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime?utm%5Fsource=getdotnetcore&utm%5Fmedium=referral) _to use Handbrake._ _If your system does not have the correct config Handbrake will let you know and fail to launch._
+**_Note:_** _If you do not have Handbrake, you can_ [_download it by visiting the official website_](https://handbrake.fr/) _. Also, you will need_ [_Windows .NET Framework 6.0_](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime?utm%5Fsource=getdotnetcore&utm%5Fmedium=referral) _to use Handbrake._ _If your system does not have the correct config Handbrake will let you know and fail to launch._
 
 Once you have imported the video file, the software will present you with two choices.
 

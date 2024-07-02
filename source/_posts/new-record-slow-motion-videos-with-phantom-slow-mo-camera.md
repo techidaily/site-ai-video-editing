@@ -1,7 +1,7 @@
 ---
 title: New Record Slow Motion Videos With Phantom Slow-Mo Camera
-date: 2024-05-19T05:12:06.332Z
-updated: 2024-05-20T05:12:06.332Z
+date: 2024-07-01T13:02:23.328Z
+updated: 2024-07-02T13:02:23.328Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New Record Slow Motion Videos With Phantom Slow-Mo Camera
 excerpt: This Article Describes New Record Slow Motion Videos With Phantom Slow-Mo Camera
 keywords: ai animation ai animation record slow motion videos with phantom slow mo camera,ai animation record slow motion videos with phantom slow mo camera,record slow motion videos with phantom slow mo camera,how to record super slow motion video phone,ai animation best phantom slow mo camera for recording slow motion videos,phantom slow mo camera for recording slow motion video,best phantom slow mo camera for recording slow motion videos
-thumbnail: https://www.lifewire.com/thmb/W4WRTJiI80qWQugtfcrcauwLImY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rearviewofboywithlaptoponsofa-31ba45dfa7fb4553a257c133b352ef64.jpg
+thumbnail: https://thmb.techidaily.com/26dcef27c207b8605e3fcf4585ee0822110eeb8a794c85ff8e27071c7786d452.jpg
 ---
 
 ## Record Slow Motion Videos With Phantom Slow-Mo Camera
@@ -42,37 +42,37 @@ Phantom offers many slow-motion cameras with different features. This section wi
 * [Micro C and N C321](#camera5)
 * [4K and Media Production Flex4K](#camera6)
 
-### 1\. [TMX 7510](https://www.phantomhighspeed.com/products/cameras/tmx/7510)
+### 1\. TMX 7510
 
 The TMX 7510 is built to produce high-end videos with different speed combinations. It uses a side-illuminated camera sensor to capture high-definition images. It can deliver 75,000 FPS with 1280 x 800 resolution. It offers up to 512GB RAM to help in making high-speed images. You can use its built-in Binning Mode with flexible options. It also supports many file formats like Cine RAW, TIFF, JPEG, etc.
 
 ![phantom tmx7510](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-phantom-slow-mo-cameras-1.jpg)
 
-### 2\. [T – Series T4040](https://www.phantomhighspeed.com/products/cameras/tseries/t4040)
+### 2\. T – Series T4040
 
 The T-Series of Phantom includes many features to capture images with precision. The T4040 camera supports 9,350 fps with 2560 x 1664 resolution. It offers a peak Quantum Efficiency rating of 90% that can produce images in low-light conditions. Moreover, this **Phantom slow-motion camera uses** flow visualization techniques to capture minute details with high precision. It also offers EDR that balances exposure in the saturated areas of the image.
 
 ![phantom t series t4040](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-phantom-slow-mo-cameras-2.jpg)
 
-### 3\. [Machine Vision S200](https://www.phantomhighspeed.com/products/cameras/machinevision/s200)
+### 3\. Machine Vision S200
 
 This machine vision camera applies CXP technology to capture long-duration high-speed photos. It includes GPIO for events and ready signals. It’s economical and available in a compact size. Users can also use the time stamp on the frame to check the time code. Moreover, it can reach up to 6,950 fps with full resolution. You can trigger the recording with the given software or the GPIO trigger signal.
 
 ![phantom machine vision s200](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-phantom-slow-mo-cameras-3.jpg)
 
-### 4\. [VEO 710](https://www.phantomhighspeed.com/products/cameras/veo/veo710)
+### 4\. VEO 710
 
 VEO series are specifically designed for film production and science laboratories. It has 7,400fps with a 1-Mpx 35mm sensor. The sensor format used in this camera is ideal for high-quality camera lenses. There are two options for the VEO body: S (full) and L (light). By purchasing the S model, you can experience many on-camera controls. Moreover, the body of this camera is made with aluminum to increase its reliability in tougher situations.
 
 ![phantom veo 710](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-phantom-slow-mo-cameras-4.jpg)
 
-### 5\. [Micro C and N C321](https://www.phantomhighspeed.com/products/cameras/mirocnn/c321)
+### 5\. Micro C and N C321
 
 The Micro C and N series are built to meet the challenges of using a standard camera. The lightweight body and on-board protection make this camera ideal. It supports a maximum fps of 1480 with full resolution. With high sensitivity, it can capture low-noise images with vibrant colors. The advanced features of this camera can provide high-end images while preserving the natural colors.
 
 ![phantom micro c 321](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-phantom-slow-mo-cameras-5.jpg)
 
-### 6\. [4K and Media Production Flex4K](https://www.phantomhighspeed.com/products/cameras/4kmedia/flex4k)
+### 6\. 4K and Media Production Flex4K
 
 For professional cinema, Phantom has developed the Flex4k camera. This **Phantom slo-mo camera** supports 4K imaging with up to 1,000 fps. It provides three battery mounts with an on-camera menu system. The produced images are compatible with many color grading and video editing tools. Furthermore, it offers many remote-control options to ease your workflow. All the images that are produced will be delivered in the Cine RAW file format.
 
@@ -151,37 +151,37 @@ Phantom offers many slow-motion cameras with different features. This section wi
 * [Micro C and N C321](#camera5)
 * [4K and Media Production Flex4K](#camera6)
 
-### 1\. [TMX 7510](https://www.phantomhighspeed.com/products/cameras/tmx/7510)
+### 1\. TMX 7510
 
 The TMX 7510 is built to produce high-end videos with different speed combinations. It uses a side-illuminated camera sensor to capture high-definition images. It can deliver 75,000 FPS with 1280 x 800 resolution. It offers up to 512GB RAM to help in making high-speed images. You can use its built-in Binning Mode with flexible options. It also supports many file formats like Cine RAW, TIFF, JPEG, etc.
 
 ![phantom tmx7510](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-phantom-slow-mo-cameras-1.jpg)
 
-### 2\. [T – Series T4040](https://www.phantomhighspeed.com/products/cameras/tseries/t4040)
+### 2\. T – Series T4040
 
 The T-Series of Phantom includes many features to capture images with precision. The T4040 camera supports 9,350 fps with 2560 x 1664 resolution. It offers a peak Quantum Efficiency rating of 90% that can produce images in low-light conditions. Moreover, this **Phantom slow-motion camera uses** flow visualization techniques to capture minute details with high precision. It also offers EDR that balances exposure in the saturated areas of the image.
 
 ![phantom t series t4040](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-phantom-slow-mo-cameras-2.jpg)
 
-### 3\. [Machine Vision S200](https://www.phantomhighspeed.com/products/cameras/machinevision/s200)
+### 3\. Machine Vision S200
 
 This machine vision camera applies CXP technology to capture long-duration high-speed photos. It includes GPIO for events and ready signals. It’s economical and available in a compact size. Users can also use the time stamp on the frame to check the time code. Moreover, it can reach up to 6,950 fps with full resolution. You can trigger the recording with the given software or the GPIO trigger signal.
 
 ![phantom machine vision s200](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-phantom-slow-mo-cameras-3.jpg)
 
-### 4\. [VEO 710](https://www.phantomhighspeed.com/products/cameras/veo/veo710)
+### 4\. VEO 710
 
 VEO series are specifically designed for film production and science laboratories. It has 7,400fps with a 1-Mpx 35mm sensor. The sensor format used in this camera is ideal for high-quality camera lenses. There are two options for the VEO body: S (full) and L (light). By purchasing the S model, you can experience many on-camera controls. Moreover, the body of this camera is made with aluminum to increase its reliability in tougher situations.
 
 ![phantom veo 710](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-phantom-slow-mo-cameras-4.jpg)
 
-### 5\. [Micro C and N C321](https://www.phantomhighspeed.com/products/cameras/mirocnn/c321)
+### 5\. Micro C and N C321
 
 The Micro C and N series are built to meet the challenges of using a standard camera. The lightweight body and on-board protection make this camera ideal. It supports a maximum fps of 1480 with full resolution. With high sensitivity, it can capture low-noise images with vibrant colors. The advanced features of this camera can provide high-end images while preserving the natural colors.
 
 ![phantom micro c 321](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-phantom-slow-mo-cameras-5.jpg)
 
-### 6\. [4K and Media Production Flex4K](https://www.phantomhighspeed.com/products/cameras/4kmedia/flex4k)
+### 6\. 4K and Media Production Flex4K
 
 For professional cinema, Phantom has developed the Flex4k camera. This **Phantom slo-mo camera** supports 4K imaging with up to 1,000 fps. It provides three battery mounts with an on-camera menu system. The produced images are compatible with many color grading and video editing tools. Furthermore, it offers many remote-control options to ease your workflow. All the images that are produced will be delivered in the Cine RAW file format.
 

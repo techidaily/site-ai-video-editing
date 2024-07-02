@@ -1,7 +1,7 @@
 ---
 title: New Easy Ways to Make Procreate GIFs
-date: 2024-05-19T05:11:58.327Z
-updated: 2024-05-20T05:11:58.327Z
+date: 2024-07-01T13:02:17.898Z
+updated: 2024-07-02T13:02:17.898Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New Easy Ways to Make Procreate GIFs
 excerpt: This Article Describes New Easy Ways to Make Procreate GIFs
 keywords: ai animation easy ways to make procreate gifs,how to create photoshop gif the easy way,easy ways to create procreate gifs,how to create photoshop gif the 100 easy way,easy ways to make procreate gifs,ai animation ai animation easy ways to make procreate gifs,ai animation easy ways to create procreate gifs
-thumbnail: https://www.lifewire.com/thmb/6mx5ubcqWIE245JjiBlgZpvI48I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Horserace-56ca33a85f9b5879cc4bcc6e.jpg
+thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea081222f679c45ec271effc3.jpg
 ---
 
 ## Easy Ways to Make Procreate GIFs

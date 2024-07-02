@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Splitting Audio From Video in Sony Vegas Step by Step
-date: 2024-04-24T01:03:37.378Z
-updated: 2024-04-25T01:03:37.378Z
+date: 2024-07-01T13:02:24.598Z
+updated: 2024-07-02T13:02:24.598Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Splitting Audio From Video in Sony Vegas Step by Step
 excerpt: This Article Describes Updated 2024 Approved Splitting Audio From Video in Sony Vegas Step by Step
 keywords: ai animation ai animation splitting audio from video in sony vegas step by step,ai animation splitting audio from a video in sony vegas step by step,splitting audio from video in sony vegas step by step,split audio from video in sony vegas,ai animation splitting audio from video in sony vegas step by step,separating audio from video in davinci resolve step by step,splitting audio from a video in sony vegas step by step
-thumbnail: https://www.lifewire.com/thmb/vwXY4ZVwcerLrMyrYuIV0bJij5Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-logo-dbc6703838ab40ffac436f7f360b79f7.png
+thumbnail: https://thmb.techidaily.com/c225407e5eb523ea35626965d7952f3e8eff461a435028604a3c634507f598f5.png
 ---
 
 ## Splitting Audio From Video in Sony Vegas [Step by Step]
@@ -25,11 +25,11 @@ The best features of Sony Vegas Pro help create, edit, trim or even crop the vid
 
 **Step 1:** When you have finished the installation of the Sony Vegas Pro on your device, now import the video clip from which you want to extract the audio.
 
-![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas1.jpeg)
+![split audio from video in sony vegas](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas1.jpeg)
 
 **Step 2:** Drag and drop your video clip in the editing area. Here, you can easily see the video and audio tracks are all together. Whatever effect you apply, both will show the results.
 
-![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas2.jpeg)
+![split audio from video in sony vegas](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas2.jpeg)
 
 **Step 3:** You have to separate the audio from the video files in this step. After selecting the track, whether audio or video, simply press the “U” letter on your keyboard. In this step, keep holding the cursor. It permits you to keep moving the video clips quickly. Now, it is easy to download audio files from this area.
 
@@ -59,17 +59,17 @@ For macOS 10.14 or later
 
 **Step 1:** After running the Wondershare Filmora, select the ratio of your choice 4:3 or 16:9 for entering in the mode of editing. Click on the “Import” so you can add the photos, video and audio from the folder of your system. After importing the videos, drag and drop in the timeline. As a default, all the files get merged with one another with no gap.
 
-![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas3.jpeg)
+![split audio from video in sony vegas](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas3.jpeg)
 
 **Step 2:** Right-click on the video clip from which you want to extract the audio. Select the option of “Detach Audio” from the menu. Instantly, an audio file is visible on the screen, and it is the original one from the source.
 
-![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas4.jpeg)
+![split audio from video in sony vegas](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas4.jpeg)
 
 **Step 3:** Now, the audio track gets separated from the video successfully. Wondershare Filmora also offers to add one more audio file. Yes, it is also possible with this software.
 
 **Step 4:** After separating the audio from the video, it is simple to delete the track, whether it is audio or video that is not in use or want to use. Click on the “Export” option for saving your required audio tracks, or you can even select the “iPod” for playing the audio. You can also save the audio file separately as the new file on your hard drive. After exporting the audio tracks, load the project file again that has the frames for the video and later export the video file.
 
-![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas5.jpeg)
+![split audio from video in sony vegas](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas5.jpeg)
 
 Whenever you think about the compatibility of editing software with different operating systems, Wondershare Filmora comes to mind as the first choice. All the new features of Wondershare Filmora in its latest version have received positive feedback and reviews. Definitely, it is the actual replacement of the previously used editors such as video editor in Windows or iMovie in Mac.
 
@@ -79,7 +79,7 @@ Just little guidance and assistance can help you use the Wondershare Filmora as 
 
 **Step 2:** Drag and drop your video clip in the editing area. Here, you can easily see the video and audio tracks are all together. Whatever effect you apply, both will show the results.
 
-![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas2.jpeg)
+![split audio from video in sony vegas](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas2.jpeg)
 
 **Step 3:** You have to separate the audio from the video files in this step. After selecting the track, whether audio or video, simply press the “U” letter on your keyboard. In this step, keep holding the cursor. It permits you to keep moving the video clips quickly. Now, it is easy to download audio files from this area.
 
@@ -109,17 +109,17 @@ For macOS 10.14 or later
 
 **Step 1:** After running the Wondershare Filmora, select the ratio of your choice 4:3 or 16:9 for entering in the mode of editing. Click on the “Import” so you can add the photos, video and audio from the folder of your system. After importing the videos, drag and drop in the timeline. As a default, all the files get merged with one another with no gap.
 
-![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas3.jpeg)
+![split audio from video in sony vegas](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas3.jpeg)
 
 **Step 2:** Right-click on the video clip from which you want to extract the audio. Select the option of “Detach Audio” from the menu. Instantly, an audio file is visible on the screen, and it is the original one from the source.
 
-![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas4.jpeg)
+![split audio from video in sony vegas](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas4.jpeg)
 
 **Step 3:** Now, the audio track gets separated from the video successfully. Wondershare Filmora also offers to add one more audio file. Yes, it is also possible with this software.
 
 **Step 4:** After separating the audio from the video, it is simple to delete the track, whether it is audio or video that is not in use or want to use. Click on the “Export” option for saving your required audio tracks, or you can even select the “iPod” for playing the audio. You can also save the audio file separately as the new file on your hard drive. After exporting the audio tracks, load the project file again that has the frames for the video and later export the video file.
 
-![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas5.jpeg)
+![split audio from video in sony vegas](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas5.jpeg)
 
 Whenever you think about the compatibility of editing software with different operating systems, Wondershare Filmora comes to mind as the first choice. All the new features of Wondershare Filmora in its latest version have received positive feedback and reviews. Definitely, it is the actual replacement of the previously used editors such as video editor in Windows or iMovie in Mac.
 
@@ -129,7 +129,7 @@ Just little guidance and assistance can help you use the Wondershare Filmora as 
 
 **Step 2:** Drag and drop your video clip in the editing area. Here, you can easily see the video and audio tracks are all together. Whatever effect you apply, both will show the results.
 
-![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas2.jpeg)
+![split audio from video in sony vegas](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas2.jpeg)
 
 **Step 3:** You have to separate the audio from the video files in this step. After selecting the track, whether audio or video, simply press the “U” letter on your keyboard. In this step, keep holding the cursor. It permits you to keep moving the video clips quickly. Now, it is easy to download audio files from this area.
 
@@ -159,17 +159,17 @@ For macOS 10.14 or later
 
 **Step 1:** After running the Wondershare Filmora, select the ratio of your choice 4:3 or 16:9 for entering in the mode of editing. Click on the “Import” so you can add the photos, video and audio from the folder of your system. After importing the videos, drag and drop in the timeline. As a default, all the files get merged with one another with no gap.
 
-![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas3.jpeg)
+![split audio from video in sony vegas](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas3.jpeg)
 
 **Step 2:** Right-click on the video clip from which you want to extract the audio. Select the option of “Detach Audio” from the menu. Instantly, an audio file is visible on the screen, and it is the original one from the source.
 
-![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas4.jpeg)
+![split audio from video in sony vegas](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas4.jpeg)
 
 **Step 3:** Now, the audio track gets separated from the video successfully. Wondershare Filmora also offers to add one more audio file. Yes, it is also possible with this software.
 
 **Step 4:** After separating the audio from the video, it is simple to delete the track, whether it is audio or video that is not in use or want to use. Click on the “Export” option for saving your required audio tracks, or you can even select the “iPod” for playing the audio. You can also save the audio file separately as the new file on your hard drive. After exporting the audio tracks, load the project file again that has the frames for the video and later export the video file.
 
-![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas5.jpeg)
+![split audio from video in sony vegas](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas5.jpeg)
 
 Whenever you think about the compatibility of editing software with different operating systems, Wondershare Filmora comes to mind as the first choice. All the new features of Wondershare Filmora in its latest version have received positive feedback and reviews. Definitely, it is the actual replacement of the previously used editors such as video editor in Windows or iMovie in Mac.
 
@@ -179,7 +179,7 @@ Just little guidance and assistance can help you use the Wondershare Filmora as 
 
 **Step 2:** Drag and drop your video clip in the editing area. Here, you can easily see the video and audio tracks are all together. Whatever effect you apply, both will show the results.
 
-![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas2.jpeg)
+![split audio from video in sony vegas](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas2.jpeg)
 
 **Step 3:** You have to separate the audio from the video files in this step. After selecting the track, whether audio or video, simply press the “U” letter on your keyboard. In this step, keep holding the cursor. It permits you to keep moving the video clips quickly. Now, it is easy to download audio files from this area.
 
@@ -209,17 +209,17 @@ For macOS 10.14 or later
 
 **Step 1:** After running the Wondershare Filmora, select the ratio of your choice 4:3 or 16:9 for entering in the mode of editing. Click on the “Import” so you can add the photos, video and audio from the folder of your system. After importing the videos, drag and drop in the timeline. As a default, all the files get merged with one another with no gap.
 
-![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas3.jpeg)
+![split audio from video in sony vegas](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas3.jpeg)
 
 **Step 2:** Right-click on the video clip from which you want to extract the audio. Select the option of “Detach Audio” from the menu. Instantly, an audio file is visible on the screen, and it is the original one from the source.
 
-![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas4.jpeg)
+![split audio from video in sony vegas](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas4.jpeg)
 
 **Step 3:** Now, the audio track gets separated from the video successfully. Wondershare Filmora also offers to add one more audio file. Yes, it is also possible with this software.
 
 **Step 4:** After separating the audio from the video, it is simple to delete the track, whether it is audio or video that is not in use or want to use. Click on the “Export” option for saving your required audio tracks, or you can even select the “iPod” for playing the audio. You can also save the audio file separately as the new file on your hard drive. After exporting the audio tracks, load the project file again that has the frames for the video and later export the video file.
 
-![split audio from video in sony vegas ](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas5.jpeg)
+![split audio from video in sony vegas](https://images.wondershare.com/filmora/article-images/2022/01/split-audio-from-video-in-sony-vegas5.jpeg)
 
 Whenever you think about the compatibility of editing software with different operating systems, Wondershare Filmora comes to mind as the first choice. All the new features of Wondershare Filmora in its latest version have received positive feedback and reviews. Definitely, it is the actual replacement of the previously used editors such as video editor in Windows or iMovie in Mac.
 

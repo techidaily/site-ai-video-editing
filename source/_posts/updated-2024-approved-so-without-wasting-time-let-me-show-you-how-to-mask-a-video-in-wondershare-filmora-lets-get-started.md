@@ -1,0 +1,139 @@
+---
+title: Updated 2024 Approved So, without Wasting Time, Let Me Show You How to Mask a Video in Wondershare Filmora. Lets Get Started
+date: 2024-07-01T13:05:08.290Z
+updated: 2024-07-02T13:05:08.290Z
+tags: 
+  - ai
+  - animation videos
+categories: 
+  - ai
+description: This Article Describes Updated 2024 Approved So, without Wasting Time, Let Me Show You How to Mask a Video in Wondershare Filmora. Lets Get Started
+excerpt: This Article Describes Updated 2024 Approved So, without Wasting Time, Let Me Show You How to Mask a Video in Wondershare Filmora. Lets Get Started
+keywords: lets learn how to convert a normal video into a film shot in the 1920s with wondershare filmora,so without wasting time let me show you how to mask a video in wondershare filmora lets get started,in this article you will learn how to record creative cinematic videos using a smartphone and edit the video with wondershare filmora,do you want to know all about video frame rates and speed wondershare filmora will help you to get more information on this matter,want to save your edited video file in mp4 format in windows movie maker here are the simple steps along with a better alternative,ai animation how to make a slow motion video in wondershare filmora,ai animation getting to know more about the video editing interface of wondershare filmora
+thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f0e7070951ebc50a7e45bfdb.jpg
+---
+
+## So, without Wasting Time, Let Me Show You How to Mask a Video in Wondershare Filmora. Let's Get Started
+
+Masking is a video effect that allows you to cut out a scene and use the overlay to duplicate, hide, modify, or reveal your video footage. Just think of it as cutting something on your video so you can see what's in the bottom layer. So, without wasting time, let me show you how to mask a video in [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Let's get started!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+### _Masking Trick 1:_
+
+First, you need to shoot footage to add the masking effect. To do that, find a doorway with enough space to walk back and forth before setting up a camera with a tripod facing the entrance. Make sure you set the camera at the center height of the door to prevent lens distortion.
+
+![place the camera facing the door](https://images.wondershare.com/filmora/article-images/2023/01/place-the-camera-facing-the-door.gif)
+
+With the tripod set up, film yourself walking behind the door toward the camera. Get close to the camera, then walk back to the door. Then, cross the doorway slowly before walking out of the frame. Now let's get editing with Wondershare Filmora.
+
+![walk backwards](https://images.wondershare.com/filmora/article-images/2023/01/walk-backwards.gif)
+
+Step 1 Fire up Wondershare Filmora, then import the clip on the video editor. After that, move the clip to the timeline by merely dragging it. Add two clips on the first and second tracks.
+
+![fire up wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-1.jpg)
+
+Step 2 Now proceed to hide the first track before adding a freeze frame on the second track. To do that, move the playhead to find the starting scene with the door frame without your subject. Then, right-click the clip and tap **Add Freeze Frame**. After that, extend the freeze frame area and cut out the rest of the clip.
+
+![proceed to hide the first track](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-2.jpg)
+
+Step 3 Next, click the **Effect** button and find the **Image Mask** effect in the **Utility** folder. Now drag the effect to the top layer.
+
+![click the effect button](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-3.jpg)
+
+Step 4 Double-click the clip to open the video editing options, then choose a rectangle image mast under **Video Effects**. Ensure the mask is inverted by clicking the **Invert Mask** checkbox. Now adjust the mast to match the door frame before clicking **Ok**.
+
+![double-click the clip](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-4.jpg)
+
+Step 5 Up to this point, unhide the first track, then find the scene where the subject appears on the door frame. On the first track, cut the clip before the subject appears on the stage before cutting the scene where the subject crosses the door frame for the second time on the second track. Now play the video to view your masking effect.
+
+![unhide the first track](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-5.jpg)
+
+### _Masking Trick: 2_
+
+In the second masking effect, we want to create a subject walking in and outside a tree. To do that, find a tree with a clear background, then place your camera to film the center of the tree trunk where the subject will be walking.
+
+![create a subject walking in and outside a tree](https://images.wondershare.com/filmora/article-images/2023/01/tree-with-clear-background.gif)
+
+Now film the subject walking from one side of the tree, stop for a second, and then turn back. They should repeat the same action, but this time they'll walk forward outside the frame after the one-second stop. That's all!
+
+![film the subject walking from one side of the tree](https://images.wondershare.com/filmora/article-images/2023/01/walk-away-from-the-tree.gif)
+
+Step 1 Import the clip on Filmora, then add the footage on the first and second timelines. After that, hide the first track, then find the scene where the subject walks forward away from the tree in the second track. Cut off the area before that action.
+
+![import the clip on filmora](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-6.jpg)
+
+Step 2 Next, click **Effects**, choose **Utility**, then drag the **Image Mask** effect on the second video track. Then, double-click the second clip, select **Video Effects**, and choose a rectangular option that masks the right side of the frame.
+
+Now adjust the mask until it covers the entire right side of the tree. After that, unhide the first clip and move the second to match the first clip's timing. You can also cut out everything outside the scene of the first clip.
+
+![adjust the mask](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-7.jpg)
+
+Step 3 Play the video to see your subject walking in both directions of the tree.
+
+![play the video to see your subject walking in both directions of the tree](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-8.jpg)
+
+### _Masking Trick 3:_
+
+For this masking illusion, we'll create a video with a subject jumping over a house. So, set up your camera tripod on a low level in front of the building. You can also add a mark on the ground for your subject to know where to jump.
+
+![create a video with a subject jumping over a house](https://images.wondershare.com/filmora/article-images/2023/01/set-the-camera-low.gif)
+
+Now tell your subject to walk to the marker before jumping and walking out of the scene.
+
+![tell your subject to walk to the marker](https://images.wondershare.com/filmora/article-images/2023/01/jump-in-front-of-camera.gif)
+
+Step 1 Import the clip into Filmora and add it to the first and second tracks. Now hide the first track before finding the scene without the subject in the second track and add a freeze frame. After that, extend the freeze frame area and cut out the rest of the clip.
+
+![import the clip into filmora](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-9.jpg)
+
+Step 2 Now, it's time to customize the clip with a mask. To do that, head to the **Utility** folder under **Effects** and choose **Image Mask**. Click the **Invert Mask** box to invert the mask.
+
+![customize the clip with a mask](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-10.jpg)
+
+Step 3 Double-click the video track and choose an image mask under **Video Effects**. Note that you may need several combinations of masks to mask out the sky and leave the building. So, play around with different masking shapes until the sky is covered.
+
+![double-click the video track](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-11.jpg)
+
+Step 4 After masking, unhide the first track on the timeline before playing the video to find the scene where the subject appears and cut off everything before that scene. Also, find the scene where the subject jumps in the air and cut the clip in the second track. Then, delete everything after that scene.
+
+![unhide the first track on the timeline](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-12.jpg)
+
+Step 5 Play the video to see your subject jumping over the building and walking away from the scene.
+
+![play the video to see your subject](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-13.jpg)
+
+## Conclusion
+
+That was easy, right? Playing around with Filmora's masking tools can create incredible masking illusions like the ones we've discussed. And don't forget this video editor has many more creative possibilities. You should try these masking tricks!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-add-effects-to-video-online/"><u>In 2024, Add Effects to Video Online</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-add-a-spooky-shadow-effect/"><u>2024 Approved How to Add a Spooky Shadow Effect</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-4-methods-to-resize-a-webm-file/"><u>New In 2024, 4 Methods to Resize a WebM File</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/whatever-the-reason-you-want-to-convert-an-mp4-to-gif-online-there-are-a-number-of-ways-to-do-it-use-this-guide-to-learn-the-best-methods-read-more-here-for/"><u>Whatever the Reason You Want to Convert an Mp4 to GIF Online, There Are a Number of Ways to Do It. Use This Guide to Learn the Best Methods. Read More Here for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713963899179-updated-in-this-article-you-will-learn-how-to-make-an-engaging-and-creative-youtube-intro-to-give-a-hook-and-recap-information-to-the-audience-by-using-wond/"><u>Updated In This Article, You Will Learn How to Make an Engaging and Creative YouTube Intro to Give a Hook and Recap Information to the Audience by Using Wondershare Filmora for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-turn-any-video-into-a-paper-rip-effect-with-filmora-for-2024/"><u>Updated Turn Any Video Into a Paper Rip Effect with Filmora for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-export-video-in-filmora/"><u>How To Export Video in Filmora</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-11-secrets-to-increasing-your-facebook-video-reach/"><u>[New] In 2024, 11 Secrets to Increasing Your Facebook Video Reach</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-smartphone-browser-showdown-youtube-app-analysis/"><u>[Updated] Smartphone Browser Showdown  YouTube App Analysis</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-live-selling-a-comprehensive-starters-guide/"><u>New In 2024, Live Selling A Comprehensive Starters Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-enhance-browsing-performance-unlocking-the-power-of-picture-in-picture/"><u>[New] 2024 Approved  Enhance Browsing Performance  Unlocking the Power of Picture-in-Picture</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/top-5-ai-integrated-ai-cartoon-video-generators-to-use/"><u>Top 5 AI-Integrated AI Cartoon Video Generators to Use</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-oneplus-nord-n30-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On OnePlus Nord N30 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/video-card-error-43-sorted-out/"><u>Video Card Error 43 Sorted Out</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-redefine-viewing-premium-platforms-for-videos/"><u>[New] Redefine Viewing  Premium Platforms for Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-videography-6-tips-for-making-macro-video/"><u>[Updated] In 2024, Videography  6 Tips for Making Macro Video</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

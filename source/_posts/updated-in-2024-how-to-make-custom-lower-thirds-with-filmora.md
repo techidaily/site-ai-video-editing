@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Make Custom Lower Thirds with Filmora
-date: 2024-04-24T01:06:12.741Z
-updated: 2024-04-25T01:06:12.741Z
+date: 2024-07-01T13:02:24.943Z
+updated: 2024-07-02T13:02:24.943Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Updated In 2024, How to Make Custom Lower Thirds with Filmora
 excerpt: This Article Describes Updated In 2024, How to Make Custom Lower Thirds with Filmora
 keywords: how to create custom lower thirds in filmora,how to make custom lower thirds with filmora,ai animation how to make custom lower thirds with filmora,custom lower third filmora,ai animation how to create custom lower thirds in filmora,how to make coin magic with filmora,ai animation ai animation how to create custom lower thirds in filmora
-thumbnail: https://www.lifewire.com/thmb/uOuMw8_e1pBrdfuZB3txnHBxmfk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sofya-NomETWcv2Fo-unsplash-be3fc2855a7e477db0273993fd22e822.jpg
+thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735f93f6027b47c78945bb4e75.jpg
 ---
 
 ## How to Make Custom Lower Thirds with Filmora
@@ -25,7 +25,7 @@ A Lower Third is a mix of motion graphic design and texts that are placed in the
 
 Lower Thirds can be used in various settings, such as news broadcasts or interviews, to help provide viewers with additional context.
 
-## Part 2: How to Make Your Own Lower Thirds in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Part 2: How to Make Your Own Lower Thirds in Filmora
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
@@ -340,31 +340,31 @@ In cinematography, LUTs are essential to adjust the color and tone of digital im
 
 If you feel like searching for good LUTs for your Sony camera's footage, don't worry. Here is a list of some of the best Song HLG LUTs, each with a unique tone and feel. You can choose any LUT that matches your style and preference.
 
-### 1\. [Cinematic HLG2 LUTs](https://www.toneden.io/ravi-n-jha-1/post/5-free-cinematic-hlg2-luts)
+### 1\. Cinematic HLG2 LUTs
 
 It is a pack of cinematic-style **Sony HLG2 LUTs**. This pack is for those seeking a dramatic and moody style. It adds a film noir-inspired touch to your videos. Moreover, this pack offers 5 cinematic LUTs, each with unique color grading. Additionally, it creates a professional look with high contrast and desaturated colors. Furthermore, one of its LUT gives a bluish tone to create a Winter ambiance.
 
 ![cinematic hlg2 luts](https://images.wondershare.com/filmora/article-images/2023/cinematic-hlg2-luts.jpg)
 
-### 2\. [HLG Cinematic LUT Pack](https://jordanalsadi.sellfy.store/p/hlg-cinematic-lut-pack-for-sony/)
+### 2\. HLG Cinematic LUT Pack
 
 The HLG Cinematic LUT Pack is a collection of 19 unique cinematic Look-Up Tables. Each LUT in the pack offers a different color scheme, tone, and style. Additionally, it provides multiple options to give your media the perfect cinematic feel. You can choose from different options and select the LUT which matches your style and mood.
 
 ![hlg cinematic lut pack](https://images.wondershare.com/filmora/article-images/2023/hlg-cinematic-lut-pack.jpg)
 
-### 3\. [HLG3 & HLG2 creative correction LUT](https://www.adamxwebb.com/hlg-luts)
+### 3\. HLG3 & HLG2 creative correction LUT
 
 This LUT pack is all about bold and vibrant colors that grab attention. It is one of the best **Sony HLG3 to Rec709 LUT** packs available. It enhances the saturation and contrast of your videos and images. Furthermore, this pack makes colors appear vivid and eye-catching. Additionally, it adds a punch to your digital media content with more vibrant and bright colors.
 
 ![hlg3 and hlg2 creative correction lut](https://images.wondershare.com/filmora/article-images/2023/hlg3-and-hlg2-creative-correction-lut.jpg)
 
-### 4\. [HLG Normalized LUT Pack](https://xtremestuff.net/store/hlg-normalized-lut-pack/)
+### 4\. HLG Normalized LUT Pack
 
 The HLG Normalized LUT Pack offers a refreshing and calming color scheme. It gives your videos cool-toned hues, giving a serene and calm feel. This pack has 80 different styles of LUTs, each with a unique color composition. Furthermore, this pack is ideal for capturing scenic landscapes, beach views, or other relaxing scenes. It gives your visuals a cool and crisp look by highlighting the shades of blue and green.
 
 ![hlg normalized lut pack](https://images.wondershare.com/filmora/article-images/2023/hlg-normalized-lut-pack.jpg)
 
-### 5\. [HLG LUT Pack](https://godownloads.net/hlg-lut-pack-10-luts-free-download/)
+### 5\. HLG LUT Pack
 
 This pack for Sony HLG offers a dreamy and soft color scheme. It softens the colors and adds a subtle pastel touch to your footage. Moreover, it creates a dreamier and fantasy-like color scheme. This LUT has over 10 different LUTs that you can use for your videos and images. With this LUT pack, you can add a touch of magic to give your videos a soft and dream-like feel.
 
@@ -386,7 +386,7 @@ Additionally, it allows you to customize the strength of your applied LUTs. That
 
 ![wondershare filmora luts](https://images.wondershare.com/filmora/article-images/2023/wondershare-filmora-luts.jpg)
 
-### [Key Features:](https://tools.techidaily.com/wondershare/filmora/download/)
+### Key Features:
 
 * You can make your audio as much professional as your videos. With its AI Denoiser, your audio will be distortion free. It will remove all the background noises and distortion from your audio.
 * Moreover, if you want to change the background of your video without a green screen, you can. It has an AI Cutout tool, which selects your subject to change its background.
@@ -418,31 +418,31 @@ You can also try [Filmora video editor](https://tools.techidaily.com/wondershare
 
 If you feel like searching for good LUTs for your Sony camera's footage, don't worry. Here is a list of some of the best Song HLG LUTs, each with a unique tone and feel. You can choose any LUT that matches your style and preference.
 
-### 1\. [Cinematic HLG2 LUTs](https://www.toneden.io/ravi-n-jha-1/post/5-free-cinematic-hlg2-luts)
+### 1\. Cinematic HLG2 LUTs
 
 It is a pack of cinematic-style **Sony HLG2 LUTs**. This pack is for those seeking a dramatic and moody style. It adds a film noir-inspired touch to your videos. Moreover, this pack offers 5 cinematic LUTs, each with unique color grading. Additionally, it creates a professional look with high contrast and desaturated colors. Furthermore, one of its LUT gives a bluish tone to create a Winter ambiance.
 
 ![cinematic hlg2 luts](https://images.wondershare.com/filmora/article-images/2023/cinematic-hlg2-luts.jpg)
 
-### 2\. [HLG Cinematic LUT Pack](https://jordanalsadi.sellfy.store/p/hlg-cinematic-lut-pack-for-sony/)
+### 2\. HLG Cinematic LUT Pack
 
 The HLG Cinematic LUT Pack is a collection of 19 unique cinematic Look-Up Tables. Each LUT in the pack offers a different color scheme, tone, and style. Additionally, it provides multiple options to give your media the perfect cinematic feel. You can choose from different options and select the LUT which matches your style and mood.
 
 ![hlg cinematic lut pack](https://images.wondershare.com/filmora/article-images/2023/hlg-cinematic-lut-pack.jpg)
 
-### 3\. [HLG3 & HLG2 creative correction LUT](https://www.adamxwebb.com/hlg-luts)
+### 3\. HLG3 & HLG2 creative correction LUT
 
 This LUT pack is all about bold and vibrant colors that grab attention. It is one of the best **Sony HLG3 to Rec709 LUT** packs available. It enhances the saturation and contrast of your videos and images. Furthermore, this pack makes colors appear vivid and eye-catching. Additionally, it adds a punch to your digital media content with more vibrant and bright colors.
 
 ![hlg3 and hlg2 creative correction lut](https://images.wondershare.com/filmora/article-images/2023/hlg3-and-hlg2-creative-correction-lut.jpg)
 
-### 4\. [HLG Normalized LUT Pack](https://xtremestuff.net/store/hlg-normalized-lut-pack/)
+### 4\. HLG Normalized LUT Pack
 
 The HLG Normalized LUT Pack offers a refreshing and calming color scheme. It gives your videos cool-toned hues, giving a serene and calm feel. This pack has 80 different styles of LUTs, each with a unique color composition. Furthermore, this pack is ideal for capturing scenic landscapes, beach views, or other relaxing scenes. It gives your visuals a cool and crisp look by highlighting the shades of blue and green.
 
 ![hlg normalized lut pack](https://images.wondershare.com/filmora/article-images/2023/hlg-normalized-lut-pack.jpg)
 
-### 5\. [HLG LUT Pack](https://godownloads.net/hlg-lut-pack-10-luts-free-download/)
+### 5\. HLG LUT Pack
 
 This pack for Sony HLG offers a dreamy and soft color scheme. It softens the colors and adds a subtle pastel touch to your footage. Moreover, it creates a dreamier and fantasy-like color scheme. This LUT has over 10 different LUTs that you can use for your videos and images. With this LUT pack, you can add a touch of magic to give your videos a soft and dream-like feel.
 
@@ -464,7 +464,7 @@ Additionally, it allows you to customize the strength of your applied LUTs. That
 
 ![wondershare filmora luts](https://images.wondershare.com/filmora/article-images/2023/wondershare-filmora-luts.jpg)
 
-### [Key Features:](https://tools.techidaily.com/wondershare/filmora/download/)
+### Key Features:
 
 * You can make your audio as much professional as your videos. With its AI Denoiser, your audio will be distortion free. It will remove all the background noises and distortion from your audio.
 * Moreover, if you want to change the background of your video without a green screen, you can. It has an AI Cutout tool, which selects your subject to change its background.
@@ -569,7 +569,7 @@ So, in short, Web VTT is more user friendly offering a lot more than what a simp
 
 If you want a quick solution to convert SRT files to Web VTT, then there are a lot of converters available online that will convert your SRT file in seconds, however long it many be. Some notable converters online are given below. Depending on their features and results, you can use the one that suits you the most.
 
-### [Go Transcript](https://gotranscript.com/)
+### Go Transcript
 
 ![go transcript interface](https://images.wondershare.com/filmora/article-images/2022/07/convert-srt-to-vtt-2.jpg)
 
@@ -588,7 +588,7 @@ Apart from that, GoTranscript allows you to convert files into 15 different text
 * Lots of extra costs if purchasing premium services
 * Web editor is not very great
 
-### [Veed.io](https://www.veed.io/)
+### Veed.io
 
 Veed.io is another excellent website for converting SRT files to Web VTT format. The website has a very intuitive interface with everything in front of you. By clicking on the upload button, you can upload your file and convert it. Other than that, you can also download closed captions from the Veed.io website, as it allows you to transcribe audios and edit videos.
 
@@ -604,7 +604,7 @@ Veed.io is another excellent website for converting SRT files to Web VTT format.
 
 * No mobile app is available
 
-### [Subtitle Edit](https://nikse.dk/subtitleedit)
+### Subtitle Edit
 
 Subtitle Edit is also an online SRT to Web VTT convertor that has an extremely user-friendly interface. Subtitle edit is free of any ads or distractions, allowing you to work on your file with your complete focus. Subtitle Edit also provides transcription and video editing services along with free file conversions.
 
@@ -620,7 +620,7 @@ Subtitle Edit is also an online SRT to Web VTT convertor that has an extremely u
 * Only creates and edits SRT files
 * Expensive premium services
 
-### How to Convert SRT to Web VTT using [GoTranscript](https://gotranscript.com/)
+### How to Convert SRT to Web VTT using GoTranscript
 
 As mentioned above, GoTranscript is extremely easy to navigate and allows you to quickly convert your files from one format to the other. Here is a detailed process that shows how you can convert your SRT file to Web VTT in GoTranscript.
 
@@ -697,7 +697,7 @@ Here is a video tutorial to guide you to convert SRT to VTT:
 
 While we have discussed most of the solutions with you, the easiest and the best solution is saved for the last. You must be aware of [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), but did you know that you can easily edit your SRT file there and merge the subtitles with your video! Filmora offers you to edit SRT files and conveniently arrange the captions however you want.
 
-### [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+### Wondershare Filmora
 
 [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is truly a work of art that allows beginners and professionals to create and edit world class videos. With an easy to navigate interface, you can find everything within seconds, even if you are a novice at video editing.
 
@@ -805,7 +805,7 @@ So, in short, Web VTT is more user friendly offering a lot more than what a simp
 
 If you want a quick solution to convert SRT files to Web VTT, then there are a lot of converters available online that will convert your SRT file in seconds, however long it many be. Some notable converters online are given below. Depending on their features and results, you can use the one that suits you the most.
 
-### [Go Transcript](https://gotranscript.com/)
+### Go Transcript
 
 ![go transcript interface](https://images.wondershare.com/filmora/article-images/2022/07/convert-srt-to-vtt-2.jpg)
 
@@ -824,7 +824,7 @@ Apart from that, GoTranscript allows you to convert files into 15 different text
 * Lots of extra costs if purchasing premium services
 * Web editor is not very great
 
-### [Veed.io](https://www.veed.io/)
+### Veed.io
 
 Veed.io is another excellent website for converting SRT files to Web VTT format. The website has a very intuitive interface with everything in front of you. By clicking on the upload button, you can upload your file and convert it. Other than that, you can also download closed captions from the Veed.io website, as it allows you to transcribe audios and edit videos.
 
@@ -840,7 +840,7 @@ Veed.io is another excellent website for converting SRT files to Web VTT format.
 
 * No mobile app is available
 
-### [Subtitle Edit](https://nikse.dk/subtitleedit)
+### Subtitle Edit
 
 Subtitle Edit is also an online SRT to Web VTT convertor that has an extremely user-friendly interface. Subtitle edit is free of any ads or distractions, allowing you to work on your file with your complete focus. Subtitle Edit also provides transcription and video editing services along with free file conversions.
 
@@ -856,7 +856,7 @@ Subtitle Edit is also an online SRT to Web VTT convertor that has an extremely u
 * Only creates and edits SRT files
 * Expensive premium services
 
-### How to Convert SRT to Web VTT using [GoTranscript](https://gotranscript.com/)
+### How to Convert SRT to Web VTT using GoTranscript
 
 As mentioned above, GoTranscript is extremely easy to navigate and allows you to quickly convert your files from one format to the other. Here is a detailed process that shows how you can convert your SRT file to Web VTT in GoTranscript.
 
@@ -933,7 +933,7 @@ Here is a video tutorial to guide you to convert SRT to VTT:
 
 While we have discussed most of the solutions with you, the easiest and the best solution is saved for the last. You must be aware of [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), but did you know that you can easily edit your SRT file there and merge the subtitles with your video! Filmora offers you to edit SRT files and conveniently arrange the captions however you want.
 
-### [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+### Wondershare Filmora
 
 [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is truly a work of art that allows beginners and professionals to create and edit world class videos. With an easy to navigate interface, you can find everything within seconds, even if you are a novice at video editing.
 

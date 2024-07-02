@@ -1,7 +1,7 @@
 ---
 title: Splitting Clips in Adobe After Effects Step by Step
-date: 2024-05-19T05:11:40.069Z
-updated: 2024-05-20T05:11:40.069Z
+date: 2024-07-01T13:02:31.187Z
+updated: 2024-07-02T13:02:31.187Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes Splitting Clips in Adobe After Effects Step by Step
 excerpt: This Article Describes Splitting Clips in Adobe After Effects Step by Step
 keywords: ai animation ai animation splitting the clips in adobe after effects step by step,ai animation splitting clips in adobe after effects step by step,split a clip in after effects,ai animation splitting the clips in adobe after effects step by step,splitting the clips in adobe after effects step by step,splitting clips in adobe after effects step by step,using slow motion in adobe after effects a step by step procession
-thumbnail: https://www.lifewire.com/thmb/tlifSCFQmwjazjTNLenwCtxlliI=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/removerokuchannel-c354faa0f712495384a4d5888017e30c.png
+thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a663f40c627d05eef8a39852a.png
 ---
 
 ## Splitting Clips in Adobe After Effects [Step by Step]
@@ -43,7 +43,7 @@ You can import the required video file. Simply click on “File”à ImportàFil
 
 ### **One more technique for splitting the videos in After Effects:**
 
-Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[ either\].
+Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[either\].
 
 ## **An easier way to split the video clips**
 
@@ -102,7 +102,7 @@ You can import the required video file. Simply click on “File”à ImportàFil
 
 ### **One more technique for splitting the videos in After Effects:**
 
-Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[ either\].
+Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[either\].
 
 ## **An easier way to split the video clips**
 
@@ -161,7 +161,7 @@ You can import the required video file. Simply click on “File”à ImportàFil
 
 ### **One more technique for splitting the videos in After Effects:**
 
-Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[ either\].
+Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[either\].
 
 ## **An easier way to split the video clips**
 
@@ -220,7 +220,7 @@ You can import the required video file. Simply click on “File”à ImportàFil
 
 ### **One more technique for splitting the videos in After Effects:**
 
-Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[ either\].
+Splitting the video clips is also easily possible by duplicating and pressing CTRL+D. Do this action when it is in your timeline. Now there are similar copies of the clips and present in two layers. To cut down the layer according to the timeline marker, press ALT + or \[either\].
 
 ## **An easier way to split the video clips**
 
@@ -287,7 +287,7 @@ This guide will introduce some powerful software that can be used for different 
 
 Some video editors can help you accomplish your goal of easily splitting videos on your computer with half the work! Next, we'll suggest a few light and user-friendly video editors for the Windows operating system.
 
-### 1\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+### 1\. Wondershare Filmora
 
 Filmora is a video editor for Windows that makes creating beautiful and compelling videos simple. It only takes a few easy steps to create videos using Filmora's built-in editing features.
 
@@ -305,7 +305,7 @@ Step4Select the part you want to delete and click on the **Delete** icon; your u
 
 Step5Apply filters and transitions if required. Then, export and save the split video.
 
-### 2\. [Wondershare UniConverter](https://tools.techidaily.com/wondershare/videoconverter/download/)
+### 2\. Wondershare UniConverter
 
 Along with helping you convert different video formats, UniConverter also supports you in completing the video's first editing. It removes extras and gives it an elegant appearance. You need to follow the instructions to obtain your preferred video. These videos can be shared on YouTube and other websites.
 
@@ -351,7 +351,7 @@ Or choose the video from the timeline, slide the red line to the target dot, and
 
 Step4You can export your video after finishing all the editing.
 
-### 2\. [iMovie](https://www.apple.com/imovie/)
+### 2\. iMovie
 
 iMovie is a video editing software designed and built by Apple Inc. for their products, such as Mac. This video editing software involves a wide range of features that include the modification and enhancement of video quality, split, trimming, or crop videos, adding transitions, and some other valuable and useful features.
 
@@ -399,7 +399,7 @@ Step3You have the option of immediately replacing the original or selecting Save
 
 ![selecting save video](https://images.wondershare.com/filmora/article-images/2022/08/how-to-cut-a-video-into-parts-on-all-platforms-10.jpg)
 
-### 2\. [Filmora](https://apps.apple.com/us/app/filmorago-video-editor-maker/id1019382747)
+### 2\. Filmora
 
 You can cut your video by iPhone by the following method:
 
@@ -425,7 +425,7 @@ Step3Once you have completed editing the video, save the video.
 
 ![save the video](https://images.wondershare.com/filmora/article-images/2022/08/how-to-cut-a-video-into-parts-on-all-platforms-12.jpg)
 
-### 2\. [Filmora on Android](https://play.google.com/store/apps/details?id=com.wondershare.filmorago&hl=en&gl=US)
+### 2\. Filmora on Android
 
 As in iPhone, Filmora also helps to cut, delete, or edit the video according to our choice in Android. It makes the clip of the movie short or pure. To get all the processes keenly study the steps below:
 
@@ -443,7 +443,7 @@ Step4Once you have edited the video, export and save it.
 
 All the above methods are possible if we install and download the software or apps. But in the online method, you go to the website and can get your video in trimmed form any time. No need to download it before work. They are:
 
-### [Veed.io](https://www.veed.io/)
+### Veed.io
 
 Users can make video and audio playlists using the online video editor VEED and then share them on social media websites. Moreover, it has a lot of editing options that might help you realize more potential for your videos.
 
@@ -489,7 +489,7 @@ Step3You have the option of immediately replacing the original or selecting Save
 
 ![selecting save video](https://images.wondershare.com/filmora/article-images/2022/08/how-to-cut-a-video-into-parts-on-all-platforms-10.jpg)
 
-### 2\. [Filmora](https://apps.apple.com/us/app/filmorago-video-editor-maker/id1019382747)
+### 2\. Filmora
 
 You can cut your video by iPhone by the following method:
 
@@ -515,7 +515,7 @@ Step3Once you have completed editing the video, save the video.
 
 ![save the video](https://images.wondershare.com/filmora/article-images/2022/08/how-to-cut-a-video-into-parts-on-all-platforms-12.jpg)
 
-### 2\. [Filmora on Android](https://play.google.com/store/apps/details?id=com.wondershare.filmorago&hl=en&gl=US)
+### 2\. Filmora on Android
 
 As in iPhone, Filmora also helps to cut, delete, or edit the video according to our choice in Android. It makes the clip of the movie short or pure. To get all the processes keenly study the steps below:
 
@@ -533,7 +533,7 @@ Step4Once you have edited the video, export and save it.
 
 All the above methods are possible if we install and download the software or apps. But in the online method, you go to the website and can get your video in trimmed form any time. No need to download it before work. They are:
 
-### [Veed.io](https://www.veed.io/)
+### Veed.io
 
 Users can make video and audio playlists using the online video editor VEED and then share them on social media websites. Moreover, it has a lot of editing options that might help you realize more potential for your videos.
 
@@ -589,7 +589,7 @@ Many computer voice generators have become accessible on the market due to the a
 
 You can replicate every voice style possible in today's AI environment, and it's a straightforward procedure. There are various commercial uses for AI voice generators, and any size firm may start leveraging the technology with these ten best AI voice generators:
 
-## **#1:** [Murf](https://murf.ai/)
+## **#1:** Murf
 
 **It is available on Windows, Mac, Android, iPhone, and Online**
 
@@ -619,7 +619,7 @@ Murf makes authentic voices in a short time with minimal effort. Then, you can a
 
 * You may experience frequent technical glitches.
 
-## **#2:** [Lovo](https://www.lovo.ai/)
+## **#2:** Lovo
 
 **It is available on Windows, Mac, Android, iPhone, and Online**.
 
@@ -649,7 +649,7 @@ Lovo creates natural voices from input text using artificial intelligence to con
 * The choice of voices for each language is a little limited.
 * While UI/UX is straightforward, it still feels a bit too plain and boring.
 
-## **#3:** [Speechelo](https://speechelo.com/g-offer/?gc%5Fid=15007999843&h%5Fad%5Fid=558506792826&gclid=Cj0KCQjwg%5FiTBhDrARIsAD3Ib5h3H34c3rWaGHEUQ8Wpi8v6SVjkPvcW9xcRZpFo%5F-V2d-GHJJyJ8ocaAtGKEALw%5FwcB)
+## **#3:** Speechelo
 
 **It is available on Windows, Mac, Android, iPhone, and Online**.
 
@@ -679,7 +679,7 @@ Speechelo lets users turn any text into voice-over in three simple clicks. Train
 * The output of Speechelo will be 48kbps. If you're familiar with sound production, you'll see that this is a very low output.
 * It might produce inaccurate output if you input long voice-overs.
 
-## **#4:** [Play.ht](https://play.ht/)
+## **#4:** Play.ht
 
 **It is available on Windows, Mac, Android, iPhone, and Online**.
 
@@ -710,7 +710,7 @@ You can choose a voice style and either load or input words, which Play.ht will 
 * They will present a variety of languages, but not all.
 * It comes with a credit-based system.
 
-## **#5:** [Capti Voice](https://www.captivoice.com/capti-site/)
+## **#5:** Capti Voice
 
 **It is available on Windows, Mac, Android, iPhone, and Online**.
 
@@ -739,7 +739,7 @@ Furthermore, the application has features that help persons with dyslexia, visio
 * The default tone is gloomy.
 * It does not export audio.
 
-## **#6:** [Streams Speak](https://speak.streams.live/)
+## **#6:** Streams Speak
 
 **It is available on Windows, Mac, Android, iPhone, and Online**.
 
@@ -765,7 +765,7 @@ Streams Speak is a helpful platform for voice production based on machine learni
 
 * It only provides generated speech in English.
 
-## **#7:** [Sonantic](https://www.sonantic.io/)
+## **#7:** Sonantic
 
 **It is available on Windows, Mac, Android, iPhone, and Online**
 
@@ -791,7 +791,7 @@ The price is still unclear.
 * The cost is unclear.
 * No free plan is available.
 
-## **#8:** [Resemble.ai](https://www.resemble.ai/)
+## **#8:** Resemble.ai
 
 **It is available on Windows, Mac, Android, iPhone, and Online**
 
@@ -820,7 +820,7 @@ Resemble provides four different synthetic voice options and the ability to crea
 * UI needs improvements.
 * It has limited voice options.
 
-## **#9:** [Clipchamp](https://clipchamp.com/en/)
+## **#9:** Clipchamp
 
 **It is available on Windows, Mac, Android, iPhone, and Online**
 
@@ -850,7 +850,7 @@ Because of its simplicity, Clipchamp is another excellent choice for beginners. 
 * All stock videos have a watermark.
 * It might take a long time to export content.
 
-## **#10:** [Replica](https://replicastudios.com/)
+## **#10:** Replica
 
 **It is available on Windows, Mac, Android, iPhone, and Online**
 
@@ -944,7 +944,7 @@ Many computer voice generators have become accessible on the market due to the a
 
 You can replicate every voice style possible in today's AI environment, and it's a straightforward procedure. There are various commercial uses for AI voice generators, and any size firm may start leveraging the technology with these ten best AI voice generators:
 
-## **#1:** [Murf](https://murf.ai/)
+## **#1:** Murf
 
 **It is available on Windows, Mac, Android, iPhone, and Online**
 
@@ -974,7 +974,7 @@ Murf makes authentic voices in a short time with minimal effort. Then, you can a
 
 * You may experience frequent technical glitches.
 
-## **#2:** [Lovo](https://www.lovo.ai/)
+## **#2:** Lovo
 
 **It is available on Windows, Mac, Android, iPhone, and Online**.
 
@@ -1004,7 +1004,7 @@ Lovo creates natural voices from input text using artificial intelligence to con
 * The choice of voices for each language is a little limited.
 * While UI/UX is straightforward, it still feels a bit too plain and boring.
 
-## **#3:** [Speechelo](https://speechelo.com/g-offer/?gc%5Fid=15007999843&h%5Fad%5Fid=558506792826&gclid=Cj0KCQjwg%5FiTBhDrARIsAD3Ib5h3H34c3rWaGHEUQ8Wpi8v6SVjkPvcW9xcRZpFo%5F-V2d-GHJJyJ8ocaAtGKEALw%5FwcB)
+## **#3:** Speechelo
 
 **It is available on Windows, Mac, Android, iPhone, and Online**.
 
@@ -1034,7 +1034,7 @@ Speechelo lets users turn any text into voice-over in three simple clicks. Train
 * The output of Speechelo will be 48kbps. If you're familiar with sound production, you'll see that this is a very low output.
 * It might produce inaccurate output if you input long voice-overs.
 
-## **#4:** [Play.ht](https://play.ht/)
+## **#4:** Play.ht
 
 **It is available on Windows, Mac, Android, iPhone, and Online**.
 
@@ -1065,7 +1065,7 @@ You can choose a voice style and either load or input words, which Play.ht will 
 * They will present a variety of languages, but not all.
 * It comes with a credit-based system.
 
-## **#5:** [Capti Voice](https://www.captivoice.com/capti-site/)
+## **#5:** Capti Voice
 
 **It is available on Windows, Mac, Android, iPhone, and Online**.
 
@@ -1094,7 +1094,7 @@ Furthermore, the application has features that help persons with dyslexia, visio
 * The default tone is gloomy.
 * It does not export audio.
 
-## **#6:** [Streams Speak](https://speak.streams.live/)
+## **#6:** Streams Speak
 
 **It is available on Windows, Mac, Android, iPhone, and Online**.
 
@@ -1120,7 +1120,7 @@ Streams Speak is a helpful platform for voice production based on machine learni
 
 * It only provides generated speech in English.
 
-## **#7:** [Sonantic](https://www.sonantic.io/)
+## **#7:** Sonantic
 
 **It is available on Windows, Mac, Android, iPhone, and Online**
 
@@ -1146,7 +1146,7 @@ The price is still unclear.
 * The cost is unclear.
 * No free plan is available.
 
-## **#8:** [Resemble.ai](https://www.resemble.ai/)
+## **#8:** Resemble.ai
 
 **It is available on Windows, Mac, Android, iPhone, and Online**
 
@@ -1175,7 +1175,7 @@ Resemble provides four different synthetic voice options and the ability to crea
 * UI needs improvements.
 * It has limited voice options.
 
-## **#9:** [Clipchamp](https://clipchamp.com/en/)
+## **#9:** Clipchamp
 
 **It is available on Windows, Mac, Android, iPhone, and Online**
 
@@ -1205,7 +1205,7 @@ Because of its simplicity, Clipchamp is another excellent choice for beginners. 
 * All stock videos have a watermark.
 * It might take a long time to export content.
 
-## **#10:** [Replica](https://replicastudios.com/)
+## **#10:** Replica
 
 **It is available on Windows, Mac, Android, iPhone, and Online**
 
@@ -1299,7 +1299,7 @@ Many computer voice generators have become accessible on the market due to the a
 
 You can replicate every voice style possible in today's AI environment, and it's a straightforward procedure. There are various commercial uses for AI voice generators, and any size firm may start leveraging the technology with these ten best AI voice generators:
 
-## **#1:** [Murf](https://murf.ai/)
+## **#1:** Murf
 
 **It is available on Windows, Mac, Android, iPhone, and Online**
 
@@ -1329,7 +1329,7 @@ Murf makes authentic voices in a short time with minimal effort. Then, you can a
 
 * You may experience frequent technical glitches.
 
-## **#2:** [Lovo](https://www.lovo.ai/)
+## **#2:** Lovo
 
 **It is available on Windows, Mac, Android, iPhone, and Online**.
 
@@ -1359,7 +1359,7 @@ Lovo creates natural voices from input text using artificial intelligence to con
 * The choice of voices for each language is a little limited.
 * While UI/UX is straightforward, it still feels a bit too plain and boring.
 
-## **#3:** [Speechelo](https://speechelo.com/g-offer/?gc%5Fid=15007999843&h%5Fad%5Fid=558506792826&gclid=Cj0KCQjwg%5FiTBhDrARIsAD3Ib5h3H34c3rWaGHEUQ8Wpi8v6SVjkPvcW9xcRZpFo%5F-V2d-GHJJyJ8ocaAtGKEALw%5FwcB)
+## **#3:** Speechelo
 
 **It is available on Windows, Mac, Android, iPhone, and Online**.
 
@@ -1389,7 +1389,7 @@ Speechelo lets users turn any text into voice-over in three simple clicks. Train
 * The output of Speechelo will be 48kbps. If you're familiar with sound production, you'll see that this is a very low output.
 * It might produce inaccurate output if you input long voice-overs.
 
-## **#4:** [Play.ht](https://play.ht/)
+## **#4:** Play.ht
 
 **It is available on Windows, Mac, Android, iPhone, and Online**.
 
@@ -1420,7 +1420,7 @@ You can choose a voice style and either load or input words, which Play.ht will 
 * They will present a variety of languages, but not all.
 * It comes with a credit-based system.
 
-## **#5:** [Capti Voice](https://www.captivoice.com/capti-site/)
+## **#5:** Capti Voice
 
 **It is available on Windows, Mac, Android, iPhone, and Online**.
 
@@ -1449,7 +1449,7 @@ Furthermore, the application has features that help persons with dyslexia, visio
 * The default tone is gloomy.
 * It does not export audio.
 
-## **#6:** [Streams Speak](https://speak.streams.live/)
+## **#6:** Streams Speak
 
 **It is available on Windows, Mac, Android, iPhone, and Online**.
 
@@ -1475,7 +1475,7 @@ Streams Speak is a helpful platform for voice production based on machine learni
 
 * It only provides generated speech in English.
 
-## **#7:** [Sonantic](https://www.sonantic.io/)
+## **#7:** Sonantic
 
 **It is available on Windows, Mac, Android, iPhone, and Online**
 
@@ -1501,7 +1501,7 @@ The price is still unclear.
 * The cost is unclear.
 * No free plan is available.
 
-## **#8:** [Resemble.ai](https://www.resemble.ai/)
+## **#8:** Resemble.ai
 
 **It is available on Windows, Mac, Android, iPhone, and Online**
 
@@ -1530,7 +1530,7 @@ Resemble provides four different synthetic voice options and the ability to crea
 * UI needs improvements.
 * It has limited voice options.
 
-## **#9:** [Clipchamp](https://clipchamp.com/en/)
+## **#9:** Clipchamp
 
 **It is available on Windows, Mac, Android, iPhone, and Online**
 
@@ -1560,7 +1560,7 @@ Because of its simplicity, Clipchamp is another excellent choice for beginners. 
 * All stock videos have a watermark.
 * It might take a long time to export content.
 
-## **#10:** [Replica](https://replicastudios.com/)
+## **#10:** Replica
 
 **It is available on Windows, Mac, Android, iPhone, and Online**
 
@@ -1654,7 +1654,7 @@ Many computer voice generators have become accessible on the market due to the a
 
 You can replicate every voice style possible in today's AI environment, and it's a straightforward procedure. There are various commercial uses for AI voice generators, and any size firm may start leveraging the technology with these ten best AI voice generators:
 
-## **#1:** [Murf](https://murf.ai/)
+## **#1:** Murf
 
 **It is available on Windows, Mac, Android, iPhone, and Online**
 
@@ -1684,7 +1684,7 @@ Murf makes authentic voices in a short time with minimal effort. Then, you can a
 
 * You may experience frequent technical glitches.
 
-## **#2:** [Lovo](https://www.lovo.ai/)
+## **#2:** Lovo
 
 **It is available on Windows, Mac, Android, iPhone, and Online**.
 
@@ -1714,7 +1714,7 @@ Lovo creates natural voices from input text using artificial intelligence to con
 * The choice of voices for each language is a little limited.
 * While UI/UX is straightforward, it still feels a bit too plain and boring.
 
-## **#3:** [Speechelo](https://speechelo.com/g-offer/?gc%5Fid=15007999843&h%5Fad%5Fid=558506792826&gclid=Cj0KCQjwg%5FiTBhDrARIsAD3Ib5h3H34c3rWaGHEUQ8Wpi8v6SVjkPvcW9xcRZpFo%5F-V2d-GHJJyJ8ocaAtGKEALw%5FwcB)
+## **#3:** Speechelo
 
 **It is available on Windows, Mac, Android, iPhone, and Online**.
 
@@ -1744,7 +1744,7 @@ Speechelo lets users turn any text into voice-over in three simple clicks. Train
 * The output of Speechelo will be 48kbps. If you're familiar with sound production, you'll see that this is a very low output.
 * It might produce inaccurate output if you input long voice-overs.
 
-## **#4:** [Play.ht](https://play.ht/)
+## **#4:** Play.ht
 
 **It is available on Windows, Mac, Android, iPhone, and Online**.
 
@@ -1775,7 +1775,7 @@ You can choose a voice style and either load or input words, which Play.ht will 
 * They will present a variety of languages, but not all.
 * It comes with a credit-based system.
 
-## **#5:** [Capti Voice](https://www.captivoice.com/capti-site/)
+## **#5:** Capti Voice
 
 **It is available on Windows, Mac, Android, iPhone, and Online**.
 
@@ -1804,7 +1804,7 @@ Furthermore, the application has features that help persons with dyslexia, visio
 * The default tone is gloomy.
 * It does not export audio.
 
-## **#6:** [Streams Speak](https://speak.streams.live/)
+## **#6:** Streams Speak
 
 **It is available on Windows, Mac, Android, iPhone, and Online**.
 
@@ -1830,7 +1830,7 @@ Streams Speak is a helpful platform for voice production based on machine learni
 
 * It only provides generated speech in English.
 
-## **#7:** [Sonantic](https://www.sonantic.io/)
+## **#7:** Sonantic
 
 **It is available on Windows, Mac, Android, iPhone, and Online**
 
@@ -1856,7 +1856,7 @@ The price is still unclear.
 * The cost is unclear.
 * No free plan is available.
 
-## **#8:** [Resemble.ai](https://www.resemble.ai/)
+## **#8:** Resemble.ai
 
 **It is available on Windows, Mac, Android, iPhone, and Online**
 
@@ -1885,7 +1885,7 @@ Resemble provides four different synthetic voice options and the ability to crea
 * UI needs improvements.
 * It has limited voice options.
 
-## **#9:** [Clipchamp](https://clipchamp.com/en/)
+## **#9:** Clipchamp
 
 **It is available on Windows, Mac, Android, iPhone, and Online**
 
@@ -1915,7 +1915,7 @@ Because of its simplicity, Clipchamp is another excellent choice for beginners. 
 * All stock videos have a watermark.
 * It might take a long time to export content.
 
-## **#10:** [Replica](https://replicastudios.com/)
+## **#10:** Replica
 
 **It is available on Windows, Mac, Android, iPhone, and Online**
 
