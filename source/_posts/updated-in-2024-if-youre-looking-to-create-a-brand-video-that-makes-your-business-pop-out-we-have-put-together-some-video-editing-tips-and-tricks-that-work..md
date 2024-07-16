@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, If Youre Looking to Create a Brand Video that Makes Your Business Pop Out, We Have Put Together some Video Editing Tips and Tricks that Work
-date: 2024-07-01T13:08:47.413Z
-updated: 2024-07-02T13:08:47.413Z
+date: 2024-07-15T13:11:26.215Z
+updated: 2024-07-16T13:11:26.215Z
 tags: 
   - ai
   - animation videos
@@ -65,12 +65,18 @@ I mean, I watched the video all the way to the end without getting bored for eve
 
 Now, if you’re also wow-ed by the video and would like to create a similar one, here are some tips on making a successful brand video using Wondershare Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Tips to Make a Compelling Brand Video
 
 Like I said earlier, making a video is not simply about getting out your camera and starting recording. Many aspects need to be considered for your video to make the desired impact.
 
 Therefore, here are some tips that might come in handy when making your brand video:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Define Your Objective and Audience
 
 The very first thing that you need to think about before starting work on your brand video is its objective and audience.
@@ -83,10 +89,16 @@ Secondly, who’s your target audience? Is your video projected toward people wh
 
 Once you have your objective and audience sorted, it’s time to get busy!
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### 2\. Video Scripting
 
 Based on what you’re trying to achieve from your brand video and the target audience, you can decide on the video's script. This includes the content, the length, and the editing requirements.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Video Scripting](https://images.wondershare.com/filmora/article-images/2022/03/2-create-a-brand-video-to-make-your-business-shine.png)
 
 Let’s take your video’s content, for instance:
@@ -103,6 +115,9 @@ Now, for many people, recording simply means hitting the record button.
 
 Yes, that might work for vlogs, but when it comes to making a brand video, you need to really put in effort when recording.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Record your brand video](https://images.wondershare.com/filmora/article-images/2022/03/3-create-a-brand-video-to-make-your-business-shine.png)
 
 For instance, you should have all the video clips and images you want to include in the video at hand. And they should resonate with your brand voice and match with each other as well.
@@ -123,6 +138,9 @@ But why is using your brand colors and logo so important?
 
 Because your brand colors and logo represent your brand and become its identity in the long run. For example, yellow and red are McDonald’s brand colors and its logo, the yellow ‘M’ in arch form, is recognizable even from a distance.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Video Editing
 
 Now comes the most important part of making a brand video: The editing! The part where you refine your video and add final touches to it. If you’ve got a stellar video editing software like Wondershare Filmora, it can do wonders for your video.
@@ -175,6 +193,9 @@ Here’s an example:
 
 Hence, when working with Filmora, you can do plenty with the motion tracking feature to make a truly amazing video.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Add a Fun Factor with AR Stickers
 
 Now that you know how to use the motion tracking feature in Filmora, let me tell you a secret!
@@ -221,6 +242,9 @@ When shooting with a green screen background, make sure you keep the shutter spe
 
 If you keep these tips in mind when shooting a video, you can easily use the chroma key effect in Wondershare Filmora to add your desired background and create an outstanding video.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. Be Innovative with Effects
 
 A video without effects is as bland as water! So, make your video innovative with the impressive variety of effects available in Wondershare Filmora.
@@ -253,6 +277,9 @@ With the variety of transitions in Filmora’s library, you can add all the effe
 
 You’ve added motion tracking, used AR stickers, created a mystical background with the green screen effect, and gone innovative with effects. Now, it’s time to wrap up this article with…
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Energize Your Videos with Speed Ramping
 
 Did you know that speed ramping can actually improve your videos tenfold? Speeding up and slowing down the footage at certain points can have a significant impact. For example, the bullet dodge scene in “Matrix” wouldn’t have been so famous if it wasn’t for the slo-mo effect!
@@ -281,6 +308,9 @@ Using music in videos is quite a common practice; however, it becomes quite exci
 
 You can do this easily with the auto beat-sync feature in Filmora that matches the music with the footage.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Auto beat sync in WonderShare Filmora](https://images.wondershare.com/filmora/article-images/2022/03/8-create-a-brand-video-to-make-your-business-shine.png)
 
 How’s that for a thrilling video?
@@ -291,6 +321,9 @@ Here’s a bonus tip! Use speed ramping at the end of one clip and the beginning
 
 So you see, you have ample options to add a touch of creativity to your brand videos. The key is to use a good video editor and the right video editing tools.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Wrapping Up
 
 Shooting a brand video is easy, and it’s even easier to edit it. All you need is to let your creativity flow!
@@ -313,3 +346,78 @@ So, if you also want to create a video successfully, just like Filmora’s brand
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ai-video-editing.techidaily.com/best-ar-video-app-top-10-picks-for-2024/"><u>Best AR Video App - Top 10 Picks for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-best-vr-game-engines-of-2023/"><u>2024 Approved  Unveiling the Best VR Game Engines of 2023</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-enjoyable-footage-recorder-test/"><u>2024 Approved  Enjoyable Footage Recorder Test</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-harness-high-quality-banners-free-for-content-developers/"><u>[Updated] Harness High-Quality Banners – Free for Content Developers</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-best-ideas-on-using-green-screen-with-filmora/"><u>Updated Best Ideas on Using Green Screen with Filmora</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-best-jump-cut-editing-tricks/"><u>2024 Approved Best Jump Cut Editing Tricks</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-best-gif-to-mov-converters/"><u>New Best GIF to MOV Converters</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-best-capcut-templates-for-slow-motion-video-trend/"><u>Updated Best CapCut Templates for Slow Motion Video Trend</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-best-method-to-split-the-video-into-parts-online/"><u>In 2024, Best Method to Split the Video Into Parts Online</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-best-jump-cut-editing-tricks/"><u>New Best Jump Cut Editing Tricks</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-best-love-video-maker-with-music/"><u>2024 Approved Best Love Video Maker with Music</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-best-green-screen-software-for-beginner-on-mac/"><u>New Best Green Screen Software for Beginner on Mac</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/best-ideas-on-using-green-screen-with-filmora-for-2024/"><u>Best Ideas on Using Green Screen with Filmora for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-best-cinematic-luts-for-premiere-pro-you-can-come-across/"><u>Updated Best Cinematic LUTs For Premiere Pro You Can Come Across</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-best-ar-video-app-top-10-picks/"><u>2024 Approved Best AR Video App - Top 10 Picks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-aurora-hdr-assessment-excellence-or-overkill/"><u>[Updated] Aurora HDR Assessment  Excellence or Overkill?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/best-method-to-split-the-video-into-parts-online-for-2024/"><u>Best Method to Split the Video Into Parts Online for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-best-online-mpeg-to-gif-converters/"><u>2024 Approved Best Online MPEG to GIF Converters</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-tailoring-timeline-memories-the-look-back-video-expertise-for-2024/"><u>[New] Tailoring Timeline Memories  The Look Back Video Expertise for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-best-ever-ways-make-tiktok-slideshow-solved/"><u>In 2024, Best Ever Ways Make Tiktok Slideshow Solved</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-how-to-transcribe-live-broadcasts-into-digital-format-for-2024/"><u>[New] How to Transcribe Live Broadcasts Into Digital Format for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-instagram-videos-for-marketing-top-10-strategic-plans-for-2024/"><u>Mastering Instagram Videos for Marketing  Top 10 Strategic Plans for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-best-gif-to-mov-converters/"><u>2024 Approved Best GIF to MOV Converters</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/best-animated-video-makers-for-2024/"><u>Best Animated Video Makers for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/10-top-ios-players-elevating-video-watching-on-devices/"><u>10 Top iOS Players Elevating Video Watching on Devices</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-best-luts-for-vlog-a-2024-overview/"><u>New Best LUTs for Vlog A 2024 Overview</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-best-image-jpgpng-to-gif-converters/"><u>New Best Image (JPG/PNG) to GIF Converters</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-to-w7-lenovo-y470-driver-support-guide/"><u>Upgrade to W7 - Lenovo Y470 Driver Support Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-take-control-of-discord-dialogues-advanced-techniques-for-pins/"><u>[New] Take Control of Discord Dialogues  Advanced Techniques for Pins</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-seamlessly-transition-media-formats-with-free-downloader/"><u>2024 Approved  Seamlessly Transition Media Formats with Free Downloader</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/best-green-screen-software-for-beginner-on-mac-for-2024/"><u>Best Green Screen Software for Beginner on Mac for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-best-filmic-pro-luts-for-video-editing/"><u>In 2024, Best Filmic Pro LUTs For Video Editing</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-top-10-capture-cards-for-youtube-you-should-know-for-2024/"><u>The Top 10 Capture Cards for YouTube You Should Know for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-oppo-k11x-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Oppo K11x to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-best-filmic-pro-luts-for-video-editing/"><u>New Best Filmic Pro LUTs For Video Editing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-art-of-causality-loop-demonstrations/"><u>2024 Approved  Art of Causality Loop Demonstrations</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-the-ultimate-gear-list-for-any-aspiring-vlogger-top-12-cameras/"><u>In 2024, The Ultimate Gear List for Any Aspiring Vlogger - Top 12 Cameras</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-best-green-screen-software-for-beginner-on-mac/"><u>In 2024, Best Green Screen Software for Beginner on Mac</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-building-brand-identity-with-instagram-video-content/"><u>[New] In 2024, Building Brand Identity with Instagram Video Content</u></a></li>
+<li><a href="https://windows11.techidaily.com/brighten-up-windows-11-screens-with-easy-adjustments/"><u>Brighten Up Windows 11 Screens with Easy Adjustments!</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/best-free-luts-to-use-for-2024/"><u>Best Free LUTs to Use for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-8-plus-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-secrets-unveiled-complete-guide-to-live-tv-recording-via-windows-pcs/"><u>In 2024, Secrets Unveiled  Complete Guide to Live TV Recording via Windows PCs</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-digital-de-drumming-guide-simplifying-the-silencing-of-percussion-in-music-files/"><u>In 2024, Digital De-Drumming Guide Simplifying the Silencing of Percussion in Music Files</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/crystalclearcam-studio-software-for-2024/"><u>CrystalClearCam Studio Software for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-best-image-jpgpng-to-gif-converters/"><u>In 2024, Best Image (JPG/PNG) to GIF Converters</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-best-ideas-on-using-green-screen-with-filmora/"><u>New Best Ideas on Using Green Screen with Filmora</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-find-n3-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo Find N3</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-best-image-jpgpng-to-gif-converters/"><u>Updated Best Image (JPG/PNG) to GIF Converters</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-best-8-online-mpeg-to-gif-converters/"><u>2024 Approved Best 8 Online MPEG to GIF Converters</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-best-online-gif-to-image-pngjpg-converter/"><u>In 2024, Best Online GIF to Image (PNG/JPG) Converter</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-youtube-kiddie-corner-10-year-old-ryan-hits-millionaire-mark/"><u>In 2024, YouTube Kiddie Corner  10-Year-Old Ryan Hits Millionaire Mark</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-request-for-access-to-entirety-of-shared-media-on-digital-chats/"><u>2024 Approved  Request for Access to Entirety of Shared Media on Digital Chats</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-best-green-screen-software-for-beginner-on-mac/"><u>Updated Best Green Screen Software for Beginner on Mac</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-best-jump-cut-editing-tricks/"><u>Updated Best Jump Cut Editing Tricks</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-best-capcut-templates-for-slow-motion-video-trend/"><u>In 2024, Best CapCut Templates for Slow Motion Video Trend</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-best-ideas-on-using-green-screen-with-filmora/"><u>In 2024, Best Ideas on Using Green Screen with Filmora</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-dynamic-animated-and-personalized-filmora-subscribe-button-for-youtube/"><u>[New] Dynamic, Animated, and Personalized  Filmora Subscribe Button for YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-itunes-video-management-made-simple/"><u>[Updated] ITunes Video Management Made Simple</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/direct-interaction-enhancing-live-broadcasts-with-desktop-share/"><u>Direct Interaction  Enhancing Live Broadcasts with Desktop Share</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-best-method-to-split-the-video-into-parts-online/"><u>Updated Best Method to Split the Video Into Parts Online</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-best-cinematic-luts-for-premiere-pro-you-can-come-across/"><u>New Best Cinematic LUTs For Premiere Pro You Can Come Across</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-best-8-top-premiere-pro-slideshow-templates/"><u>In 2024, Best 8 Top Premiere Pro Slideshow Templates</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/firefoxs-prime-expert-downloads-and-addons-navigating-facebook-videos/"><u>Firefox's Prime  Expert Downloads & Addons Navigating Facebook Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-deep-dive-into-theta-s-a-full-camera-examination/"><u>[Updated] 2024 Approved  Deep Dive Into Theta S  A Full Camera Examination</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-best-love-video-maker-with-music/"><u>In 2024, Best Love Video Maker with Music</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-relaxation-playlist-20-sweetest-country-tunes-on-tiktok-for-2024/"><u>[New] Relaxation Playlist  20 Sweetest Country Tunes on TikTok for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-best-8-online-mpeg-to-gif-converters/"><u>In 2024, Best 8 Online MPEG to GIF Converters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-handheld-tech-to-eliminate-shaky-screenshot-videos/"><u>In 2024, Top Handheld Tech to Eliminate Shaky Screenshot Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-comprehensive-overview-mastering-the-art-of-screen-capturing-with-aiseesoft/"><u>[New] Comprehensive Overview  Mastering the Art of Screen Capturing with Aiseesoft</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/best-cinematic-luts-for-premiere-pro-you-can-come-across-for-2024/"><u>Best Cinematic LUTs For Premiere Pro You Can Come Across for 2024</u></a></li>
+</ul></div>

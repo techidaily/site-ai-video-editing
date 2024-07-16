@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Did You Know Cameras Have a Built-In Feature to Shoot Slow-Motion Clips? This Article Is About Using Sony S&Q to Capture Slow-Motion Scenes
-date: 2024-07-01T13:09:02.933Z
-updated: 2024-07-02T13:09:02.933Z
+date: 2024-07-15T13:11:45.511Z
+updated: 2024-07-16T13:11:45.511Z
 tags: 
   - ai
   - animation videos
@@ -45,6 +45,9 @@ Once you reach the **Sony S&Q mode** settings, click “Record Settings.” This
 
 Click the "Enter" option to finalize the Record settings.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![press enter to save settings](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-sony-sq-3.jpg)
 
 ##### Step 4
@@ -61,12 +64,21 @@ There is no lack of devices that help you capture any scene with perfection. Som
 
 **Sony** **A7iii slow motion** camera launch occurred in 2018 with a bundle of features. This camera offers 120fps video capture for creating slomos or high-speed effects. It has an APS-C size, 24.2-megapixel, and an Exmor CMOS sensor for more precise results. In addition, it possesses a 4K Ultra-High Resolution of 3840 x 2160 for videos. The camera also has an LCD touch screen, which proves productive in settings.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sony a7 iii camera](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-sony-sq-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Sony ZV-E10
 
 This is an upgraded **S&Q** **mode** **Sony** camera that first emerged in 2021 with a fully articulated screen. It has an APS-C size, 24.2-megapixel, and an Exmor CMOS sensor for balanced shooting. This version also has the highest video frame rate of 120 fps for the professional slo-mo effect. It captures slomos in 4K (UHD) 3840 x 1920 video resolution for quality maintenance. It has a directional 3-capsule microphone for high-definition audio.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sony zv e10 camera](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-sony-sq-6.jpg)
 
 ## Part 3: How to Slow Down Video in Sony Vegas Pro?
@@ -77,6 +89,9 @@ This is an upgraded **S&Q** **mode** **Sony** camera that first emerged in 2021 
 
 After launching the software, import the video and bring it to the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![import media in timeline](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-sony-sq-7.jpg)
 
 ##### Step 2
@@ -85,6 +100,9 @@ Navigate towards the editing panel where the clip and audio track are showing. P
 
 ![drag the import media in timeline](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-sony-sq-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Wondershare Filmora: Comprehending the Best Alternative for Slowing Down Videos
 
 All the above slow-motion solutions are adequate but not reliable. This is because shooting in **So** **ny** **S&** **Q mode** declines video quality upon export. In addition, the **Sony** **Vegas slow motion** subscription plans start at more than $500\. This seems expensive for someone who just started editing and is a beginner.
@@ -103,18 +121,27 @@ The fundamental technique for achieving slow motion in Filmora involves Uniform 
 
 Initiate Filmora by clicking the “New Project” button and access the editing interface. Hit the “Ctrl + I” keys to import media and bring it to the timeline. After selecting the clip in the timeline, navigate to the settings panel. Proceed to the "Speed" > "Uniform Speed" to access the speed change slider. Drag the slider towards the left to adjust the slow-motion speed.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![adjust speed slider](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-sony-sq-13.jpg)
 
 ##### Step 2Access AI Frame Interpolation Settings
 
 To achieve smooth slow motion, access AI Frame Interpolation at the bottom. Expand this section and opt for the “Optical Flow” to apply.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![access ai frame interpolation](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-sony-sq-14.jpg)
 
 ##### Step 3Enable Render Preview to Review Results
 
 Once all adjustments are complete, select the video and return to the timeline panel. Use your cursor to access the “File” tab in the top toolbar and choose “Render Preview.” Utilize the preview options before exporting the video.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hit the render preview option](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-sony-sq-15.jpg)
 
 ### Key Features of Filmora
@@ -129,6 +156,9 @@ Filmora doesn't just claim to be the best; there are multiple features to suppor
 
 * [**AI Image:**](https://tools.techidaily.com/wondershare/filmora/download/) Can't spare time to capture images for your new content idea? With Filmora's text to generate AI, you can now curate images. The AI only requires you to add a prompt and craft results accordingly. Upon creation, users can also select a preferred image resolution.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 This article has discussed the purpose of **Sony S&Q** and how to use it for slo-mo creation. In addition, users learned about two of Sony's cameras, which are popular for slow-motion. Afterward, we discussed a desktop method to create slow motion. Considering all the drawbacks of these methods, we recommended Filmora. It is a desktop alternative to these tools with AI abilities to enhance task achievement.
@@ -145,3 +175,53 @@ This article has discussed the purpose of **Sony S&Q** and how to use it for slo
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ai-video-tools.techidaily.com/new-video-editing-mastery-on-mac-os-x-mavericks-edition-for-2024/"><u>New Video Editing Mastery on Mac OS X Mavericks Edition for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-make-a-smooth-speed-ramping-in-premiere-pro-for-2024/"><u>How to Make a Smooth Speed Ramping in Premiere Pro for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-a-video-slideshow-in-imovie/"><u>New How to Make a Video Slideshow in iMovie</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-make-a-movie-with-windows-movie-maker/"><u>In 2024, How to Make a Movie with Windows Movie Maker?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-make-a-timelapse-in-after-effects/"><u>In 2024, How To Make a Timelapse in After Effects</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-a-video-by-mouse-in-filmora/"><u>New How To Make a Video by Mouse in Filmora?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-samsung-galaxy-m34-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Samsung Galaxy M34 Phones</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-optimized-storage-analysis-how-many-videos-on-a-64128gb-drive/"><u>[Updated] Optimized Storage Analysis  How Many Videos on a 64/128GB Drive?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-charting-new-territories-innovations-in-office-spaces-for-enhanced-output/"><u>[Updated] Charting New Territories  Innovations in Office Spaces for Enhanced Output</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-deep-dive-into-the-features-of-lgs-ultrafine-4k-display-for-2024/"><u>[Updated] Deep Dive Into the Features of LG's UltraFine 4K Display for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-a05s-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Samsung Galaxy A05s Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-make-a-slideshow-gif-for-2024/"><u>How to Make a Slideshow GIF for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-make-a-slideshow-with-icecream-slideshow-maker-for-2024/"><u>How to Make a Slideshow with Icecream Slideshow Maker for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-make-a-video-slideshow-in-imovie/"><u>In 2024, How to Make a Video Slideshow in iMovie</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-make-a-video-longer/"><u>2024 Approved How To Make A Video Longer</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-celebrity-fleeting-frame-study/"><u>[New] Celebrity Fleeting Frame Study</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-loop-videos-on-android-phones/"><u>New How to Loop Videos on Android Phones</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-a-gaming-montage-guide-and-tips/"><u>New How to Make a Gaming Montage - Guide & Tips</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-loop-videos-with-imovie-for-2024/"><u>How to Loop Videos with iMovie for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-iphone-13-mini-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to iPhone 13 mini iCloud Bypass</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-loop-videos-on-android-phones-for-2024/"><u>How to Loop Videos on Android Phones for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/subscription-rate-monitoring-software-for-2024/"><u>Subscription Rate Monitoring Software for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-ultimate-guide-to-the-most-effective-16-youtube-intros/"><u>In 2024, Ultimate Guide to the Most Effective 16 YouTube Intros</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-a-powerpoint-looping-slideshow/"><u>Updated How to Make a PowerPoint Looping Slideshow</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-a-neon-dance-effect-with-filmora/"><u>Updated How to Make a Neon Dance Effect With Filmora</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-loop-video-in-canva-for-2024/"><u>How to Loop Video in Canva for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-a-photo-collage-in-microsoft-word-step-by-step-guide/"><u>New How To Make a Photo Collage in Microsoft Word — Step by Step Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-an-aesthetic-slideshow/"><u>New How to Make an Aesthetic Slideshow</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-infinix-smart-8-plus-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-make-a-neon-dance-effect-with-filmora-for-2024/"><u>How to Make a Neon Dance Effect With Filmora for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-make-a-gif-with-transparent-background-for-2024/"><u>How to Make a GIF With Transparent Background for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-virtual-memoirs-best-tools-and-practices-for-downloading-twitter-content-for-2024/"><u>[New] Virtual Memoirs  Best Tools and Practices for Downloading Twitter Content for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-a-jaw-dropping-time-lapse-video/"><u>Updated How to Make A Jaw-Dropping Time Lapse Video?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-loop-video-in-canva/"><u>2024 Approved How to Loop Video in Canva</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-loop-youtube-videos-on-iphone-for-2024/"><u>How to Loop YouTube Videos on iPhone for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-a-political-video/"><u>New How To Make A Political Video</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-make-an-aesthetic-slideshow/"><u>2024 Approved How to Make an Aesthetic Slideshow</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-loop-quicktime-video/"><u>Updated How to Loop QuickTime Video</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-a-movie-with-windows-movie-maker/"><u>Updated How to Make a Movie with Windows Movie Maker?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-make-a-video-longer-for-2024/"><u>How To Make A Video Longer for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-a-video-by-mouse-in-filmora/"><u>Updated How To Make a Video by Mouse in Filmora?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-make-a-slideshow-gif/"><u>In 2024, How to Make a Slideshow GIF?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>The Magnificent Art of Pokemon Go Streaming On Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-make-a-video-slideshow-in-imovie-for-2024/"><u>How to Make a Video Slideshow in iMovie for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-loop-youtube-videos-on-iphone/"><u>In 2024, How to Loop YouTube Videos on iPhone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-clear-sound-recording-without-mic-techniques/"><u>2024 Approved  Mastering Clear Sound  Recording Without Mic Techniques</u></a></li>
+</ul></div>

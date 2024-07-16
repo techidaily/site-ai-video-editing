@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Fashioning Slow Motions Has Remained Popular Ever Since. Read This Article to Learn How to Do Slow-Mo in CapCut and Other Powerful Tools for 2024
-date: 2024-07-01T13:08:56.433Z
-updated: 2024-07-02T13:08:56.433Z
+date: 2024-07-15T13:11:37.724Z
+updated: 2024-07-16T13:11:37.724Z
 tags: 
   - ai
   - animation videos
@@ -23,12 +23,18 @@ Smartphone video editors were introduced to enhance the application of slow moti
 
 [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [More Features](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 ## Part 1: CapCut Video Editor: An Exceptional Mobile App for Video Editing
 
 CapCut is an editing application that caters to the needs of both Android and iPhone users. Whether you are working as a seasoned editor or a team member, it assists all. It harbors numerous video editing tools like the **CapCut slow-motion effect**. Moreover, users can also access keyframe editor, effects and filters, stock videos, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![capcut video editor](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-1.jpg)
 
 The tool offers a sleek user interface with cutting-edge AI technology for automated editing. The interface looks artistic and organized for accessible editing. Along with video editing, users can perform audio, text, and image editing. You can access its Resource collection on its site, which is full of tips and tutorials. To give you a broader vision of [**CapCut slow-mo effect**](https://tools.techidaily.com/wondershare/filmora/download/), here are some of its features:
@@ -59,12 +65,18 @@ Once you have added the video, navigate towards the toolbar at the bottom. From 
 
 From the appearing options, select the “Speed” option for **the CapCut slow-mo effect.**
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access the speed settings](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-4.jpg)
 
 ##### Step 4
 
 In the speed display, adjust the position of the slider to add the slo-mo effect. Further, go to the "Normal" section to start speed manipulation.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access the normal section](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-5.jpg)
 
 ##### Step 5
@@ -87,12 +99,18 @@ You can find multiple speed templates here to craft a cinematic-level slow motio
 
 Download the Filmora app from the Play Store or App Store and launch it. Then, click the "New Project" tab and import a video from the device gallery.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![create a new project in filmora](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-7.jpg)
 
 ##### Step 2Access the Speed Curve Option
 
 After importing the video, navigate towards the timeline panel and select the video. From the options appearing in the bar at the bottom, select “Speed.” In the speed section, select the “Curve” section to access speed settings.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access the speed options](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-8.jpg)
 
 ##### Step 3Adjust the Speed Curve Settings
@@ -101,6 +119,9 @@ From the appearing options, click the "Customize" option and start editing. To c
 
 ![customize the speed options](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Bonus Part: Edit Your Slow Mo Video on Desktop with Filmora Desktop
 
 No doubt Wondershare Filmora offers precise editing features compared to other apps. However, skilled and professional editors just prefer the desktop version to bring precision. In addition, there is an optical flow option and an extensive timeline panel. Both these features ensure professional outcomes and a smooth slow-motion effect.
@@ -119,6 +140,9 @@ In this method, we’ll use Filmora’s Uniform Speed functionality to generate 
 
 After opening a project in Filmora, select the video in the timeline and access the settings panel. From there, go to the "Speed" > "Uniform Speed" option and change the slider's position. By dragging it towards the left side, you can add a slow-motion effect.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set the uniform speed preferences](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-15.jpg)
 
 ##### Step 2Add Optical Flow Effect
@@ -133,6 +157,9 @@ To analyze the outcome of activating optical flow, navigate towards the timeline
 
 ![enable the render preview option](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-17.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Video Editing Features of Filmora
 
 CapCut and Wondershare Filmora both possess AI powers to ensure seamless video creation. However, Filmora offers more video editing features, and all of them offer customization. The interface is just perfect for every professional or non-professional. With its accessible interface, you must try the following video editing tools:
@@ -163,6 +190,9 @@ In conclusion, this article considered **how to do slow-mo in CapCut**. In addit
 
 [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [More Features](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 
@@ -173,3 +203,39 @@ In conclusion, this article considered **how to do slow-mo in CapCut**. In addit
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-add-customized-transitions-to-obs-for-2024/"><u>How to Add Customized Transitions to OBS for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/get-15-absolutely-free-luts-from-this-article-as-well-as-get-an-insight-on-how-cinematic-luts-affect-your-film/"><u>Get 15 Absolutely-Free LUTs From This Article as Well as Get an Insight on How Cinematic LUTs Affect Your Film</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-add-custom-subtitles-to-netflix/"><u>Updated How to Add Custom Subtitles to Netflix</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-i-got-free-after-effects-templates-slideshow-with-simple-trick-for-2024/"><u>How I Got Free After Effects Templates Slideshow with Simple Trick for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-audio-recording-the-ultimate-audacity-course/"><u>2024 Approved  Pro Audio Recording  The Ultimate Audacity Course</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/spotifys-top-hits-ranked-1-10/"><u>Spotify's Top Hits  Ranked 1-10</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-add-slideshow-in-powerpoint/"><u>In 2024, How to Add Slideshow in PowerPoint</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-5-best-gba-emulators-for-pc-that-hook-you-up/"><u>2024 Approved  5 Best GBA Emulators for PC That Hook You Up</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-add-fade-to-black-on-premiere-pro-for-2024/"><u>HOW to Add Fade to Black on Premiere Pro for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-i-got-free-after-effects-templates-slideshow-with-simple-trick/"><u>2024 Approved How I Got Free After Effects Templates Slideshow with Simple Trick</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-x9awithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor X9awith/without a PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-zero-5g-2023-turbo-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Zero 5G 2023 Turbo to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-add-photos-to-tik-tok-video/"><u>2024 Approved How to Add Photos to Tik Tok Video</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-long-does-it-take-to-edit-videos/"><u>In 2024, How Long Does It Take To Edit Videos</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-add-green-screen-effects-in-phhotoshop/"><u>Updated How to Add Green Screen Effects In Phhotoshop</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-add-fade-to-black-on-premiere-pro/"><u>2024 Approved HOW to Add Fade to Black on Premiere Pro</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capturing-fluidity-in-iphone-photography-for-2024/"><u>Capturing Fluidity in iPhone Photography for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/explore-best-business-strategy-games-of-the-year-mobilepc-for-2024/"><u>Explore Best Business Strategy Games of the Year (Mobile/PC) for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-oneplus-open-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For OnePlus Open Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-add-font-effects-to-videos-for-2024/"><u>How to Add Font Effects to Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-vanguard-websites-for-3d-letterforms/"><u>In 2024, Vanguard Websites for 3D Letterforms</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-add-green-screen-effects-in-phhotoshop-for-2024/"><u>How to Add Green Screen Effects In Phhotoshop for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-add-a-slideshow-in-powerpoint-for-2024/"><u>How to Add a Slideshow in PowerPoint for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-add-photos-to-tik-tok-video/"><u>New How to Add Photos to Tik Tok Video</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-add-background-to-video-withwithout-a-green-screen/"><u>2024 Approved How to Add Background to Video With/Without a Green Screen</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-add-green-screen-effects-in-phhotoshop/"><u>2024 Approved How to Add Green Screen Effects In Phhotoshop</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-add-miniature-effect-in-video-with-filmora/"><u>Updated How to Add Miniature Effect in Video with Filmora</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-add-font-effects-to-videos/"><u>Updated How to Add Font Effects to Videos</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-add-customized-transitions-to-obs/"><u>2024 Approved How to Add Customized Transitions to OBS</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-long-does-it-take-to-edit-videos/"><u>New How Long Does It Take To Edit Videos</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-free-mpeg-video-joiner-software-top-selections/"><u>Updated Free MPEG Video Joiner Software Top Selections</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-add-background-to-video-withwithout-a-green-screen/"><u>In 2024, How to Add Background to Video With/Without a Green Screen</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-dive-into-aerialbroadcasting-tech-dji-vs-gopro-vs-insta360-showdown/"><u>In 2024, A Dive Into Aerial/Broadcasting Tech  DJi vs GoPro vs Insta360 Showdown</u></a></li>
+</ul></div>

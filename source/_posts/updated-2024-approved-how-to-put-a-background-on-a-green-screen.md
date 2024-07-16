@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Put a Background on A Green Screen
-date: 2024-07-01T13:08:38.234Z
-updated: 2024-07-02T13:08:38.234Z
+date: 2024-07-15T13:11:15.369Z
+updated: 2024-07-16T13:11:15.369Z
 tags: 
   - ai
   - animation videos
@@ -51,8 +51,14 @@ Step4 You will see on the Instant Viewer that the green screen of recorded video
 
 Step5 Finally, play the video and if you are satisfied, click on Export button to save the video in your desired file format.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click on export button](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Way 2\. Use iMovie
 
 iMovie is one of the most preferred video editors among Mac and iPhone users. This is because the app comes from Apple, and there are ample features to enhance your video content and quality with effects. Adding a background to a green screen video using iMovie is quite easy. But replacing a background of a video without green screen is rather tough.
@@ -63,6 +69,9 @@ Step2 Import your green screen video as well as replacement background video or 
 
 Step3 Drag and drop them into Timeline and place the green screen video above the replacement background video/photo. Make sure that the duration of both videos is the same.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![drag green screen video imovie](https://images.wondershare.com/filmora/article-images/2022/07/drag-green-screen-video-imovie.jpg)
 
 Step4 Click on the green screen video and click on Video Overlay Settings and select Green/Blue Screen option from the drop-down menu.
@@ -71,14 +80,23 @@ Step4 Click on the green screen video and click on Video Overlay Settings and se
 
 Step5 You can adjust Softness as well as Clean-up option so that the green screen effect is perfect.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![adjust softness green screen video imovie](https://images.wondershare.com/filmora/article-images/2022/07/adjust-softness-green-screen-video-imovie.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Way 3\. Use Premiere Pro
 
 When it comes to professional video editing, Premiere Pro is undoubted one of the most widely used video editors. The learning curve is steep for amateurs, but professionals love to edit videos in Premiere Pro. You can edit 4K videos, 3D videos, multi-cam videos, and it supports cross-platform project workflow. You can replace green screen background with any desired background video or image. Here are the steps on how to add background to green screen in Premiere Pro.
 
 Step1 Launch Adobe Premiere Pro and go to File> Import option. Select the green screen video clip as well as replacement background video and click on Open button.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![import video premiere pro](https://images.wondershare.com/filmora/article-images/2022/07/import-video-premiere-pro.jpg)
 
 Step2 Drag the video clips from the Project panel and place them to Timeline so that the green screen video stays at the top.
@@ -89,6 +107,9 @@ Step3 Go to Effects tab and click on Effects> Keying> Ultra Key.
 
 Step4 Click on eyedropper tool under Ultra Key and use the tool to select the green screen background color.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![select green screen premiere pro](https://images.wondershare.com/filmora/article-images/2022/07/select-green-screen-premiere-pro.jpg)
 
 Step5 Go to Ultra Key> Output> and select Alpha Channel option. Set Setting located under Output to Aggressive.
@@ -101,6 +122,9 @@ Step6 Go to Matte Generation and adjust Transparency using the slider available.
 
 Step7 You will see the green screen get replaced by the video or photo you have placed below the green screen video in Timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edit green screen video premiere](https://images.wondershare.com/filmora/article-images/2022/07/edit-green-screen-video-premiere.jpg)
 
 ## Part 2\. How to change the background of green screen image?
@@ -115,10 +139,16 @@ Step2 Copy the replacement image and paste it on the green screen image. Make su
 
 Step3 Now select green screen image layer and go to Select menu and click on Color Range. You will get an eyedropper tool. Press Shift key and click the areas where green screen background is there so that you can remove it. Click on OK button when done.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![color range photoshop](https://images.wondershare.com/filmora/article-images/2022/07/color-range-photoshop.jpg)
 
 Step4 Go to Select menu and click on Inverse option. Go to Select menu and click on Refine Edge option. This is to smoothen the edges so that no green screen is visible. Click on Ok button.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![refine edge photoshop](https://images.wondershare.com/filmora/article-images/2022/07/refine-edge-photoshop.jpg)
 
 Step5 Go to Select menu and click on Inverse option. Press Delete key and the green screen background will disappear and the replacement image will appear in the background.
@@ -139,3 +169,37 @@ We have illustrated how you can add a background to your green screen video on y
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://animation-videos.techidaily.com/updated-in-2024-12-dubbed-anime-websites-to-watch-for-free/"><u>Updated In 2024, 12 Dubbed Anime Websites to Watch for Free</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-easy-ways-to-add-text-overlay-to-video/"><u>2024 Approved Easy Ways to Add Text Overlay to Video</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-add-a-spooky-shadow-effect/"><u>In 2024, How to Add a Spooky Shadow Effect</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-creating-a-unified-multimedia-experience-on-iphone/"><u>[New] Creating a Unified Multimedia Experience on iPhone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-add-subtitles-to-videos-with-kapwing-step-by-step/"><u>New Add Subtitles To Videos With Kapwing Step by Step</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-add-text-animation-to-a-video-online/"><u>Updated Add Text Animation to A Video Online</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-add-subtitles-in-quicktime-player-for-2024/"><u>How to Add Subtitles in QuickTime Player for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/add-some-sci-fi-touch-to-your-next-video-content-using-wondershare-filmora-editing-tools-to-create-an-alternate-reality-effect-for-2024/"><u>Add some Sci-Fi Touch to Your Next Video Content Using Wondershare Filmora Editing Tools to Create an Alternate Reality Effect for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-finding-the-finest-way-to-add-subtitles-to-videos-filmora/"><u>2024 Approved Finding The Finest Way To Add Subtitles to Videos | Filmora</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-add-transitions-in-adobe-premiere-pro/"><u>In 2024, How to Add Transitions in Adobe Premiere Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-add-some-sci-fi-touch-to-your-next-video-content-using-wondershare-filmora-editing-tools-to-create-an-alternate-reality-effect/"><u>In 2024, Add some Sci-Fi Touch to Your Next Video Content Using Wondershare Filmora Editing Tools to Create an Alternate Reality Effect</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-honorable-warriors-reimagined-best-matching-gaming-titles/"><u>In 2024, Honorable Warriors, Reimagined  Best Matching Gaming Titles</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-add-a-spooky-shadow-effect/"><u>2024 Approved How to Add a Spooky Shadow Effect</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-adding-slow-motion-in-davinci-resolve-a-comprehensive-overview/"><u>In 2024, Adding Slow Motion in DaVinci Resolve A Comprehensive Overview</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-add-stylish-text-to-videos/"><u>2024 Approved Add Stylish Text to Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-terror-in-town-a-list-of-intense-zombie-games-for-2024/"><u>[Updated] Terror in Town  A List of Intense Zombie Games for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-add-subtitles-in-quicktime-player/"><u>2024 Approved How to Add Subtitles in QuickTime Player?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-quick-solved-how-to-add-subtitles-to-a-video-on-iphones/"><u>In 2024, Quick Solved How to Add Subtitles to a Video on iPhones</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-add-subtitles-in-vlc-media-play/"><u>Updated How to Add Subtitles in VLC Media Play</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-add-subtitles-in-quicktime-player/"><u>New How to Add Subtitles in QuickTime Player?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-effortless-audio-conversion-top-rated-software-options/"><u>Updated 2024 Approved Effortless Audio Conversion Top-Rated Software Options</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-add-text-animation-to-a-video-online/"><u>In 2024, Add Text Animation to A Video Online</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/easy-ways-to-add-text-overlay-to-video-for-2024/"><u>Easy Ways to Add Text Overlay to Video for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-top-snapchat-content-strategies-to-stand-out/"><u>2024 Approved  Top Snapchat Content Strategies to Stand Out</u></a></li>
+<li><a href="https://extra-information.techidaily.com/web-based-jest-architect/"><u>Web-Based Jest Architect</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-add-selective-color-effect-to-your-videos-using-filmora/"><u>Updated Add Selective Color Effect to Your Videos Using Filmora</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-expert-insights-on-efficiently-setting-up-and-analyzing-fb-instream-ad-campaigns/"><u>[New] Expert Insights on Efficiently Setting Up and Analyzing FB Instream Ad Campaigns</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-add-text-animation-online-for-2024/"><u>How to Add Text Animation Online for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-obs-not-recording-audio-solved-for-2024/"><u>[Updated] OBS Not Recording Audio [Solved] for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-step-by-step-volume-regulation-in-vlc-ensuring-consistent-sound-quality/"><u>2024 Approved Step-by-Step Volume Regulation in VLC Ensuring Consistent Sound Quality</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-add-text-animation-to-a-video-online/"><u>2024 Approved Add Text Animation to A Video Online</u></a></li>
+</ul></div>

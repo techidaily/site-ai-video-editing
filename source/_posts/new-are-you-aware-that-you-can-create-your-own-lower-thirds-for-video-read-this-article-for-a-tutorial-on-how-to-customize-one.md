@@ -1,7 +1,7 @@
 ---
 title: New Are You Aware that You Can Create Your Own Lower Thirds for Video? Read This Article for a Tutorial on How to Customize One
-date: 2024-05-19T05:12:28.892Z
-updated: 2024-05-20T05:12:28.892Z
+date: 2024-07-15T12:56:49.776Z
+updated: 2024-07-16T12:56:49.776Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes New Are You Aware that You Can Create Your Own Lower Thirds for Video? Read This Article for a Tutorial on How to Customize One
 excerpt: This Article Describes New Are You Aware that You Can Create Your Own Lower Thirds for Video? Read This Article for a Tutorial on How to Customize One
 keywords: are you aware that you can create your own lower thirds for video read this article for a tutorial on how to customize one,if you are a teacher or people who want to share their ideas via vides you can always make it on your own this article will share you 7 tips to create an educational video easily,are you looking for an ideal halloween countdown video clip for your video this article will walk you through the best ones you can use to get the job done perfectly,are you looking for the best way to add subtitles to your video the top srt file creators can help you do that,are you aware that av1 has the potential to change the way we watch videos online read on to learn more about av1 and how it could impact your life,do you have the habit to create subtitle for your video you can always add open and close subtitles to your video to make it perfect follow this article to learn more about it,create eye catching slow motion videos to set your own trend for this purpose read this article to find and learn to use capcuts new slow motion templates
-thumbnail: https://www.lifewire.com/thmb/UchI0OfcFuiZjMJhTw31h6uHSHQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Race-982fb219114a48fb96b9c5a2c6f93847.jpg
+thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce093f59dcdf2b6479e3403f82d.jpg
 ---
 
 ## Are You Aware that You Can Create Your Own Lower Thirds for Video? Read This Article for a Tutorial on How to Customize One
@@ -25,7 +25,7 @@ A Lower Third is a mix of motion graphic design and texts that are placed in the
 
 Lower Thirds can be used in various settings, such as news broadcasts or interviews, to help provide viewers with additional context.
 
-## Part 2: How to Make Your Own Lower Thirds in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Part 2: How to Make Your Own Lower Thirds in Filmora
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
@@ -33,12 +33,18 @@ Lower Thirds can be used in various settings, such as news broadcasts or intervi
 
 ### (1) A simple line and texts
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![a simple line and texts](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-1.gif)
 
 ##### Step1 Create a simple line
 
 Go to the **Media library > Sample Media folder > choose a color sample**. For this tutorial, we will select the white color. Then, drag and drop this sample color onto the upper video track.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![create a simple line](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-2.jpg)
 
 Double-click the white sample clip to open the settings and scale it to 30%. Then, reposition the white bar to your desired place.
@@ -59,6 +65,9 @@ After that, double-click the white sample on the timeline and find the Image Mas
 
 Go to **Titles > Plain Text > Basic 6** and drop it onto the second video track above the white line clip. Don't worry about the exact position yet. We can adjust it later.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add a text for your lower thirds](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-6.jpg)
 
 Double-click on the text clip to open the settings, then type some text there and adjust the size and font.
@@ -69,6 +78,9 @@ Double-click on the text clip to open the settings, then type some text there an
 
 Click **Advanced > Animation > Up Down 1** animation. Adjust the animation length by dragging the two brackets on the timeline on the right side. Click Ok.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![add animation to the text](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-8.jpg)
 
 ##### Step5 Add keyframes to the white line clip when entering
@@ -95,6 +107,9 @@ You don't need to change the setting this time because this keyframe is used to 
 
 Instead, move the play head again to the right for a few frames and add another keyframe. Move the texts out of the frame by changing the y-axis number, then change the opacity to 0\. This keyframe is used to create the white line animation exiting the frame and turning back to transparent in the meantime.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![move the texts out of the frame](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-12.gif)
 
 Playback the video and see how it looks.
@@ -109,20 +124,32 @@ Sometimes you might want to create a name card with a solid background like the 
 
 Select the white color sample from the sample color folder and drop it onto the upper video track of the video.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make the lower third background](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-14.jpg)
 
 Change the scale to 30%, then reposition the white sample to your desired place. Click OK.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![change the scale to 30%](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-15.gif)
 
 ##### Step2 Create an image mask for the lower third background
 
 Drag and drop the Image Mask onto the white sample clip on the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![create an image mask](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-16.gif)
 
 Double-click on the white sample clip to activate the video setting window and find the Image Mask settings. Then, choose the mask shape you need. You can also adjust its size by changing the X or Y-axis.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![double-click on the white sample clip](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-17.jpg)
 
 ##### Step3 Add some text
@@ -133,12 +160,18 @@ Once the background card is in place, go to Titles > Plain Text > ‘Basic 6' an
 
 Now, type in the texts as needed. Reposition and scale the texts to make sure they are on top of the background shape.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![type in the texts](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-19.jpg)
 
 ##### Step4 Add animation to the text
 
 Click Advanced > Animation > Push. Then, adjust the animation length accordingly. Click Ok.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click advanced](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-20.jpg)
 
 Double-click on the background clip to show the animation tab setting. Then, playback the text animation and find a position earlier than the start and add a keyframe.
@@ -147,26 +180,44 @@ Double-click on the background clip to show the animation tab setting. Then, pla
 
 Similar to the tutorial before, move the play head again a few frames earlier to the left and add another keyframe. If you want to have the name card flying in from the left while expanding, you can change the X-axis and scale of the background card to 0\. Change the opacity to 0 to create a color change from transparent to white.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![move the play head again](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-22.gif)
 
 To let the background card exit the frame, add two more keyframes to the background card. Add a keyframe with no changes to settings. Move the play head to the right for a few frames and add another keyframe.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![add two more keyframes](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-23.gif)
 
 If you want the name card to exit to the bottom, change the Y-axis number until it exits. Change the scale and opacity to 0\. Then, playback and adjust the keyframes.
 
 Finally, you can add a Subscribe button from the new default Filmora element pack “Social Media.”
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add a subscribe button](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-24.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Wrapping up
 
 These are two ways you can create your own Lower Thirds in FIlmora. You can also change the keyframe settings to customize your lower thirds even more. Now, it's time to try it yourself, and let us know what you think!
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### (1) A simple line and texts
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![a simple line and texts](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-1.gif)
 
 ##### Step1 Create a simple line
@@ -177,6 +228,9 @@ Go to the **Media library > Sample Media folder > choose a color sample**. For t
 
 Double-click the white sample clip to open the settings and scale it to 30%. Then, reposition the white bar to your desired place.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![double-click the white sample clip](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-3.gif)
 
 ##### Step2 Mask the white sample
@@ -187,22 +241,43 @@ Since we want to create a thin horizontal shape, you need to make some adjustmen
 
 After that, double-click the white sample on the timeline and find the Image Mask setting. Choose the shape that works best for your needs. For this tutorial, we are going to use this one. Then, adjust the X and Y-axis scale numbers until it becomes a thin white line. Click OK.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![double-click the white sample](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-5.jpg)
 
 ##### Step3 Add a text for your lower thirds
 
 Go to **Titles > Plain Text > Basic 6** and drop it onto the second video track above the white line clip. Don't worry about the exact position yet. We can adjust it later.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![add a text for your lower thirds](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-6.jpg)
 
 Double-click on the text clip to open the settings, then type some text there and adjust the size and font.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![double-click on the text clip](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-7.jpg)
 
 ##### Step4 Add animation to the text
 
 Click **Advanced > Animation > Up Down 1** animation. Adjust the animation length by dragging the two brackets on the timeline on the right side. Click Ok.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add animation to the text](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-8.jpg)
 
 ##### Step5 Add keyframes to the white line clip when entering
@@ -235,6 +310,9 @@ Playback the video and see how it looks.
 
 ### (2) A name card with a solid background
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![a name card with a solid background](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-13.gif)
 
 Sometimes you might want to create a name card with a solid background like the sample above. To create it, we can use the same method. Here's how to do it:
@@ -243,16 +321,34 @@ Sometimes you might want to create a name card with a solid background like the 
 
 Select the white color sample from the sample color folder and drop it onto the upper video track of the video.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make the lower third background](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-14.jpg)
 
 Change the scale to 30%, then reposition the white sample to your desired place. Click OK.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![change the scale to 30%](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-15.gif)
 
 ##### Step2 Create an image mask for the lower third background
 
 Drag and drop the Image Mask onto the white sample clip on the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![create an image mask](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-16.gif)
 
 Double-click on the white sample clip to activate the video setting window and find the Image Mask settings. Then, choose the mask shape you need. You can also adjust its size by changing the X or Y-axis.
@@ -263,6 +359,9 @@ Double-click on the white sample clip to activate the video setting window and f
 
 Once the background card is in place, go to Titles > Plain Text > ‘Basic 6' and drop it onto the third video track.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![go to titles](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-18.jpg)
 
 Now, type in the texts as needed. Reposition and scale the texts to make sure they are on top of the background shape.
@@ -273,10 +372,16 @@ Now, type in the texts as needed. Reposition and scale the texts to make sure th
 
 Click Advanced > Animation > Push. Then, adjust the animation length accordingly. Click Ok.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click advanced](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-20.jpg)
 
 Double-click on the background clip to show the animation tab setting. Then, playback the text animation and find a position earlier than the start and add a keyframe.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![double-click on the background clip](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-21.jpg)
 
 Similar to the tutorial before, move the play head again a few frames earlier to the left and add another keyframe. If you want to have the name card flying in from the left while expanding, you can change the X-axis and scale of the background card to 0\. Change the opacity to 0 to create a color change from transparent to white.
@@ -285,6 +390,9 @@ Similar to the tutorial before, move the play head again a few frames earlier to
 
 To let the background card exit the frame, add two more keyframes to the background card. Add a keyframe with no changes to settings. Move the play head to the right for a few frames and add another keyframe.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add two more keyframes](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-23.gif)
 
 If you want the name card to exit to the bottom, change the Y-axis number until it exits. Change the scale and opacity to 0\. Then, playback and adjust the keyframes.
@@ -315,10 +423,16 @@ If you've ever worked in the color grading profession, you're aware of how time-
 
 Achieving a specific ambiance in a scene demands ongoing effort and naturally takes longer. LUTs, or Lookup Tables, were created as a result. LUTs are ideal for storing a set of colors to use later or in another program. A LUT is the most effective technique to color or alters your image's colors.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Benefits of using LUTs
 
 There are numerous advantages to using lookup tables to edit your footage. We've already discussed that it helps to give your films a more polished and professional appearance, which is one of the primary explanations why individuals use LUTs, but there are many more.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. A beginning towards professionalism
 
 This is a fantastic approach for beginners to have a good idea of how to build their own trademark looks in their videos. The time it takes to develop your color grading craft is unavoidable. So, as a novice, LUTs will come in useful for you to establish your approach and save your ass, big time.
@@ -343,6 +457,18 @@ Whether it's a client or a personal project, things can often get pushed to the 
 
 LUTs are beneficial because they allow videos shot with cameras that shoot very dark, discolored images to have more vivid tones and contrast. This is excellent for grabbing viewers' attention and making videos more intriguing and engaging. LUTs add an artistic element to videos and can help you develop a visual artistic identity for your videos if you use the same colors. Another advantage of LUTs is that they enhance the color quality of videos shot on smartphones with particular color schemes. Although this varies significantly from brand to brand, you can use LUTs to make a Smartphone video more vibrant and appealing.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Top 10 Sony LUT for Different Purposes
 
 The highlights in your videos will seem smooth with this set of Free Sony LUTs, while the shadows will add intensity and depth without sacrificing any details. It's easy to use Sony LUTs in.CUBE and.LOOK versions, and they help you get the cinematic appearance you want.
@@ -351,18 +477,30 @@ The highlights in your videos will seem smooth with this set of Free Sony LUTs, 
 
 The Sony Natural Enhanced LUT pack was created to address Sony's color science-related difficulties with skin tones and hue levels. These LUTs correct and fix the colors in your S-Log2 and S-Log3 videos, giving them a colorful natural look.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sony Lut - SLog2 & SLog3 to Enhanced Rec709 LUTs](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-1.jpg)
 
 SLog2 & SLog3 to Enhanced Rec709 LUTs
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Filmic Tone Creative LUTs
 
 One of our choices is the Filmic Tone LUT set. It enhances your creativity by adding a cinematic tone to your footage. These LUTs were created to convert the green color hues to a dark shade reminiscent of a Bali Instagram-type color while keeping the warmth of the mid-tones and highlights.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Sony Lut - Filmic Tone Creative LUTs](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-2.jpg)
 
 Filmic Tone Creative LUTs
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Sony Nature LUTs
 
 Nature has influenced it. Nature LUTs are designed to complement the natural environs in which we live. Bali, woods, forests, greenery, streams, and beaches are all excellent choices for this design.
@@ -387,6 +525,9 @@ There are 24 Sony Cine-4 Film LUTs and 24 Rec 709 LUTs in this LUTs set. They ca
 
 Sony Cine-4 Film and Standard LUTs
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Sony Urban Dark LUT
 
 The Urban Dark LUT pack aims to provide users with some dark, fascinating tones that work well with urban landscapes. These LUTs have a dark vibe that complements skin tones well.
@@ -395,10 +536,16 @@ The Urban Dark LUT pack aims to provide users with some dark, fascinating tones 
 
 Sony Urban Dark LUT
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 7\. LUT Sony Vegas "Adventure"
 
 This is one of the best Sony LUTs for adding drama and depth to the video. It also makes the image moodier and more attention-grabbing, which is ideal if your film focuses on people, architecture, or scenic landscapes because it draws attention to the topics.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sony Lut - LUT Sony Vegas Adventure](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-7.jpg)
 
 LUT Sony Vegas "Adventure"
@@ -411,10 +558,16 @@ This Sony LUT adds a creamy feel to the video, making it more appealing while al
 
 Sony LUT "Dessert"
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 9\. Sony LUTs for the premiere
 
 If you want to make your video clip look professional without the color grading being too obvious, Sony LUTs for Premiere is one of the best options available. It cools down the image and enhances the contrast slightly to make the topic stand out without being overpowering. This LUT is particularly well suited to business, real estate, and action-oriented videos.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Sony Lut - Sony LUTs for the premiere](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-9.jpg)
 
 Sony LUTs for the premiere
@@ -423,6 +576,9 @@ Sony LUTs for the premiere
 
 The Sony Base LUT Pack replaces Sony's rec709 LUT and color space. These LUTs have a wonderful warm tone to them and more accurate green colors, and these LUTs are merely a starting point or base for your grading. We recommend grading beyond the simple use of the LUT if you want the best results. Each LUT in this bundle was built with the Sony S-log2 color profile in mind. These LUTs are intended to assist you in achieving proper exposure during filming and grading while maintaining a pleasant image.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![Sony Lut - Sony Base LUT pack](https://images.wondershare.com/filmora/article-images/2022/05/sony-lut-9.jpg)
 
 Sony Base LUT pack
@@ -469,6 +625,9 @@ Step1Launch After Effects and click on New Composition from Project section. Set
 
 Step2Click on Type Text icon located at the top bar and type a text on the video. After typing the text, go to the Character panel to the right and adjust the style of the text.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![adjust text style after effects](https://images.wondershare.com/filmora/article-images/2022/08/adjust-text-style-after-effects.jpg)
 
 Step3You have to enable 3D option for the text from the 3D icon on text layer. Under text layer, click on Transform and use X-Y-Z rotation options to rotate the text from 3D perspectives.
@@ -481,6 +640,9 @@ Step4Similarly, click on Geometry Options and add depth to your text to get 3D e
 
 Step5You have to create a new Camera layer by right-clicking Timeline and go to New>Camera option. You will get Camera Settings window to adjust the parameters and click on Ok button.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![new camera layer after effects](https://images.wondershare.com/filmora/article-images/2022/08/new-camera-layer-after-effects.jpg)
 
 Step6Use the Orbit Tool to rotate the text to get the true 3D effect visible on the screen.
@@ -497,6 +659,9 @@ Step8You can adjust Transform and Light Options from Comp window under Light lay
 
 You have successfully created 3D text effect on After Effects. You will now illustrate how to animate the 3D text.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. Create 3D Camera Animation
 
 You have prepared your text with 3D effect, and you can have multiple 3D texts on your video. It is time to animate those 3D texts so that the 3D effect becomes more prominent and the text instantly grabs attention. You do not have to create animation from scratch as there are 3D animation presets available. All you need to do is apply them to your 3D texts and they will start to animate automatically. Besides, you can create 3D camera animation to show the texts from different camera perspectives. Here are the steps to use 3d animated text generator on After Effects.
@@ -521,6 +686,9 @@ Step6Use the Orbit tool, Dolly tool and others to position 3D text as per how yo
 
 ![3d text tools](https://images.wondershare.com/filmora/article-images/2022/08/3d-text-tools.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. Make Stunning 3D Text Effects Online
 
 Since adding 3D effects to text is a rather heavy task in video editing, there are many who think that you cannot add 3D text effects without a dedicated video editor application. But there are many renowned online video editors available where you can create amazing 3D text effects and animations with a few clicks.
@@ -533,10 +701,16 @@ Step1Open your web browser and “flexclip.com/editor/app”. Go to Media tab an
 
 Step2Go to Text and click on See All for Text Styles. Scroll down and check out the 3D text templates available. Click on any desired template to apply to your video.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![3d text tempaltes flexclip](https://images.wondershare.com/filmora/article-images/2022/08/3d-text-tempaltes-flexclip.jpg)
 
 Step3Double-Click on 3D text present on Viewer and edit the style and text as per your preference.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edit 3d text flexclip](https://images.wondershare.com/filmora/article-images/2022/08/edit-3d-text-flexclip.jpg)
 
 Step4Click on three-dot icon at the top of Viewer and click on Motion option.
@@ -553,6 +727,9 @@ When you use an online video editor to create 3D text animation, there will have
 
 Step1Download and install Filmora on your computer. The video editor is available for Windows and Mac users. Click on New Project button on welcome screen or go to File> New Project option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![download and install filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 Step2Go to File> Import Media > Import Media Files to import the video file. Alternatively, drag and drop the video file directly into Project Media folder. Put the video file into Timeline to get started.
@@ -561,27 +738,36 @@ Step2Go to File> Import Media > Import Media Files to import the video file. Alt
 
 Step3Go to Titles tab and go to left panel, click on Titles option. Search “3D” in the search field and check out all 3d text effects and animations available.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![select 3d title filmora](https://images.wondershare.com/filmora/article-images/2022/08/select-3d-title-filmora.jpg)
 
 Step4Drag and drop 3D text templates on Timeline. You should place the effect on the Timeline where you want it to appear on the video. You can also adjust the duration of the effect as per your requirements.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drag 3d tempaltes timeline](https://images.wondershare.com/filmora/article-images/2022/08/drag-3d-tempaltes-timeline.jpg)
 
 Step5Double-click on the text layer to customize the text and style. Play the video and click on Export button to save the edited 3D text video.
 
 ![edit 3d text filmora](https://images.wondershare.com/filmora/article-images/2022/08/edit-3d-text-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 There is no doubt that if you include 3D text effects and animations in your video, your video will definitely stand out. The viewers will find the video engaging and understand the message that the video creator wants to get across. We have illustrated how to make stunning 3D text animations. You can also use 3d text generator online. But we recommend [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) as the best and the easiest video editor to create 3D text animations instantly.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 </article
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -589,6 +775,9 @@ There is no doubt that if you include 3D text effects and animations in your vid
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How To Use Speed Ramping to Create an Intense Action Footage
 
 Are you tired of using the same old way to edit your montages? Or do you want to learn to be more professional in your creativity? Don't worry. We got you.
@@ -600,14 +789,23 @@ Here you will learn how to take your videos to the next level using speed rampin
 
 These effects can work well for any action sports or dance video. Let's check out about speed ramping effect and ways to add it.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## Part 1\. What is speed ramping?
 
 You've probably seen speed ramping used in suspenseful moments of a basketball video before, like a ball bouncing on the rim or a long buzzer-beating shot.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cinematic shots of a basketball player](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-1.gif)
 
 With speed ramping, we can slow down our most exciting moments to show our audience. And then speed it up again to keep pace with the music or action. So it will give you a smooth transition effect.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. How to enhance action videos with the speed ramping effect?
 
 For example, we'll create an intense basketball video with speed ramping and glitch effects in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Then, to show you how to show off your filming, editing, and basketball skills.
@@ -645,6 +843,9 @@ The speed ramping feature is included in Filmora standard license. So let's star
 
 First, import a video from your media library in the Wondershare Filmora. And drag the clip down on the timeline to start editing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![library in wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-3.jpg)
 
 2\. Apply the speed ramping feature
@@ -655,6 +856,9 @@ To apply the speed ramping feature, **right-click** on the clip on the timeline.
 
 You can choose different speed templates in the setting window. Or, on the left corner, click on the customize option to adjust the keyframes and create the speed you want for the video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![speed templates on wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-5.jpg)
 
 The lower keyframe is when the video is slowest, and the peak is when the video is fastest. The middle parts between the keyframes are when it speeds up or slows down to reach the specific speed you set on each keyframe.
@@ -726,6 +930,9 @@ The speed ramping feature is included in Filmora standard license. So let's star
 
 First, import a video from your media library in the Wondershare Filmora. And drag the clip down on the timeline to start editing.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![library in wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/speed-ramping-3.jpg)
 
 2\. Apply the speed ramping feature
@@ -795,3 +1002,49 @@ Now we can watch our video to see our glitch with the motion blur effect. Isn't 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sim-unlock.techidaily.com/top-10-meizu-21-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Meizu 21 Android SIM Unlock APK</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-minecraft-pixel-art-a-complete-guide-for-die-hard-fans/"><u>In 2024, Minecraft Pixel Art A Complete Guide for Die-Hard Fans</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-mastering-video-speed-control-slow-down-speed-up-and-edit-with-ease/"><u>Updated Mastering Video Speed Control Slow Down, Speed Up, and Edit with Ease</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-online-video-makers-to-use/"><u>2024 Approved Online Video Makers to Use</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-ultimate-list-of-5-chrome-addons-to-download-facebook-videos/"><u>[Updated] In 2024, The Ultimate List of 5 Chrome Addons to Download Facebook Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-up-nintendos-next-gen-the-2024-hunch/"><u>Switch Up: Nintendo's Next Gen, The 2024 Hunch</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-methods-to-make-sure-your-recording-slideshow-in-powerpoint-is-not-wro/"><u>Updated Methods to Make Sure Your Recording Slideshow in Powerpoint Is Not Wro</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-cutting-edge-methods-for-inserting-vimeo-content-in-ppts/"><u>[New] In 2024, Cutting-Edge Methods for Inserting Vimeo Content in PPTs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupted-video-files-of-redmi-note-12t-pro-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupted video files of Redmi Note 12T Pro</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/mastery-in-motion-choosing-your-path-for-vimeo-download-tools/"><u>Mastery in Motion  Choosing Your Path for Vimeo Download Tools</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-motion-tracking-using-the-best-video-editors/"><u>2024 Approved Motion Tracking Using The Best Video Editors</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-captivating-readers-with-the-top-5-engaging-book-trailers/"><u>[New] Captivating Readers with the Top 5 Engaging Book Trailers</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-multi-object-tracking-the-ultimate-guide/"><u>In 2024, Multi Object Tracking The Ultimate Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-motion-tracking-using-the-best-video-editors/"><u>Updated Motion Tracking Using The Best Video Editors</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-convert-youtube-music-seamlessly-for-mac-users-2023-edition/"><u>In 2024, Convert YouTube Music Seamlessly for Mac Users, 2023 Edition</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-most-used-3-ways-to-compress-video-for-instagram-story-feed-and-igtv/"><u>Updated Most-Used 3 Ways to Compress Video for Instagram Story, Feed, and IGTV</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-elevate-your-social-story-essential-tactics-for-facebook-profiles/"><u>[Updated] In 2024, Elevate Your Social Story  Essential Tactics for Facebook Profiles</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-oppo-reno-10-5g-phone-by-drfone-android/"><u>How to Reset a Locked Oppo Reno 10 5G Phone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-online-calculate-and-change-video-aspect-ratio/"><u>Updated Online Calculate and Change Video Aspect Ratio</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-online-calculate-and-change-video-aspect-ratio/"><u>2024 Approved Online Calculate and Change Video Aspect Ratio</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-from-audio-to-visual-key-considerations-for-mp3-to-mp4-conversion/"><u>New In 2024, From Audio to Visual Key Considerations for MP3 to MP4 Conversion</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-approaches-to-mend-obs-fullscreen-errors-for-2024/"><u>[New] Approaches to Mend OBS Fullscreen Errors for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-online-video-makers-to-use/"><u>Updated Online Video Makers to Use</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-metaverse-vs-multimetaverse-distinguishing-characteristics-comprehensive-insights/"><u>[New] Metaverse Vs. Multimetaverse  Distinguishing Characteristics (Comprehensive Insights)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-elevating-your-brand-with-intriguing-instagram-puzzle-feeds/"><u>[Updated] In 2024, Elevating Your Brand with Intriguing Instagram Puzzle Feeds</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-online-video-makers-to-use/"><u>New Online Video Makers to Use</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-6-plus-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 6 Plus Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/multi-object-tracking-the-ultimate-guide-for-2024/"><u>Multi Object Tracking The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-essential-guide-incorporating-music-and-effects-into-your-videos/"><u>2024 Approved Essential Guide Incorporating Music and Effects Into Your Videos</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-movavi-video-editor-plus-review/"><u>In 2024, Movavi Video Editor Plus Review</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-movavi-video-editor-plus-review/"><u>2024 Approved Movavi Video Editor Plus Review</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-video-inspiration-for-birthday-slideshow-for-2024/"><u>New Video Inspiration for Birthday Slideshow for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-ivideoprocessor/"><u>New 2024 Approved IVideoProcessor</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastery-in-removing-online-video-post-comments/"><u>2024 Approved  Mastery in Removing Online Video Post-Comments</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-merging-mp4-videos-made-simple-top-5-online-tools/"><u>Updated Merging MP4 Videos Made Simple Top 5 Online Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-iphone-videography-strategies-to-elevate-your-work-top-8/"><u>2024 Approved  Expert iPhone Videography Strategies to Elevate Your Work (Top 8)</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-movavi-video-editor-plus-review/"><u>New Movavi Video Editor Plus Review</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-ultimate-list-best-windows-10-photos-alternatives/"><u>Updated 2024 Approved The Ultimate List Best Windows 10 Photos Alternatives</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-online-video-makers-to-use/"><u>In 2024, Online Video Makers to Use</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-ultimate-list-10-superior-podcast-mic-choices/"><u>[Updated] 2024 Approved  The Ultimate List  10 Superior Podcast Mic Choices</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-multi-object-tracking-the-ultimate-guide/"><u>2024 Approved Multi Object Tracking The Ultimate Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-offering-the-best-understanding-of-performing-imovie-slow-motion-video/"><u>2024 Approved Offering The Best Understanding of Performing iMovie Slow Motion Video</u></a></li>
+</ul></div>

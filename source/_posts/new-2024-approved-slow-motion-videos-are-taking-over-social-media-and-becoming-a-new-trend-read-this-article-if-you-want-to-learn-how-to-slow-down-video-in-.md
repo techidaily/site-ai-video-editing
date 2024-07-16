@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Slow Motion Videos Are Taking over Social Media and Becoming a New Trend. Read This Article if You Want to Learn How to Slow Down Video in After Effects
-date: 2024-07-01T13:02:14.098Z
-updated: 2024-07-02T13:02:14.098Z
+date: 2024-07-15T13:02:49.234Z
+updated: 2024-07-16T13:02:49.234Z
 tags: 
   - ai
   - animation videos
@@ -21,6 +21,9 @@ If you also want to experiment with this video aspect, then you're at the right 
 
 **Slow Motion Video Maker** Slow your video’s speed with better control of your keyframes to create unique cinematic effects ![Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [More Features](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 ## Part 1: A Complete Overview of Adobe After Effects
@@ -45,10 +48,25 @@ Upon learning about After Effects and its functionalities, let’s move forward.
 
 **Step 2:** In the Time Stretch window, increase the default value of "Stretch Factor." Then click "OK," and this will slow down your clip.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![change stretch factor](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-2.jpg)
 
 **Step 3:** To bring precision to your slow-mo, you need to adjust the frame rate of the video. For this, right-click on the timeline and go to "Frame Blending > Pixel Motion" option. Afterward, play your video from start to end and observe the changes.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![look for pixel motion](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-3.jpg)
 
 ## Part 3: Alternative: Slowing Down Video in Wondershare Filmora with Clarity
@@ -61,6 +79,9 @@ Wondershare Filmora is an AI-driven software that makes task achievement accessi
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Methods to Slow Down Video in Filmora
 
 In this section, we will discuss alternative methods of **slowing video in After Effects**. All the mentioned methods are carried out in Wondershare Filmora. Here is the step-by-step guide to creating a slow-motion video using Filmora:
@@ -76,6 +97,9 @@ Users can employ the manual speed adjustment option along with the automated slo
 
 Once you have downloaded Filmora, start it and click the “New Project” tab. After accessing the editing interface, click the “Import” button to download media. From the Project Media panel, drag and drop media to the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![add videos to timeline](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-8.jpg)
 
 ##### Step 2Access Uniform Speed Option
@@ -88,6 +112,9 @@ Once the media is in the timeline, select it and right-click on it. From the opt
 
 A settings panel will appear on the right side of the screen; navigate towards it. Under the "Uniform Speed" tab, adjust the "Speed" slider to slow down your video. If its value decreases, your video will become slow motion. Further, hit the play button to preview and export your slow-mo video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![adjust speed and execute](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-10.jpg)
 
 #### Method 2\. Step-by-Step Guide to Slow a Video Using Optical Flow Option
@@ -98,12 +125,18 @@ If you prefer the automated creation of slow-mo, then Filmora offers an AI Frame
 
 After importing media and bringing it to the timeline panel, select it. Then, navigate towards the top toolbar and select the “Tools” tab. From the expansion menu, click on the “Speed Ramping” option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![look for speed ramping section](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-11.jpg)
 
 ##### Step 2Access the AI Frame Interpolation
 
 Continue to select a specific preset for speed ramping. As you select one, locate and expand the “AI Frame Interpolation” section. From the appearing option, select the “Optical Flow” option.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set preset and change frame interpolation](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-12.jpg)
 
 ##### Step 3Render Preview for Results
@@ -112,6 +145,9 @@ Once you have enabled this option, navigate towards the timeline toolbar. Search
 
 ![render preview and export](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Edit Beyond Basic with AI Video Editing Features of Filmora
 
 This part of the article will highlight some of the prominent video editing features of Filmora. The uniqueness of these features lies in their AI-backed algorithms. You can give directions according to your video, and AI will operate accordingly. Here are some of its video editing features that you’ll come across upon entering:
@@ -150,3 +186,41 @@ However, we recommend Wondershare Filmora as it is a more accessible alternative
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-10-best-free-text-to-speech-software-windows-macandroid-iphone-and-online/"><u>2024 Approved 10 Best Free Text to Speech Software Windows, Mac，Android, iPhone & Online</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-10-best-meme-text-to-speech-tools-windows-mac-android-iphone/"><u>Updated 10 Best Meme Text to Speech Tools Windows, Mac, Android, iPhone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/10-best-free-gif-background-remover-for-pc-and-online-for-2024/"><u>10 Best Free GIF Background Remover for PC and Online for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-10-best-free-gif-background-remover-for-pc-and-online/"><u>New 10 Best Free GIF Background Remover for PC and Online</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-10-best-free-text-to-speech-software-windows-macandroid-iphone-and-online/"><u>Updated 10 Best Free Text to Speech Software Windows, Mac，Android, iPhone & Online</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-to-determine-or-change-the-video-aspect-ratio-online-use-a-ratio-calculator-to-calculate-pixel-dimensions-and-aspect-ratios-of-images-or-videos/"><u>Updated To Determine or Change the Video Aspect Ratio Online. Use a Ratio Calculator to Calculate Pixel Dimensions and Aspect Ratios of Images or Videos</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-10-best-meme-text-to-speech-tools-windows-mac-android-iphoneandonline/"><u>Updated 10 Best Meme Text to Speech Tools Windows, Mac, Android, iPhone&Online</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-perfecting-your-facebook-video-cover-tips-for-ideal-dimensions/"><u>Updated Perfecting Your Facebook Video Cover Tips for Ideal Dimensions</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-10-best-free-gif-background-remover-for-pc-and-online/"><u>Updated 10 Best Free GIF Background Remover for PC and Online</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-10-best-free-gif-background-remover-for-pc-and-online/"><u>In 2024, 10 Best Free GIF Background Remover for PC and Online</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-10-best-camera-for-youtube-beginners/"><u>2024 Approved 10 Best Camera for YouTube Beginners</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-10-best-movie-trailer-voice-generators-windows-mac-android-iphone-and-online/"><u>New 10 Best Movie Trailer Voice Generators Windows, Mac, Android, iPhone & Online</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mysterious-video-issue-with-sony-a6400/"><u>In 2024, Mysterious Video Issue with Sony A6400</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-expert-recorder-choice-for-high-quality-youtube-content-for-2024/"><u>[Updated] Expert Recorder Choice for High-Quality YouTube Content for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 11 Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oppo-a78-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Oppo A78 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-10-best-mp3-visualizers-windows-mac-android-iphone-and-online/"><u>In 2024, 10 Best Mp3 Visualizers Windows, Mac, Android, iPhone & Online</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-10-best-free-text-to-speech-software-windows-macandroid-iphone-and-online/"><u>New 10 Best Free Text to Speech Software Windows, Mac，Android, iPhone & Online</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-m1-fueled-laptops-face-off-air-versus-pro/"><u>2024 Approved  M1-Fueled Laptops Face Off  Air Versus Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/astrological-flair-in-digital-self-portrayals-on-whatsapp-for-2024/"><u>Astrological Flair in Digital Self-Portrayals on WhatsApp for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/optimized-zoom-audio-settings-for-exceptional-listening/"><u>Optimized Zoom Audio Settings for Exceptional Listening</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-10-best-free-video-player-for-windows-11/"><u>In 2024, 10 Best Free Video Player for Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-snickerslide-lighten-up-your-online-presence/"><u>[New] SnickerSlide  Lighten Up Your Online Presence</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-10-best-cartoon-video-makers-online-and-desktop-solution/"><u>2024 Approved 10 Best Cartoon Video Makers (Online and Desktop Solution)</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/10-best-movie-trailer-voice-generators-windows-mac-android-iphone-and-online-for-2024/"><u>10 Best Movie Trailer Voice Generators Windows, Mac, Android, iPhone & Online for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-10-best-meme-text-to-speech-tools-windows-mac-android-iphone/"><u>New 10 Best Meme Text to Speech Tools Windows, Mac, Android, iPhone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-guide-to-infusing-movement-into-images-in-illustrator-for-2024/"><u>A Guide to Infusing Movement Into Images in Illustrator for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-10-best-cartoon-video-makers-online-and-desktop-solution/"><u>New 10 Best Cartoon Video Makers (Online and Desktop Solution)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-a-step-by-step-guide-to-leveraging-the-whiteboard-feature-in-remote-tech-sessions-for-2024/"><u>[Updated] A Step-by-Step Guide to Leveraging the Whiteboard Feature in Remote Tech Sessions for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-10-best-innovative-ar-video-effects-to-check-out/"><u>Updated 10 Best Innovative AR Video Effects to Check Out</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y200e-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y200e 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-10-best-innovative-ar-video-effects-to-check-out/"><u>New 10 Best Innovative AR Video Effects to Check Out</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-complete-guide-to-crafting-impressive-timelapse-films-on-ipad/"><u>[New] 2024 Approved  The Complete Guide to Crafting Impressive Timelapse Films on iPad</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-depth-evaluation-the-capabilities-and-features-of-sound-forge/"><u>Updated In-Depth Evaluation The Capabilities and Features of Sound Forge</u></a></li>
+</ul></div>

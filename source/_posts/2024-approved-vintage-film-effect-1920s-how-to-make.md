@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Vintage Film Effect 1920S - How to Make
-date: 2024-05-19T05:12:09.902Z
-updated: 2024-05-20T05:12:09.902Z
+date: 2024-07-15T12:56:01.525Z
+updated: 2024-07-16T12:56:01.525Z
 tags: 
   - ai
   - animation videos
@@ -10,13 +10,16 @@ categories:
 description: This Article Describes 2024 Approved Vintage Film Effect 1920S - How to Make
 excerpt: This Article Describes 2024 Approved Vintage Film Effect 1920S - How to Make
 keywords: vintage film effect 1990s how to make,ai animation how to make vintage film effect 1950s,how to make vintage film effect 1950s,ai animation vintage film effect 1920s how to make,vintage film effect 1920s how to make,how to make vintage film effect 1980s,ai animation vintage film effect 1990s how to make
-thumbnail: https://www.lifewire.com/thmb/mQGqL0eWRfBieVMGM5ZlJAtwh3c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-mobile-boarding-pass-eb61458058f44011ad7ed012566127e4.jpg
+thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9ade996e1956601a5424d0a8.jpg
 ---
 
 ## Vintage Film Effect 1920S - How to Make
 
 Do you want to roll back the hands of time and shoot a film like you were in WWI or Charlie Chaplin's era? That's what a vintage film effect is all about. In other words, this video effect will give your videos an old-film look and feel. So, without wasting time, let's learn how to convert a normal video into a film shot in the 1920s with Wondershare Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Preparation
 
 ![1920s video scene](https://images.wondershare.com/filmora/article-images/2023/01/1920s-video-scene.gif)
@@ -29,6 +32,9 @@ In this tutorial, you don't need a lot of creativity to create a vintage film, a
 
 ##### Step1 Add a video you want to edit
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add a video you want to edit](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1920s-1.jpg)
 
 Upload your video on Filmora, then move it to the editing timeline by dragging it. This should take a second or two.
@@ -45,6 +51,58 @@ Next, double-tap the **Crop** effect on the editing timeline to open the effect 
 
 ##### Step3 Add the Dirty Film and Silent Film effects
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![add the dirty film and silent film effects](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1920s-4.jpg)
+
+Tap the Effect tab, then open the **Overlay** drop-down menu. Then, choose the **Old Film** category before adding a **Dirty Film** effect above the clip. To apply a more vintage feel to your video, add a **Silent Film** effect to the track above the Dirty Film effect.
+
+##### Step4 Add a black & white effect to your video
+
+![add a black and white effect to your video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1920s-5.jpg)
+
+Up to this point, your film should now start having a more vintage feel. But to make it look even older, double-click the video clip and tap the **Color** tab. After that, open the **3D LUT** arrow and choose the **B&W Film** option. Now play the video and enjoy.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
+## Summary
+
+See, you don't need to break a sweat to add a vintage feel to your funny video. With Filmora, you'll access multiple tools and effects to create an old-looking film with just a single click. And don't forget to play around with other Filmora overlays and effects to bring out the inner video editor in you. Thanks for reading!
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+##### Step1 Add a video you want to edit
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![add a video you want to edit](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1920s-1.jpg)
+
+Upload your video on Filmora, then move it to the editing timeline by dragging it. This should take a second or two.
+
+##### Step2 Add a crop effect
+
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
+![add a crop effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1920s-2.jpg)
+
+After successfully adding your video to the timeline, tap the **Effect** tab on top of the screen and click **Utility**. Then, choose the **Crop** effect and add a few tracks above the video clip.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![tap the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1920s-3.jpg)
+
+Next, double-tap the **Crop** effect on the editing timeline to open the effect editing tools. Now change the crop amount to 15 to add a vintage feel to your video. Just enter 15 on the Left and Right boxes.
+
+##### Step3 Add the Dirty Film and Silent Film effects
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add the dirty film and silent film effects](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1920s-4.jpg)
 
 Tap the Effect tab, then open the **Overlay** drop-down menu. Then, choose the **Old Film** category before adding a **Dirty Film** effect above the clip. To apply a more vintage feel to your video, add a **Silent Film** effect to the track above the Dirty Film effect.
@@ -85,6 +143,9 @@ Tap the Effect tab, then open the **Overlay** drop-down menu. Then, choose the *
 
 ##### Step4 Add a black & white effect to your video
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add a black and white effect to your video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1920s-5.jpg)
 
 Up to this point, your film should now start having a more vintage feel. But to make it look even older, double-click the video clip and tap the **Color** tab. After that, open the **3D LUT** arrow and choose the **B&W Film** option. Now play the video and enjoy.
@@ -97,16 +158,25 @@ See, you don't need to break a sweat to add a vintage feel to your funny video. 
 
 ##### Step1 Add a video you want to edit
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add a video you want to edit](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1920s-1.jpg)
 
 Upload your video on Filmora, then move it to the editing timeline by dragging it. This should take a second or two.
 
 ##### Step2 Add a crop effect
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add a crop effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1920s-2.jpg)
 
 After successfully adding your video to the timeline, tap the **Effect** tab on top of the screen and click **Utility**. Then, choose the **Crop** effect and add a few tracks above the video clip.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1920s-3.jpg)
 
 Next, double-tap the **Crop** effect on the editing timeline to open the effect editing tools. Now change the crop amount to 15 to add a vintage feel to your video. Just enter 15 on the Left and Right boxes.
@@ -123,40 +193,9 @@ Tap the Effect tab, then open the **Overlay** drop-down menu. Then, choose the *
 
 Up to this point, your film should now start having a more vintage feel. But to make it look even older, double-click the video clip and tap the **Color** tab. After that, open the **3D LUT** arrow and choose the **B&W Film** option. Now play the video and enjoy.
 
-## Summary
-
-See, you don't need to break a sweat to add a vintage feel to your funny video. With Filmora, you'll access multiple tools and effects to create an old-looking film with just a single click. And don't forget to play around with other Filmora overlays and effects to bring out the inner video editor in you. Thanks for reading!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-##### Step1 Add a video you want to edit
-
-![add a video you want to edit](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1920s-1.jpg)
-
-Upload your video on Filmora, then move it to the editing timeline by dragging it. This should take a second or two.
-
-##### Step2 Add a crop effect
-
-![add a crop effect](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1920s-2.jpg)
-
-After successfully adding your video to the timeline, tap the **Effect** tab on top of the screen and click **Utility**. Then, choose the **Crop** effect and add a few tracks above the video clip.
-
-![tap the effect tab](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1920s-3.jpg)
-
-Next, double-tap the **Crop** effect on the editing timeline to open the effect editing tools. Now change the crop amount to 15 to add a vintage feel to your video. Just enter 15 on the Left and Right boxes.
-
-##### Step3 Add the Dirty Film and Silent Film effects
-
-![add the dirty film and silent film effects](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1920s-4.jpg)
-
-Tap the Effect tab, then open the **Overlay** drop-down menu. Then, choose the **Old Film** category before adding a **Dirty Film** effect above the clip. To apply a more vintage feel to your video, add a **Silent Film** effect to the track above the Dirty Film effect.
-
-##### Step4 Add a black & white effect to your video
-
-![add a black and white effect to your video](https://images.wondershare.com/filmora/article-images/2023/01/vintage-film-effect-1920s-5.jpg)
-
-Up to this point, your film should now start having a more vintage feel. But to make it look even older, double-click the video clip and tap the **Color** tab. After that, open the **3D LUT** arrow and choose the **B&W Film** option. Now play the video and enjoy.
-
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Summary
 
 See, you don't need to break a sweat to add a vintage feel to your funny video. With Filmora, you'll access multiple tools and effects to create an old-looking film with just a single click. And don't forget to play around with other Filmora overlays and effects to bring out the inner video editor in you. Thanks for reading!
@@ -173,6 +212,9 @@ See, you don't need to break a sweat to add a vintage feel to your funny video. 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Make a TikTok Loop Video
 
 Nowadays, many people like to make a lot of videos with their phone and share it on social media. But if you are not familiar with this social media, then you should check out TikTok. You probably know that TikTok videos can be looped. If users were unable to replay videos, they would lose interest quickly. Therefore, more than 1 billion people now use the app daily.
@@ -191,12 +233,18 @@ There are many ways to monetize your content. If you're already making videos, y
 
 Go to your play-store and type TikTok on its search bar. Install the app on your phone and create an account on it. You can sign up through your phone number, Gmail, or Facebook. After that, they will send you a code to verify your account.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![download tiktok to create account](https://images.wondershare.com/filmora/article-images/2022/11/download-tiktok-to-create-account.jpg)
 
 ##### Step2 Make or select a video template
 
 Click on the “+” symbol after that you can record your video or you can also select media from your gallery.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![select a video template tiktok](https://images.wondershare.com/filmora/article-images/2022/11/select-a-video-template-tiktok.jpg)
 
 ##### Step3 Select a template and add a transition
@@ -275,6 +323,9 @@ Place your video on a timeline or just simply drag and drop your video clip on t
 
 After putting the video on the timeline add some effects to your video. If you are combining two or more videos then must add a dissolve transition between the videos to show your video more seamlessly.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add effects and transitions](https://images.wondershare.com/filmora/guide/find-transition.png)
 
 ##### Step4 Edit the duration of the video then export it
@@ -299,6 +350,9 @@ A time-lapse video is a great way to show the passage of time in a short video. 
 
 Install Filmora from Google Chrome or any browser you want. After that click on create a new project and select media from your gallery. Select the video you want to make a time-lapse.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select a video clip you want to add](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
 ##### Step2 Put the video on the timeline
@@ -317,6 +371,9 @@ After putting the video on the timeline add some effects to your video. If you a
 
 After making all the editing videos, you can also select the duration according to your requirements. You can also edit the duration of your per video.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edit the duration of the video then export it](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
 
 ## The Bottom Line
@@ -341,6 +398,9 @@ Going by the same, Wondershare Filmora offers different video and audio transiti
 
 The dedicated transitions tab allows Wondershare Filmora users to apply different transitions quickly and easily. Let us go into detail about creating a smooth-cut transition effect in Wondershare Filmora in this step-by-step guide.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Steps to create a smooth cut transition effect in Wondershare Filmora
 
 Wondershare Filmora is a popular video editing tool used by content creators, including social media influencers, marketers, content creators, etc. The following are the quick and detailed steps to create a smooth cut transition effect in Wondershare Filmora:
@@ -385,6 +445,9 @@ After importing the footage and applying different layers. The next step is to g
 * You can select to blur the edges of the footage by ticking on the option.
 * Repeat the same steps for the second footage.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![effects in wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-a-smooth-transition-effect-3.gif)
 
 ##### Step4Go to the Transitions tab
@@ -398,6 +461,9 @@ It is time to go to the transitions tab and start putting it in your video clip.
 * Select the second transition, flip all two, and place it on the first layer of the footage.
 * Render this video part by unhiding the first layer and moving to the preview step.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transitions in wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-a-smooth-transition-effect-4.gif)
 
 ##### Step5Lorem ipsum dolor sit amet eam quas malorum
@@ -414,8 +480,14 @@ It is time to preview the created video. The render preview option in the Wonder
 * Select the first layer, and apply to flip all one effect.
 * Render the video footage and go for a quick preview.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![previewing in wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-a-smooth-transition-effect-5.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Hence, Wondershare Filmora users can quickly create a smooth cut transition effect in their videos. It is easy to download [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) on your Mac or Windows system. All you need to do is import the footage to the interface and go to the effects tab.
@@ -462,6 +534,9 @@ After importing the footage and applying different layers. The next step is to g
 * You can select to blur the edges of the footage by ticking on the option.
 * Repeat the same steps for the second footage.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![effects in wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-a-smooth-transition-effect-3.gif)
 
 ##### Step4Go to the Transitions tab
@@ -493,6 +568,9 @@ It is time to preview the created video. The render preview option in the Wonder
 
 ![previewing in wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/how-to-create-a-smooth-transition-effect-5.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Hence, Wondershare Filmora users can quickly create a smooth cut transition effect in their videos. It is easy to download [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) on your Mac or Windows system. All you need to do is import the footage to the interface and go to the effects tab.
@@ -513,6 +591,9 @@ Shooting outdoors is a challenge in most situations. We have to deal with the su
 
 In this article, we'll show you how to light with the sun the easiest way. These simple and effective tips can help you block the harsh sun and make it to your advantage!
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1) Preparation
 
 You may need those things to film under the harsh sun:
@@ -530,12 +611,18 @@ If we want a specific background for our shot but our talent has to face the sun
 
 **1\. Pick up an ND filter on your lens**
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pick up an nd filter on lens](https://images.wondershare.com/filmora/article-images/2022/12/len.jpg)
 
 We use it outside so we can open our aperture to get nice blurry backgrounds without overexposing our footage.
 
 **2\. Use a "flag" to block or shape the sunlight**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![black flag](https://images.wondershare.com/filmora/article-images/2022/12/black-flag.jpg)
 
 Using a black piece of poster board works perfectly fine, hold it up to the sun. Also, remember to angle your "flag" to create harsh lines or fully shade your talent.
@@ -564,10 +651,16 @@ Now, take a look at the comparison with all the lighting conditions we create:
 
 1. Flag VS Flag & Light
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![flag vs flag light](https://images.wondershare.com/filmora/article-images/2022/12/comparison-1.jpg)
 
 1. Backlight VS Backlight & Bounce
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![backlight vs backlight bounce](https://images.wondershare.com/filmora/article-images/2022/12/comparison-2.jpg)
 
 ## Summary
@@ -597,3 +690,62 @@ If you shoot or film outdoors, you must learn how to cope with the unsteady natu
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-zte-axon-40-lite-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from ZTE Axon 40 Lite to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-mastering-davinci-resolve-scopes-a-comprehensive-guide/"><u>New Mastering DaVinci Resolve Scopes A Comprehensive Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-learn-the-best-green-screen-video-editors-for-mac-users-including-green-screen-final-cut-pro/"><u>Updated 2024 Approved Learn the Best Green Screen Video Editors for Mac Users, Including Green Screen Final Cut Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-getting-started-easy-video-intros-available/"><u>[New] Getting Started  Easy Video Intros Available</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-mp3-cutter-download/"><u>2024 Approved MP3 Cutter Download</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-mix-and-match-the-ultimate-list-of-8-video-and-photo-merging-tools/"><u>New Mix and Match The Ultimate List of 8 Video and Photo Merging Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-selective-alert-tunes-prime-audio-spots/"><u>[Updated] Selective Alert Tunes  Prime Audio Spots</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/make-super-easy-coin-magic-with-filmora-for-2024/"><u>Make Super Easy Coin Magic With Filmora for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-under-the-waves-best-practices-in-underwater-filming-with-a-gopro/"><u>[New] Under the Waves  Best Practices in Underwater Filming with a GoPro</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/essential-skills-for-youtube-gamers-for-2024/"><u>Essential Skills for YouTube Gamers for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/mp3-cutter-download-for-2024/"><u>MP3 Cutter Download for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-mastering-opencv-object-tracking-a-comprehensive-guide-for-beginners-and-experts/"><u>Updated Mastering OpenCV Object Tracking A Comprehensive Guide for Beginners and Experts</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/perfecting-the-art-of-slowing-down-video-on-instagram-for-2024/"><u>Perfecting the Art of Slowing Down Video on Instagram for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-make-time-lapse-video-on-macbook-complete-guide/"><u>Updated Make Time-Lapse Video on MacBook Complete Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-lumafusion-what-is-it-and-the-best-alternative-to-use/"><u>Updated LumaFusion – What Is It and the Best Alternative to Use</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-make-time-lapse-video-on-macbook-complete-guide/"><u>New Make Time-Lapse Video on MacBook Complete Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-practical-way-to-resize-video-in-handbrake/"><u>2024 Approved Practical Way to Resize Video in Handbrake</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-mastering-davinci-resolve-scopes-a-comprehensive-guide/"><u>In 2024, Mastering DaVinci Resolve Scopes A Comprehensive Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-gpu-crashes-but-pc-stays-on/"><u>How to Fix GPU Crashes But PC Stays On</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-merge-mp4-online-its-easy-with-these-5-tools/"><u>Updated Merge MP4 Online? Its Easy With These 5 Tools</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-mastering-davinci-resolve-scopes-a-comprehensive-guide/"><u>2024 Approved Mastering DaVinci Resolve Scopes A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-lumafusion-what-is-it-and-the-best-alternative-to-use/"><u>New LumaFusion – What Is It and the Best Alternative to Use</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-mastering-davinci-resolve-scopes-a-comprehensive-guide/"><u>Updated Mastering DaVinci Resolve Scopes A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-a-closer-look-at-avs-video-editor-2023-features-performance-and-value/"><u>Updated 2024 Approved A Closer Look at AVS Video Editor 2023 Features, Performance, and Value</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-selfies-learn-the-art-of-stories-zooming/"><u>[Updated] Instagram Selfies  Learn the Art of Stories Zooming</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-make-super-easy-coin-magic-with-filmora/"><u>Updated Make Super Easy Coin Magic With Filmora</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-making-slow-motion-videos-in-premiere-pro-a-review-on-the-best-methods/"><u>New Making Slow Motion Videos in Premiere Pro A Review on The Best Methods</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-perfecting-the-art-of-slowing-down-video-on-instagram/"><u>In 2024, Perfecting the Art of Slowing Down Video on Instagram</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-perfecting-the-art-of-slowing-down-video-on-instagram/"><u>Updated Perfecting the Art of Slowing Down Video on Instagram</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-merge-mp4-online-its-easy-with-these-5-tools/"><u>New Merge MP4 Online? Its Easy With These 5 Tools</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-perfect-moody-luts-for-vn-editor-an-overview/"><u>2024 Approved Perfect Moody LUTs for VN Editor An Overview</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-lumafusion-what-is-it-and-the-best-alternative-to-use/"><u>In 2024, LumaFusion – What Is It and the Best Alternative to Use</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-mp3-cutter-download-for-computer-and-mobile/"><u>New MP3 Cutter Download for Computer and Mobile</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-practical-way-to-resize-video-in-handbrake/"><u>In 2024, Practical Way to Resize Video in Handbrake</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/streamlining-document-output-on-windowshp/"><u>Streamlining Document Output on Windows/HP</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-online-video-makers/"><u>In 2024, Online Video Makers</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-looking-into-the-top-free-slow-motion-apps-android-and-ios/"><u>Updated Looking Into The Top Free Slow Motion Apps (Android & iOS)</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/obs-green-screen-guide-for-2024/"><u>OBS Green Screen Guide for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/reclaiming-acoustics-lost-in-social-media-videos-for-2024/"><u>Reclaiming Acoustics Lost in Social Media Videos for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/making-slow-motion-videos-in-premiere-pro-a-review-on-the-best-methods-for-2024/"><u>Making Slow Motion Videos in Premiere Pro A Review on The Best Methods for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-from-zero-to-verified-transforming-into-a-trusted-discord-member/"><u>2024 Approved  From Zero To Verified  Transforming Into a Trusted Discord Member</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-perfect-moody-luts-for-vn-editor-an-overview/"><u>In 2024, Perfect Moody LUTs for VN Editor An Overview</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-play-8t-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Play 8T in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-making-slow-motion-videos-in-final-cut-pro-the-best-methods/"><u>New Making Slow Motion Videos in Final Cut Pro The Best Methods</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-mastering-the-technique-playing-videos-in-slow-motion-on-your-iphone-like-a-pro/"><u>In 2024, Mastering the Technique Playing Videos in Slow Motion on Your iPhone Like a Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-make-a-countdown-video/"><u>In 2024, Make A Countdown Video</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-mp3-cutter-download-for-computer-and-mobile/"><u>Updated MP3 Cutter Download for Computer and Mobile</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-elevating-your-edit-workflow-using-audio-duck-features-in-powerdirector-to-enhance-audio-transitions/"><u>2024 Approved Elevating Your Edit Workflow Using Audio Duck Features in PowerDirector to Enhance Audio Transitions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-ultimate-video-monitors-face-off/"><u>[Updated] 2024 Approved  Ultimate Video Monitors Face-Off</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-overview-about-supported-iphone-video-formats-and-best-iphone-video-editor-and-converter/"><u>New Overview About Supported iPhone Video Formats and Best iPhone Video Editor & Converter</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/overview-about-supported-iphone-video-formats-and-best-iphone-video-editor-and-converter-for-2024/"><u>Overview About Supported iPhone Video Formats and Best iPhone Video Editor & Converter for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-methods-on-how-to-speed-up-video-on-splice/"><u>New Methods on How to Speed Up Video on Splice</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-10-virtual-world-games-on-ios-and-android/"><u>2024 Approved  Best 10 Virtual World Games on iOS & Android</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-looking-for-the-best-vhs-video-effect-makers-get-to-know-the-top-list/"><u>New Looking For the Best VHS Video Effect Makers? Get To Know the Top List</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-cloaked-glance-at-social-media-snapshits/"><u>[New] In 2024, Cloaked Glance at Social Media Snapshits</u></a></li>
+</ul></div>

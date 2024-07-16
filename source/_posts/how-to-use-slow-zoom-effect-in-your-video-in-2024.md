@@ -1,7 +1,7 @@
 ---
 title: How To Use Slow Zoom Effect in Your Video, In 2024
-date: 2024-05-19T05:12:21.290Z
-updated: 2024-05-20T05:12:21.290Z
+date: 2024-07-15T12:56:30.614Z
+updated: 2024-07-16T12:56:30.614Z
 tags: 
   - ai
   - animation videos
@@ -10,7 +10,7 @@ categories:
 description: This Article Describes How To Use Slow Zoom Effect in Your Video, In 2024
 excerpt: This Article Describes How To Use Slow Zoom Effect in Your Video, In 2024
 keywords: top vhs sound effect that you can use in video making,how to use visual effect for zoom,how to use slow zoom effect in your video,guide to use slow motion in after effects,how to add selective color effect to your videos,use slow zoom effect in your video,ai animation how to use slow zoom effect in your video
-thumbnail: https://www.lifewire.com/thmb/HNtneePKuJeaZXX7qZjEwvmSz6M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flora_and_Son-f6517d3de531487e89f5e0e99192d13f.jpg
+thumbnail: https://thmb.techidaily.com/4815bdc4b07f62378c934e8844c6ab3ed5ccd8bb0ecbd12c41105ddecee78795.jpg
 ---
 
 ## How To Use Slow Zoom Effect in Your Video?
@@ -19,7 +19,7 @@ A raw video without any effect will fall flat on its face when it comes to engag
 
 The slow zoom effect is one of the most common but widely loved video effects that work for any video. Human eyes love when there is slow motion effect of panning and zooming into the central or specific portion of a video. The slow zoom in effect is extremely popular among TikTok videos. We will illustrate how to apply slow zoom effect to your video on your smartphone as well as on your computer.
 
-## Part 1\. How to create slow zoom-in effect in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Part 1\. How to create slow zoom-in effect in Filmora
 
 If you want to add slow zoom to any recorded video on your computer, you will need a dedicated video editor. There are many popular video editors available where slow zoom effect is not available. We recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) which is a professional video editor that is available for Windows and Mac users. You will need to combine slow motion and keyframe to achieve the desired slow zoom effect. Here are the steps on how to create slow zoom in effect for your videos.
 
@@ -29,10 +29,16 @@ If you want to add slow zoom to any recorded video on your computer, you will ne
 
 Step1 Download and install Wondershare [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Launch the application and click on New Project option from the welcome screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![download and install wondershare filmora](https://images.wondershare.com/filmora/guide/startup-window-02.png)
 
 Step2 Drag and drop your video in Project Media folder. Thereafter, drag and drop the video into the Timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora drag video timeline](https://images.wondershare.com/filmora/article-images/2022/07/filmora-drag-video-timeline.jpg)
 
 Step3 Put the red header on the beginning part of the clip that you want to cut off and click on Cut(Scissor) icon. Then put the red header on the end part of the clip and click on Cut icon again. You should now have the separated clip for applying slow zoom effect.
@@ -41,20 +47,32 @@ Step3 Put the red header on the beginning part of the clip that you want to cut 
 
 Step4 Select the separated clip and click on Speed icon. Go to Slow option and select the speed according to the slowness of zooming you want.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora slow option](https://images.wondershare.com/filmora/article-images/2022/07/filmora-slow-option.jpg)
 
 Step5 Now you have to add multiple keyframes so that the slow zoom effect is smooth and soothing. Right-click on the clip, go to Animation and click on Add Animation. Go to Animation tab and then to Customization section.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora animation option](https://images.wondershare.com/filmora/article-images/2022/07/filmora-animation-option.jpg)
 
 Move the red header to the point where you want a keyframe and click on Add option. Similarly, move the red header slightly farther and add another keyframe. Keep adding like that till you reach the end point.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora add header](https://images.wondershare.com/filmora/article-images/2022/07/filmora-add-header.jpg)
 
 Step6 Double-click on the clip and go to Video> Basic> Transform. Select keyframes and slowly increase the scale slider for each keyframe to apply the zoom effect. Therefore, for every keyframe, zooming will increase gradually and you have already applied slow speed for complete slow zoom effect.
 
 ![filmora transform video](https://images.wondershare.com/filmora/article-images/2022/07/filmora-transform-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. How to do the slow zoom in effect on TikTok?
 
 TikTok is one of the most popular short-video sharing platforms among teenagers and young adults. The slow zoom effect has been popularized by TikTokers as they use the effect quite regularly. Naturally, adding slow zoom in effect on your video on TikTok is the easiest. Here are the steps to follow one by one.
@@ -63,6 +81,9 @@ Step1 Launch TikTok app and you can shoot your video directly from TikTok. If yo
 
 Step2 After adding the video, go to Effects> Time. Under Time section, tap on “Slo-Mo” option to add slow-motion effect on your video.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![slow zoom tiktok](https://images.wondershare.com/filmora/article-images/2022/07/slow-zoom-tiktok.jpg)
 
 Step3 Go to Visuals and you will find Zoom option. Place the header on the part of the video where you want to place the slow zoom effect. Thereafter, tap and hold Zoom effect so that the effect applies on the video clip. Release the effect where the desired section is covered.
@@ -81,6 +102,9 @@ Step1 Launch TikTok app and tap on Discover option located at the bottom.
 
 Step2 On the next screen, type “Slow Zoom” on the search bar and tap on Search option.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![discover slow zoom tiktok](https://images.wondershare.com/filmora/article-images/2022/07/discover-slow-zoom-tiktok.jpg)
 
 Step3 Now you will see the videos where different TikTok users have already applied slow zoom effect. Tap on Effects Slow Motion to apply the same effect to your video.
@@ -93,8 +117,14 @@ Step4 On the next screen, tap on Try This Effect button. You can select the dura
 
 Step5 Finally, tap on Record button to capture your video and apply slow zoom effect on the video automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![record apply slow zoom tiktok](https://images.wondershare.com/filmora/article-images/2022/07/record-apply-slow-zoom-tiktok.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 The slow zoom effect is one of the most viral and trending video effects on social media platforms. If you want to add slow zoom effect to your video for a certain portion, you can do the same from your smartphone as well as computer. For Windows and Mac users, we recommend you use [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -115,18 +145,30 @@ Step3 Put the red header on the beginning part of the clip that you want to cut 
 
 Step4 Select the separated clip and click on Speed icon. Go to Slow option and select the speed according to the slowness of zooming you want.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora slow option](https://images.wondershare.com/filmora/article-images/2022/07/filmora-slow-option.jpg)
 
 Step5 Now you have to add multiple keyframes so that the slow zoom effect is smooth and soothing. Right-click on the clip, go to Animation and click on Add Animation. Go to Animation tab and then to Customization section.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora animation option](https://images.wondershare.com/filmora/article-images/2022/07/filmora-animation-option.jpg)
 
 Move the red header to the point where you want a keyframe and click on Add option. Similarly, move the red header slightly farther and add another keyframe. Keep adding like that till you reach the end point.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora add header](https://images.wondershare.com/filmora/article-images/2022/07/filmora-add-header.jpg)
 
 Step6 Double-click on the clip and go to Video> Basic> Transform. Select keyframes and slowly increase the scale slider for each keyframe to apply the zoom effect. Therefore, for every keyframe, zooming will increase gradually and you have already applied slow speed for complete slow zoom effect.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora transform video](https://images.wondershare.com/filmora/article-images/2022/07/filmora-transform-video.jpg)
 
 ## Part 2\. How to do the slow zoom in effect on TikTok?
@@ -145,30 +187,48 @@ Step3 Go to Visuals and you will find Zoom option. Place the header on the part 
 
 Step4 Tap on Save option and play the video to see slow zoom effect. Tap on Next button and you can share the video on social media platforms as well.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![save zoom effect tiktok](https://images.wondershare.com/filmora/article-images/2022/07/save-zoom-effect-tiktok.jpg)
 
 There is another way you can apply slow zoom effect on TikTok. Here are the steps to find and apply slow zoom effect.
 
 Step1 Launch TikTok app and tap on Discover option located at the bottom.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![discover option  tiktok](https://images.wondershare.com/filmora/article-images/2022/07/discover-option-tiktok.jpg)
 
 Step2 On the next screen, type “Slow Zoom” on the search bar and tap on Search option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![discover slow zoom tiktok](https://images.wondershare.com/filmora/article-images/2022/07/discover-slow-zoom-tiktok.jpg)
 
 Step3 Now you will see the videos where different TikTok users have already applied slow zoom effect. Tap on Effects Slow Motion to apply the same effect to your video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![apply slow zoom tiktok video](https://images.wondershare.com/filmora/article-images/2022/07/apply-slow-zoom-tiktok-video.jpg)
 
 Step4 On the next screen, tap on Try This Effect button. You can select the duration of the zooming of the video you are about to shoot as well the zooming magnification.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![tap try slow zoom tiktok](https://images.wondershare.com/filmora/article-images/2022/07/tap-try-slow-zoom-tiktok.jpg)
 
 Step5 Finally, tap on Record button to capture your video and apply slow zoom effect on the video automatically.
 
 ![record apply slow zoom tiktok](https://images.wondershare.com/filmora/article-images/2022/07/record-apply-slow-zoom-tiktok.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 The slow zoom effect is one of the most viral and trending video effects on social media platforms. If you want to add slow zoom effect to your video for a certain portion, you can do the same from your smartphone as well as computer. For Windows and Mac users, we recommend you use [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -185,6 +245,9 @@ The slow zoom effect is one of the most viral and trending video effects on soci
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How To Split Videos in Premier Pro
 
 You might regularly split and cut clips while doing video editing to find the perfect tempo for your video or removes portions of recordings you might not want. When you first begin using Adobe Premiere for video editing, it is highly possible that you will feel overwhelmed by the number of options at your disposal and question how to divide your footage quickly.
@@ -193,6 +256,9 @@ Premiere Pro is the most popular video editing program for movies, television, a
 
 ## Part 1\. How to split a clip in premiere pro?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. The Razor tool
 
 The Razor tool in Premiere is the simplest way to split or cut clips. This enables you to separate clips from the project timeline during your chosen clip. This technique is useful for making the first rough cut of your clips, with the sole drawback being that it can be less exact.
@@ -203,6 +269,9 @@ Step1By pressing **Cmd+I or Ctrl+I** or by choosing File > Import, you can impor
 
 Step2Drag the clip onto the timeline if there is an existing sequence. If not, use the right-click menu to choose **New Sequence From Clip**. The video will now appear as a single block.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![new sequence from clip](https://images.wondershare.com/filmora/article-images/2022/08/how-to-split-in-premierpro-1.jpg)
 
 Step3Choose the Razor tool from the panel next to the timeline to split the clip.
@@ -211,6 +280,9 @@ Step4To split a video clip, click on the section you want to split.
 
 Step5Now that you have two segments from the same video file, you can edit them separately.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Current-Time Indicator
 
 A blue triangular indication called the **Current Time Indicator (CTI)** lets you know where you are in the timeline. CTIs are employed in a variety of panels.
@@ -223,6 +295,9 @@ Step2Ensure that the video layer you want to split is highlighted on the timelin
 
 Step3Use the keyboard shortcuts Cmd+K or Ctrl+K to split the clip.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Source Panel
 
 Individual clips are played back on the Source Monitor. You prepare clips for a sequence in the Source Monitor. You designate the clip's source tracks, In points, and Out points. In a Timeline panel, you may add clips to a sequence and place clip markers.
@@ -265,6 +340,9 @@ Step3Use the keyboard commands **Cmd+K** or **Ctrl+K** to divide the audio clip.
 
 **Note:** The methods to split a video/audio are the same. Splitting a video clip using this method will automatically be split if the audio has been highlighted.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. How to split video and audio in alternative to premiere pro?
 
 As a professional video editing software, Premiere Pro offers a wide range of professional editing features. But, for a beginner, it might seem time-consuming to master the software. Because it requires a high-speed PC due to the video resolution and requirements. So, we suggest [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) because it is considerably easier to use. Products on Filmora are available for various users, from novice to expert. A timeline, preview window, and effects library are common features. These may be accessed and managed using a drag-and-drop interface.
@@ -285,6 +363,9 @@ Step4Click "**Export**" after you're done trimming, then choose where you want t
 
 ![save the edited video](https://images.wondershare.com/filmora/article-images/2022/08/how-to-split-in-premierpro-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Since we run out of time because of our busy schedules, you might find it inconvenient to use two different software programs when it can be done using Filmora. Due to the highly advanced and user-friendly tools introduced in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), it is one of the best and most highly recommended video editing software.
@@ -293,6 +374,9 @@ Since we run out of time because of our busy schedules, you might find it inconv
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. How to split video and audio in alternative to premiere pro?
 
 As a professional video editing software, Premiere Pro offers a wide range of professional editing features. But, for a beginner, it might seem time-consuming to master the software. Because it requires a high-speed PC due to the video resolution and requirements. So, we suggest [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) because it is considerably easier to use. Products on Filmora are available for various users, from novice to expert. A timeline, preview window, and effects library are common features. These may be accessed and managed using a drag-and-drop interface.
@@ -307,12 +391,21 @@ Step2To eliminate an undesirable segment, move the playhead over it and select t
 
 Step3"Detach Audio" from the context menu when you are ready to extract the audio track from a video file. You'll see that an audio file immediately appears on the audio track.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![detach audio](https://images.wondershare.com/filmora/article-images/2022/08/how-to-split-in-premierpro-3.jpg)
 
 Step4Click "**Export**" after you're done trimming, then choose where you want to save the edited video.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![save the edited video](https://images.wondershare.com/filmora/article-images/2022/08/how-to-split-in-premierpro-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Since we run out of time because of our busy schedules, you might find it inconvenient to use two different software programs when it can be done using Filmora. Due to the highly advanced and user-friendly tools introduced in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), it is one of the best and most highly recommended video editing software.
@@ -411,6 +504,9 @@ On the homepage, select the **"Create New Project"** option, and choose **"Click
 
 Finally, drag and drop the background video into the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![creating quiz video in filmora](https://images.wondershare.com/filmora/article-images/2023/02/creating-quiz-video-in-filmora.png)
 
 ##### Step2 Make An Intro
@@ -425,6 +521,9 @@ To add text to your intro, click on the **text track** in the timeline. Enter th
 
 Next, add the GK questions and answers to your video using the **"Titles"** tab. You should adjust the display time and text on the timeline as needed.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![adding quiz media to the timeline](https://images.wondershare.com/filmora/article-images/2023/02/adding-quiz-media-to-the-timeline.png)
 
 ##### Step4 Increase Interactivity In Your Quiz Video
@@ -437,6 +536,9 @@ After completing the previous steps, you can now create the entire quiz video by
 
 Once you are done, click the **"Play"** icon to preview your work, and select the **"Export"** icon to either save the clip to your device or upload it directly to your YouTube channel.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this detailed guide, we've explored what a **video quiz** is, its advantages, and scenes where you can use them. We've also walked you through the step-by-step process of making **an interactive video quiz** using the Wondershare Filmora software.
@@ -467,6 +569,9 @@ To add text to your intro, click on the **text track** in the timeline. Enter th
 
 Next, add the GK questions and answers to your video using the **"Titles"** tab. You should adjust the display time and text on the timeline as needed.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![adding quiz media to the timeline](https://images.wondershare.com/filmora/article-images/2023/02/adding-quiz-media-to-the-timeline.png)
 
 ##### Step4 Increase Interactivity In Your Quiz Video
@@ -521,6 +626,9 @@ Then, shoot for the second clip without changing the frame. You will have to go 
 
 Act as if you have just appeared there and give a reaction to the other side as well.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Do the Clone Effect with Filmora?
 
 After you have shot the necessary film clips, bring the clips into Filmora 11\. If you haven't installed Filmora yet, you can go to their website and download it here:
@@ -547,6 +655,9 @@ Then, double-click the second clip and go to the Filmora setting window. Tap on 
 
 On the preview screen, adjust the position of the mask to only show "the clone."
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![adjust the position of the mask](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-7.gif)
 
 Set the blur strength on the setting to make a smoother edge transition.
@@ -567,10 +678,16 @@ Step4 Once you are satisfied, adjust the clip length on the timeline and make su
 
 Step1 Open the **Effects** window and search for "up down 1."
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open the effects window](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-11.jpg)
 
 Step2 Drag and drop the effect onto the timeline where the first cut is set. Adjust the effect length to match the action.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drag and drop the effect onto the timeline](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-12.jpg)
 
 Then, drag and drop the effect again in the transition between the first and the second clip. Adjust it to the appropriate length, then it will give a more dramatic effect.
@@ -591,6 +708,9 @@ Once you have opened Filmora 11, follow the steps below:
 
 Step1 Bring the first clip to the timeline and cut the clip where you pretend to yank and take off the jacket. Select and delete the unnecessary clip.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![bring the first clip to the timeline](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-4.jpg)
 
 Step2 After you have the first part of the effect ready, let's start working on the clone part using masking.
@@ -605,6 +725,9 @@ Then, double-click the second clip and go to the Filmora setting window. Tap on 
 
 On the preview screen, adjust the position of the mask to only show "the clone."
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![adjust the position of the mask](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-7.gif)
 
 Set the blur strength on the setting to make a smoother edge transition.
@@ -619,12 +742,18 @@ Move the keyframe up to increase the speed. You can adjust it according to your 
 
 Step4 Once you are satisfied, adjust the clip length on the timeline and make sure that both clips finish at the same time.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![adjust the clip length](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-10.jpg)
 
 **Extra tip:** Add one more effect to make it more magical.
 
 Step1 Open the **Effects** window and search for "up down 1."
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![open the effects window](https://images.wondershare.com/filmora/article-images/2022/12/clone-yourself-11.jpg)
 
 Step2 Drag and drop the effect onto the timeline where the first cut is set. Adjust the effect length to match the action.
@@ -660,3 +789,44 @@ Making a clone effect on video is easy using Filmora. You can use the same trick
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-brighten-a-video-in-windows-10-step-by-step-guide/"><u>New How to Brighten a Video in Windows 10 | Step-By-Step Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/beyond-virtualdub-explore-these-exceptional-video-editing-tools/"><u>Beyond VirtualDub Explore These Exceptional Video Editing Tools</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-jesters-playground-newest-tiktok-comedians/"><u>[New] 2024 Approved  Jester's Playground  Newest TikTok Comedians</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-blur-background-in-adobe-premiere-pro-detailed-guide/"><u>In 2024, How To Blur Background in Adobe Premiere Pro Detailed Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/streamlining-your-youtube-content-with-finalcut-pro-expertise-for-2024/"><u>Streamlining Your YouTube Content with FinalCut Pro Expertise for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-be-a-youtube-vlogger/"><u>In 2024, How to Be a YouTube Vlogger</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-best-gear-choosing-cameras-for-live-dynamic-music-visuals-in-hd/"><u>[New] 2024 Approved  Best Gear  Choosing Cameras for Live, Dynamic Music Visuals in HD</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-change-font-in-premiere-pro-for-2024/"><u>How To Change Font In Premiere Pro for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-ultimate-guide-to-phone-apps-that-change-your-speech-for-2024/"><u>[Updated] The Ultimate Guide to Phone Apps That Change Your Speech for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-pinpointing-your-perfect-match-a-discord-server-hunt-guide/"><u>[Updated] In 2024, Pinpointing Your Perfect Match  A Discord Server Hunt Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-blur-background-in-adobe-premiere-pro-detailed-guide/"><u>Updated How To Blur Background in Adobe Premiere Pro Detailed Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-be-a-youtube-vlogger-for-2024/"><u>How to Be a YouTube Vlogger for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-reverse-image-retrieval-in-social-media-fb-explained/"><u>[New] In 2024, Reverse-Image Retrieval in Social Media (FB) Explained</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-change-speed-of-video-in-final-cut-pro/"><u>New How To Change Speed of Video in Final Cut Pro?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-essential-podcast-scriptwriting-skills-demystified-examples-included/"><u>[Updated] 2024 Approved  Essential Podcast Scriptwriting Skills Demystified (Examples Included)</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-blur-the-video-background-in-after-effects-for-2024/"><u>How To Blur The Video Background in After Effects for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-brighten-a-video-in-windows-10-step-by-step-guide/"><u>In 2024, How to Brighten a Video in Windows 10 | Step-By-Step Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-be-a-good-podcast-host/"><u>2024 Approved How to Be a Good Podcast Host</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-change-speed-of-video-in-final-cut-pro-for-2024/"><u>How To Change Speed of Video in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-blur-the-video-background-in-after-effects/"><u>New How To Blur The Video Background in After Effects</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-change-speed-of-video-in-final-cut-pro-in-2024/"><u>How To Change Speed of Video in Final Cut Pro, In 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-capture-clear-movies-10-smartphones-with-excellent-video-ois/"><u>[New] Capture Clear Movies  10 Smartphones With Excellent Video OIS</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-be-a-youtube-vlogger/"><u>Updated How to Be a YouTube Vlogger</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-change-text-color-in-premiere-pro/"><u>In 2024, How To Change Text Color In Premiere Pro</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unveiling-fake-supporters-a-tactical-approach-for-brands-for-2024/"><u>[Updated] Unveiling Fake Supporters  A Tactical Approach for Brands for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Hide/Fake Snapchat Location on Your Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-blur-background-in-adobe-premiere-pro-detailed-guide/"><u>2024 Approved How To Blur Background in Adobe Premiere Pro Detailed Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-unveiling-5-leading-photo-experts-who-sync-music-perfectly/"><u>2024 Approved  Unveiling 5 Leading Photo Experts Who Sync Music Perfectly</u></a></li>
+<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-oppo-reno-10-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-full-scope-understanding-online-performance-artists/"><u>[Updated] In 2024, Full Scope  Understanding Online Performance Artists</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-leading-list-10-budget-friendly-sbd-solutions/"><u>[Updated] In 2024, Leading List  10 Budget-Friendly SBD Solutions</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-be-a-successful-youtuber-for-2024/"><u>How To Be A Successful YouTuber for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-change-sky-background-with-adobe-photoshop-best-ways/"><u>New How To Change Sky Background With Adobe Photoshop Best Ways</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-change-sky-background-with-adobe-photoshop-best-ways/"><u>In 2024, How To Change Sky Background With Adobe Photoshop Best Ways</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-be-a-good-podcast-host/"><u>In 2024, How to Be a Good Podcast Host</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-no-budget-big-fun-youtube-vids-as-tweets-gifs/"><u>[New] No Budget, Big Fun  YouTube Vids as Tweets' GIFs</u></a></li>
+</ul></div>
