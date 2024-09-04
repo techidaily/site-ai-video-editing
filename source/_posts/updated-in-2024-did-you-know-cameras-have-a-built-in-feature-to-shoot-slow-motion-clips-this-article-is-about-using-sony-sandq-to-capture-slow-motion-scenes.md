@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Did You Know Cameras Have a Built-In Feature to Shoot Slow-Motion Clips? This Article Is About Using Sony S&Q to Capture Slow-Motion Scenes
-date: 2024-08-09T05:45:44.432Z
-updated: 2024-08-10T05:45:44.432Z
+date: 2024-09-03T23:25:47.312Z
+updated: 2024-09-04T23:25:47.312Z
 tags: 
   - ai
   - animation videos
@@ -23,9 +23,6 @@ This article will provide a brief review of S&Q mode and Sony Vegas slow motion.
 
 [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [More Features](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 ## Part 1: Capturing Slow Motion Videos with Sony S&Q Feature
@@ -36,18 +33,12 @@ Who hasn't heard about Sony and its services in the world of videography? Along 
 
 From your camera’s dial, select the “S&Q” option. Access the camera’s display screen and go to “Menu 2” from the top bar. Then, “S&Q Settings” in the featured section.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![go to menu 2 settings](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-sony-sq-1.jpg)
 
 ##### Step 2
 
 Once you reach the **Sony S&Q mode** settings, click “Record Settings.” This will decide the output frame rate of your video. In PAL, you have two record options: 25p and 50p. On the other hand, in the NTSC, you'll have three options: 25p, 50p, and 60p.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access record settings in s&q settings](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-sony-sq-2.jpg)
 
 ##### Step 3
@@ -72,17 +63,23 @@ There is no lack of devices that help you capture any scene with perfection. Som
 
 ![sony a7 iii camera](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-sony-sq-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Sony ZV-E10
 
 This is an upgraded **S&Q** **mode** **Sony** camera that first emerged in 2021 with a fully articulated screen. It has an APS-C size, 24.2-megapixel, and an Exmor CMOS sensor for balanced shooting. This version also has the highest video frame rate of 120 fps for the professional slo-mo effect. It captures slomos in 4K (UHD) 3840 x 1920 video resolution for quality maintenance. It has a directional 3-capsule microphone for high-definition audio.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![sony zv e10 camera](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-sony-sq-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3: How to Slow Down Video in Sony Vegas Pro?
 
@@ -92,25 +89,20 @@ This is an upgraded **S&Q** **mode** **Sony** camera that first emerged in 2021 
 
 After launching the software, import the video and bring it to the timeline.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![import media in timeline](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-sony-sq-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step 2
 
 Navigate towards the editing panel where the clip and audio track are showing. Place your cursor at the finishing line of the clip and stretch it throughout the timeline. This will add a slow-motion effect to your video.
 
 ![drag the import media in timeline](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-sony-sq-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Wondershare Filmora: Comprehending the Best Alternative for Slowing Down Videos
 
 All the above slow-motion solutions are adequate but not reliable. This is because shooting in **So** **ny** **S&** **Q mode** declines video quality upon export. In addition, the **Sony** **Vegas slow motion** subscription plans start at more than $500\. This seems expensive for someone who just started editing and is a beginner.
@@ -122,7 +114,16 @@ All the above slow-motion solutions are adequate but not reliable. This is becau
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<span id="1983473">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step-by-Step Guide to Creating Slow Motion in Filmora
 
@@ -134,21 +135,42 @@ Initiate Filmora by clicking the “New Project” button and access the editing
 
 ![adjust speed slider](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-sony-sq-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step 2Access AI Frame Interpolation Settings
 
 To achieve smooth slow motion, access AI Frame Interpolation at the bottom. Expand this section and opt for the “Optical Flow” to apply.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access ai frame interpolation](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-sony-sq-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step 3Enable Render Preview to Review Results
 
 Once all adjustments are complete, select the video and return to the timeline panel. Use your cursor to access the “File” tab in the top toolbar and choose “Render Preview.” Utilize the preview options before exporting the video.
 
 ![hit the render preview option](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-sony-sq-15.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Features of Filmora
 
 Filmora doesn't just claim to be the best; there are multiple features to support this claim. If you want to explore the features of this **S** **ony** **A7iii slow motio** **n**, read this section:
@@ -161,9 +183,6 @@ Filmora doesn't just claim to be the best; there are multiple features to suppor
 
 * [**AI Image:**](https://tools.techidaily.com/wondershare/filmora/download/) Can't spare time to capture images for your new content idea? With Filmora's text to generate AI, you can now curate images. The AI only requires you to add a prompt and craft results accordingly. Upon creation, users can also select a preferred image resolution.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 This article has discussed the purpose of **Sony S&Q** and how to use it for slo-mo creation. In addition, users learned about two of Sony's cameras, which are popular for slow-motion. Afterward, we discussed a desktop method to create slow motion. Considering all the drawbacks of these methods, we recommended Filmora. It is a desktop alternative to these tools with AI abilities to enhance task achievement.

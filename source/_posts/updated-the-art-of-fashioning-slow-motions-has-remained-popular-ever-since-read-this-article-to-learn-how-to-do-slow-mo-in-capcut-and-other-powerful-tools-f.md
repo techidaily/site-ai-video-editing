@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Fashioning Slow Motions Has Remained Popular Ever Since. Read This Article to Learn How to Do Slow-Mo in CapCut and Other Powerful Tools for 2024
-date: 2024-08-09T05:44:01.410Z
-updated: 2024-08-10T05:44:01.410Z
+date: 2024-09-03T23:25:44.567Z
+updated: 2024-09-04T23:25:44.567Z
 tags: 
   - ai
   - animation videos
@@ -23,18 +23,12 @@ Smartphone video editors were introduced to enhance the application of slow moti
 
 [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [More Features](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 ## Part 1: CapCut Video Editor: An Exceptional Mobile App for Video Editing
 
 CapCut is an editing application that caters to the needs of both Android and iPhone users. Whether you are working as a seasoned editor or a team member, it assists all. It harbors numerous video editing tools like the **CapCut slow-motion effect**. Moreover, users can also access keyframe editor, effects and filters, stock videos, and more.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![capcut video editor](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-1.jpg)
 
 The tool offers a sleek user interface with cutting-edge AI technology for automated editing. The interface looks artistic and organized for accessible editing. Along with video editing, users can perform audio, text, and image editing. You can access its Resource collection on its site, which is full of tips and tutorials. To give you a broader vision of [**CapCut slow-mo effect**](https://tools.techidaily.com/wondershare/filmora/download/), here are some of its features:
@@ -65,18 +59,12 @@ Once you have added the video, navigate towards the toolbar at the bottom. From 
 
 From the appearing options, select the “Speed” option for **the CapCut slow-mo effect.**
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access the speed settings](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-4.jpg)
 
 ##### Step 4
 
 In the speed display, adjust the position of the slider to add the slo-mo effect. Further, go to the "Normal" section to start speed manipulation.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access the normal section](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-5.jpg)
 
 ##### Step 5
@@ -85,12 +73,24 @@ Drag the playback speed slider toward the left side of the screen. This will add
 
 ![adjust speed settings](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: CapCut Slow Mo Alternative: Wondershare Filmora for Smartphone Users
 
 After seeing **how to slow down videos on CapCut**, you must think that it is so easy. However, there is an alternative editor that offers a minimal interface with similar qualities. [Wondershare Filmora](https://play.google.com/store/apps/details?id=com.wondershare.filmorago&hl=en&gl=US) is a professional slow-motion creator catered to your needs. Whether you are skilled or just beginning your journey, it can assist you.
 
 Using this **CapCut slow-motion video** has its benefits, as it offers multiple speed change options. You can change video speed using Normal playback speed or speed “Curve” alteration. In this section, we’ll teach you how to create a slow motion in Filmora. We are going to use the Curve technique to manipulate speed professionally.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step-by-Step Guide to Slow Down Video in Filmora App
 
 You can find multiple speed templates here to craft a cinematic-level slow motion. By utilizing the Custom speed setting options, this effect is possible. To fashion professional-grade and artistic slow motion in Filmora, follow these steps:
@@ -99,29 +99,32 @@ You can find multiple speed templates here to craft a cinematic-level slow motio
 
 Download the Filmora app from the Play Store or App Store and launch it. Then, click the "New Project" tab and import a video from the device gallery.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![create a new project in filmora](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step 2Access the Speed Curve Option
 
 After importing the video, navigate towards the timeline panel and select the video. From the options appearing in the bar at the bottom, select “Speed.” In the speed section, select the “Curve” section to access speed settings.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access the speed options](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step 3Adjust the Speed Curve Settings
 
 From the appearing options, click the "Customize" option and start editing. To create the slo-mo effect, drag the slider in the downward direction. If you notice, the slider points are distant from each other. It is to edit videos and slow down videos at different durations. Once you are done editing in this **CapCut slow-mo effect** alternative, hit “Export.”
 
 ![customize the speed options](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Bonus Part: Edit Your Slow Mo Video on Desktop with Filmora Desktop
 
 No doubt Wondershare Filmora offers precise editing features compared to other apps. However, skilled and professional editors just prefer the desktop version to bring precision. In addition, there is an optical flow option and an extensive timeline panel. Both these features ensure professional outcomes and a smooth slow-motion effect.
@@ -140,9 +143,6 @@ In this method, we’ll use Filmora’s Uniform Speed functionality to generate 
 
 After opening a project in Filmora, select the video in the timeline and access the settings panel. From there, go to the "Speed" > "Uniform Speed" option and change the slider's position. By dragging it towards the left side, you can add a slow-motion effect.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set the uniform speed preferences](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-15.jpg)
 
 ##### Step 2Add Optical Flow Effect
@@ -158,7 +158,16 @@ To analyze the outcome of activating optical flow, navigate towards the timeline
 ![enable the render preview option](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-17.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="80" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Video Editing Features of Filmora
 
@@ -190,11 +199,14 @@ In conclusion, this article considered **how to do slow-mo in CapCut**. In addit
 
 [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [More Features](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 
 <ins class="adsbygoogle"

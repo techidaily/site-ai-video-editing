@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Use LUTs Perfectly in Final Cut Pro
-date: 2024-08-09T05:43:44.843Z
-updated: 2024-08-10T05:43:44.843Z
+date: 2024-09-03T23:25:44.090Z
+updated: 2024-09-04T23:25:44.090Z
 tags: 
   - ai
   - animation videos
@@ -26,60 +26,72 @@ Moreover, with so many options available, you can choose from any color grading 
 
 You are at the right place if you're having trouble finding the best LUTs for FCPX. This section will provide you with one of the best LUTs you can choose for your videos.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1. Free Cinematic LUTs Pack for Video Editing
 
 This free LUT pack is a perfect choice to give your videos a cinematic look. It features a soft blue color grading with high contrast that can make your footage look like it was shot on film. This LUT is especially effective for outdoor scenes and action shots. Moreover, its color grading enhances the drama and feel of your video footage.
 
 ![free cinematic luts pack](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2. 10 Free Vintage Color Presets for Final Cut Pro
 
 10 Free Vintage Color Presets for Final Cut Pro is a great pack if you're looking for a vintage or retro feel. It has a warm, yellowish color grading that can give your videos a nostalgic look. This pack is ideal for footage shot in the 70s, 80s, or 90s. It highlights the muddiness and brown shades in your video to add a touch of authenticity to it.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![free vintage color presets](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<span id="1982485">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 3\. Perfect Green Video LUT
 
 Perfect Green Video LUT is a pack of 3 cinematic-style LUTs. This pack is ideal for travel or nature videos as it increases the green tone in your videos. It has a lush, green color grading that can make your videos look vibrant and lively. Additionally, this pack is effective for outdoor scenes as it improves your video's natural colors and makes it look more dynamic.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![perfect green video lut](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 4\. Cyberpunk Color Grades
 
 Cyberpunk Color Grades is a pack of modern cyberpunk-style LUTs. It is a fantastic LUT pack if you're working on a music video or a creative project. It has a bold, colorful grading with high saturation that can make your video stand out. This LUT pack is perfect for scenes with many neon lights or bright backgrounds. Moreover, it adds an extra pop of color and makes your videos look more energetic.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![cyberpunk color grades](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Pro Retouching Essentials Pack by Prince Meyson
 
 Prince Meyson offers this skin tone enhancer LUT pack. It has a neutral, balanced color grading that can make your videos look more polished and professional. This LUT is ideal for interviews, documentaries, or corporate videos. Moreover, this pack is perfect for portraits and close-up shots. It can enhance the natural colors of your footage and make it look more refined.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![pro retouching essentials pack](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024347/7443" target="_top" id="2024347">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024347/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Apply LUTs on Final Cut Pro
 
 Now that you've discovered there are many Final Cut Pro LUTs free to download. The most important thing is to learn how to use these free LUTs on your video using FCPX. Here are some methods to learn to apply LUTs using Final Cut Pro in simple steps.
@@ -96,9 +108,6 @@ Open Final Cut Pro and import your video. Once the video is imported, click on t
 
 Go to the “Effect Browser” and search for the LUT option from the search menu. After selecting it, you will get a “Custom LUT” layer. Select the custom LUT layer and drag and drop it onto your video clip. Then, click on the video clip and go to the “Inspector” window.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open inspector window](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-7.jpg)
 
 ##### Step3
@@ -107,6 +116,12 @@ Select the “Custom LUT” option in the inspector window and choose your desir
 
 ![apply lut to layer](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### Method 2 Using Adjustment Layer
 
 ##### Step1
@@ -115,12 +130,24 @@ Click the plugin button once you've imported your video clip and choose RT Adjus
 
 ![access adjustment layer](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step2
 
 An icon will appear once you've selected RT Adjustment Layer. Drag and drop this icon on top of your video clip.
 
 ![drop adjustment layer to timeline](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step3
 
 Drag and drop the “Custom LUT” layer onto your RT Adjustment Layer from the Effect Browser. Click on the RT Adjustment Layer and choose your desired LUT from the “Inspector” menu.
@@ -139,9 +166,6 @@ Import your video into Final Cut Pro and click on your video in the library and 
 
 In the section of the “Inspector” menu, click the drop-down menu and select the “General” option. It will open up new options in the menu where you have to choose the “Camera LUT” option and select your preferred LUT. After selecting your LUT, save your video by choosing the option.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change settings and apply luts](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-13.jpg)
 
 ## Part 3: Discussing Wondershare Filmora LUTs - The Best Video Editing Platform
@@ -158,13 +182,22 @@ Furthermore, Wondershare Filmora offers options for color adjustments and enhanc
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Conclusion
 
 In conclusion, Final Cut Pro is a powerful tool for video editing. This tool allows you to make color corrections and color adjustments to your videos. Furthermore, Final Cut Pro offers the option to use LUTs for color grading. You can find many best LUTs for FCPX available online to use in this tool. However, Wondershare Filmora is another amazing tool that you use to color-grade your videos professionally.

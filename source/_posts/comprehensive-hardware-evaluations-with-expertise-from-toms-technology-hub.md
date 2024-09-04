@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Hardware Evaluations with Expertise From Tom's Technology Hub
-date: 2024-08-09T05:46:46.083Z
-updated: 2024-08-10T05:46:46.083Z
+date: 2024-09-03T23:25:39.175Z
+updated: 2024-09-04T23:25:39.175Z
 tags:
   - desktop
 categories:
@@ -15,9 +15,6 @@ Just under four months after the initial[Ayaneo AM01 Mini PC unveiling](https://
 
  So, for the most part, the Ayaneo AM01 is still pretty much the same classic Macintosh-inspired mini-PC we covered before and has a very similar pricing scheme with the[Ryzen 7 5800U](https://www.tomshardware.com/news/amd-ryzen-7-5800u-cezanne-zen-3-apu-geekbench-benchmark) as it does with other units. As-is, the Zen 3 Ryzen 7 5800U model looks astonishingly identical to the Zen 2 Ryzen 7 5700U at a glance, with the same basic core/thread spec, though, of course, the newer architecture has much better performance.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Current pricing matrix for the Zen 3-based Ryzen 7 5800U configuration of Ayaneo AM01.](https://cdn.mos.cms.futurecdn.net/zkexFiVS4JdrAYoKakvYu5-320-80.jpg)
 
  Current pricing matrix for the Zen 3-based Ryzen 7 5800U configuration of Ayaneo AM01.  (Image credit: Ayaneo)
@@ -28,9 +25,6 @@ Just under four months after the initial[Ayaneo AM01 Mini PC unveiling](https://
 
  If you hope to get your hands on the Ayaneo AM01 PC as soon as possible, head to their Indiegogo page to buy the device through crowdfunding. And as always, while we acknowledge Ayaneo's excellent track record in crowdfunded devices, you can't know what to expect until people get their hands on it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -102,3 +96,10 @@ Just under four months after the initial[Ayaneo AM01 Mini PC unveiling](https://
 <li><a href="https://ai-video-editing.techidaily.com/updated-what-is-the-best-mp4-cutters-for-youtubers-on-mac-in-2024/"><u>Updated What Is the Best MP4 Cutters for YouTubers on Mac, In 2024</u></a></li>
 <li><a href="https://facebook-record-videos.techidaily.com/your-first-steps-in-high-quality-youtubing-for-2024/"><u>Your First Steps in High-Quality YouTubing for 2024</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

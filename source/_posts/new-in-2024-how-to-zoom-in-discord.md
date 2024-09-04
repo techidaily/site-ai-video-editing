@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Zoom in Discord
-date: 2024-08-09T05:43:35.381Z
-updated: 2024-08-10T05:43:35.381Z
+date: 2024-09-03T23:25:43.824Z
+updated: 2024-09-04T23:25:43.824Z
 tags: 
   - ai
   - animation videos
@@ -25,9 +25,6 @@ Since Discord is mostly popular among gamers, Discord desktop app is the most wi
 
 Step1Launch Discord desktop app on your computer. Click on the Gear icon located at the bottom left corner by the side of your username.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/launch-discord-desktop-app.jpg)
 
 Step2Once Settings window opens, go to App Settings section from the left side and click on Appearance option.
@@ -50,42 +47,51 @@ Step2Click on the three-dot icon at the top-right corner of the browser.
 
 Step3From the drop-down menu, go to Zoom option. Click on “+” icon to zoom in and “-“ icon to zoom out.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/online-discord-zoom-icon.jpg)
 
 Alternatively, you can simply launch Discord on any browser and press Ctrl and “+” or “-“ keys together for zooming in and out. You get to see by how much percentage the browser is zooming in and zooming out. If you want to reset, bring the percentage to 100%.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/zoom-discord-screen-online.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Zoom Discord on Mobile
 
 Discord is available for Android and iOS users. For any app, the zoom feature is generally unavailable. But Discord has included zoom in and zoom out options under accessibility features for the convenience of the users. Therefore, the zoom effect will only be reflected on Discord app rather than on all apps. Here are the steps on how to zoom in and how to zoom out in Discord app.
 
 Step1On your smartphone, open Discord app. Tap on your Profile icon located at the bottom-right corner.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/open-discord-on-smartphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2You must be on User Settings page where you need to find and tap on Appearance present under App Settings.
 
 Step3Scroll down and come to Chat Font Scaling and move the slider to the right for zooming in.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/discord-appearance-zoom.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 There is Reset option at the bottom to cancel out the changes made as far as zoom effect goes.
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 

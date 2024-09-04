@@ -1,7 +1,7 @@
 ---
 title: "Unlock Efficient Digital Sanitization: How To Effectively Use Stellar File Eraser 5 on Your Windows System"
-date: 2024-08-02T04:55:27.021Z
-updated: 2024-08-03T04:55:27.021Z
+date: 2024-09-03T23:25:40.099Z
+updated: 2024-09-04T23:25:40.099Z
 categories:
   - repair-tools
 description: "This Article Describes Unlock Efficient Digital Sanitization: How To Effectively Use Stellar File Eraser 5 on Your Windows System"
@@ -55,9 +55,6 @@ Stellar File Eraser
 
 1. Run ****Stellar File Eraser** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/user-interface.png)
 
 _**Note:** By default, **Erase Files & Folders**  option is selected. If not selected, then select **Erase Files & Folders** from **Select Option** tabs displayed on the left pane of the screen._
@@ -66,9 +63,6 @@ _**Note:** By default, **Erase Files & Folders**  option is selected. If not sel
    1. Using **Drag and Drop**  option:  
          1. Drag the file or folder from your system and drop them in the box as shown below:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/user-interface.png)
 
 1. 1. Using **Add Items** button:  
@@ -81,14 +75,6 @@ _**Note:** By default, **Erase Files & Folders**  option is selected. If not sel
 1. 1. Using   **Search & Erase**  option:  
          1. Click**Search & Erase** to find and erase specific files.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/a.png)
 
 1. 1. 1. Enter **File Name** , if you do not remember the file name or you can search the file by extension such as .jpg, .png, etc.
@@ -98,25 +84,15 @@ _**Note:** By default, **Erase Files & Folders**  option is selected. If not sel
 1. 1. 1. If you know the location, click**Browse** and select the file or folder.  
          2. Click**Search** to initiate the search process and add the files to erasure list.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/added-files.png)
 
 1. Click**Erase Now** to start the erasure process.
 2. **Confirm Erasure** dialog box appears to confirm whether you want to erase the selected data permanently. Click **Proceed**  to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/Confirm.png)
 
 1. After successful erasure completion, **Process Completed** window appears with the **Erasure Summary**  of deleted files.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/Process.png)
 
 1. Click **OK**  to finish the process.
@@ -207,3 +183,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 <li><a href="https://ai-video-editing.techidaily.com/updated-top-ways-to-make-fast-motion-video-on-iphone-solved-for-2024/"><u>Updated Top Ways to Make Fast Motion Video on iPhone Solved for 2024</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-using-vn-editor-to-add-luts-for-video-editing-for-2024/"><u>Updated Using VN Editor To Add Luts for Video Editing for 2024</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Alibaba Yitian 710 CPU Leads the Race as Top Arm-Based Processor for Cloud Servers, Research Finds
-date: 2024-08-09T05:46:05.716Z
-updated: 2024-08-10T05:46:05.716Z
+date: 2024-09-03T23:25:40.044Z
+updated: 2024-09-04T23:25:40.044Z
 tags:
   - desktop
 categories:
@@ -17,9 +17,6 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  Per the official page, the primary purpose of the Tulip computer is to make and play music. Still, its support for Python programming also makes it capable of displaying a variety of sprites, PNGs, backgrounds, etc— which means even lightweight games should be makeable or playable on the device. There's no real multimedia or web browsing functionality here besides. However, Tulip also has access to an exclusive BBS Tulip WORLD system for sharing music files and chatting with other users.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Tulip, a musical computer based on Micropython - YouTube ![Tulip, a musical computer based on Micropython - YouTube](https://img.youtube.com/vi/1lYFjQp7Xrw/maxresdefault.jpg)
 
 [Watch On](https://youtu.be/1lYFjQp7Xrw)
@@ -32,9 +29,6 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -110,3 +104,10 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 <li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Tecno Spark 20C? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/youtube-lives-are-very-popular-nowadays-and-people-can-interact-with-the-anchor-at-real-time-if-you-want-to-comment-on-a-youtube-live-chat-you-can-follow-th/"><u>YouTube Lives Are Very Popular Nowadays and People Can Interact with the Anchor at Real Time. If You Want to Comment on a YouTube Live Chat, You Can Follow the Guide Below</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

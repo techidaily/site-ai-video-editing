@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Make Stunning Glitch Effect in Photoshop?
-date: 2024-08-09T05:41:54.350Z
-updated: 2024-08-10T05:41:54.350Z
+date: 2024-09-03T23:25:40.924Z
+updated: 2024-09-04T23:25:40.924Z
 tags: 
   - ai
   - animation videos
@@ -25,9 +25,6 @@ You can add the glitch image effect to your photos easily. There are multiple co
 
 02 [Part 2\. 5 Awesome Glitch Effect Photoshop Actions.](#part2)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1\. How Do You Do Photo Glitch Effect in Photoshop?
 
 The jagged lines, the colorful pixels, frozen visuals, and also the distorted colors, everything perfectly blends to make a glitch effect. Usually, this is how all the glitch templates are, but if you get an opportunity to customize your image glitch effect and make your special effect, what will you do?
@@ -40,9 +37,6 @@ Step 1: The process starts by importing the image to Photoshop on which you plan
 
 Step 2: Now duplicate the image by dragging it onto the New Layer icon in the Layers Panel. Then double click on the duplicated image. This will open a ‘Layer Style’ settings menu. Here, click on the icon for ‘R Channel’ and deselect it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![disable channel r](https://images.wondershare.com/filmora/article-images/2021/stunning-glitch-effect-photoshop-2.jpg)
 
 Step 3: Now, it's time to add the first glitch element. For that, hold the ‘Shift’ key and move the image by using the left/right cursor keys on the keyboard. This will offset the image layer from the original.
@@ -59,23 +53,14 @@ Step 5: At this point, make a New Layer and fill it with White. Now right-click 
 
 Step 6: Move to the menu bar at the top and go to the 'Filter' section. From there, select the option of 'Filter Gallery.' A new window will show up. Head to the 'Sketch' category, and there change the 'Pattern Type' to 'Line.' You can also play with the 'Contrast' and the 'Size' of the lines.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change the pattern](https://images.wondershare.com/filmora/article-images/2021/stunning-glitch-effect-photoshop-6.jpg)
 
 Step 7: Now, in the ‘Layers Panel,’ select the option of ‘Overlay’ from the dropdown menu so that the different layers can show through. You can adjust the visibility of the lines by adjusting the number on the scale.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![tap on overlay](https://images.wondershare.com/filmora/article-images/2021/stunning-glitch-effect-photoshop-7.jpg)
 
 Step 8: After setting everything for the glitch effect in your image, you can now add colors using the ‘Gradient Map.’ Or you can also import some graphic textures to Photoshop and add them to the image. Don’t forget to change the ‘Binding Mode’ to 'Overlay.' You can then play with the color and graphic settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![change the binding mode](https://images.wondershare.com/filmora/article-images/2021/stunning-glitch-effect-photoshop-8.jpg)
 
 Step 9: Once all the color adjustments have satisfied you, it's time to add some text to your glitch image. For that, head to the ‘Text’ tool from the left menu and type in your text. Edit it as you did to your image so that you can make a cool glitch text effect Photoshop and with this, you are all done with making the most stunning glitch effect Photoshop.
@@ -88,28 +73,31 @@ With Photoshop, you can create your photo glitch effect as you prefer instead of
 
 If you are looking for some jaw-dropping glitch picture effects rather than using the basic effects, then this section of the article is perfect for you. We are going to talk about 5 fantastic glitch effects Photoshop action.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Distorted Glitch Photoshop Action
 
 The first effect we will discuss is Distorted Glitch Photoshop Action. The effect is very easy to use. You can set it with just one click action. The effect allows you to do adjustment settings with very easy steps to edit it.
 
 The effect has all the dark, distorted, and disturbance-related elements that make it an amazing effect to add glitch effect to image.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![distorted glitch photoshop action](https://images.wondershare.com/filmora/article-images/2021/stunning-glitch-effect-photoshop-10.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+<span id="1983545">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 2\. Geometric Glitch Photoshop Action
 
@@ -128,37 +116,43 @@ By using this effect, you can add a great vibe to your image. The template great
 ![animated glitch photoshop action](https://images.wondershare.com/filmora/article-images/2021/stunning-glitch-effect-photoshop-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 4\. Futuristic Photoshop Action
 
 The next effect in line to be discussed is Futuristic Photoshop Action. This effect has all the bright and neon colors. The effect could be added easily to your images regardless of the type of your content. Graphic designers and photographers use the Futuristic Effect to create stunning and professional glitch images.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![futuristic photoshop action](https://images.wondershare.com/filmora/article-images/2021/stunning-glitch-effect-photoshop-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024338/7443" target="_top" id="2024338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Glitch Art Photoshop Action
 
 The last effect template that we are going to shed light on is Glitch Art Photoshop Action. The effect is fully editable with 10 different abstract elements. The template has absolutely professional results. The effect delivers complete glitchy vibes.
 
 The distortion, the abstract elements, the digital error, and everything else in effect represents all the glitchy vibes.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![glitch art photoshop action](https://images.wondershare.com/filmora/article-images/2021/stunning-glitch-effect-photoshop-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Final Words
 
 This article is everything one person needs if they want to learn about glitch effect Photoshop. We have talked about creating a jaw-dropping glitch effect in Photoshop. The steps to create a stunning glitch effect have been mentioned above.

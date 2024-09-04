@@ -1,7 +1,7 @@
 ---
 title: New Unleash the Power of Video Scopes in Your Video Editing Projects. Find the Most Common Video Scopes and How to Use Them on Video Editing Software for 2024
-date: 2024-08-09T05:44:51.793Z
-updated: 2024-08-10T05:44:51.793Z
+date: 2024-09-03T23:25:45.951Z
+updated: 2024-09-04T23:25:45.951Z
 tags: 
   - ai
   - animation videos
@@ -47,36 +47,48 @@ Scope in video editing can be a lifesaver, especially when you know what you are
 * [RGB Parade](#scope3)
 * [Vector Scopes](#scope4)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **1\. Waveform Scopes**
 
 Waveform video scope allows you to see how dark or light your image is. In other words, the waveform represents the luminance distribution across your image, allowing you to easily identify the bright and dark elements of your image. The lightness of the picture of the image is represented as a waveform. The rule of thumb is that black is 0 while white is 100 when you are editing HD. Levels below 0 at the bottom of the scope and those above 100 near the top of the scope will be clipped. So, you have to keep your levels within the 0-100 range, which is also the true Standard Dynamic Range (SDR) video. With Ultra-HD standard, the whites can go up to 10,000, which is the High Dynamic Range.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![waveform](https://images.wondershare.com/filmora/article-images/2023/take-your-video-editing-to-the-next-level-with-video-scopes-2.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **2\. Histogram**
 
 The histogram video scope allows you to see the tonal value of your clip. Most people associate histograms with still photography, but it is also useful for video work. Specifically, the histogram represents the highlights, shadows, and midtones of your image. For a standard 8-bit image, pure white has a value of 255 while dark black has a value of 0\. The histogram gives you the distribution of colored pixels in every value of lightness or darkness. Although other video scopes like the waveform and vectorscope will do much of the work, a histogram is still a useful measure in video editing.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![histogram](https://images.wondershare.com/filmora/article-images/2023/take-your-video-editing-to-the-next-level-with-video-scopes-3.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### **3\. RGB Parade**
 
 This is one of the most common post-production video scopes. The RGB parade allows you to see all three colors in one scope. It shows the waveform of the three colors side by side, and not on top of each other. This way, the RGB parade measures the saturation of the colors red, green, and blue in an image. It becomes clear which colors are more saturated compared to others in different areas of the image. To achieve a well-balanced image, keep each color within the lower and upper limits of the video scope. This ensures that the colors are not under or over-saturated.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![rgb parade](https://images.wondershare.com/filmora/article-images/2023/take-your-video-editing-to-the-next-level-with-video-scopes-4.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **4\. Vector Scopes**
 
 This is another common visual post-production scope. It measures the color and color saturation of your image or video on a six-point color wheel. When working with vector scopes, you have two options to choose from: YUV and HLS vector scopes. The YUV vector scopes display the saturation and hue of the colors in the image on the circular graph. The colors in the graph include red, blue, magenta, yellow, and cyan-green. Color becomes more saturated the further it is from the center. On the other hand, the HLS vector scopes show saturation and hue, but in a more detailed picture of the number of pixels that fall into each area of the video scope.
@@ -84,7 +96,10 @@ This is another common visual post-production scope. It measures the color and c
 ![vectorscopes](https://images.wondershare.com/filmora/article-images/2023/take-your-video-editing-to-the-next-level-with-video-scopes-5.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Part 3\.** **Unlock the Power of Video Scopes with Filmora
 
@@ -94,15 +109,18 @@ The use of scope in video editing will up your game and improve the overall qual
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### **Using Video Scopes in Filmora**
 
 Filmora has made it easy for users to utilize video scopes in their editing projects. Once you have launched Filmora and started a New Project, video scopes are easily accessible via the highlighted icon.
 
 ![filmora videoscopes](https://images.wondershare.com/filmora/article-images/2023/take-your-video-editing-to-the-next-level-with-video-scopes-6.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The four video scopes offered by Filmora allow you to achieve specific color adjustments in your video projects. Let’s have a look at how each can be used in video editing.
 
 #### **1\. Parade RGB**
@@ -115,9 +133,6 @@ The parade RGB video scope is used to change the color channel of your visual im
 
 The Waveform video scope in Filmora is used to adjust the color channels of your images or videos in different ways. It displays the brightness of the video signal, allowing you to heck the contrast level.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![waveform](https://images.wondershare.com/filmora/article-images/2023/take-your-video-editing-to-the-next-level-with-video-scopes-8.JPG)
 
 #### **3\. Vectorscope**
@@ -126,17 +141,23 @@ The vectorscope helps to identify and adjust the skin tone of your subjects. It 
 
 ![vectorscope](https://images.wondershare.com/filmora/article-images/2023/take-your-video-editing-to-the-next-level-with-video-scopes-9.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### **4\. Histogram**
 
 The histogram, and video scope display multiple adjustments graphically while adjusting color channels. It displays the distribution of brightness values in the video, allowing you to check the overall brightness level.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![histogram](https://images.wondershare.com/filmora/article-images/2023/take-your-video-editing-to-the-next-level-with-video-scopes-10.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
@@ -144,9 +165,6 @@ Video scopes are important measures for tracing color elements when color correc
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Use Vectorscope in Filmora](https://tools.techidaily.com/wondershare/filmora/download/) [Try Color Correction](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 

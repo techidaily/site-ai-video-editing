@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Wondering How to Create a Stunning Intro Video with KineMaster? Here Are the Simple Steps to Use KineMaster to Design Your Intro Video in Simple Steps
-date: 2024-08-09T05:45:43.504Z
-updated: 2024-08-10T05:45:43.504Z
+date: 2024-09-03T23:25:47.291Z
+updated: 2024-09-04T23:25:47.291Z
 tags: 
   - ai
   - animation videos
@@ -25,9 +25,6 @@ KineMaster video editor is one of the most intuitive apps and that is why creati
 
 Step 1: Go for KineMaster intro download as per your smartphone OS. Launch KineMaster app and tap on Create New icon on the home screen.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![create new video kinemaster](https://images.wondershare.com/filmora/article-images/create-new-video-kinemaster.jpg)
 
 Step 2: Select an aspect ratio such as 16:9 or 9:16 or 1:1 as per your requirements. On the next screen, tap on Background and select a background as per your preference.
@@ -44,16 +41,10 @@ Step 4: Select the text layer and from the right panel, tap on In Animation opti
 
 Step 5: Tap on the text layer again and tap on Effect option to add a text effect. Choose any desired Effect from the list. You can also tap on Get More to check out more effect templates.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![more effect templates kinemaster](https://images.wondershare.com/filmora/article-images/check-more-effect-templates-kinemaster.jpg)
 
 After you apply an effect, select the Effect layer from the timeline and go to Settings to make any adjustment. You can play and watch the intro video. Besides, you can add background photo or video and add graphical elements to enhance the intro animation.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. How to Create 3D Intro with KineMaster
 
 We have illustrated how to create a text intro video and you can try out different animations and effects and come up with creative intro video. There is a viral trend in showing 3D intro to get more traction. You can use KineMaster to create amazing 3D intro videos easily that can go along with your video content. Here are the simple steps on how you can create 3D video with KineMaster.
@@ -70,20 +61,17 @@ Step 3: It is time to add a 3D title. You can tap on Layer icon and Text icon to
 
 Step 4: From the right panel, tap on In Animation option and select a desired animation template. Similarly, tap on Out Animation option and select any animation whichever you think it is fit.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add animation text kinemaster](https://images.wondershare.com/filmora/article-images/add-animation-text-in-kinemaster.jpg)
 
 Step 5: From the right panel, tap on Overall Animation, select an animation template such as floating to enhance the 3D effect.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enhance 3d effect in kinemaster](https://images.wondershare.com/filmora/article-images/enhance-3d-effect-in-kinemaster.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3\. Related FAQs of KineMaster Intro Video
 

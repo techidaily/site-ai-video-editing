@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to New Technology by Tom's Hardware Experts
-date: 2024-08-09T05:46:49.876Z
-updated: 2024-08-10T05:46:49.876Z
+date: 2024-09-03T23:25:39.096Z
+updated: 2024-09-04T23:25:39.096Z
 tags:
   - desktop
 categories:
@@ -15,9 +15,6 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
  With an MoDT platform, if you want to change your CPU you would have to buy a complete new mainboard / CPU / cooler bundle. Mobile CPUs aren’t socketed but are[soldered](https://www.tomshardware.com/best-picks/best-soldering-irons) to the board, so the average tech enthusiast isn’t going to be able to swap or upgrade the CPU. Thus it is very important to consider this spec very carefully before committing.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Lenovo Legion 7000K gaming PCs](https://cdn.mos.cms.futurecdn.net/KiWmBjf3WBxdHs7uNFYu2U-320-80.jpg)
 
  (Image credit: Lenovo)
@@ -30,9 +27,6 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
  As with other MoDT platforms, we aren’t sure if the[cooling system](https://www.tomshardware.com/reviews/best-cpu-coolers,4181.html) is easy to change or upgrade, as the mounts won’t likely be the same as in a desktop PC. Lenovo seems to indicate its CPU cooler is good for up to 190W. If the CPU cooling fan is standard, we guess it could be changed or upgraded.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Lenovo Legion 7000K gaming PCs](https://cdn.mos.cms.futurecdn.net/KHmtZBvJU6LcChAReYSDBU-320-80.jpg)
 
  (Image credit: Lenovo)
@@ -41,9 +35,6 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -111,3 +102,16 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 <li><a href="https://ai-video-editing.techidaily.com/updated-slowing-down-gif-with-the-best-available-methods-for-2024/"><u>Updated Slowing Down GIF With The Best Available Methods for 2024</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/1713965282074-updated-through-speed-ramping-create-a-smooth-transition-in-slow-motion-videos-follow-this-guide-and-learn-about-premiere-pro-slow-motion-and-a-better-alter/"><u>Updated Through Speed Ramping, Create a Smooth Transition in Slow-Motion Videos. Follow This Guide and Learn About Premiere Pro Slow Motion and a Better Alternative for 2024</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
