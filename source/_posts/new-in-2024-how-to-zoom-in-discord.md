@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Zoom in Discord
-date: 2024-09-03T23:25:43.824Z
-updated: 2024-09-04T23:25:43.824Z
+date: 2024-09-09T00:17:58.085Z
+updated: 2024-09-10T00:17:58.085Z
 tags: 
   - ai
   - animation videos
@@ -13,12 +13,24 @@ keywords: how to zoom in and out on mac,how to zoom in discord,zoom in discord,h
 thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99199e876bd020898984fe0d1.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Zoom in Discord
 
 Discord is the most popular platform for communication among gaming communities and even YouTubers. Discord allows users to send text, voice, and video messages. Most importantly, Discord is available for computer users, smartphone users as well as online browser users. There are times when you may need to zoom in on Discord for better readability of messages. There are different ways on how to zoom in Discord.
 
 There could also be a scenario where you have excessive zoom in effect, and you need to zoom out for better readability. Similarly, if you have pressed the wrong shortcuts accidentally and the screen on Discord has zoomed in, you have to zoom out to bring the screen to its original state. We will illustrate how to zoom out in Discord as well for computer, smartphone, and online users.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Zoom Discord on Computer
 
 Since Discord is mostly popular among gamers, Discord desktop app is the most widely used. If you want to zoom in on Discord desktop app, you should know that the zoom option is not readily available under any menu, and there is no keyboard shortcut you can press to zoom in and zoom out instantly. Instead, here are the steps on how to zoom in on Discord.
@@ -27,16 +39,40 @@ Step1Launch Discord desktop app on your computer. Click on the Gear icon located
 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/launch-discord-desktop-app.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2Once Settings window opens, go to App Settings section from the left side and click on Appearance option.
 
 Step3On the right section, scroll down, and you will find three options for zooming – Chat font scaling, Space between message groups, and Zoom level.
 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/discord-nitro-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step4According to your requirements, you can move the slider to the right to zoom in on Discord. You can also press Ctrl and “+” keys together to zoom in. Press Ctrl and “-“ keys together to zoom out. If you want to reset the changes, press Ctrl and O keys together.
 
 Step5Once you are satisfied with the level of zooming, press Esc key on your keyboard to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Zoom Discord Online
 
 If you are relatively new to Discord, you are likely to use its in-browser online version before downloading desktop or smartphone app. Zooming in and out on Discord is super easy when you use Discord online. This is because almost all browsers have in-built option to zoom in and zoom out any website including Discord. Here are the steps on how to zoom in Discord online.
@@ -49,16 +85,22 @@ Step3From the drop-down menu, go to Zoom option. Click on “+” icon to zoom i
 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/online-discord-zoom-icon.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Alternatively, you can simply launch Discord on any browser and press Ctrl and “+” or “-“ keys together for zooming in and out. You get to see by how much percentage the browser is zooming in and zooming out. If you want to reset, bring the percentage to 100%.
 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/zoom-discord-screen-online.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to Zoom Discord on Mobile
 
 Discord is available for Android and iOS users. For any app, the zoom feature is generally unavailable. But Discord has included zoom in and zoom out options under accessibility features for the convenience of the users. Therefore, the zoom effect will only be reflected on Discord app rather than on all apps. Here are the steps on how to zoom in and how to zoom out in Discord app.
@@ -67,32 +109,14 @@ Step1On your smartphone, open Discord app. Tap on your Profile icon located at t
 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/open-discord-on-smartphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step2You must be on User Settings page where you need to find and tap on Appearance present under App Settings.
 
 Step3Scroll down and come to Chat Font Scaling and move the slider to the right for zooming in.
 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/discord-appearance-zoom.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 There is Reset option at the bottom to cancel out the changes made as far as zoom effect goes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 There are going to be times when you have to adjust the size displayed on Discord for better readability. We have illustrated how you can easily zoom in and zoom out whether you are accessing Discord from its desktop app or smartphone app. Besides, you can also zoom in and out if you are using Discord web version.

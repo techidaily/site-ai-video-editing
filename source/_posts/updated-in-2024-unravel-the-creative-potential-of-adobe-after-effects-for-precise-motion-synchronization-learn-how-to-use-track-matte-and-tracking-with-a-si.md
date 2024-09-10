@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Unravel the Creative Potential of Adobe After Effects for Precise Motion Synchronization. Learn How to Use Track Matte and Tracking with a Simple Alternative
-date: 2024-08-15T00:17:06.931Z
-updated: 2024-08-16T00:17:06.931Z
+date: 2024-09-09T00:18:03.449Z
+updated: 2024-09-10T00:18:03.449Z
 tags: 
   - ai
   - animation videos
@@ -26,7 +26,10 @@ The following guide provides valuable insight on how to use **Track Matte in Aft
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 1: How to Utilize Track Mattes in Adobe After Effects?
 
@@ -38,7 +41,10 @@ The following guide provides valuable insight on how to use **Track Matte in Aft
 * **VFX and Special Effects:** After Effects is the perfect tool to add special effects to your videos. Its VFX tool lets users add magic to the footage. You can make objects disappear, control the weather, stabilize your video, and more.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Using Track Mattes in After Effects
 
@@ -46,6 +52,12 @@ In Adobe After Effects, a track matte is a layer that defines the transparency o
 
 ![alpha track matte](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * **Alpha Matte:** **Alpha matte in After Effects** allows white areas in the matte layer to become visible while black areas become transparent. Effectively, this helps the underlying layer to show through.
 * **Alpha Inverted Matte:** In an alpha inverted matte, black areas in the matte layer are visible, and white areas are transparent. It reverses the transparency values to create unique effects.
 * **Luma Matte:** A luma matte uses the brightness values of the matte layer to determine visibility. Bright areas in the matte layer are visible, while dark areas are transparent.
@@ -53,6 +65,12 @@ In Adobe After Effects, a track matte is a layer that defines the transparency o
 
 ![luma track matte](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 You can use any of the **track mattes in After Effects** according to your requirements. Following is a step-by-step guide on how to use track mattes:
 
 ##### Step 1
@@ -65,17 +83,23 @@ Go to the "Modes" column and open the dropdown menu next to "Layer List." Here, 
 
 ![select track matte layer](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step 3
 
 You will see two toggle switches once you select your layer. You can use these switches and the available options to set the transparency for the Track Matte. You can add **alpha matte in After Effects** or other types from here.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![use switches to add track matte](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 2: Performing Mask Tracking With Adobe After Effects: Reviewing the Steps
 
@@ -85,27 +109,36 @@ Another remarkable feature that After Effects offers is mask tracking. Using **A
 
 Import the footage you wish to edit in After Effects. Select the clip you wish to track from the timeline. Then, select the “Pen” tool from the top toolbar or press G on your keyboard. Select the area around the object you wish to mask in the footage.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![use pen tool to mark boundary](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step 2
 
 Now, open the layer and right-click on the mask name to select "Track Mask." This will open the mask tracker in the tracker panel at the right. Open the dropdown menu next to the "Method" option. Here, you can find a range of options for tracking methods. Choose the one according to your requirements. If the object isn't moving much, you can choose a simple option such as "Position."
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set method for tracking](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-6.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step 3
 
 Tap the "Analyze Forward" icon and let the tracker analyze the frames in the clip. Once the process has finished, you can restart your clip and set "Mask Mode" from the timeline to "Subtract." This will remove the selected object from the clip.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![analyze and change mode](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-7.jpg)
 
 ##### Step 4
@@ -124,9 +157,6 @@ Filmora is the complete solution when it comes to video editing. The multi-platf
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Main Highlights of Wondershare Filmora
 
 Filmora offers a comprehensive toolset to help users make the most of their media files. Some useful resources provided by Wondershare Filmora include:
@@ -135,22 +165,34 @@ Filmora offers a comprehensive toolset to help users make the most of their medi
 
 ![ai text based editing filmora](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * [**Speed Ramping**](https://tools.techidaily.com/wondershare/filmora/download/)**:** Using Filmora, users can apply professional speed effects in footage. You can adjust your video speed and create unique cinematic effects in no time. Filmora also helps maintain the audio pitch to avoid abrupt changes.
 
 ![speed ramping filmora](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-10.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * [**Compound Clip**](https://tools.techidaily.com/wondershare/filmora/download/)**:** Filmora can help users merge multiple clips into a single footage. You can obtain complete control over the integrated clip for editing. This can help users manage and adjust multiple clips easily.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![compound clip filmora](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-11.jpg)
 
 * [**AI Vocal Remover**](https://tools.techidaily.com/wondershare/filmora/download/)**:** The Vocal Remover tool of Filmora offers AI power to separate vocals and music from any audio. You can get separate acapella and vocals for various purposes. From karaoke to creative dubs, everything is now possible with Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ai vocal remover filmora](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-12.jpg)
 
 ### Using AI Smart Masking in Filmora – A Step-by-Step Guide
@@ -163,19 +205,28 @@ Install and launch Wondershare Filmora on your device. From the homepage, tap �
 
 ![add video to timeline](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### Step 2: Enable AI Mask
 
 Select your clip in the timeline and go to the “Video” tab from the right panel. Select the "Mask" option and tap the "AI Mask" icon. Under the section, you can choose from options such as "Select Character" or "Smart Brush." Select one according to your requirements and hit "Add Mask."
 
 ![apply ai masking](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### Step 3: Adjust Mask Settings and Export File
 
 After you apply the masking option, you can adjust other mask settings. Filmora allows users to set the expansion range, blur strength, opacity, and other aspects. Once satisfied with the results, tap the "Export" button from the top-right corner and choose a pathway to save your video.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![set masking and export](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-15.jpg)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)

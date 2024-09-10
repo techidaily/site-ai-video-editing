@@ -1,7 +1,7 @@
 ---
 title: Exploring the World of Gadgets with Tom - In-Depth Analysis
-date: 2024-09-03T23:25:38.812Z
-updated: 2024-09-04T23:25:38.812Z
+date: 2024-09-09T00:17:53.397Z
+updated: 2024-09-10T00:17:53.397Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/22zPPFUjFTepm2rgKbksYX-320-80.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Expert Insights From Tom: Unlocking the World of High-Performance Computing
 
 Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs like this are commonly described as having adopted the[MoDT](https://www.tomshardware.com/news/intel-raptor-lake-mobile-chips-get-soldered-to-micro-atx-motherboards) (Mobile on Desktop) hybrid design.[Mini PCs](https://www.tomshardware.com/desktops/mini-pcs/minisforum-atomman-g7-pt-touted-as-worlds-first-amd-advantage-mini-pc-packs-an-amd-r9-7945hx-and-rx-7600m-xt) and[All-in-Ones](https://www.tomshardware.com/tag/all-in-one-pcs) were the first to make MoDT popular, but they also usually used mobile GPUs (or just integrated graphics). In contrast, Lenovo’s new Legion 7000K PC series, now[available in China](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fitem.lenovo.com.cn%2Fproduct%2F1037096.html) , come in sizable tower cases and are sold with powerful Nvidia[GeForce RTX 40](https://www.tomshardware.com/features/nvidia-ada-lovelace-and-geforce-rtx-40-series-everything-we-know) series GPUs pre-installed.
@@ -17,6 +23,18 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 ![Lenovo Legion 7000K gaming PCs](https://cdn.mos.cms.futurecdn.net/KiWmBjf3WBxdHs7uNFYu2U-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Lenovo)
 
  Looking more closely at the new Legion 7000K machines, we see that they come with a choice between two pretty strong Intel Raptor Lake Refresh mobile CPUs. The most powerful option is the[Core i9-14900HX](https://www.tomshardware.com/pc-components/cpus/intel-unleashes-14th-gen-raptor-lake-refresh-hx-series-laptops-cpus-refreshed-chips-with-up-to-24-cores-58-ghz-boost-clock-and-192gb-ddr5-support) , with 24C/32C, clock speeds up to 5.8 GHz, and 36MB Smart Cache. This powerful chip can be quite thrifty with its 55W base power, but also has a max turbo power of a laptop-melting 157W. In[Geekbench](https://browser.geekbench.com/processor-benchmarks) nT rankings, for example, the performance of this CPU sits snugly between the Core i9-13900 and the Ryzen 9 PRO 7945 desktop chips – so it isn’t a lightweight.
@@ -29,12 +47,36 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 ![Lenovo Legion 7000K gaming PCs](https://cdn.mos.cms.futurecdn.net/KHmtZBvJU6LcChAReYSDBU-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Lenovo)
 
  Another spec of the Legion 7000K gaming desktop that users will have to decide upon is what GPU to choose. The product page allows the choice of RTX 4060 / Ti, RTX 4070 Ti / Super. As with a traditional desktop PC, users can upgrade at any time later.
 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -100,16 +142,3 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-slow-down-a-video-on-iphone-and-android-the-easy-way/"><u>Updated In 2024, How to Slow Down a Video on iPhone and Android The Easy Way</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-unleash-the-power-of-video-slow-motion-with-wondershare-filmora-find-out-how-to-create-slow-motion-video-with-the-effective-speed-ramping-fe/"><u>Updated In 2024, Unleash the Power of Video Slow Motion with Wondershare Filmora. Find Out How to Create Slow Motion Video with the Effective Speed Ramping Feature on Filmora</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="125" height="125" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

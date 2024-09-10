@@ -1,7 +1,7 @@
 ---
 title: Secure a High-Performance Gaming PC with an RTX 3,080 for Only $2,091 - Avail Lenovo's Deal Now
-date: 2024-09-03T23:25:38.745Z
-updated: 2024-09-04T23:25:38.745Z
+date: 2024-09-09T00:17:53.330Z
+updated: 2024-09-10T00:17:53.330Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/d4d65dffa6d108b05861c08e391929dff0db7f6ebc3e8d7f9915a07380165e20.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Secure a High-Performance Gaming PC with an RTX 3,080 for Only $2,091 - Avail Lenovo's Deal Now
 
 Pick up a powerful new gaming or productivity desktop from Lenovo with a tasty discount from the MSRP price listing. Lenovo is offering a rather generous 33% off a range of their PC products, with a huge $1,058 discount off the price of the Lenovo Legion Tower 7i Gen 8 (RTX 4080 Super) desktop PC. With the listed components packed inside this PC, you could run a top-spec gaming machine, have a lot of power for productivity work and content creation, or even play around with some AI software.
@@ -93,10 +99,3 @@ Pick up a powerful new gaming or productivity desktop from Lenovo with a tasty d
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-offering-the-best-understanding-of-performing-imovie-slow-motion-video/"><u>Updated In 2024, Offering The Best Understanding of Performing iMovie Slow Motion Video</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-looking-forward-to-making-up-your-career-in-video-editing-land-in-here-to-learn-about-the-credibility-of-some-popular-video-editing-courses-for-2024/"><u>Updated Looking Forward to Making up Your Career in Video Editing? Land in Here to Learn About the Credibility of some Popular Video Editing Courses for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

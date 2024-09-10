@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Wondering How to Create a Stunning Intro Video with KineMaster? Here Are the Simple Steps to Use KineMaster to Design Your Intro Video in Simple Steps
-date: 2024-09-03T23:25:47.291Z
-updated: 2024-09-04T23:25:47.291Z
+date: 2024-09-09T00:18:01.387Z
+updated: 2024-09-10T00:18:01.387Z
 tags: 
   - ai
   - animation videos
@@ -13,6 +13,12 @@ keywords: are you trying to create a stunning intro for your video for free this
 thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d15d4b0d06e6a3ab502cdbe2d.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Wondering How to Create a Stunning Intro Video with KineMaster? Here Are the Simple Steps to Use KineMaster to Design Your Intro Video in Simple Steps
 
 The intro is considered to be the most important part of a video. The intro comes first in a video and the first impression is crucial in retaining the viewers. If the intro is gripping and engaging, the viewers are likely to check the rest of the video. In order to create a stunning video, you need to have the best video editor. If you are a smartphone user, KineMaster intro maker should be your first choice.
@@ -31,6 +37,12 @@ Step 2: Select an aspect ratio such as 16:9 or 9:16 or 1:1 as per your requireme
 
 ![select background kinemaster](https://images.wondershare.com/filmora/article-images/select-background-for-videos-kinemaster.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 3: On the layer at the bottom and select Text option. Type in your text that you want to show in the intro and tap on Ok button. You can change the font and style from the right panel.
 
 ![change video font kinemaster](https://images.wondershare.com/filmora/article-images/change-video-font-style-kinemaster.jpg)
@@ -39,10 +51,28 @@ Step 4: Select the text layer and from the right panel, tap on In Animation opti
 
 ![add animation to videos in kinemaster](https://images.wondershare.com/filmora/article-images/add-animation-to-videos-kinemaster.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 5: Tap on the text layer again and tap on Effect option to add a text effect. Choose any desired Effect from the list. You can also tap on Get More to check out more effect templates.
 
 ![more effect templates kinemaster](https://images.wondershare.com/filmora/article-images/check-more-effect-templates-kinemaster.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 After you apply an effect, select the Effect layer from the timeline and go to Settings to make any adjustment. You can play and watch the intro video. Besides, you can add background photo or video and add graphical elements to enhance the intro animation.
 
 ## Part 2\. How to Create 3D Intro with KineMaster
@@ -55,6 +85,18 @@ Step 2: Select an aspect ratio and tap on Background option. Select a background
 
 ![click media browser kinemaster](https://images.wondershare.com/filmora/article-images/click-media-browser-kinemaster.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 3: It is time to add a 3D title. You can tap on Layer icon and Text icon to type in any title that you can turn into 3D with text effect or style. You can also tap on Media icon to select a ready-made 3D text with a transparent background. After adding the text, you can stretch it to increase the size as per your preference.
 
 ![turn 3d text kinemaster](https://images.wondershare.com/filmora/article-images/turn-3d-text-kinemaster-app.jpg)
@@ -68,10 +110,10 @@ Step 5: From the right panel, tap on Overall Animation, select an animation temp
 ![enhance 3d effect in kinemaster](https://images.wondershare.com/filmora/article-images/enhance-3d-effect-in-kinemaster.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3\. Related FAQs of KineMaster Intro Video
 

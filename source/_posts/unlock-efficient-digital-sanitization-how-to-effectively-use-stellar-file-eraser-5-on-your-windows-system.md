@@ -1,7 +1,7 @@
 ---
 title: "Unlock Efficient Digital Sanitization: How To Effectively Use Stellar File Eraser 5 on Your Windows System"
-date: 2024-09-03T23:25:40.099Z
-updated: 2024-09-04T23:25:40.099Z
+date: 2024-09-09T00:17:54.646Z
+updated: 2024-09-10T00:17:54.646Z
 categories:
   - repair-tools
 description: "This Article Describes Unlock Efficient Digital Sanitization: How To Effectively Use Stellar File Eraser 5 on Your Windows System"
@@ -45,6 +45,12 @@ Stellar File Eraser
 
 ![toogle](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/toogle.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Stellar File Eraser](https://tools.techidaily.com/stellardata-recovery/buy-now/) /[4. Working with the Software](https://tools.techidaily.com/stellardata-recovery/buy-now/) /**4.1\. Erasing Files & Folders**
 
 # **4.1\. Erasing Files & Folders**
@@ -57,6 +63,12 @@ Stellar File Eraser
 
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/user-interface.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _**Note:** By default, **Erase Files & Folders**  option is selected. If not selected, then select **Erase Files & Folders** from **Select Option** tabs displayed on the left pane of the screen._
 
 1. There are following methods to select files and folders:  
@@ -65,6 +77,12 @@ _**Note:** By default, **Erase Files & Folders**  option is selected. If not sel
 
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/user-interface.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. 1. Using **Add Items** button:  
          1. Click**Add Items** to add the files and folders in the erasure list.  
          2. **Browse for Files or Folder**  dialog box appears. Select the file or folder and click**OK.**  
@@ -77,6 +95,12 @@ _**Note:** By default, **Erase Files & Folders**  option is selected. If not sel
 
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/a.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. 1. 1. Enter **File Name** , if you do not remember the file name or you can search the file by extension such as .jpg, .png, etc.
 
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/b.png)
@@ -86,11 +110,23 @@ _**Note:** By default, **Erase Files & Folders**  option is selected. If not sel
 
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/added-files.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. Click**Erase Now** to start the erasure process.
 2. **Confirm Erasure** dialog box appears to confirm whether you want to erase the selected data permanently. Click **Proceed**  to continue.
 
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/Confirm.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. After successful erasure completion, **Process Completed** window appears with the **Erasure Summary**  of deleted files.
 
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/Process.png)
@@ -183,10 +219,3 @@ _**Note:** By default, **Erase Files & Folders**  option is selected. If not sel
 <li><a href="https://ai-video-editing.techidaily.com/updated-top-ways-to-make-fast-motion-video-on-iphone-solved-for-2024/"><u>Updated Top Ways to Make Fast Motion Video on iPhone Solved for 2024</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-using-vn-editor-to-add-luts-for-video-editing-for-2024/"><u>Updated Using VN Editor To Add Luts for Video Editing for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

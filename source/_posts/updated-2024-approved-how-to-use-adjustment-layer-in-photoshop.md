@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Use Adjustment Layer in Photoshop?
-date: 2024-09-03T23:25:40.254Z
-updated: 2024-09-04T23:25:40.254Z
+date: 2024-09-09T00:17:54.784Z
+updated: 2024-09-10T00:17:54.784Z
 tags: 
   - ai
   - animation videos
@@ -21,6 +21,12 @@ As Photoshop is a layer-based editing software, this article will focus on how t
 
 ![adjustment layer in photoshop featured image](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-photoshop-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What is Layer in Photoshop?
 
 Do you know how layers work in Photoshop? By using layers in Photoshop, you can execute flawless editing without modifying the composition of the whole image. Moreover, it does not alter the original image, so you can revert the changes anytime you want. You can easily adjust the saturation, brightness, contrast, and other elements on each layer in Photoshop. Moreover, you can add special effects to each layer according to your choice.
@@ -29,6 +35,18 @@ Do you know how layers work in Photoshop? By using layers in Photoshop, you can 
 
 There are different sorts of layers in Photoshop. For example, fill layers consist of color patterns, and type layers allow you to create text and shapes. You can also move and change the position of layers to insert a specific element into the image. Thus, layers are the essential component of Photoshop, enabling you to add text, shapes, and special effects to the images effortlessly.
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Resize a Layer in Photoshop?
 
 Do you want to learn **how to change the size of a layer in Photoshop**? Here are the simple steps that you can follow to resize a layer in Photoshop:
@@ -45,6 +63,12 @@ Step3 Now, you can drag and drop the layer according to your preferences. You ca
 
 ![resize your photoshop layer](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-photoshop-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Change Layer Color in Photoshop?
 
 Do you want to change the color of the layer in Photoshop? Here are the simple steps that you can follow:
@@ -53,31 +77,37 @@ Step1 To begin, create a new hue/saturation adjustment layer using the "Adjustme
 
 ![tap on create clipping mask](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-photoshop-6.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2 After creating the clipping mask, you will be able to see a right-angle arrow that is directed down to the image. Now make sure to select the colors of the color channel to make some changes. Afterward, double-click on the “Hue/Saturation” adjustment layer and choose the “Preset” option. Once done, choose the color of your choice.
 
 ![select your preset option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-photoshop-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024338/7443" target="_top" id="2024338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step3 Once you have chosen the color, make sure to adjust the saturation accordingly. Afterward, manage the hue slider to your preferred color. Once done, you can adjust the sliders of saturation and lightness according to your choice.
 
 ![change the hue value](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-photoshop-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 4: How to Use Adjustment Layers in Photoshop?
 
@@ -100,10 +130,16 @@ Once you have opened the image in Photoshop, add an adjustment layer and select 
 ![color lookup layer in photoshop](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-photoshop-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **2\. Add a Blur Adjustment Layer in Photoshop**
 
@@ -111,12 +147,6 @@ First, you have to create an adjustment layer in Photoshop. Once done, you can n
 
 ![add the blur effect](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-photoshop-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3\. Add a Curves Adjustment Layer in Photoshop**
 
 If you want to change the color of particular pixels in the image, you can add the **curves adjustment in Photoshop**. By doing so, you can execute minor changes in your image easily. To do so, go to the “Adjustments Panel” and click on the “Curves” icon.
@@ -132,10 +162,10 @@ To make a brightness and contrast layer in Photoshop, go to the “Adjustments P
 ![add the blur effect](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-photoshop-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **5\. Adjust Layer Opacity in Photoshop**
 
@@ -143,6 +173,18 @@ To learn **how to adjust opacity in Photoshop**, select the desired layer and cl
 
 ![adjust the layer opacity](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-photoshop-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Photoshop is widely used by professionals to perform high-end image editing. If you want to become an expert in using Photoshop, you must know **how to add an adjustment layer in Photoshop**. Through this article, you have learned about the importance of layers in image editing. Moreover, you have also discovered different kinds of adjustment layers that you can try to enhance your photos.
@@ -153,12 +195,6 @@ As Photoshop is a layer-based editing software, this article will focus on how t
 
 ![adjustment layer in photoshop featured image](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-photoshop-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 
 <ins class="adsbygoogle"
