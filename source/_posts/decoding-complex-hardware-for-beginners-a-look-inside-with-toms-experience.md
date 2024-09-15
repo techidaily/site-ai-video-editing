@@ -1,7 +1,7 @@
 ---
 title: "Decoding Complex Hardware for Beginners: A Look Inside With Tom's Experience"
-date: 2024-09-09T00:17:54.158Z
-updated: 2024-09-10T00:17:54.158Z
+date: 2024-09-10T16:19:26.789Z
+updated: 2024-09-14T23:49:35.522Z
 tags:
   - desktop
 categories:
@@ -9,24 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/a9e60c359d76678f8aad5193db4d1713b6255faff22e113abbe3abedfe2cc94d.jpeg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## From SSDs to Smartphones: All Your Tech Queries Answered by Tom's Hardware
 
 Minisforum has launched its second[AtomMan branded](https://www.tomshardware.com/desktops/mini-pcs/minisforum-atomman-x7-ti-touchscreen-mini-pc-comes-packing-an-intel-core-ultra-9-185h) device, this time with its eye on Mini PCs designed for gaming. The firm’s premium sub-brand is used here for a device offering the twin charms, and AMD Advantage blessings, of a[Ryzen R9 7945HX](https://www.tomshardware.com/news/ryzen-9-7945hx-beats-core-i9-13950hx) and Radeon[RX 7600M XT](https://www.tomshardware.com/news/amd-launches-rx-7600m-gpus-mobile-rdna-3-with-rtx-3060-performance) . Curiously, the new[AtomMan G7 Pt](https://www.minisforum.com/page/g7pt/index.html?lang=en) appears to be a rejigged version of the proposed Minisforum HX200G which was[showcased at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) back in January.
 
 ![Minisforum AtomMan G7 Pt](https://cdn.mos.cms.futurecdn.net/PyZgZxKUB9Acg9JX58bM36-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
  As per our headline, Minisforum claims this is “the world’s first AMD Advantage-certified A+A high-performance Mini PC.” You can read more about[AMD Advantage for desktops](https://www.tomshardware.com/news/amds-advantage-comes-to-desktops-with-new-perf-boosting-features) , and we have[reviewed some laptops](https://www.tomshardware.com/reviews/asus-rog-strix-g15-advantage-edition-rx-6800m) with this certification. The AtomMan G7 Pt, however, is somewhere in-between as a Mini PC featuring mobile processors. For the rest of the specs check out the table below.
@@ -48,12 +36,6 @@ Minisforum has launched its second[AtomMan branded](https://www.tomshardware.com
 
 ![Minisforum AtomMan G7 Pt](https://cdn.mos.cms.futurecdn.net/BCXcTW8u5XFwpHJ2k5ueD6-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
  The AMD Dragon Range CPU and RX7600M XT may not be the newest or most powerful AMD combo a PC maker could assemble in mid-2024\. Nevertheless, they should do a pretty good job delivering a capable mini gaming system experience, as long as user ambitions for higher resolutions (like 4K) and raytracing are kept in check.
@@ -68,28 +50,10 @@ Minisforum has launched its second[AtomMan branded](https://www.tomshardware.com
 
 ![Minisforum AtomMan G7 Pt](https://cdn.mos.cms.futurecdn.net/5vH5yUKbtEt5tHuJMtPYk5-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
  One of the bigger changes we have seen added to the AtomMan G7 Pt since its name was switched from the HX200G is the provision of dual RGB backlighting panels. The example logo scrawl provides a prime example of beauty being in the eye of the beholder.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -100,14 +64,11 @@ Minisforum has launched its second[AtomMan branded](https://www.tomshardware.com
 
  Pricing for the AtomMan G7 Pt hasn’t been divulged, though we have written back to Minisforum for some pricing details. Those particularly interested in this device might find it worthwhile to sign up for updates and a $50 discount coupon.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -118,44 +79,22 @@ Minisforum has launched its second[AtomMan branded](https://www.tomshardware.com
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-igtvs-power-boosters-crafting-viral-hash-tags/"><u>[New] IGTV's Power Boosters  Crafting Viral Hash Tags</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-discovering-the-most-trusted-mac-snipers/"><u>[New] In 2024, Discovering the Most Trusted Mac Snipers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-text-gymnastics-ingenious-techniques-for-animated-bounces/"><u>[New] Text Gymnastics  Ingenious Techniques for Animated Bounces</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-video-inversion-step-by-step-strategy/"><u>[Updated] 2024 Approved  Instagram Video Inversion  Step-by-Step Strategy</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-honor-play-40c-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Honor Play 40C Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/affordable-gaming-capture-ranked-top-10-software-tools/"><u>Affordable Gaming Capture  Ranked Top 10 Software Tools</u></a></li>
-<li><a href="https://fox-access.techidaily.com/break-into-cash-with-periscope-first-timers-tips-for-2024/"><u>Break Into Cash with Periscope  First-Timers' Tips for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-motorola-moto-g24-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Motorola Moto G24 Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-the-instagram-pros-tips-for-bulk-upload-of-images-and-video/"><u>In 2024, The Instagram Pro’s Tips for Bulk Upload of Images and Video</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-create-eye-catching-slow-motion-videos-to-set-your-own-trend-for-this-purpose-read-this-article-to-find-and-learn-to-use-capcuts-new-slow-/"><u>New 2024 Approved Create Eye-Catching Slow-Motion Videos to Set Your Own Trend. For This Purpose, Read This Article to Find and Learn to Use CapCuts New Slow-Motion Templates</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-creating-flawless-slow-motion-videos-is-every-content-creators-dream-learn-about-davinci-resolve-slow-motion-video-creation-amongst-other-/"><u>New 2024 Approved Creating Flawless Slow-Motion Videos Is Every Content Creators Dream. Learn About DaVinci Resolve Slow-Motion Video Creation, Amongst Other Tools</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-if-youre-looking-to-create-a-brand-video-that-makes-your-business-pop-out-we-have-put-together-some-video-editing-tips-and-tricks-that-wor/"><u>New 2024 Approved If Youre Looking to Create a Brand Video that Makes Your Business Pop Out, We Have Put Together some Video Editing Tips and Tricks that Work</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-making-creative-and-engaging-youtube-videos-is-now-easy-with-several-tools-now-youtube-also-offers-you-its-own-built-in-video-editor-throu/"><u>New 2024 Approved Making Creative and Engaging Youtube Videos Is Now Easy with Several Tools. Now, YouTube Also Offers You Its Own Built-In Video Editor Through Which You Can Edit and Enhance the Video Quality</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-making-slow-motion-videos-in-premiere-pro-a-review-on-the-best-method/"><u>New 2024 Approved Making Slow Motion Videos in Premiere Pro A Review on The Best Method</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-top-6-best-alternatives-to-clownfish-voice-changer/"><u>New 2024 Approved Top 6 Best Alternatives to Clownfish Voice Changer</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-what-do-you-prefer-more-mkv-file-format-or-mov-increase-your-knowledge-and-learn-more-about-mkv-format-by-ready-the-detailed-article-below/"><u>New 2024 Approved What Do You Prefer More, MKV File Format or MOV? Increase Your Knowledge and Learn More About MKV Format by Ready the Detailed Article Below</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-discover-how-you-can-use-vectorscope-to-adjust-luminance-color-grading-and-more-in-your-video-editing-projects-for-2024/"><u>New Discover How You Can Use Vectorscope to Adjust Luminance, Color Grading, and More in Your Video Editing Projects for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-use-deep-fried-meme-maker/"><u>New In 2024, How to Use Deep Fried Meme Maker</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-need-to-learn-about-halftone-effects-learn-how-to-quickly-create-a-halftone-effect-in-adobe-photoshop-with-simple-easy-to-follow-instructions/"><u>New In 2024, Need to Learn About Halftone Effects? Learn How to Quickly Create a Halftone Effect in Adobe Photoshop with Simple, Easy-to-Follow Instructions</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-the-glitch-effect-shows-errors-and-flaws-in-the-image-or-a-video-the-write-up-presents-the-complete-procedure-of-adding-premiere-pros-glitch-eff/"><u>New In 2024, The Glitch Effect Shows Errors and Flaws in the Image or a Video. The Write-Up Presents the Complete Procedure of Adding Premiere Pros Glitch Effect and Introduces Eight Free Glitch Effects</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-want-to-learn-how-to-make-gaming-montage-videos-you-have-come-to-the-right-place-this-guide-will-teach-you-all-you-need-to-know-to-create-montag/"><u>New In 2024, Want to Learn How to Make Gaming Montage Videos? You Have Come to the Right Place. This Guide Will Teach You All You Need to Know to Create Montages of Video Games and Share Them with Other Players</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-what-can-be-better-than-converting-apple-video-format-into-other-formats-so-that-you-can-use-the-files-easily-we-have-a-few-options-that-you-can/"><u>New In 2024, What Can Be Better than Converting Apple Video Format Into Other Formats so that You Can Use the Files Easily. We Have a Few Options that You Can Use for This Purpose</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-slow-down-videos-on-instagram-with-perfection-a-guide-for-2024/"><u>New Slow Down Videos on Instagram With Perfection A Guide for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/official-source-for-downloading-acer-monitor-driver-software/"><u>Official Source for Downloading Acer Monitor Driver Software</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pros-of-popular-video-segments-in-films-for-2024/"><u>Pro's of Popular Video Segments in Films for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tips-and-tricks-to-tell-if-your-apple-iphone-13-pro-is-unlocked-by-drfone-ios/"><u>Tips And Tricks To Tell if Your Apple iPhone 13 Pro Is Unlocked</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-are-you-an-apple-user-interested-in-adding-a-slow-mo-to-their-videos-this-article-features-an-exceptional-procedure-for-creating-slow-/"><u>Updated 2024 Approved Are You an Apple User Interested in Adding a Slow-Mo to Their Videos? This Article Features an Exceptional Procedure for Creating Slow-Mo in iMovie</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-davinci-resolve-scopes-have-undergone-significant-improvements-find-out-how-to-use-these-scopes-and-improve-your-video-editing-skills./"><u>Updated 2024 Approved DaVinci Resolve Scopes Have Undergone Significant Improvements. Find Out How to Use These Scopes and Improve Your Video Editing Skills</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-make-videos-with-pictures-and-music-10-apps/"><u>Updated 2024 Approved Make Videos with Pictures and Music-10 Apps</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-top-shortcut-towards-timeline-template/"><u>Updated 2024 Approved Top Shortcut Towards Timeline Template</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-using-vn-editor-to-add-luts-for-video-editing/"><u>Updated 2024 Approved Using VN Editor To Add Luts for Video Editing</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-are-you-looking-to-make-a-thumbnail-for-your-fortnite-video-this-article-features-a-guide-explaining-creating-a-fortnite-motion-blur-thumbnail-for-2/"><u>Updated Are You Looking to Make a Thumbnail for Your Fortnite Video? This Article Features a Guide Explaining Creating a Fortnite Motion Blur Thumbnail for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-use-adjustment-layer-in-photoshop-in-2024/"><u>Updated How to Use Adjustment Layer in Photoshop, In 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-create-eye-catching-slow-motion-videos-to-set-your-own-trend-for-this-purpose-read-this-article-to-find-and-learn-to-use-capcuts-new-slow-mo/"><u>Updated In 2024, Create Eye-Catching Slow-Motion Videos to Set Your Own Trend. For This Purpose, Read This Article to Find and Learn to Use CapCuts New Slow-Motion Templates</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-want-to-create-slow-motion-videos-this-article-shows-methods-to-create-slow-mo-videos-without-changing-the-medias-quality/"><u>Updated In 2024, Do You Want to Create Slow-Motion Videos? This Article Shows Methods to Create Slow-Mo Videos without Changing the Medias Quality</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-top-6-best-alternatives-to-clownfish-voice-changer/"><u>Updated In 2024, Top 6 Best Alternatives to Clownfish Voice Changer</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-use-your-social-media-app-and-make-slow-motion-videos-by-reading-this-guide-besides-learning-slow-motion-snapchat-get-useful-apps-serving-th/"><u>Updated In 2024, Use Your Social Media App and Make Slow-Motion Videos by Reading This Guide. Besides Learning Slow-Motion Snapchat, Get Useful Apps Serving the Same Purposes</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713965288071-updated-tiktok-aspect-ratio-is-a-crucial-element-to-succeeding-in-the-tiktok-algorithm-here-are-some-suggestions-to-improve-video-quality-and-land-on-the-fo/"><u>Updated Tiktok Aspect Ratio Is a Crucial Element to Succeeding in the Tiktok Algorithm. Here Are some Suggestions to Improve Video Quality and Land on the for You Page for 2024</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-update-your-drivers-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to update your drivers on Windows 11/10/7</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/your-gateway-to-classic-games-best-in-class-5gb-advance-emulators-compatible-with-pcs/"><u>Your Gateway to Classic Games  Best-in-Class 5GB Advance Emulators Compatible with PCs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-digital-diaries-of-daily-displays-fb-live-downloads/"><u>[New] 2024 Approved Digital Diaries of Daily Displays FB Live Downloads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-recover-hidden-shorts-thumbnails-in-videos/"><u>[New] In 2024, How to Recover Hidden Shorts' Thumbnails in Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-best-screen-capture-tools-for-creative-professionals/"><u>[New] In 2024, The Best Screen Capture Tools for Creative Professionals</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-cool-down-with-these-top-rated-stress-erasers-for-2024/"><u>[Updated] Cool Down with These Top-Rated Stress Erasers for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-to-brew-an-awkward-potion-in-minecraft-beginners-manual/"><u>Easy Steps to Brew an Awkward Potion in Minecraft - Beginner's Manual</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-experience-with-these-10-upgraded-variants-of-chatgpt/"><u>Elevate Your Experience with These 10 Upgraded Variants of ChatGPT</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-make-a-super-easy-rotating-video-effect/"><u>How to Make a Super Easy Rotating Video Effect</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-do-you-want-to-print-designs-onto-your-garments-or-other-fashion-accessories-find-out-how-to-create-a-screen-print-effect-in-photoshop-to-give-your-/"><u>In 2024, Do You Want to Print Designs Onto Your Garments or Other Fashion Accessories? Find Out How to Create a Screen Print Effect in Photoshop to Give Your Text or Graphics a Vintage or Retro Look</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-introduction-to-luts-their-overview-and-benefits/"><u>In 2024, Introduction to LUTs Their Overview and Benefits</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/introduction-to-luts-their-overview-and-benefits/"><u>Introduction to LUTs Their Overview and Benefits</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

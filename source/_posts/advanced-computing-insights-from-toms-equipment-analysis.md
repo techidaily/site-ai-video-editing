@@ -1,7 +1,7 @@
 ---
 title: Advanced Computing Insights From Tom’s Equipment Analysis
-date: 2024-09-09T00:17:53.432Z
-updated: 2024-09-10T00:17:53.432Z
+date: 2024-09-10T23:42:38.776Z
+updated: 2024-09-14T20:03:38.977Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/qcFHRGFudrAZzioZiCUpoa-320-80.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Master Your Computer Knowledge with Top Insights From Tom's Hardware
 
 Mini PC specialist Minisforum has launched a new device, claiming several firsts. The new[AtomMan X7 Ti](https://www.minisforum.com/page/x7ti/index.html?lang=en) becomes the first in the firm's AtomMan line, described as a high-end cutting-edge marque by Minisforum. It is also claimed to be the “first Intel Ultra 9 AI Mini PC with a 4-inch Touchscreen.” With the rising popularity of[extra screens in PCs](https://www.tomshardware.com/pc-components/cooling/hands-on-lian-lis-lcd-screen-fans-turn-heads-and-are-surprisingly-affordable-but-not-as-configurable-as-id-like) , integrating one into a compact desktop might be a popular idea.
@@ -27,32 +21,14 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
  Moving inside, the star of the show is the new Intel Core Ultra 9 processor[185H](https://www.intel.com/content/www/us/en/products/sku/236849/intel-core-ultra-9-processor-185h-24m-cache-up-to-5-10-ghz/specifications.html) with a 16C/22T CPU running at up to 5.1 GHz, and onboard Arc GPU with eight Xe cores running at up to 2.35 GHz. This[Meteor Lake](https://www.tomshardware.com/news/intel-details-core-ultra-meteor-lake-architecture-launches-december-14) chip is cooled by the new Cold Wave cooling system featuring a large diameter fan, 3 copper heatpipes, and a phase-change module.
@@ -65,18 +41,6 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -85,14 +49,11 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -103,40 +64,28 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-eyecapture-screen-logger-x/"><u>[New] 2024 Approved  EyeCapture Screen Logger X</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-how-to-securely-obtain-facebooks-elite-verified-status/"><u>[New] In 2024, How to Securely Obtain Facebook’s Elite Verified Status</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-masterclass-5-in-best-mac-videography-software/"><u>[New] Masterclass 5 in Best Mac Videography Software</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-digital-warriors-youtubes-top-ten-women/"><u>[Updated] Digital Warriors  YouTube’s #Top Ten Women</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-bring-playlists-down-to-youtube-the-5-best-conversion-resources/"><u>[Updated] In 2024, Bring Playlists Down to YouTube  The 5 Best Conversion Resources</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-syncopated-sing-sessions-tiktok-style/"><u>[Updated] In 2024, Syncopated Sing-Sessions TikTok Style</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-youtubes-first-visual-hook-creating-personalized-thumbnails/"><u>2024 Approved  YouTube's First Visual Hook  Creating Personalized Thumbnails</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/android-brightening-essentials-stepwise-demystification/"><u>Android Brightening Essentials - Stepwise Demystification</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/beginners-journey-into-hosting-successful-zoom-sessions/"><u>Beginner's Journey Into Hosting Successful Zoom Sessions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-advice-downloading-editing-and-personalizing-whatsapp-tones-for-both-platforms/"><u>In 2024, Expert Advice  Downloading, Editing & Personalizing WhatsApp Tones for Both Platforms</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionize-video-production-via-xp-installation/"><u>In 2024, Revolutionize Video Production via XP Installation</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-are-you-searching-for-the-best-canon-lut-download-this-article-provides-the-best-recommendations-for-creating-the-best-professional-videos/"><u>New 2024 Approved Are You Searching for the Best Canon LUT Download? This Article Provides the Best Recommendations for Creating the Best Professional Videos</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-know-about-some-efficient-slow-motion-video-editors-read-this-article-to-find-out-the-best-slow-motion-video-editing-tools-that-you/"><u>New 2024 Approved Do You Know About some Efficient Slow-Motion Video Editors? Read This Article to Find Out the Best Slow-Motion Video Editing Tools that You Can Try</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-know-how-to-create-ai-thumbnails-for-videos-this-article-will-mention-some-of-the-best-tools-to-generate-attractive-thumbnails-for-/"><u>New 2024 Approved Do You Know How to Create AI Thumbnails for Videos? This Article Will Mention some of the Best Tools to Generate Attractive Thumbnails for Videos with AI</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-find-a-solution-for-effortless-sky-replacement-photoshop-in-this-comprehensive-guide-also-use-the-easiest-video-editing-tool-to-make-your-/"><u>New 2024 Approved Find a Solution for Effortless Sky Replacement Photoshop in This Comprehensive Guide. Also, Use the Easiest Video Editing Tool to Make Your Media Stunning</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-making-creative-and-engaging-youtube-videos-is-now-easy-with-several-tools-now-youtube-also-offers-you-its-own-built-in-video-editor-throu/"><u>New 2024 Approved Making Creative and Engaging Youtube Videos Is Now Easy with Several Tools. Now, YouTube Also Offers You Its Own Built-In Video Editor Through Which You Can Edit and Enhance the Video Quality</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-are-you-looking-to-make-a-thumbnail-for-your-fortnite-video-this-article-features-a-guide-explaining-creating-a-fortnite-motion-blur-thumbnail-for-2024./"><u>New Are You Looking to Make a Thumbnail for Your Fortnite Video? This Article Features a Guide Explaining Creating a Fortnite Motion Blur Thumbnail for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-edit-youtube-videos-in-easy-steps-for-2024/"><u>New How To Edit Youtube Videos In Easy Steps for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-use-deep-fried-meme-maker/"><u>New In 2024, How to Use Deep Fried Meme Maker</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-want-to-learn-how-to-make-gaming-montage-videos-you-have-come-to-the-right-place-this-guide-will-teach-you-all-you-need-to-know-to-create-montag/"><u>New In 2024, Want to Learn How to Make Gaming Montage Videos? You Have Come to the Right Place. This Guide Will Teach You All You Need to Know to Create Montages of Video Games and Share Them with Other Players</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-what-can-be-better-than-converting-apple-video-format-into-other-formats-so-that-you-can-use-the-files-easily-we-have-a-few-options-that-you-can/"><u>New In 2024, What Can Be Better than Converting Apple Video Format Into Other Formats so that You Can Use the Files Easily. We Have a Few Options that You Can Use for This Purpose</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-knowing-all-ways-to-slow-down-video-with-adobe-premiere-pro-for-2024/"><u>New Knowing All Ways To Slow Down Video With Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-slow-down-videos-on-instagram-with-perfection-a-guide-for-2024/"><u>New Slow Down Videos on Instagram With Perfection A Guide for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlock-iphone-fix-magic-the-ultimate-guide-to-dfu-mode-solutions-for-5-persistent-problems/"><u>Unlock iPhone Fix Magic: The Ultimate Guide to DFU Mode Solutions for 5 Persistent Problems</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-are-you-an-apple-user-interested-in-adding-a-slow-mo-to-their-videos-this-article-features-an-exceptional-procedure-for-creating-slow-/"><u>Updated 2024 Approved Are You an Apple User Interested in Adding a Slow-Mo to Their Videos? This Article Features an Exceptional Procedure for Creating Slow-Mo in iMovie</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-make-videos-with-pictures-and-music-10-apps/"><u>Updated 2024 Approved Make Videos with Pictures and Music-10 Apps</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-top-shortcut-towards-timeline-template/"><u>Updated 2024 Approved Top Shortcut Towards Timeline Template</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-using-vn-editor-to-add-luts-for-video-editing/"><u>Updated 2024 Approved Using VN Editor To Add Luts for Video Editing</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-are-you-looking-to-make-a-thumbnail-for-your-fortnite-video-this-article-features-a-guide-explaining-creating-a-fortnite-motion-blur-thumbnail-for-2/"><u>Updated Are You Looking to Make a Thumbnail for Your Fortnite Video? This Article Features a Guide Explaining Creating a Fortnite Motion Blur Thumbnail for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713962634968-updated-do-you-want-to-make-your-photos-and-videos-look-different-from-others-there-are-many-lightroom-luts-free-and-they-make-your-media-content-stand-out-/"><u>Updated Do You Want to Make Your Photos and Videos Look Different From Others? There Are Many Lightroom LUTs Free, and They Make Your Media Content Stand Out From Others for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-wondering-how-to-slow-down-videos-or-speed-them-up-here-are-three-ways-to-do-it-speed-up-or-slow-down-your-videos-on-pc-online-and-p/"><u>Updated In 2024, Are You Wondering How to Slow Down Videos or Speed Them up, Here Are Three Ways to Do It. Speed up or Slow Down Your Videos on PC, Online, and Phone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-want-to-create-slow-motion-videos-this-article-shows-methods-to-create-slow-mo-videos-without-changing-the-medias-quality/"><u>Updated In 2024, Do You Want to Create Slow-Motion Videos? This Article Shows Methods to Create Slow-Mo Videos without Changing the Medias Quality</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-make-videos-with-pictures-and-music-10-apps/"><u>Updated In 2024, Make Videos with Pictures and Music-10 Apps</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-use-your-social-media-app-and-make-slow-motion-videos-by-reading-this-guide-besides-learning-slow-motion-snapchat-get-useful-apps-serving-th/"><u>Updated In 2024, Use Your Social Media App and Make Slow-Motion Videos by Reading This Guide. Besides Learning Slow-Motion Snapchat, Get Useful Apps Serving the Same Purposes</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-slow-down-the-gif-to-emphasize-details-better-to-do-so-read-this-guide-and-learn-to-use-the-best-platforms-for-slow-motion-gifs-for-2024/"><u>Updated Slow Down the GIF to Emphasize Details Better. To Do so, Read This Guide and Learn to Use the Best Platforms for Slow-Motion GIFs for 2024</u></a></li>
-<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-se-2020-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone SE (2020) takes time in scanning my iPhone? | Stellar</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-accessing-live-spaces-on-tiktok-your-pathway/"><u>[New] Accessing Live Spaces on TikTok Your Pathway</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-record-whole-page-visuals-for-2024/"><u>[New] Record Whole Page Visuals for 2024</u></a></li>
+<li><a href="https://solve-help.techidaily.com/compatible-with-kindle-a-guide-to-using-your-sony-ebook-reader-for-amazons-digital-library/"><u>Compatible with Kindle: A Guide to Using Your Sony eBook Reader for Amazon's Digital Library</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/comprehensive-hardware-evaluations-with-expertise-from-toms-technology-hub/"><u>Comprehensive Hardware Evaluations with Expertise From Tom's Technology Hub</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/enhance-your-virtual-adventures-the-ultimate-review-of-the-oculus-quest-2s-elite-gaming-accessory-kit-with-extra-battery-life-and-safe-transportation-box/"><u>Enhance Your Virtual Adventures: The Ultimate Review of the Oculus Quest 2'S Elite Gaming Accessory Kit with Extra Battery Life and Safe Transportation Box</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/headphone-compatibility-with-windows-11-explained-and-resolved/"><u>Headphone Compatibility with Windows 11 Explained and Resolved</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-correctly-update-your-realtek-drivers-on-windows-platform-windows-11-10-or-n-guide/"><u>How to Correctly Update Your Realtek Drivers on Windows Platform (Windows 11, 10, or N) [Guide]</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-nokia-c110-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Nokia C110</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/innovative-computing-solutions-discoveries-by-toms-hardware-specialists/"><u>Innovative Computing Solutions: Discoveries by Tom's Hardware Specialists</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/navigating-the-digital-world-with-toms-hardware-wisdom/"><u>Navigating the Digital World with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-best-video-editor-for-beginners-videopad-review-and-recommendation/"><u>New In 2024, The Best Video Editor for Beginners? Videopad Review and Recommendation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/spark-the-visionary-youtubes-top-video-themes-for-2024/"><u>Spark the Visionary YouTube's Top Video Themes for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tips-for-a-pristine-image-canvas-background-technique/"><u>Tips for a Pristine Image Canva's Background Technique</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1723262352877-toms-hardware-hub-explore-cutting-edge-tech-advice-for-every-level-of-user/"><u>Tom's Hardware Hub: Explore Cutting-Edge Tech Advice For Every Level of User!</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/unveiling-the-latest-in-pc-technology-at-toms-hardware-hub/"><u>Unveiling the Latest in PC Technology at Tom's Hardware Hub</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

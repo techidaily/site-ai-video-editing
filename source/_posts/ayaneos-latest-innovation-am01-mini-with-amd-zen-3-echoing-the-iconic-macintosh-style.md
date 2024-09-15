@@ -1,7 +1,7 @@
 ---
 title: Ayaneo's Latest Innovation - AM01 Mini with AMD Zen 3, Echoing the Iconic Macintosh Style
-date: 2024-09-09T00:17:53.361Z
-updated: 2024-09-10T00:17:53.361Z
+date: 2024-09-12T17:13:57.878Z
+updated: 2024-09-14T19:38:30.176Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/BxTmiQb6pz8QDvNGTwZtY6-320-80.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Ultimate Battle of Might and Machine - Join the 2024 Global Server Smash Contest
 
 The 2024 World Server Throwing Championship (WSTC) organizers are[calling for entrants](https://www.cloudfest.com/world-server-throwing-championship#server-reg) . Scheduled for March 19, the bare metal vs. raw power event is set to become a must-watch experience of the annual CloudFest conference.
@@ -31,36 +25,12 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 ![Server throwing athletes](https://cdn.mos.cms.futurecdn.net/wtmZvaBCUd7W2J88EkoF6b-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: CloudFest)
 
  If we had to place a bet on the winner’s nationality, it would probably be Dutch, as the country where the sport seems to have become established. We discovered that some of the WTSC partners have already promoted server throwing in Dutch events. The winner of a Dutch national championship event[in 2022](https://dutchcloudcommunity.nl/agenda/summer-bbq-dutch-cloud-community-2022/) managed to fling a 10kg+ (22 pounds +) server 12.23 meters (over 40 feet).
 
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -71,14 +41,11 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
  The CloudFest 2024 event occurs at Europa-park in Rust,[Germany](https://www.tomshardware.com/pc-components/gpus/intel-submits-schematics-for-1nm-chip-fabs-in-germany-two-new-fabs-open-in-2027) , from March 18 to 24\. It is described as a must-attend event for anyone who works in[the cloud](https://www.tomshardware.com/reviews/cloud-computing-security,2829-2.html) , with a packed schedule featuring keynotes, panel discussions, masterclasses, networking events, and more. Only paying attendees can sign up for the chance to show off their server-throwing prowess. Tickets start at 499 euros.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -89,45 +56,28 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-precisioncapture-w10-pro/"><u>[New] 2024 Approved  PrecisionCapture W10 Pro</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-growth-galore-farming-game-classics-revisited/"><u>[New] Growth Galore  Farming Game Classics Revisited</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-direct-directions-simple-techniques-for-laptop-screening-dell/"><u>[Updated] Direct Directions  Simple Techniques for Laptop Screening (Dell)</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-zooms-background-blurring-magic-for-2024/"><u>[Updated] Mastering Zoom's Background-Blurring Magic for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-expertly-curated-5-best-android-screen-capture-options/"><u>2024 Approved  Expertly Curated 5 Best Android Screen Capture Options</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-noise-reduction-for-better-video-experiences-on-youtube/"><u>2024 Approved  Noise Reduction for Better Video Experiences on YouTube</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unleashing-your-gaming-potential-with-fbx/"><u>2024 Approved  Unleashing Your Gaming Potential with FBX</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cinemas-best-hope-fueled-film-selections-for-2024/"><u>Cinema's Best  Hope-Fueled Film Selections for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/detailed-study-of-easy-high-dynamic-range-photography/"><u>Detailed Study of Easy High-Dynamic Range Photography</u></a></li>
-<li><a href="https://windows11.techidaily.com/deterring-windows-auto-update-alerts/"><u>Deterring Windows Auto-Update Alerts</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-breakthrough-techniques-for-creative-fb-video-campaigns/"><u>In 2024, Breakthrough Techniques for Creative FB Video Campaigns</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-official-method-to-unlock-your-iphone-13-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 13 Official Method to Unlock Your iPhone 13</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-z50-ultra-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Nubia Z50 Ultra Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-netflix-memories-capturing-every-view-with-mac/"><u>In 2024, Netflix Memories  Capturing Every View with Mac</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-play-srt-on-pcos-x/"><u>In 2024, Play SRT on PC/OS X</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/mastery-of-tasks-with-the-help-of-ez-grabber-for-2024/"><u>Mastery of Tasks with the Help of EZ Grabber for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-are-you-curious-about-finding-a-good-iphone-slow-motion-app-discover-the-top-rated-applications-in-the-market-that-will-help-you-create-th/"><u>New 2024 Approved Are You Curious About Finding a Good iPhone Slow-Motion App? Discover the Top-Rated Applications in the Market that Will Help You Create the Perfect Video</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-experiment-with-various-sky-backgrounds-for-your-footage-learn-about-sky-replacement-after-effects-in-this-article-with-a-s/"><u>New 2024 Approved Do You Want to Experiment with Various Sky Backgrounds for Your Footage? Learn About Sky Replacement After Effects in This Article with a Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-knowing-all-ways-to-slow-down-video-with-adobe-premiere-pro/"><u>New 2024 Approved Knowing All Ways To Slow Down Video With Adobe Premiere Pro</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-learn-how-to-make-a-gaming-montage-guide-and-tips/"><u>New 2024 Approved Learn How to Make a Gaming Montage - Guide & Tips</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-master-premiere-pro-custom-sequence-presets/"><u>New 2024 Approved Master Premiere Pro Custom Sequence Presets</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-discover-the-essential-steps-for-editing-a-music-video-in-this-guide-learn-about-aspect-ratio-and-the-first-cut-process-to-create-a-visually-cap/"><u>New In 2024, Discover the Essential Steps for Editing a Music Video in This Guide. Learn About Aspect Ratio and the First Cut Process to Create a Visually Captivating Video</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-know-you-dont-need-a-pc-or-mac-to-apply-luts-on-your-media-you-can-use-many-smartphone-apps-to-apply-luts-such-as-3dlut-mobile-app/"><u>New In 2024, Do You Know You Dont Need a PC or Mac to Apply LUTs on Your Media? You Can Use Many Smartphone Apps to Apply LUTs, Such as 3DLUT Mobile App</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-put-a-background-on-a-green-screen/"><u>New In 2024, How to Put a Background on A Green Screen</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-mask-tracking-is-believed-to-be-a-helpful-procedure-for-marking-proper-areas-in-videos-learn-how-to-perform-premiere-pro-mask-tracking-in-this-g/"><u>New In 2024, Mask Tracking Is Believed to Be a Helpful Procedure for Marking Proper Areas in Videos. Learn How to Perform Premiere Pro Mask Tracking in This Guide</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-stop-worrying-if-your-adobe-premiere-playback-slows-down-this-guide-will-show-you-the-best-solutions-to-resolve-this-issue-and-a-perfect-alterna/"><u>New In 2024, Stop Worrying if Your Adobe Premiere Playback Slows Down. This Guide Will Show You the Best Solutions to Resolve This Issue and a Perfect Alternative</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-the-art-of-fashioning-slow-motions-has-remained-popular-ever-since-read-this-article-to-learn-how-to-do-slow-mo-in-capcut-and-other-powerful-too/"><u>New In 2024, The Art of Fashioning Slow Motions Has Remained Popular Ever Since. Read This Article to Learn How to Do Slow-Mo in CapCut and Other Powerful Tools</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-top-10-anime-movies-of-all-time/"><u>New In 2024, Top 10 Anime Movies of All Time</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-the-availability-of-the-slow-motion-feature-on-the-iphone-is-often-debated-this-article-will-guide-you-on-how-to-slow-down-a-video-on-iphone-for-2024/"><u>New The Availability of the Slow-Motion Feature on the iPhone Is Often Debated. This Article Will Guide You on How to Slow Down a Video on iPhone for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-top-10-video-editing-online-makers-is-worth-your-attention-for-2024/"><u>New Top 10 Video Editing Online Makers Is Worth Your Attention for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-stop-alan-wake-2-from-crashing/"><u>Ultimate Guide: Stop Alan Wake 2 From Crashing</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-clearly-the-efectum-app-download-without-a-watermark-option-is-on-android-phones-thus-read-this-review-on-the-efectum-app-and-find-rep/"><u>Updated 2024 Approved Clearly, the Efectum App Download without a Watermark Option Is on Android Phones. Thus, Read This Review on the Efectum App and Find Replacements for Good</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-know-you-can-add-luts-for-cinematic-color-grading-on-your-smartphones-with-vn-editor-you-can-you-can-add-luts-choose-the-option/"><u>Updated 2024 Approved Do You Know You Can Add LUTs for Cinematic Color Grading on Your Smartphones? With VN Editor You Can, You Can Add LUTs. Choose the Option VN LUTs Free Download</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-want-to-add-a-slow-mo-effect-in-your-videos-in-this-guide-we-will-discuss-how-to-add-slow-motion-effects-in-the-videos-with-aft/"><u>Updated 2024 Approved Do You Want to Add a Slow-Mo Effect in Your Videos? In This Guide, We Will Discuss How to Add Slow-Motion Effects in the Videos with After Effects in an Efficient Way</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-wish-to-learn-about-some-tools-to-slow-down-a-video-discover-how-to-slow-down-time-lapse-on-iphone-throughout-this-article/"><u>Updated 2024 Approved Do You Wish to Learn About some Tools to Slow Down a Video? Discover How to Slow Down Time Lapse on iPhone Throughout This Article</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-use-kahoot-on-zoom-for-2024/"><u>Updated How to Use Kahoot! On Zoom for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-looking-for-a-voice-changer-to-make-your-gaming-experience-more-fun-here-is-a-list-of-the-top-6-best-alternatives-of-clownfish-voice/"><u>Updated In 2024, Are You Looking for a Voice Changer to Make Your Gaming Experience More Fun? Here Is a List of the Top 6 Best Alternatives of Clownfish Voice Changers to Use</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-slow-motion-video-editors-to-look-out-for/"><u>Updated In 2024, Slow Motion Video Editors To Look Out For</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-what-is-the-best-voice-changer-for-whatsapp-discover-the-seven-7-best-voice-changers-for-whatsapp-here-in-this-post-for-2024/"><u>Updated What Is the Best Voice Changer for WhatsApp? Discover the Seven (7) Best Voice Changers for WhatsApp Here in This Post for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/wacoms-joy-all-connected-no-more-struggles/"><u>Wacom's Joy: All Connected, No More Struggles</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/agribuddy-games-celebrating-camaraderie-on-the-farm/"><u>AgriBuddy Games Celebrating Camaraderie on the Farm</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/cyberpunk-2077-release-issues-resolved-now-playable/"><u>Cyberpunk 2077 Release Issues Resolved: Now Playable</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/decoding-high-performance-gadgets-an-in-depth-guide-by-toms-hardware/"><u>Decoding High-Performance Gadgets: An In-Depth Guide by Tom's Hardware</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-xcover-7-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Samsung Galaxy XCover 7 has native MOV support?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/expert-evaluation-of-the-docooler-usb-20-capturing-at-12-megapixels-unveiling-the-truth/"><u>Expert Evaluation of the Docooler USB 2.0, Capturing at 12 Megapixels: Unveiling the Truth</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/flawless-cross-sound-mixing-in-audacity-pro-for-2024/"><u>Flawless Cross-Sound Mixing in Audacity Pro for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-xiaomi-14-ultra-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Xiaomi 14 Ultra is off? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-x5-pro-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Poco X5 Pro Phone without Google Account?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/mastering-pc-performance-how-to-refresh-ati-drivers-under-the-windows-operating-system/"><u>Mastering PC Performance: How to Refresh ATI Drivers Under the Windows Operating System</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/optimizing-ppt-presentations-across-devices-for-google-meet/"><u>Optimizing PPT Presentations Across Devices for Google Meet</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/picarts-quick-shield-for-facial-features-for-2024/"><u>PicArt's Quick Shield for Facial Features for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/rainbow-six-extraction-error-resolved-how-to-address-no-compatible-driverhardware-found/"><u>Rainbow Six Extraction Error Resolved: How to Address 'No Compatible Driver/Hardware Found'</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/review-of-the-latest-totobay-wake-up-light-is-it-your-best-budget-sleep-solution/"><u>Review of the Latest Totobay Wake-Up Light: Is It Your Best Budget Sleep Solution?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/roblox-server-status-understanding-downtime-and-connectivity-issues/"><u>Roblox Server Status: Understanding Downtime and Connectivity Issues</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/the-ultimate-guide-to-the-amazon-fire-hd-10-an-all-family-friendly-media-powerhouse-review/"><u>The Ultimate Guide to the Amazon Fire HD 10: An All-Family-Friendly Media Powerhouse Review</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/toms-tech-review-your-ultimate-guide-to-computer-gear/"><u>Tom's Tech Review: Your Ultimate Guide to Computer Gear</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
