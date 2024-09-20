@@ -1,7 +1,7 @@
 ---
 title: "Mastering Stability in Halo Infinite: Preventing PC Game Interruptions"
-date: 2024-09-13T21:31:29.211Z
-updated: 2024-09-15T02:20:46.429Z
+date: 2024-09-17T19:38:40.784Z
+updated: 2024-09-19T20:49:39.780Z
 tags:
   - win11
   - win10
@@ -66,10 +66,10 @@ There are mainly two ways you can update the graphics driver:
  If updating the graphics driver doesn’t work, you can move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Change in-game settings
@@ -82,22 +82,29 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
 
  4) Set**MINIMUM FRAME RATE** &**MAXIMUM FRAM RATE** . Enable**VSYNC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
@@ -118,13 +125,6 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Change NVIDIA resolution
 
@@ -151,19 +151,18 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-cultivating-a-distinctive-presence-in-the-marketplace-for-2024/"><u>[New] Cultivating a Distinctive Presence in the Marketplace for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-the-art-of-gathering-free-photo-display-videos/"><u>[New] The Art of Gathering Free Photo Display Videos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-how-to-send-gif-on-snapchat-step-by-step-guide/"><u>[Updated] 2024 Approved How to Send Gif on Snapchat [Step-by-Step Guide]</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-of-asus-pcb-driver-software-on-your-windows-machine/"><u>Easy Installation of ASUS PCB Driver Software on Your Windows Machine</u></a></li>
-<li><a href="https://blog-min.techidaily.com/effortless-dvd-cloning-convert-and-save-as-iso-using-winx-dvd-copy-professional/"><u>Effortless DVD Cloning: Convert and Save as ISO Using WinX DVD Copy Professional</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-a-stepwise-journey-to-meme-mastery-in-kinemaster/"><u>In 2024, A Stepwise Journey to Meme Mastery in KineMaster</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-add-a-miniature-effect-on-your-video-for-filmy-looks-to-add-this-effect-read-the-complete-guide-and-make-your-video-cinematic-by-wondershare-filmora/"><u>In 2024, Add a Miniature Effect on Your Video for Filmy Looks. To Add This Effect, Read the Complete Guide and Make Your Video Cinematic by Wondershare Filmora</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/lock-your-realme-c51-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Realme C51 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-movements-intova-xs-video-excellence-for-2024/"><u>Mastering Movements Intova X's Video Excellence for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-are-you-looking-to-store-your-videos-securely-and-efficiently-look-no-further-than-our-top-pick-for-the-best-cloud-storage-service-for-videos-for-2024.m/"><u>New Are You Looking to Store Your Videos Securely and Efficiently? Look No Further than Our Top Pick for the Best Cloud Storage Service for Videos for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-top-free-luts-to-use-in-shotcut-an-overview/"><u>New Top Free LUTs To Use in Shotcut An Overview</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/tips-to-make-cinematic-color-grading/"><u>Tips to Make Cinematic Color Grading</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-best-video-title-generators/"><u>Updated 2024 Approved Best Video Title Generators</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/using-one-of-the-best-converter-tools-to-turn-gifs-into-png-or-jpg-here-learn-about-the-ten-best-ones-for-different-operating-systems-with-details-on-featur/"><u>Using One of the Best Converter Tools to Turn GIFs Into PNG or JPG. Here, Learn About the Ten Best Ones for Different Operating Systems, with Details on Features, Prices, and More</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-google-ar-stickers-explained-with-comparative-alternatives/"><u>[New] In 2024, Google AR Stickers Explained with Comparative Alternatives</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-nailing-the-aesthetic-mastering-snapchats-filters-and-effects/"><u>[New] Nailing the Aesthetic Mastering Snapchat's Filters & Effects</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-navigating-google-chromes-picture-in-picture-feature-for-2024/"><u>[Updated] Navigating Google Chrome's Picture In Picture Feature for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/delving-into-ffmpeg-for-pure-unchanged-auditory-extraction-for-2024/"><u>Delving Into FFmpeg for Pure, Unchanged Auditory Extraction for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-honor-magic5-ultimate-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Honor Magic5 Ultimate.</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-in-depth-assessment-comprehensive-camstudio-review/"><u>In 2024, In-Depth Assessment Comprehensive CamStudio Review</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-are-you-also-a-fan-of-the-slow-mo-guys-well-who-isnt-learn-how-you-can-create-compelling-slow-mo-videos-like-the-slow-mo-guys-here/"><u>New In 2024, Are You Also a Fan of the Slow Mo Guys? Well! Who Isnt? Learn How You Can Create Compelling Slow-Mo Videos Like the Slow Mo Guys Here</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-to-know-about-the-best-filmic-pro-luts-for-video-editing-this-article-provides-details-on-the-best-recommendations/"><u>New In 2024, Do You Want to Know About the Best Filmic Pro LUTs for Video Editing? This Article Provides Details on the Best Recommendations</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713964797206-new-storyboards-are-amazing-way-if-you-want-to-present-your-story-in-a-visual-way-like-explaining-any-process-or-giving-any-information-it-is-a-graphic-layo/"><u>New Storyboards Are Amazing Way if You Want to Present Your Story in a Visual Way, Like Explaining Any Process or Giving Any Information. It Is a Graphic Layout to Tell You a Story for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/tutorial-comment-convertir-des-fichiers-m4a-en-m4v-gratuits-sur-internet-via-movavi/"><u>Tutorial - Comment Convertir Des Fichiers M4A en M4V Gratuits Sur Internet via Movavi</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-top-10-anime-movies-of-all-time/"><u>Updated 2024 Approved Top 10 Anime Movies of All Time</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-use-kahoot-on-zoom/"><u>Updated In 2024, How to Use Kahoot! On Zoom</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-unleash-the-power-of-video-scopes-in-your-video-editing-projects-find-the-most-common-video-scopes-and-how-to-use-them-on-video-editing-soft/"><u>Updated In 2024, Unleash the Power of Video Scopes in Your Video Editing Projects. Find the Most Common Video Scopes and How to Use Them on Video Editing Software</u></a></li>
 </ul></div>
 

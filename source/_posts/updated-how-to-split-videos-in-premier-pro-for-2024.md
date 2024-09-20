@@ -1,7 +1,7 @@
 ---
 title: Updated How To Split Videos in Premier Pro for 2024
-date: 2024-09-08T17:21:17.670Z
-updated: 2024-09-14T22:08:15.943Z
+date: 2024-09-15T17:29:48.874Z
+updated: 2024-09-19T18:11:31.255Z
 tags: 
   - ai
   - animation videos
@@ -52,10 +52,10 @@ Step2Ensure that the video layer you want to split is highlighted on the timelin
 Step3Use the keyboard shortcuts Cmd+K or Ctrl+K to split the clip.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Source Panel
@@ -73,16 +73,10 @@ Step2Wherever you want the In and Out indicators to appear, press the **I** or *
 Step3Select Insert from the Source panel's tools once your marks are in place.
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. How to split audio from video in premiere pro?
@@ -96,18 +90,20 @@ Step3Select Insert from the Source panel's tools once your marks are in place.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-inspire-your-brand-with-smart-channel-name-genesis/"><u>[New] 2024 Approved Inspire Your Brand with Smart Channel Name Genesis</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-perfecting-your-podcast-in-depth-zoom-video-recording-tutorial/"><u>[New] In 2024, Perfecting Your Podcast In-Depth Zoom Video Recording Tutorial</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-room-prep-101-ensuring-your-system-is-ready-for-oculus-rift/"><u>[New] Room Prep 101 Ensuring Your System Is Ready for Oculus Rift</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-innovative-approaches-to-live-broadcasting-on-youtube-with-wirecast-for-2024/"><u>[Updated] Innovative Approaches to Live Broadcasting on Youtube with WireCast for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/dance-your-way-to-fame-with-tiktok-on-mac-for-2024/"><u>Dance Your Way to Fame with TikTok on Mac for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-oppo-reno-11-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Oppo Reno 11 5G Quickly | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-unveiling-the-best-fb-movie-grabs-8-edition/"><u>In 2024, Unveiling the Best FB Movie Grabs #8 Edition</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-do-you-want-to-know-which-are-the-best-wondershare-filmora-luts-to-use-there-are-many-luts-that-you-can-download-each-with-a-different-tone-and-style-fo/"><u>New Do You Want to Know Which Are the Best Wondershare Filmora LUTs to Use? There Are Many LUTs that You Can Download, Each with a Different Tone and Style for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-quick-guide-to-modifying-your-vocal-characteristics-in-pubg/"><u>The Quick Guide to Modifying Your Vocal Characteristics in PUBG</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-perform-mask-tracking-discovering-the-best-methods/"><u>Updated 2024 Approved How to Perform Mask Tracking Discovering the Best Methods</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-zoom-in-on-powerpoint-easy-ways-for-2024/"><u>Updated How to Zoom in on PowerPoint Easy Ways for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-know-capcut-has-some-amazing-slow-motion-templates-you-can-utilize-read-this-article-to-access-the-slow-motion-capcut-templates-link./"><u>Updated In 2024, Do You Know CapCut Has some Amazing Slow-Motion Templates You Can Utilize? Read This Article to Access the Slow-Motion CapCut Templates Link</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-learning-unique-ways-to-slow-down-time-lapse-on-iphone/"><u>Updated In 2024, Learning Unique Ways to Slow Down Time Lapse on iPhone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/hannel-upgrade-the-beginners-roadmap-to-video-mastery/"><u>[New] Channel Upgrade The Beginner's Roadmap to Video Mastery</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-troubleshooting-mute-reviving-sound-in-obs-recordings/"><u>[Updated] 2024 Approved Troubleshooting Mute Reviving Sound in OBS Recordings</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-detailed-tutorial-to-resize-your-video-in-vlc/"><u>2024 Approved Detailed Tutorial to Resize Your Video in VLC</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-make-a-tattoo-disappear-like-a-magic/"><u>2024 Approved How to Make A Tattoo Disappear Like A Magic</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-novice-to-pro-streamlining-your-win11-zoom-sessions-for-2024/"><u>From Novice to Pro Streamlining Your Win11 Zoom Sessions for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-oppo-a1x-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Oppo A1x 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reset-power-schemes-back-to-windows-default/"><u>How To Reset Power Schemes Back to Window's Default</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-tecno-spark-20c-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Tecno Spark 20C? Fixed | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-create-intro-with-legend-intro-maker/"><u>New 2024 Approved How to Create Intro with Legend Intro Maker</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-detailed-steps-to-rotate-videos-using-kdenlive/"><u>New Detailed Steps to Rotate Videos Using Kdenlive</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-do-you-want-to-add-a-motion-blur-effect-in-valorant-read-this-guide-to-find-out-how-to-create-a-motion-blur-effect-in-valorant-without-any-hassle/"><u>New Do You Want to Add a Motion Blur Effect in Valorant? Read This Guide to Find Out How to Create a Motion Blur Effect in Valorant without Any Hassle</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/e-platforms-embedding-video-playlists-from-youtube/"><u>Online Platforms Embedding Video Playlists From YouTube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/optimal-techniques-for-verbal-note-taking-expertise/"><u>Optimal Techniques for Verbal Note-Taking Expertise</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-steps-to-create-green-screen-videos-in-after-effects/"><u>Updated 2024 Approved Steps to Create Green Screen Videos in After Effects</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-4k-videos-are-the-in-thing-because-of-their-flexibility-and-high-resolution-stick-around-to-learn-how-to-choose-the-best-frame-rate-for-4k-v/"><u>Updated In 2024, 4K Videos Are the in Thing because of Their Flexibility and High Resolution. Stick Around to Learn How to Choose the Best Frame Rate for 4K Videos</u></a></li>
 </ul></div>
 

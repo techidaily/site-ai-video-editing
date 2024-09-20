@@ -1,7 +1,7 @@
 ---
 title: New Using Slow Motion in Adobe After Effects A Step-by-Step Procession for 2024
-date: 2024-09-07T21:48:58.207Z
-updated: 2024-09-14T18:22:02.450Z
+date: 2024-09-17T02:07:56.368Z
+updated: 2024-09-19T21:17:01.736Z
 tags: 
   - ai
   - animation videos
@@ -71,13 +71,6 @@ It contains a wide range of filters and overlays. It also allows you to apply tr
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Add Slow-Motion Effect With Filmora
 
 Are you ready to create a slow-mo effect in Filmora? Read the following section to learn how to create a **slow-motion effect** using this tool.
@@ -94,6 +87,13 @@ On the main interface, press “Ctrl + I” from your keyboard. By doing so, you
 
 ![add video to timeline](https://images.wondershare.com/filmora/article-images/2023/guide-to-use-slow-motion-after-effects-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 3: Choose Optical Flow
 
 Now, select the video you have dragged to the timeline. Go to the right panel and choose the “Speed” tab. Look through the “Uniform Speed” tab and look for the “AI Frame Interpolation” option. By expanding this option, choose “Optical Flow.”
@@ -106,20 +106,19 @@ Now, head to the toolbar of the timeline. From there, tap on “Render Preview,�
 
 ![finalize and export video](https://images.wondershare.com/filmora/article-images/2023/guide-to-use-slow-motion-after-effects-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 With the new upgrade, you can add an accurate **slow-mo effect** from Filmora. It uses AI technology to achieve the best results. Hence, this editing tool is a game-changer in the video production industry.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Exceptional Features of Filmora
@@ -131,6 +130,13 @@ With the new upgrade, you can add an accurate **slow-mo effect** from Filmora. I
 * [**Silence Detection**](https://tools.techidaily.com/wondershare/filmora/download/)**:** To add more clarity to your videos, try the Silence Detection feature. This option removes the silent parts from your video. The process is automatic and does not need your manual efforts. Thus, with a single tap, you can eradicate unwanted parts from the video.
 
 * [**Speech-to-Text**](https://tools.techidaily.com/wondershare/filmora/download/)**:** The STT feature transcribes the video in the selected language. You can add subtitles to the videos in up to 26 languages. This feature increases your editing efficiency and offers great accuracy.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,20 +155,14 @@ A **slow-motion effect** can highlight an action in a video clip. It can engage 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-youtube-masterclass-choose-your-development-stage/"><u>[New] 2024 Approved YouTube Masterclass Choose Your Development Stage</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-from-novice-to-pro-harnessing-inshot-for-editing/"><u>[New] In 2024, From Novice to Pro Harnessing Inshot for Editing</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-unlock-the-art-of-snapchat-pins/"><u>[Updated] 2024 Approved Unlock the Art of Snapchat Pins</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-peakrecorder-a-comprehensive-screen-capture-analysis/"><u>[Updated] In 2024, PeakRecorder A Comprehensive Screen Capture Analysis</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-setting-up-your-mac-for-flawless-minecraft-sessions/"><u>[Updated] Setting Up Your Mac for Flawless Minecraft Sessions</u></a></li>
-<li><a href="https://facebook.techidaily.com/exposing-the-amazon-facebook-group-admin-dispute/"><u>Exposing the Amazon-Facebook Group Admin Dispute</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/fixing-silent-menace-solutions-for-evil-genius-2-audio-issues/"><u>Fixing Silent Menace: Solutions for 'Evil Genius 2' Audio Issues</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/inside-toms-hardware-realm-unveiling-top-gadgets/"><u>Inside Tom's Hardware Realm: Unveiling Top Gadgets</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/overcoming-facebooks-stubborn-buffering-errors-a-comprehensive-guide/"><u>Overcoming Facebook's Stubborn Buffering Errors - A Comprehensive Guide</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/reliability-meets-portability-in-depth-review-of-the-audew-air-pump-for-versatile-use/"><u>Reliability Meets Portability: In-Depth Review of the Audew Air Pump for Versatile Use</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/revamped-gamers-choice-discover-the-latest-upgrades-to-maingears-north-desktop-lineup/"><u>Revamped Gamer's Choice: Discover the Latest Upgrades to Maingear's North Desktop Lineup</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/solution-found-overcoming-the-siths-blackout-glitch-in-star-wars-battlefront-2/"><u>Solution Found! Overcoming the Sith's Blackout Glitch in Star Wars Battlefront 2</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/the-toms-tech-blog-pioneering-discoveries-in-the-world-of-hardware/"><u>The Tom's Tech Blog: Pioneering Discoveries in the World of Hardware</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/unlocking-the-secrets-with-toms-pc-hardware-insights/"><u>Unlocking the Secrets with Tom's PC Hardware Insights</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/unveiling-the-latest-in-technology-with-toms-gear-insights/"><u>Unveiling the Latest in Technology with Tom's Gear Insights</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-game-on-unlock-the-secrets-of-effective-lol-recording/"><u>[New] In 2024, Game-On! - Unlock the Secrets of Effective LOL Recording</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-transform-your-photos-with-instagrams-latest-filters-2023-techniques/"><u>[New] Transform Your Photos with Instagram's Latest Filters (2023 Techniques)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-streaming-software-spectacle-choosing-between-virusmix-and-castpro/"><u>[Updated] In 2024, Streaming Software Spectacle Choosing Between VirusMix and CastPro</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-sites-like-famebit-where-you-can-find-youtube-sponsorships-for-2024/"><u>[Updated] Sites Like FameBit Where You Can Find YouTube Sponsorships for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-create-kinetice-typography-text-effect-in-filmora/"><u>2024 Approved Create Kinetice Typography Text Effect in Filmora</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-top-6-online-video-speed-controller-for-chrome-safari-firefox/"><u>2024 Approved TOP 6 Online Video Speed Controller for Chrome, Safari, Firefox</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-add-font-effects-to-videos/"><u>New 2024 Approved How to Add Font Effects to Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/twitch-writers-picks-5-ultimate-cams-for-gameplay-broadcasting-for-2024/"><u>Twitch' Writers’ Picks 5 Ultimate Cams for Gameplay Broadcasting for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-modern-communication-channels-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>Understanding Modern Communication Channels: A Deep Dive Into Facebook, Twitter, Instagram & YouTube</u></a></li>
 </ul></div>
 

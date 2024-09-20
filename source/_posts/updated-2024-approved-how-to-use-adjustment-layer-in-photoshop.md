@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Use Adjustment Layer in Photoshop?
-date: 2024-09-09T02:16:06.478Z
-updated: 2024-09-14T16:13:15.219Z
+date: 2024-09-16T05:45:44.171Z
+updated: 2024-09-19T16:25:41.278Z
 tags: 
   - ai
   - animation videos
@@ -72,10 +72,16 @@ Raw images always come with lots of imperfections. If you want to edit and enhan
 If your image has light problems, you can set the exposure by adding an adjustment layer. Furthermore, you can make the colors of the image pop out by adjusting the color balance. This is also possible with adjustment layers, as it makes the whole process of image editing efficient. Other components that you can modify using adjustment layers are brightness, curves, hue, photo filter, vibrance, etc.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4.2 What Kinds of Adjustment Layers Can You Try?
@@ -88,18 +94,18 @@ Once you have opened the image in Photoshop, add an adjustment layer and select 
 
 ![color lookup layer in photoshop](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-photoshop-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2\. Add a Blur Adjustment Layer in Photoshop**
 
 First, you have to create an adjustment layer in Photoshop. Once done, you can navigate to the “Filters” and choose any blur effects, such as Gaussian Blur. You can also apply the motion or radial blur effect from the “Filters” tab. Once you have selected the blur effect, apply it to the adjustment layer. Moreover, you can also try the “Layer Mask” to paint on the specific parts you want to make sharp.
 
 ![add the blur effect](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-photoshop-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3\. Add a Curves Adjustment Layer in Photoshop**
 
@@ -116,10 +122,10 @@ To make a brightness and contrast layer in Photoshop, go to the “Adjustments P
 ![add the blur effect](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-photoshop-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5\. Adjust Layer Opacity in Photoshop**
@@ -129,10 +135,10 @@ To learn **how to adjust opacity in Photoshop**, select the desired layer and cl
 ![adjust the layer opacity](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-photoshop-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -154,16 +160,18 @@ As Photoshop is a layer-based editing software, this article will focus on how t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-elevating-your-visuals-mastering-instagram-edits-in-fcpx/"><u>[New] 2024 Approved Elevating Your Visuals Mastering Instagram Edits in FCPX</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/xploring-the-possibility-of-monthly-youtube-income/"><u>[New] Exploring the Possibility of Monthly YouTube Income</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-essential-videography-the-leading-screen-recorder-apps/"><u>2024 Approved Essential Videography The Leading Screen Recorder Apps</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-make-fortnite-thumbnail-with-motion-blur/"><u>New 2024 Approved How to Make Fortnite Thumbnail with Motion Blur?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-are-you-looking-for-a-voice-changer-to-make-your-gaming-experience-more-fun-here-is-a-list-of-the-top-6-best-alternatives-of-clownfish-voice-cha/"><u>New In 2024, Are You Looking for a Voice Changer to Make Your Gaming Experience More Fun? Here Is a List of the Top 6 Best Alternatives of Clownfish Voice Changers to Use</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-overview-of-best-luts-for-vlog-for-2024/"><u>New Overview of Best LUTs for Vlog for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-tiktok-video-aspect-ratio-for-2024/"><u>New Tiktok Video Aspect Ratio for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-sony-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Sony Phones</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-rated-cellular-signal-amplifiers-a-comprehensive-guide/"><u>Top Rated Cellular Signal Amplifiers : A Comprehensive Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-realme-gt-5-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Realme GT 5 FRP Bypass</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-there-are-many-vlogging-cameras-you-can-find-in-the-market-however-to-get-a-good-start-in-vlogging-some-sony-vlogging-cameras-and-canon-vlog/"><u>Updated In 2024, There Are Many Vlogging Cameras You Can Find in the Market. However, to Get a Good Start in Vlogging, some Sony Vlogging Cameras and Canon Vlog Cameras Are to Consider. This Article Introduces You to the Respective List</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-the-ultimate-guide-to-crafting-irresistible-titles/"><u>[New] 2024 Approved The Ultimate Guide to Crafting Irresistible Titles</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-the-quick-step-to-cutting-edge-gif-creation-from-vimeo/"><u>[New] In 2024, The Quick-Step to Cutting Edge GIF Creation From Vimeo</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-mastering-ppt-recording-essential-tips/"><u>[New] Mastering PPT Recording Essential Tips</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-ultimate-high-quality-capture-software-pcmac/"><u>[Updated] In 2024, Ultimate High-Quality Capture Software, PC/Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-virtual-reality-biking-must-haves/"><u>2024 Approved Top 10 Virtual Reality Biking Must-Haves</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-s17-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo S17 FRP</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-driver-update-for-hp-officejet-pro-8610-on-windows-11-8-7-xp-and-vista-get-it-now/"><u>Latest Driver Update for HP Officejet Pro #8610 on Windows 11, 8, 7, XP & Vista - Get It Now</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-slow-motion-videos-are-taking-over-social-media-and-becoming-a-new-trend-read-this-article-if-you-want-to-learn-how-to-slow-down-video-in-/"><u>New 2024 Approved Slow Motion Videos Are Taking over Social Media and Becoming a New Trend. Read This Article if You Want to Learn How to Slow Down Video in After Effects</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-stunning-glitch-effect-in-photoshop-for-2024/"><u>Updated How to Make Stunning Glitch Effect in Photoshop for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-get-zoom-on-tv-easy-solutions/"><u>Updated In 2024, How to Get Zoom on TV Easy Solutions</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-learn-to-merge-clips-in-davinci-resolve-simple-steps/"><u>Updated In 2024, Learn to Merge Clips in DaVinci Resolve Simple Steps</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-tiktok-video-aspect-ratio-for-2024/"><u>Updated Tiktok Video Aspect Ratio for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/x-pen-drivers-step-by-step-tutorial-for-latest-installation/"><u>X-PEN Drivers - Step by Step Tutorial for Latest Installation</u></a></li>
 </ul></div>
 

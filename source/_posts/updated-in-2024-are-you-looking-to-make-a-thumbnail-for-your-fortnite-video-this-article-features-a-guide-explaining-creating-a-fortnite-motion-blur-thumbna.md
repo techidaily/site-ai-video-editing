@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Are You Looking to Make a Thumbnail for Your Fortnite Video? This Article Features a Guide Explaining Creating a Fortnite Motion Blur Thumbnail
-date: 2024-09-09T02:25:47.520Z
-updated: 2024-09-14T17:54:14.914Z
+date: 2024-09-18T20:15:59.307Z
+updated: 2024-09-19T20:27:09.999Z
 tags: 
   - ai
   - animation videos
@@ -77,13 +77,6 @@ Continue to set the “Blur Intensity” and make changes by clicking “Apply.�
 
 ![adjust the blur intensity](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Way 3: Make Motion Blur Fortnite Thumbnail with Photoshop (Desktop)
 
 [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) stands among one of the best and most professional tools designed to enhance the quality of your photos. Although it is based on users who are professionals in editing, it gives a detailed set of options to make the most creative idea out of a photo. While adjusting the blur effect, it offers multiple settings for highlighting the image's objects and colors.
@@ -98,18 +91,18 @@ You must start Adobe Photoshop on your desktop after downloading and installing 
 
 ![import the fortnite thumbnail](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step2 Create a Separate Object Layer
 
 To start with the process, right-click and create a duplicate layer by selecting the respective option from the drop-down menu. Use the "Polygonal Lasso" tool to mark the object you want to exempt from the motion blur. Once done, use the "Layer Mask" button to isolate the object.
 
 ![create the duplicate layer](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step3 Add Motion Blur to Object
 
@@ -129,6 +122,13 @@ In this article, we will work on the best methods to make a **Fortnite motion bl
 
 ![fortnite thumbnail with motion blur](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -138,19 +138,18 @@ In this article, we will work on the best methods to make a **Fortnite motion bl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/omen-at-war-yts-top-10-gamers/"><u>[New] Women at War YT's #Top 10 Gamers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-best-free-and-paid-blu-ray-video-player-software-for-pcandmac/"><u>[Updated] Best Free and Paid Blu-Ray Video Player Software for PC&Mac</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-dynamic-range-the-essential-guide-to-modern-camera-tech/"><u>[Updated] High Dynamic Range The Essential Guide to Modern Camera Tech</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-pro-minecraft-recordings-handbook/"><u>2024 Approved Pro Minecraft Recordings Handbook</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/introducing-the-asus-azoth-extreme-the-ergonomic-keyboard-that-transforms-your-touch-typing-experience-through-its-innovative-switch-design/"><u>Introducing the Asus Azoth Extreme: The Ergonomic Keyboard That Transforms Your Touch-Typing Experience Through Its Innovative Switch Design</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-the-way-to-quick-and-efficient-editing-keyboard-shortcuts-in-filmora/"><u>New 2024 Approved The Way to Quick and Efficient Editing | Keyboard Shortcuts in Filmora</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-applications-and-software-take-up-your-devices-storage-to-create-slow-mo-explore-this-piece-to-learn-about-some-slow-motion-video-online-makers./"><u>New In 2024, Applications and Software Take up Your Devices Storage to Create Slow-Mo. Explore This Piece to Learn About some Slow-Motion Video Online Makers</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-looking-forward-to-complement-your-weekend-evenings-with-a-fantasy-tour-to-the-anime-world-stay-here-to-pick-the-most-appealing-alternative-from/"><u>New In 2024, Looking Forward to Complement Your Weekend Evenings with a Fantasy Tour to the Anime World? Stay Here to Pick the Most Appealing Alternative From the Best and Timeless Anime Creations</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-offering-the-best-understanding-of-performing-imovie-slow-motion-video-for-2024/"><u>New Offering The Best Understanding of Performing iMovie Slow Motion Video for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/perfect-your-xbox-footage-4-recording-strategies-revealed/"><u>Perfect Your Xbox Footage 4 Recording Strategies Revealed</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/your-views-iphones-looping-feature-for-2024/"><u>Sync Your Views IPhone's Looping Feature for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-making-slow-motion-videos-in-premiere-pro-a-review-on-the-best-method/"><u>Updated 2024 Approved Making Slow Motion Videos in Premiere Pro A Review on The Best Method</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-breaking-boundaries-running-windows-and-mac-video-editing-software-on-chromebook/"><u>Updated Breaking Boundaries Running Windows and Mac Video Editing Software on Chromebook</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-update-essentials-repair-and-restoration-solutions/"><u>Windows Update Essentials: Repair & Restoration Solutions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-capture-memories-in-high-quality-a-comprehensive-guide-to-logitech-webcam-use-for-2024/"><u>[New] Capture Memories in High Quality A Comprehensive Guide to Logitech Webcam Use for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-verify-your-youtube-account-a-simple-guide/"><u>[New] How to Verify Your YouTube Account - a Simple Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-tips-for-adding-music-to-photo-online/"><u>[Updated] 2024 Approved Tips for Adding Music to Photo Online</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-vid-wizards-guide-to-glitter-and-glamour-creating-your-chanel/"><u>[Updated] Vid-Wizards Guide to Glitter and Glamour Creating Your Chanel</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/advanced-computing-insights-from-toms-equipment-analysis/"><u>Advanced Computing Insights From Tom’s Equipment Analysis</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/exploring-the-world-of-gadgets-with-tom-in-depth-analysis/"><u>Exploring the World of Gadgets with Tom - In-Depth Analysis</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Poco M6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-google-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Google Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-x7b-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor X7b Phone FRP Lock</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/navigating-digital-realms-at-toms-tech-oasis/"><u>Navigating Digital Realms at Tom's Tech Oasis</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/revive-your-razer-microphone-a-step-by-step-guide-to-troubleshooting-the-mic/"><u>Revive Your Razer Microphone: A Step-by-Step Guide to Troubleshooting the Mic</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/the-authors-secret-weapon-discover-how-chatgpt-revolutionizes-writing/"><u>The Author's Secret Weapon? Discover How ChatGPT Revolutionizes Writing</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/unveiling-innovative-solutions-discover-top-picks-at-techmaster-review-center/"><u>Unveiling Innovative Solutions: Discover Top Picks at TechMaster Review Center</u></a></li>
 </ul></div>
 

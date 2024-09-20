@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Do You Want to Experiment with Various Sky Backgrounds for Your Footage? Learn About Sky Replacement After Effects in This Article with a Step-by-Step Guide
-date: 2024-09-07T18:06:40.789Z
-updated: 2024-09-14T20:42:28.329Z
+date: 2024-09-17T03:54:50.758Z
+updated: 2024-09-19T20:32:31.579Z
 tags: 
   - ai
   - animation videos
@@ -49,13 +49,6 @@ In the media industry, backgrounds like the sky help express the emotion of an a
 
 A well-aligned background increases the audience's focus on the theme of the video. This is because irrelevant backgrounds can catch the audience's interest and distract them.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Top Guide Explaining How to Replace Sky in Adobe After Effects?
 
 Do you want to elevate the graphics of your videos professionally? Adobe After Effects is an ideal software for it as it helps professionals to edit films. It offers multiple animations for titles and videos like revolve, rotate, and more. In addition, you can overlap videos with precision using its Rotoscope feature.
@@ -67,6 +60,13 @@ There are built-in effects and features to ease the editing process for you. In 
 **Step 1:** After bringing your video to the timeline, navigate towards the top search bar at the left. In the Effects Control option, search for the "Extractor" effect and add it. Then, change the "Channel" of this effect to your "Blue" or "Luminance." Change the position of both sliders there to remove and feather the background.
 
 ![enable extract effect](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-after-effects-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2:** To avoid removing parts other than the sky, duplicate this video to the timeline. From the bottom video, eliminate the extractor effect. Navigate towards the top toolbar and select the "Mask" option. Create a mask around the ground at the bottom of the video. In the timeline, click the "Mask Path" option to create the mask throughout the video.
 
@@ -86,29 +86,9 @@ There are built-in effects and features to ease the editing process for you. In 
 
 ![activate 3d tracking for mask](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-after-effects-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Next, select any three points from the footage and right-click on them. From the drop-down menu, select "Create Null and Camera" or "Create Solid and Camera."
 
 ![select a camera option](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-after-effects-6.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Procedure 3: Replacing the Sky
 
@@ -116,15 +96,22 @@ There are built-in effects and features to ease the editing process for you. In 
 
 ![adjust the position of sky](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-after-effects-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** Once you have set the sky's position, navigate towards the timeline panel again. From there, change the "Scale" of the background to set according to your footage. Afterward, see if the sky needs any flipping. This is because you must align the bright parts of the sky with the bright parts of the ground.
 
 ![adjust the scale of sky](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-after-effects-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Procedure 4: Color Matching
@@ -132,6 +119,13 @@ There are built-in effects and features to ease the editing process for you. In 
 **Step 1:** Play with the color setting elements like "Saturation" or "Lightness." Change the position of their sliders to observe the changes in your footage.
 
 ![do basic color corrections](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-after-effects-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2:** Right-click on the timeline and add "New > Adjustment Layer" for settling colors. Afterward, see the preview of your video and export it.
 
@@ -156,6 +150,13 @@ Unlike **replacing Sky After Effects**, it keeps the background changing process
 First, install Wondershare Filmora on your device and launch it. Afterward, use the "New Project" button to start a project and enter its editing interface. Use the "Ctrl +I" keys to import your video and drop it on the timeline.
 
 ![import media after creating a project](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-after-effects-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step 2Enable the Smart Cutout Option
 
@@ -185,13 +186,6 @@ Wondershare Filmora, on the other hand, can carry on the process with efficiency
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -201,18 +195,16 @@ Wondershare Filmora, on the other hand, can carry on the process with efficiency
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-leveraging-synergies-how-to-choose-ideal-youtube-duosgroups/"><u>[Updated] In 2024, Leveraging Synergies How to Choose Ideal YouTube Duos/Groups</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-easy-way-to-create-a-diy-green-screen-video-effect/"><u>2024 Approved Easy Way to Create a DIY Green Screen Video Effect</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/best-8-ai-video-denoise-software/"><u>Best 8 AI Video Denoise Software</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/how-to-add-font-effect-for-2024/"><u>How to Add Font Effect for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-broken-ethernet-connections-in-windows-10-and-windows-7/"><u>How to Repair Broken Ethernet Connections in Windows 10 and Windows 7</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-8-best-sites-to-get-glitch-transition-for-premiere-pro/"><u>In 2024, 8 Best Sites to Get Glitch Transition for Premiere Pro</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-dynamic-igtv-covers-design-and-update-strategies/"><u>In 2024, Dynamic IGTV Covers Design & Update Strategies</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-save-as-mp4-file-on-windows-movie-maker/"><u>In 2024, How to Save As MP4 File on Windows Movie Maker?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-pros-guide-to-srt-alterations-on-a-macbook/"><u>In 2024, The Pro's Guide to SRT Alterations on a MacBook</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ios-proguide-suite-seamless-troubleshooting-tools-and-resources-for-your-smartphone-solutions/"><u>IOS ProGuide Suite: Seamless Troubleshooting Tools & Resources for Your Smartphone Solutions</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-clone-yourself-in-videos-with-filmora/"><u>New Clone Yourself in Videos with Filmora</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-usb-connection-problems-effective-solutions-for-device-descriptor-request-failed-error/"><u>Overcoming USB Connection Problems: Effective Solutions for 'Device Descriptor Request Failed' Error</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategies-for-discerning-apples-top-rated-game-apps/"><u>Strategies for Discerning Apple's Top-Rated Game Apps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/levate-engagement-crafting-effective-youtube-backlinks/"><u>[New] Elevate Engagement Crafting Effective YouTube Backlinks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-how-to-effortlessly-access-and-apply-instagrams-best-filters-for-2024/"><u>[Updated] How to Effortlessly Access and Apply Instagram's Best Filters for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-decoding-the-freeze-in-photo-booth-videos/"><u>[Updated] In 2024, Decoding the Freeze in Photo Booth Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-iphone-and-android-tips-direct-video-sharing-to-twitter-no-retweets/"><u>2024 Approved IPhone & Android Tips Direct Video Sharing to Twitter No Retweets</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/from-shadowy-fringe-to-front-row-action-gaining-popularity-in-tiktok-unboxings-for-2024/"><u>From Shadowy Fringe to Front Row Action Gaining Popularity in TikTok Unboxings for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-efficient-resource-usage-control-your-desktop-window-managers-gpu-demands-on-windows-1011/"><u>Mastering Efficient Resource Usage: Control Your Desktop Window Manager's GPU Demands on Windows 10/11</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-do-you-want-to-download-slow-motion-apps-that-can-edit-video-professionally-this-article-will-discuss-some-slomo-makers-for-both-ios-and-android-for-202/"><u>New Do You Want to Download Slow-Motion Apps that Can Edit Video Professionally? This Article Will Discuss some Slomo Makers for Both iOS and Android for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-are-you-looking-for-a-voice-changer-to-make-your-gaming-experience-more-fun-here-is-a-list-of-the-top-6-best-alternatives-of-clownfish-voice-cha/"><u>New In 2024, Are You Looking for a Voice Changer to Make Your Gaming Experience More Fun? Here Is a List of the Top 6 Best Alternatives of Clownfish Voice Changers to Use</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-zoom-in-discord/"><u>New In 2024, How to Zoom in Discord</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-overview-of-best-luts-for-vlog-for-2024/"><u>New Overview of Best LUTs for Vlog for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-ai-has-influenced-all-video-editors-to-speed-up-editing-this-article-discusses-the-significance-of-ai-slow-motion-and-the-tools-that-o/"><u>Updated 2024 Approved AI Has Influenced All Video Editors to Speed up Editing. This Article Discusses the Significance of AI Slow Motion and the Tools that Offer It</u></a></li>
 </ul></div>
 
