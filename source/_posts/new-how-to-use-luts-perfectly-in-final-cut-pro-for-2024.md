@@ -1,7 +1,7 @@
 ---
 title: New How to Use LUTs Perfectly in Final Cut Pro for 2024
-date: 2024-09-13T17:55:07.877Z
-updated: 2024-09-20T00:55:23.926Z
+date: 2024-09-18T20:35:12.622Z
+updated: 2024-09-25T17:33:38.121Z
 tags: 
   - ai
   - animation videos
@@ -32,6 +32,13 @@ This free LUT pack is a perfect choice to give your videos a cinematic look. It 
 
 ![free cinematic luts pack](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2. 10 Free Vintage Color Presets for Final Cut Pro
 
 10 Free Vintage Color Presets for Final Cut Pro is a great pack if you're looking for a vintage or retro feel. It has a warm, yellowish color grading that can give your videos a nostalgic look. This pack is ideal for footage shot in the 70s, 80s, or 90s. It highlights the muddiness and brown shades in your video to add a touch of authenticity to it.
@@ -44,6 +51,13 @@ Perfect Green Video LUT is a pack of 3 cinematic-style LUTs. This pack is ideal 
 
 ![perfect green video lut](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Cyberpunk Color Grades
 
 Cyberpunk Color Grades is a pack of modern cyberpunk-style LUTs. It is a fantastic LUT pack if you're working on a music video or a creative project. It has a bold, colorful grading with high saturation that can make your video stand out. This LUT pack is perfect for scenes with many neon lights or bright backgrounds. Moreover, it adds an extra pop of color and makes your videos look more energetic.
@@ -51,10 +65,10 @@ Cyberpunk Color Grades is a pack of modern cyberpunk-style LUTs. It is a fantast
 ![cyberpunk color grades](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Pro Retouching Essentials Pack by Prince Meyson
@@ -62,6 +76,13 @@ Cyberpunk Color Grades is a pack of modern cyberpunk-style LUTs. It is a fantast
 Prince Meyson offers this skin tone enhancer LUT pack. It has a neutral, balanced color grading that can make your videos look more polished and professional. This LUT is ideal for interviews, documentaries, or corporate videos. Moreover, this pack is perfect for portraits and close-up shots. It can enhance the natural colors of your footage and make it look more refined.
 
 ![pro retouching essentials pack](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Apply LUTs on Final Cut Pro
 
@@ -75,24 +96,31 @@ Open Final Cut Pro and import your video. Once the video is imported, click on t
 
 ![import video to final cut pro](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step2
 
 Go to the “Effect Browser” and search for the LUT option from the search menu. After selecting it, you will get a “Custom LUT” layer. Select the custom LUT layer and drag and drop it onto your video clip. Then, click on the video clip and go to the “Inspector” window.
 
 ![open inspector window](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step3
 
 Select the “Custom LUT” option in the inspector window and choose your desired LUT from the LUT drop-down menu. Final Cut Pro will apply your desired LUT to your video clip.
 
 ![apply lut to layer](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Method 2 Using Adjustment Layer
 
@@ -101,13 +129,6 @@ Select the “Custom LUT” option in the inspector window and choose your desir
 Click the plugin button once you've imported your video clip and choose RT Adjustment Layer. Furthermore, if you don't have this plugin, you can download it for free.
 
 ![access adjustment layer](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step2
 
@@ -121,13 +142,6 @@ Drag and drop the “Custom LUT” layer onto your RT Adjustment Layer from the 
 
 ![apply lut to adjustment layer](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Method 3 Change Settings To Enable LUTs
 
 ##### Step1
@@ -135,6 +149,13 @@ Drag and drop the “Custom LUT” layer onto your RT Adjustment Layer from the 
 Import your video into Final Cut Pro and click on your video in the library and open the inspector window.
 
 ![add video to fcp timelne](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step2
 
@@ -150,6 +171,13 @@ Furthermore, Wondershare Filmora offers options for color adjustments and enhanc
 
 ![wondershare filmora luts](https://images.wondershare.com/filmora/article-images/2023/06/how-to-use-luts-in-final-cut-pro-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Empower your videos with a new mood using different LUTs.** Filmora now offers 100+ top-quality 3D LUTs cover a broad range of scenarios. Transform your videos with Filmora's powerful 3D LUTs.
 
 [Apply LUT on Videos](https://tools.techidaily.com/wondershare/filmora/download/) [Apply LUT on Videos](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -159,13 +187,6 @@ Furthermore, Wondershare Filmora offers options for color adjustments and enhanc
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Conclusion
 
@@ -180,5 +201,22 @@ In conclusion, Final Cut Pro is a powerful tool for video editing. This tool all
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-secure-story-spectatorship-techniques-for-desktopandroidios-devices-at-no-cost/"><u>[New] In 2024, Secure Story Spectatorship Techniques for Desktop/Android/iOS Devices (At No Cost)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-transforming-social-media-nostalgia-how-to-edit-lookback/"><u>[Updated] In 2024, Transforming Social Media Nostalgia How to Edit Lookback</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-ai-vocabulary-mastering-29-key-artificial-intelligence-terms/"><u>Essential AI Vocabulary: Mastering 29 Key Artificial Intelligence Terms</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-vivo-v29e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-reactivate-disabled-intel-rst-service-on-your-windows-10-pc/"><u>How to Reactivate Disabled Intel RST Service on Your Windows 10 PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Xiaomi Redmi K70? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-muting-the-youtube-video-peek-mechanism/"><u>In 2024, Muting the YouTube Video Peek Mechanism</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-social-media-strategists-guide-top-10-ig-video-editing-apps/"><u>In 2024, Social Media Strategists' Guide Top 10 IG Video Editing Apps</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-have-you-ever-used-an-adjustment-layer-in-photoshop-read-this-article-to-find-out-how-to-add-resize-change-and-use-an-adjustment-layer-in-/"><u>New 2024 Approved Have You Ever Used an Adjustment Layer in Photoshop? Read This Article to Find Out How to Add, Resize, Change, and Use an Adjustment Layer in Photoshop Efficiently</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-zoom-in-and-out-on-mac-for-2024/"><u>New How to Zoom In and Out on Mac for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-master-premiere-pro-custom-sequence-presets-for-2024/"><u>New Master Premiere Pro Custom Sequence Presets for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-top-15-slow-motion-capcut-templates-to-work-with-for-2024/"><u>New Top 15 Slow Motion CapCut Templates to Work With for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-astro-a50s-audio-swift-fix-guide-for-no-sound-problems/"><u>Revive Astro A50's Audio – Swift Fix Guide for No-Sound Problems</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-use-the-best-luts-for-lightroom/"><u>Updated 2024 Approved Use The Best LUTs for Lightroom</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-what-should-be-considered-to-choose-a-nice-gopro-for-vlogging/"><u>Updated In 2024, What Should Be Considered to Choose A Nice GoPro for Vlogging?</u></a></li>
+</ul></div>
 

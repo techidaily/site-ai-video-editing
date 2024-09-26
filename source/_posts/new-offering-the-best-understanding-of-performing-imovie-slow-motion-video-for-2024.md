@@ -1,7 +1,7 @@
 ---
 title: New Offering The Best Understanding of Performing iMovie Slow Motion Video for 2024
-date: 2024-09-19T02:42:14.998Z
-updated: 2024-09-20T05:37:48.088Z
+date: 2024-09-20T19:09:00.262Z
+updated: 2024-09-25T18:05:36.616Z
 tags: 
   - ai
   - animation videos
@@ -35,6 +35,13 @@ What makes it so popular is how it captures fast-moving scenes in better detail.
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Set Slow Motion Settings in iMovie Video Making?
 
 iMovie is a wonderful choice if you want to make slow-motion videos. Also, it allows users to change the speed of video clips per their needs. With **slo-mo in iMovie**, you can even fine-tune the speed of a single clip by splitting it into intervals, each with a different speed. You can set multiple ranges to cause a clip to speed up and down.
@@ -52,6 +59,13 @@ Launch iMovie in your system and click “New Project.” Go to the “Movies”
 Select the video from the timeline and click the speed icon that looks like a clock. From “Speed,” select the “Slow” option and choose the percentage of slow-motion effect you want to apply in your video. To set a customized slow-mo percentage, click “Speed” again and choose “Custom.” After that, manually add the percentage of how slow you want your video to be.
 
 ![change speed in imovie](https://images.wondershare.com/filmora/article-images/2023/imovie-slow-motion-video-making-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: A Great Alternative to Making Slow Motion Videos: Wondershare Filmora
 
@@ -73,13 +87,6 @@ Firstly, ensure that you are using the latest version of Filmora. After launchin
 
 ![create a new project](https://images.wondershare.com/filmora/article-images/2023/imovie-slow-motion-video-making-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 2Apply Slow-Motion and Use Optical Flow
 
 After bringing media into the timeline, right-click on it. From the displayed list, look for the “Uniform Speed” option. Tap on it and get directed toward the right-side editing screen. There, you have to use the "Speed" slider and move to the left for slow videos or to the right for fast-speed videos.
@@ -87,22 +94,15 @@ After bringing media into the timeline, right-click on it. From the displayed li
 ![reduce video speed](https://images.wondershare.com/filmora/article-images/2023/imovie-slow-motion-video-making-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 When you are done adjusting speed, head down to the “AI Frame Interpolation” option. Extend its menu and choose “Optical Flow” to reduce the speed of your video while maintaining its quality.
 
 ![set ai frame to optical flow](https://images.wondershare.com/filmora/article-images/2023/imovie-slow-motion-video-making-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 3Analyze and Save the Video by Customizing Export Options
 
@@ -138,6 +138,13 @@ In short, the slow-motion effect is one of the most popular video effects used i
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -145,5 +152,22 @@ In short, the slow-motion effect is one of the most popular video effects used i
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-omnipresent-iptv-networking-model/"><u>[New] 2024 Approved Omnipresent IPTV Networking Model</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/est-streaming-setup-leading-livestream-hardware-and-software-guide/"><u>[New] Best Streaming Setup Leading Livestream Hardware & Software Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-expert-endorsed-the-top-10-camcorders-for-your-needs/"><u>[New] Expert-Endorsed The Top 10 Camcorders for Your Needs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-tune-into-trends-how-to-mix-music-in-storytelling/"><u>[Updated] In 2024, Tune Into Trends How to Mix Music in Storytelling</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-untouched-live-visual-recorders/"><u>[Updated] In 2024, Untouched Live Visual Recorders</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-your-ultimate-guide-to-protecting-images-for-2024/"><u>[Updated] Your Ultimate Guide to Protecting Images for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-smartphones-superior-topping-video-capture-lists/"><u>2024 Approved Smartphones Superior Topping Video Capture Lists</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/game-changing-tvs-for-ps5-and-xbox-series-x-enthusiasts-for-2024/"><u>Game-Changing TVs for PS5 & Xbox Series X Enthusiasts for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-sound-issues-fix-your-text-message-audio-with-these-proven-solutions-17plus-tips/"><u>IPhone Sound Issues? Fix Your Text Message Audio with These Proven Solutions (17+ Tips)</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-know-about-phone-aspect-ratio-vertical-trying-to-learn-about-iphone-vertical-video-dimensions-read-this-article-to-get-all-/"><u>New 2024 Approved Do You Want to Know About Phone Aspect Ratio Vertical? Trying to Learn About iPhone Vertical Video Dimensions? Read This Article to Get All Your Answers on Vertical Phone Aspect Ratio Definition, Types and Tips</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-are-you-looking-for-a-video-format-converter-free-we-will-introduce-the-5-best-online-converters-and-also-the-5-best-video-format-converters-for-pc-for-/"><u>New Are You Looking for a Video Format Converter Free? We Will Introduce the 5 Best Online Converters and Also the 5 Best Video Format Converters for PC for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713964891082-new-the-glitch-effect-shows-errors-and-flaws-in-the-image-or-a-video-the-write-up-presents-the-complete-procedure-of-adding-premiere-pros-glitch-effect-and-/"><u>New The Glitch Effect Shows Errors and Flaws in the Image or a Video. The Write-Up Presents the Complete Procedure of Adding Premiere Pros Glitch Effect and Introduces Eight Free Glitch Effects for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-explore-our-comprehensive-guide-to-the-10-best-cameras-unlock-the-world-of-advanced-technology-perfect-for-capturing-slow-motion-foota/"><u>Updated 2024 Approved Explore Our Comprehensive Guide to the 10 Best Cameras . Unlock the World of Advanced Technology Perfect for Capturing Slow-Motion Footage in Various Scenarios</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-top-ways-to-make-fast-motion-video-on-iphone-solved/"><u>Updated In 2024, Top Ways to Make Fast Motion Video on iPhone Solved</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-unleash-the-power-of-video-scopes-in-your-video-editing-projects-find-the-most-common-video-scopes-and-how-to-use-them-on-video-editing-software-for/"><u>Updated Unleash the Power of Video Scopes in Your Video Editing Projects. Find the Most Common Video Scopes and How to Use Them on Video Editing Software for 2024</u></a></li>
+</ul></div>
 
