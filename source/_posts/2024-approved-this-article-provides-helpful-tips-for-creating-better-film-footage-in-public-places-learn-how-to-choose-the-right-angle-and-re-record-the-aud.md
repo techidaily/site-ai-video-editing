@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved This Article Provides Helpful Tips for Creating Better Film Footage in Public Places. Learn How to Choose the Right Angle and Re-Record the Audio with Filmora
-date: 2024-08-02T04:52:29.044Z
-updated: 2024-08-03T04:52:29.044Z
+date: 2024-09-25T21:18:28.444Z
+updated: 2024-09-30T18:32:47.799Z
 tags: 
   - ai
   - animation videos
@@ -23,16 +23,10 @@ Suppose you're a new vlogger and want to capture the perfect scene in public. Th
 
 While recording in public, you want to avoid setting and holding unnecessary camera gear. That's why you should keep your gear as low-key as possible. The essential shooting gears that you are going to need are as follows:
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### A Good Camera
 
 A good camera is essential to record a video in public because it will provide quality footage. It will also allow you to capture more detail and create more engaging videos. But if you use a phone instead, make sure it is the latest iPhone or other with high pixels camera.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![a dslr camera](https://images.wondershare.com/filmora/article-images/2023/01/create-better-film-footage-1.jpg)
 
 ### A Tripod
@@ -41,19 +35,26 @@ A tripod is essential when recording video in public to ensure that your shots a
 
 ![a tripod](https://images.wondershare.com/filmora/article-images/2023/01/create-better-film-footage-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ### A Microphone
 
 A microphone is essential for recording a video in public because it captures the sound in the environment, allowing the video to be recorded with better-quality audio. Without a microphone, the video would be recorded with distorted sound and would likely be challenging to understand.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![a vlogging microphone](https://images.wondershare.com/filmora/article-images/2023/01/create-better-film-footage-3.jpg)
 
 Apart from the gear mentioned above, you can also bring an ND filter, extra batteries, and SD cards. Because If the battery runs out or the SD card becomes full, the video recording could be lost. The spare batteries and SD cards help to ensure that the video can be captured uninterrupted. Let's see what we need further.
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. What Do You Need to Accomplish With Your Video?
 
@@ -63,12 +64,16 @@ While recording a video in a busy location, you need to accomplish three things 
 
 When recording in a busy location, it is essential to try and capture clean shots. It can be done by using a wide-angle lens to get the full shot or zooming in to focus on a particular element.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Clean Audio
 
 Getting a clean and clear sound when recording audio in a busy location is essential. A good quality microphone, an audio recorder, or external noise reduction can help minimize background noise and capture the desired audio.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Decent Lighting
 
@@ -98,27 +103,18 @@ Once you get to the location, you must find the right angle.
 
 Try to find a background that will best capture the atmosphere of the area and minimize any background noise.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select the background](https://images.wondershare.com/filmora/article-images/2023/01/create-better-film-footage-5.png)
 
 **Set the frame**
 
 If your frame is too broad, you will face potential distractions that could interfere with your video, such as people walking in and out of the frame.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![setting the frame](https://images.wondershare.com/filmora/article-images/2023/01/create-better-film-footage-6.png)
 
 **Set your position**
 
 Instead of getting closer to your talent, get further away and zoom in this way, you leave space for other people in the location, and you can still get your shot!
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![zoom in the talent](https://images.wondershare.com/filmora/article-images/2023/01/create-better-film-footage-7.png)
 
 Try to get your shot and then get out quickly so you don't bother other people trying to get their photos.
@@ -139,9 +135,6 @@ Step1 First, select the clip you want to re-record and then drag it onto the tim
 
 Step2 Right-click on the video you dragged and then click on the **Detach Audio**. After doing that, mute the lousy audio from the audio timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![mute the bad audio](https://images.wondershare.com/filmora/article-images/2023/01/create-better-film-footage-8.png)
 
 Step3 Place the playhead at the clip's start, click **Record** just above the import media section, and then click **Record Voiceover.**
@@ -150,16 +143,17 @@ Step3 Place the playhead at the clip's start, click **Record** just above the im
 
 Step4 Now select a recording device and then select the time for the countdown. For example, a 3-minute timer would be perfect.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![setting the device and timer](https://images.wondershare.com/filmora/article-images/2023/01/create-better-film-footage-10.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5 Click record and try to re-record your line and match it up the best you can. To get the sound and sync right, you might need to attempt a few times, but in the end, it will improve the quality of your video.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![clicking record](https://images.wondershare.com/filmora/article-images/2023/01/create-better-film-footage-11.png)
 
 This technique is used in almost every film you see, especially action sequences that also have dialogue. You can also use this technique with the help of Filmora and enhance your video with better audio quality.
@@ -184,16 +178,10 @@ Step2 Right-click on the video you dragged and then click on the **Detach Audio*
 
 Step3 Place the playhead at the clip's start, click **Record** just above the import media section, and then click **Record Voiceover.**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![selecting record voiceover](https://images.wondershare.com/filmora/article-images/2023/01/create-better-film-footage-9.png)
 
 Step4 Now select a recording device and then select the time for the countdown. For example, a 3-minute timer would be perfect.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![setting the device and timer](https://images.wondershare.com/filmora/article-images/2023/01/create-better-film-footage-10.gif)
 
 Step5 Click record and try to re-record your line and match it up the best you can. To get the sound and sync right, you might need to attempt a few times, but in the end, it will improve the quality of your video.
@@ -224,9 +212,6 @@ Let us know your favorite film location in the comments below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Trim Video in QuickTime Player on Your Mac
 
 ##### Create High-Quality Video - Wondershare Filmora
@@ -266,166 +251,6 @@ Trimming video is a breeze when you are using QuickTime. Follow the steps below 
 1. Launch QuickTime Player on your Mac. You can find this application by using a Spotlight search. Alternatively, open the Finder app in your Dock and choose the Applications option from the left-hand side menu. You'll then find QuickTime in the right-hand side menu.
 2. Once QuickTime has launched, hit the File tab, then click Open File.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![trim video in quicktime](https://images.wondershare.com/filmora/article-images/2022/02/quicktime-trim-video-1.png)
-
-1. Select the video you would to trim.
-2. Navigate to the Edit tab on the top menu with your video open.
-3. Select Trim in the dropdown menu. Alternatively, use the keyboard shortcut command + T.
-
-![how to trim video in quicktime](https://images.wondershare.com/filmora/article-images/2022/02/quicktime-trim-video-2.png)
-
-1. You'll see a yellow trimming bar around the length of the video at the bottom.
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![how to trim video in quicktime on Mac](https://images.wondershare.com/filmora/article-images/2022/02/quicktime-trim-video-3.png)
-
-1. To QuickTime trim video, drag the handles, and the app will remove everything outside the yellow bars.
-2. Once you have trimmed your video, click the Trim option on the right side of your screen.
-3. The play icon allows you to preview your video anytime you want during the editing process.
-4. Click File then Save to save your trimmed video.
-
-![save trimmed video on Quicktime](https://images.wondershare.com/filmora/article-images/2022/02/quicktime-trim-video-4.png)
-
-1. Name your trimmed video, and then select the location you want to save it. Click Save to complete this action.
-
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Tips & Tricks to Use QuickTime Player
-
-Now that you know how to QuickTime trim video, we have provided some helpful tips and tricks for those using this application.
-
-### How to Split and Combine Videos
-
-QuickTime player allows you to split and combine two or more video clips. Follow the steps below to learn how to split and combine your videos.
-
-1. Open your file.
-2. Then, press Command-E or select View > Show Clips.
-3. Drag the Playhead to the area where you would like the video to split.
-4. Press Command-Y or select Edit > Split Clip. Both clips will be highlighted yellow.
-5. You can now insert another video clip or re-arrange the video clips by dragging them to the right or left.
-6. If you split the video clips thrice, you can select the one in the middle, where a yellow outline will appear around it, and then zap it by hitting Delete on your keyboard.
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![split and combine video using Quicktime](https://images.wondershare.com/filmora/article-images/2022/02/quicktime-trim-video-5.png)
-
-1. To combine your video clips, open one of the clips and select Edit > Add Clip to End.
-2. Double click the video clip you would like to tack on in the Open dialog box.
-3. You can also drag the icons of video clips from the Finder and drop them into a video window. The application will add the clips to the end of your existing video. Repeat this process to combine several video clips.
-4. The second video can appear in the middle of your first one. All you have to do is split the video clip, then click on the clip that will appear before the area where the new video is supposed to go.
-5. Now, select Edit > Insert Clip After Selection.
-6. A dialog box will appear; double-click the video file you would like to bring in.
-7. Alternatively, drag a video from the Finder and take it into the gap between the two clips.
-
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![how to split and combine video using Quicktime](https://images.wondershare.com/filmora/article-images/2022/02/quicktime-trim-video-6.png)
-
-### How to Record Audio and Videos
-
-You can record a video using a USB webcam or Mac's built-in camera. What's more? You can record audio with the built-in microphone on your Mac, a musical instrument connected via a USB cable, or an external mic. Or maybe you would like to record something that's happening on your screen, QuickTime Player can also do this. Follow the steps below to record audio and video with QuickTime.
-
-1. Select File > New Screen Recording, New Audio Recording, or New Movie Recording.
-2. The last two options need you to choose quality and an input source. You'll then have to hit the red Record Button. The first option will summon a pane that features the record button and some audio options.
-3. Drag to specify an area you want to record or click once to record the whole screen.
-4. Once you have finished, hit the Record button again. A black screen will appear in your menu bar when you're recording your screen.
-5. The file will open in QuickTime Player when you stop recording.
-6. To save it, choose File > Save.
-
-### How to Export and Share Videos
-
-QuickTime allows you to export optimized content so that you can view it on other Apple devices, including Apple TV, iPod Touch, and iPhone. With that in mind, let's look at how you can export and share your video once you have finished editing it.
-
-1. Select File > Export; you'll get a roundup of resolution options (1080p, 720p, and 480p), settings for Apple TV and iOS devices, and an option for only exporting audio.
-2. If you go with the iTunes option, you'll see the same Apple TV and iOS devices optimized settings; however, the video file will be sent to your iTunes library.
-
-![how to export and share video using Quicktime](https://images.wondershare.com/filmora/article-images/2022/02/quicktime-trim-video-6.png)
-
-1. • To export your video and share with other users, select File > Share, and the resulting menu will include AirDrop, Messages, Mail, and the social media sharing platforms YouTube, Flickr, Facebook, and Vimeo.
-
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![export and share video using Quicktime](https://images.wondershare.com/filmora/article-images/2022/02/quicktime-trim-video-7.png)
-
-1. Choose the option you want, and QuickTime will optimize your video for the service or program you have selected.
-2. To save the changes you have made to your video file, select File > Close. Name your edited video in the box that will appear, then click Save.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### Flip or Rotate a Clip
-
-QuickTime Player also allows you to rotate or flip clips and videos with a single click. Following these step to flip or rotate your video clip.
-
-* Navigate to the Edit tab.
-* Select the direction that you want your video to turn. The available options are Flip Vertical, Flip Horizontal, Rotate Right and Rotate Left.
-
-You can apply the changes to your entire video or one of the clips if you had divided the video file.
-
-### Present or Record your iPad or iPhone Screen
-
-QuickTime can record or show a live view of what is happening on your iPhone or iPad. If you are using Mac for a presentation, you can show the screen of your iOS devices centered within your Mac’s screen. You only need to follow the steps below:
-
-* Use a USB cable to attach either your iPad or iPhone to your Mac.
-* Open QuickTime, then click File > New Movie Recording.
-* Now, you need to point the cursor at the QuickTime Player window for the record button to appear.
-* Go to the menu next to the record button and pick your iOS device from the list of cameras.
-* You're now ready to enjoy the largest version of your iPhone or iPad with your audience.
-* Click Record to record the action.
-
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Conclusion
-
-● Video editing is an essential part of creating video content that attracts viewers. QuickTime trim video allows you to remove unwanted scenes to make it engaging. Your viewers will get hooked on your videos if you trim boring sections, blank screens, and areas with silence. Once you master the art of cutting, your viewer retention and engagement will sky-rocket.
-
-● Don't forget to use the tips and tricks we have provided to get the most out of this application. You can export videos to various formats, such as FLC animations and image sequences, as well as AVI and DV Streams. You can also split and combine videos, present or record your iOS device screen, record audio and video, and much more.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-You have to trim videos to capture your viewer's attention because the average attention span of human beings is eight seconds. As such, viewers will click away or keep on scrolling if the first few seconds of your video are in complete silence or a blank screen. Luckily, there is a simple way that Mac users can use to trim videos: QuickTime Player. This guide will give you the low-down on how to trim video in Quicktime to remove unwanted portions.
-
-#### In this article
-
-01 [What Is QuickTime Player?](#part1)
-
-02 [How to Trim a Video in Quicktime Player](#part2)
-
-03 [Tips & Tricks to Use QuickTime Player](#part3)
-
-## What Is QuickTime Player?
-
-Developed by Apple, QuickTime Player is a software application designed to play, edit, record, and share video and audio files on your Mac. It was created in 1991, and QuickTime X is the latest Mac version available for users of Mac OS X Snow Leopard to macOS Mojave.
-
-QuickTime Player is supported by MovieWorks, PowerPoint, HyperCard, Director, and other standard multimedia authoring apps. One of the exciting features that QuickTime brings to the internet is that it enables video streaming over networks.
-
-In 2016, Apple ended support for the QuickTime Windows version. In 12018, they ceased support for QuickTime 7 version on macOS.
-
-When it comes to OS X Lion, QTKit (the underlying QuickTime media) was deplored in favor of AVFoundation, which was the newer graphics framework and discontinued as of macOS Catalina.
-
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## How to Trim a Video in Quicktime Player
-
-Trimming video is a breeze when you are using QuickTime. Follow the steps below to learn how to trim Quicktime video clips.
-
-1. Launch QuickTime Player on your Mac. You can find this application by using a Spotlight search. Alternatively, open the Finder app in your Dock and choose the Applications option from the left-hand side menu. You'll then find QuickTime in the right-hand side menu.
-2. Once QuickTime has launched, hit the File tab, then click Open File.
-
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![trim video in quicktime](https://images.wondershare.com/filmora/article-images/2022/02/quicktime-trim-video-1.png)
 
 1. Select the video you would to trim.
@@ -448,24 +273,22 @@ Trimming video is a breeze when you are using QuickTime. Follow the steps below 
 1. Name your trimmed video, and then select the location you want to save it. Click Save to complete this action.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Tips & Tricks to Use QuickTime Player
-
-Now that you know how to QuickTime trim video, we have provided some helpful tips and tricks for those using this application.
-
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Tips & Tricks to Use QuickTime Player
+
+Now that you know how to QuickTime trim video, we have provided some helpful tips and tricks for those using this application.
+
 ### How to Split and Combine Videos
 
 QuickTime player allows you to split and combine two or more video clips. Follow the steps below to learn how to split and combine your videos.
@@ -489,9 +312,6 @@ QuickTime player allows you to split and combine two or more video clips. Follow
 
 ![how to split and combine video using Quicktime](https://images.wondershare.com/filmora/article-images/2022/02/quicktime-trim-video-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Record Audio and Videos
 
 You can record a video using a USB webcam or Mac's built-in camera. What's more? You can record audio with the built-in microphone on your Mac, a musical instrument connected via a USB cable, or an external mic. Or maybe you would like to record something that's happening on your screen, QuickTime Player can also do this. Follow the steps below to record audio and video with QuickTime.
@@ -503,9 +323,6 @@ You can record a video using a USB webcam or Mac's built-in camera. What's more?
 5. The file will open in QuickTime Player when you stop recording.
 6. To save it, choose File > Save.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Export and Share Videos
 
 QuickTime allows you to export optimized content so that you can view it on other Apple devices, including Apple TV, iPod Touch, and iPhone. With that in mind, let's look at how you can export and share your video once you have finished editing it.
@@ -513,9 +330,6 @@ QuickTime allows you to export optimized content so that you can view it on othe
 1. Select File > Export; you'll get a roundup of resolution options (1080p, 720p, and 480p), settings for Apple TV and iOS devices, and an option for only exporting audio.
 2. If you go with the iTunes option, you'll see the same Apple TV and iOS devices optimized settings; however, the video file will be sent to your iTunes library.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![how to export and share video using Quicktime](https://images.wondershare.com/filmora/article-images/2022/02/quicktime-trim-video-6.png)
 
 1. • To export your video and share with other users, select File > Share, and the resulting menu will include AirDrop, Messages, Mail, and the social media sharing platforms YouTube, Flickr, Facebook, and Vimeo.
@@ -573,9 +387,6 @@ In 2016, Apple ended support for the QuickTime Windows version. In 12018, they c
 
 When it comes to OS X Lion, QTKit (the underlying QuickTime media) was deplored in favor of AVFoundation, which was the newer graphics framework and discontinued as of macOS Catalina.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Trim a Video in Quicktime Player
 
 Trimming video is a breeze when you are using QuickTime. Follow the steps below to learn how to trim Quicktime video clips.
@@ -600,9 +411,6 @@ Trimming video is a breeze when you are using QuickTime. Follow the steps below 
 3. The play icon allows you to preview your video anytime you want during the editing process.
 4. Click File then Save to save your trimmed video.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![save trimmed video on Quicktime](https://images.wondershare.com/filmora/article-images/2022/02/quicktime-trim-video-4.png)
 
 1. Name your trimmed video, and then select the location you want to save it. Click Save to complete this action.
@@ -612,8 +420,12 @@ Trimming video is a breeze when you are using QuickTime. Follow the steps below 
 Now that you know how to QuickTime trim video, we have provided some helpful tips and tricks for those using this application.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### How to Split and Combine Videos
 
 QuickTime player allows you to split and combine two or more video clips. Follow the steps below to learn how to split and combine your videos.
@@ -637,18 +449,6 @@ QuickTime player allows you to split and combine two or more video clips. Follow
 
 ![how to split and combine video using Quicktime](https://images.wondershare.com/filmora/article-images/2022/02/quicktime-trim-video-6.png)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Record Audio and Videos
 
 You can record a video using a USB webcam or Mac's built-in camera. What's more? You can record audio with the built-in microphone on your Mac, a musical instrument connected via a USB cable, or an external mic. Or maybe you would like to record something that's happening on your screen, QuickTime Player can also do this. Follow the steps below to record audio and video with QuickTime.
@@ -660,18 +460,6 @@ You can record a video using a USB webcam or Mac's built-in camera. What's more?
 5. The file will open in QuickTime Player when you stop recording.
 6. To save it, choose File > Save.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Export and Share Videos
 
 QuickTime allows you to export optimized content so that you can view it on other Apple devices, including Apple TV, iPod Touch, and iPhone. With that in mind, let's look at how you can export and share your video once you have finished editing it.
@@ -679,17 +467,18 @@ QuickTime allows you to export optimized content so that you can view it on othe
 1. Select File > Export; you'll get a roundup of resolution options (1080p, 720p, and 480p), settings for Apple TV and iOS devices, and an option for only exporting audio.
 2. If you go with the iTunes option, you'll see the same Apple TV and iOS devices optimized settings; however, the video file will be sent to your iTunes library.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to export and share video using Quicktime](https://images.wondershare.com/filmora/article-images/2022/02/quicktime-trim-video-6.png)
 
 1. • To export your video and share with other users, select File > Share, and the resulting menu will include AirDrop, Messages, Mail, and the social media sharing platforms YouTube, Flickr, Facebook, and Vimeo.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![export and share video using Quicktime](https://images.wondershare.com/filmora/article-images/2022/02/quicktime-trim-video-7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Choose the option you want, and QuickTime will optimize your video for the service or program you have selected.
 2. To save the changes you have made to your video file, select File > Close. Name your edited video in the box that will appear, then click Save.
@@ -714,9 +503,6 @@ QuickTime can record or show a live view of what is happening on your iPhone or 
 * You're now ready to enjoy the largest version of your iPhone or iPad with your audience.
 * Click Record to record the action.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 ● Video editing is an essential part of creating video content that attracts viewers. QuickTime trim video allows you to remove unwanted scenes to make it engaging. Your viewers will get hooked on your videos if you trim boring sections, blank screens, and areas with silence. Once you master the art of cutting, your viewer retention and engagement will sky-rocket.
@@ -752,18 +538,149 @@ Trimming video is a breeze when you are using QuickTime. Follow the steps below 
 1. Launch QuickTime Player on your Mac. You can find this application by using a Spotlight search. Alternatively, open the Finder app in your Dock and choose the Applications option from the left-hand side menu. You'll then find QuickTime in the right-hand side menu.
 2. Once QuickTime has launched, hit the File tab, then click Open File.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![trim video in quicktime](https://images.wondershare.com/filmora/article-images/2022/02/quicktime-trim-video-1.png)
 
 1. Select the video you would to trim.
 2. Navigate to the Edit tab on the top menu with your video open.
 3. Select Trim in the dropdown menu. Alternatively, use the keyboard shortcut command + T.
 
+![how to trim video in quicktime](https://images.wondershare.com/filmora/article-images/2022/02/quicktime-trim-video-2.png)
+
+1. You'll see a yellow trimming bar around the length of the video at the bottom.
+
+![how to trim video in quicktime on Mac](https://images.wondershare.com/filmora/article-images/2022/02/quicktime-trim-video-3.png)
+
+1. To QuickTime trim video, drag the handles, and the app will remove everything outside the yellow bars.
+2. Once you have trimmed your video, click the Trim option on the right side of your screen.
+3. The play icon allows you to preview your video anytime you want during the editing process.
+4. Click File then Save to save your trimmed video.
+
+![save trimmed video on Quicktime](https://images.wondershare.com/filmora/article-images/2022/02/quicktime-trim-video-4.png)
+
+1. Name your trimmed video, and then select the location you want to save it. Click Save to complete this action.
+
+## Tips & Tricks to Use QuickTime Player
+
+Now that you know how to QuickTime trim video, we have provided some helpful tips and tricks for those using this application.
+
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+### How to Split and Combine Videos
+
+QuickTime player allows you to split and combine two or more video clips. Follow the steps below to learn how to split and combine your videos.
+
+1. Open your file.
+2. Then, press Command-E or select View > Show Clips.
+3. Drag the Playhead to the area where you would like the video to split.
+4. Press Command-Y or select Edit > Split Clip. Both clips will be highlighted yellow.
+5. You can now insert another video clip or re-arrange the video clips by dragging them to the right or left.
+6. If you split the video clips thrice, you can select the one in the middle, where a yellow outline will appear around it, and then zap it by hitting Delete on your keyboard.
+
+![split and combine video using Quicktime](https://images.wondershare.com/filmora/article-images/2022/02/quicktime-trim-video-5.png)
+
+1. To combine your video clips, open one of the clips and select Edit > Add Clip to End.
+2. Double click the video clip you would like to tack on in the Open dialog box.
+3. You can also drag the icons of video clips from the Finder and drop them into a video window. The application will add the clips to the end of your existing video. Repeat this process to combine several video clips.
+4. The second video can appear in the middle of your first one. All you have to do is split the video clip, then click on the clip that will appear before the area where the new video is supposed to go.
+5. Now, select Edit > Insert Clip After Selection.
+6. A dialog box will appear; double-click the video file you would like to bring in.
+7. Alternatively, drag a video from the Finder and take it into the gap between the two clips.
+
+![how to split and combine video using Quicktime](https://images.wondershare.com/filmora/article-images/2022/02/quicktime-trim-video-6.png)
+
+### How to Record Audio and Videos
+
+You can record a video using a USB webcam or Mac's built-in camera. What's more? You can record audio with the built-in microphone on your Mac, a musical instrument connected via a USB cable, or an external mic. Or maybe you would like to record something that's happening on your screen, QuickTime Player can also do this. Follow the steps below to record audio and video with QuickTime.
+
+1. Select File > New Screen Recording, New Audio Recording, or New Movie Recording.
+2. The last two options need you to choose quality and an input source. You'll then have to hit the red Record Button. The first option will summon a pane that features the record button and some audio options.
+3. Drag to specify an area you want to record or click once to record the whole screen.
+4. Once you have finished, hit the Record button again. A black screen will appear in your menu bar when you're recording your screen.
+5. The file will open in QuickTime Player when you stop recording.
+6. To save it, choose File > Save.
+
+### How to Export and Share Videos
+
+QuickTime allows you to export optimized content so that you can view it on other Apple devices, including Apple TV, iPod Touch, and iPhone. With that in mind, let's look at how you can export and share your video once you have finished editing it.
+
+1. Select File > Export; you'll get a roundup of resolution options (1080p, 720p, and 480p), settings for Apple TV and iOS devices, and an option for only exporting audio.
+2. If you go with the iTunes option, you'll see the same Apple TV and iOS devices optimized settings; however, the video file will be sent to your iTunes library.
+
+![how to export and share video using Quicktime](https://images.wondershare.com/filmora/article-images/2022/02/quicktime-trim-video-6.png)
+
+1. • To export your video and share with other users, select File > Share, and the resulting menu will include AirDrop, Messages, Mail, and the social media sharing platforms YouTube, Flickr, Facebook, and Vimeo.
+
+![export and share video using Quicktime](https://images.wondershare.com/filmora/article-images/2022/02/quicktime-trim-video-7.png)
+
+1. Choose the option you want, and QuickTime will optimize your video for the service or program you have selected.
+2. To save the changes you have made to your video file, select File > Close. Name your edited video in the box that will appear, then click Save.
+
+### Flip or Rotate a Clip
+
+QuickTime Player also allows you to rotate or flip clips and videos with a single click. Following these step to flip or rotate your video clip.
+
+* Navigate to the Edit tab.
+* Select the direction that you want your video to turn. The available options are Flip Vertical, Flip Horizontal, Rotate Right and Rotate Left.
+
+You can apply the changes to your entire video or one of the clips if you had divided the video file.
+
+### Present or Record your iPad or iPhone Screen
+
+QuickTime can record or show a live view of what is happening on your iPhone or iPad. If you are using Mac for a presentation, you can show the screen of your iOS devices centered within your Mac’s screen. You only need to follow the steps below:
+
+* Use a USB cable to attach either your iPad or iPhone to your Mac.
+* Open QuickTime, then click File > New Movie Recording.
+* Now, you need to point the cursor at the QuickTime Player window for the record button to appear.
+* Go to the menu next to the record button and pick your iOS device from the list of cameras.
+* You're now ready to enjoy the largest version of your iPhone or iPad with your audience.
+* Click Record to record the action.
+
+## Conclusion
+
+● Video editing is an essential part of creating video content that attracts viewers. QuickTime trim video allows you to remove unwanted scenes to make it engaging. Your viewers will get hooked on your videos if you trim boring sections, blank screens, and areas with silence. Once you master the art of cutting, your viewer retention and engagement will sky-rocket.
+
+● Don't forget to use the tips and tricks we have provided to get the most out of this application. You can export videos to various formats, such as FLC animations and image sequences, as well as AVI and DV Streams. You can also split and combine videos, present or record your iOS device screen, record audio and video, and much more.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+You have to trim videos to capture your viewer's attention because the average attention span of human beings is eight seconds. As such, viewers will click away or keep on scrolling if the first few seconds of your video are in complete silence or a blank screen. Luckily, there is a simple way that Mac users can use to trim videos: QuickTime Player. This guide will give you the low-down on how to trim video in Quicktime to remove unwanted portions.
+
+#### In this article
+
+01 [What Is QuickTime Player?](#part1)
+
+02 [How to Trim a Video in Quicktime Player](#part2)
+
+03 [Tips & Tricks to Use QuickTime Player](#part3)
+
+## What Is QuickTime Player?
+
+Developed by Apple, QuickTime Player is a software application designed to play, edit, record, and share video and audio files on your Mac. It was created in 1991, and QuickTime X is the latest Mac version available for users of Mac OS X Snow Leopard to macOS Mojave.
+
+QuickTime Player is supported by MovieWorks, PowerPoint, HyperCard, Director, and other standard multimedia authoring apps. One of the exciting features that QuickTime brings to the internet is that it enables video streaming over networks.
+
+In 2016, Apple ended support for the QuickTime Windows version. In 12018, they ceased support for QuickTime 7 version on macOS.
+
+When it comes to OS X Lion, QTKit (the underlying QuickTime media) was deplored in favor of AVFoundation, which was the newer graphics framework and discontinued as of macOS Catalina.
+
+## How to Trim a Video in Quicktime Player
+
+Trimming video is a breeze when you are using QuickTime. Follow the steps below to learn how to trim Quicktime video clips.
+
+1. Launch QuickTime Player on your Mac. You can find this application by using a Spotlight search. Alternatively, open the Finder app in your Dock and choose the Applications option from the left-hand side menu. You'll then find QuickTime in the right-hand side menu.
+2. Once QuickTime has launched, hit the File tab, then click Open File.
+
+![trim video in quicktime](https://images.wondershare.com/filmora/article-images/2022/02/quicktime-trim-video-1.png)
+
+1. Select the video you would to trim.
+2. Navigate to the Edit tab on the top menu with your video open.
+3. Select Trim in the dropdown menu. Alternatively, use the keyboard shortcut command + T.
+
 ![how to trim video in quicktime](https://images.wondershare.com/filmora/article-images/2022/02/quicktime-trim-video-2.png)
 
 1. You'll see a yellow trimming bar around the length of the video at the bottom.
@@ -804,9 +721,6 @@ QuickTime player allows you to split and combine two or more video clips. Follow
 6. A dialog box will appear; double-click the video file you would like to bring in.
 7. Alternatively, drag a video from the Finder and take it into the gap between the two clips.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![how to split and combine video using Quicktime](https://images.wondershare.com/filmora/article-images/2022/02/quicktime-trim-video-6.png)
 
 ### How to Record Audio and Videos
@@ -820,14 +734,6 @@ You can record a video using a USB webcam or Mac's built-in camera. What's more?
 5. The file will open in QuickTime Player when you stop recording.
 6. To save it, choose File > Save.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Export and Share Videos
 
 QuickTime allows you to export optimized content so that you can view it on other Apple devices, including Apple TV, iPod Touch, and iPhone. With that in mind, let's look at how you can export and share your video once you have finished editing it.
@@ -835,9 +741,6 @@ QuickTime allows you to export optimized content so that you can view it on othe
 1. Select File > Export; you'll get a roundup of resolution options (1080p, 720p, and 480p), settings for Apple TV and iOS devices, and an option for only exporting audio.
 2. If you go with the iTunes option, you'll see the same Apple TV and iOS devices optimized settings; however, the video file will be sent to your iTunes library.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to export and share video using Quicktime](https://images.wondershare.com/filmora/article-images/2022/02/quicktime-trim-video-6.png)
 
 1. • To export your video and share with other users, select File > Share, and the resulting menu will include AirDrop, Messages, Mail, and the social media sharing platforms YouTube, Flickr, Facebook, and Vimeo.
@@ -847,9 +750,6 @@ QuickTime allows you to export optimized content so that you can view it on othe
 1. Choose the option you want, and QuickTime will optimize your video for the service or program you have selected.
 2. To save the changes you have made to your video file, select File > Close. Name your edited video in the box that will appear, then click Save.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Flip or Rotate a Clip
 
 QuickTime Player also allows you to rotate or flip clips and videos with a single click. Following these step to flip or rotate your video clip.
@@ -870,9 +770,6 @@ QuickTime can record or show a live view of what is happening on your iPhone or 
 * You're now ready to enjoy the largest version of your iPhone or iPad with your audience.
 * Click Record to record the action.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 ● Video editing is an essential part of creating video content that attracts viewers. QuickTime trim video allows you to remove unwanted scenes to make it engaging. Your viewers will get hooked on your videos if you trim boring sections, blank screens, and areas with silence. Once you master the art of cutting, your viewer retention and engagement will sky-rocket.
@@ -885,8 +782,6 @@ QuickTime can record or show a live view of what is happening on your iPhone or 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 ## Best Audio Plug-Ins For Video Editors
 
 When it comes to improving the sound of the audio in your video editing projects, you have a variety of options to choose from when approaching the editing. Most plugins that we will cover today will be helpful for many different effects instead of only one particular one.
@@ -897,9 +792,6 @@ Let's get started!
 
 Let's talk about Revoice Pro 4\. This is an awesome plugin for when you are finishing complex editing projects when you work with dialogues and need to synchronize other lines to fit the shot. Revoice Pro 4 combines timing and pitch alignment technology, together with as a pair of cutting-edge tuning tools and a natural-sounding vocal doubler for people working on the narrator voice.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![synchro arts revoice pro](https://images.wondershare.com/filmora/article-images/2022/08/synchro-arts-revoice-pro.jpg)
 
 For the video editors working in audio post-production, the stand out new feature added to Revoice Pro is Smart Align combined with a fast workflow, meaning that you don't need to leave Pro Tools to synchronize ADR to the location audio. Although Version 4.3 presented an ARA version of the Revoice Pro link plug-in for Logic Pro users, so providing immediate transfers back and forth between Logic Pro or higher Synchro Arts haven't counted out Pro Tools users by preparing a new set of AudioSuite plugins.
@@ -918,10 +810,14 @@ Synchro Arts Revoice Pro is available for $599.
 
 This is a very interesting plugin. Colorista tries to cancel out the need for a separate color-specific program by increasing more color correction options. This plugin allows you to have more color control with tools for tints, temperatures, vignetting, RGB curving, and so forth. Colorista contains a three-way color function and support for LOG clips and LUT filters. Colorista is not a stand-alone program. It's designed to integrate into existing software and offer better functionality. Plugins let you design something that wasn't there originally. You don't have to load a certain project to activate them.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![red giant magic bullet colorista](https://images.wondershare.com/filmora/article-images/2022/08/red-giant-magic-bullet-colorista.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 For years, Red Giant has been one of the biggest developers of plugins designed for video editing software. Among the other ones is the Magic bullet suite, which contains quite some plugins to solve video noise problems and do some color grading. We believe the versatility of Red Giant allow content creators and movie producers to let their ideas come to life, create dynamic art and create better content overall.
 
@@ -933,9 +829,6 @@ Red Giant Magic Bullet Colorista is available for $199.
 
 The thriving film industry's filmmakers choose Boris FX Continuum. This package contains super strong, timesaving plugins for a smoother workflow with seventeen effects and quick fix plug-in options. Continuum Includes over 200 effects and more than 3500 presets. Each pair will be suitable for each project. Continuum 2022 is the latest biggest release of the post-production plugin collection. The release includes 6 transitions, 4 effects and nearly 100 professionally developed templates. It's definitely worth checking it out!
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![boris fx continuum 2022](https://images.wondershare.com/filmora/article-images/2022/08/boris-fx-continuum-2022.jpg)
 
 This 2022 release brings 50+ film and TV-inspired color grades to assist you in transforming the clips into amazing looks. Included presets like The Wizard of Oz, E.T., Euphoria, and The Grand Budapest Hotel. BCC+Light adds 50+ digital gobos templates to have the overall number of gobos ready to over 700 options.
@@ -964,10 +857,21 @@ Boris FX Continuum is available for $495 and $2,195 depending on your payment pl
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-20-racing-games-for-bicyclists/"><u>[New] 2024 Approved Top 20 Racing Games for Bicyclists</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-set-up-your-first-google-meet-and-plan-it-for-2024/"><u>[Updated] Set Up Your First Google Meet & Plan It for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-verifying-your-youtube-sign-in-details/"><u>[Updated] Verifying Your YouTube Sign-In Details</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-ways-game-subscriptions-cant-replace-owning-your-games/"><u>5 Ways Game Subscriptions Can't Replace Owning Your Games</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-instructions-for-downloading-and-setting-up-arduino-drivers-on-windows/"><u>Easy Instructions for Downloading and Setting Up Arduino Drivers on Windows</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-essential-guide-to-xbox-screen-recording-techniques/"><u>In 2024, Essential Guide to Xbox Screen Recording Techniques</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-through-speed-ramping-create-a-smooth-transition-in-slow-motion-videos-follow-this-guide-and-learn-about-premiere-pro-slow-motion-and-a-be/"><u>New 2024 Approved Through Speed Ramping, Create a Smooth Transition in Slow-Motion Videos. Follow This Guide and Learn About Premiere Pro Slow Motion and a Better Alternative</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-do-you-like-clouds-or-sky-and-want-to-use-them-as-a-video-background-explore-this-article-to-learn-about-the-sky-change-video-in-filmora-for-2024/"><u>New Do You Like Clouds or Sky and Want to Use Them as a Video Background? Explore This Article to Learn About the Sky Change Video in Filmora for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-use-adjustment-layer-in-photoshop-in-2024/"><u>New How to Use Adjustment Layer in Photoshop, In 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-slow-motion-video-editors-to-look-out-for/"><u>New In 2024, Slow Motion Video Editors To Look Out For</u></a></li>
+<li><a href="https://games-able.techidaily.com/unauthorized-controllers-banned-by-xbox-player-perspectives/"><u>Unauthorized Controllers Banned by Xbox: Player Perspectives</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-use-luts-perfectly-in-final-cut-pro/"><u>Updated 2024 Approved How to Use LUTs Perfectly in Final Cut Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-wondering-how-to-edit-a-video-to-slow-motion-on-iphone-and-android-devices-find-out-how-to-use-wondershare-filmora-to-create-and-edit-slo-mo/"><u>Updated In 2024, Wondering How to Edit a Video to Slow Motion on iPhone and Android Devices? Find Out How to Use Wondershare Filmora to Create and Edit Slo Mo Videos in a Few Clicks</u></a></li>
+<li><a href="https://win11.techidaily.com/watch-youre-next-a-top-recommendation-for-fans-seeking-a-thrilling-horror-experience/"><u>Watch 'You're Next': A Top Recommendation for Fans Seeking a Thrilling Horror Experience</u></a></li>
+</ul></div>
 

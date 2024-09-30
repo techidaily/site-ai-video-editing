@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Are You Curious About Finding a Good iPhone Slow-Motion App? Discover the Top-Rated Applications in the Market that Will Help You Create the Perfect Video
-date: 2024-08-15T00:22:15.840Z
-updated: 2024-08-16T00:22:15.840Z
+date: 2024-09-23T16:44:17.461Z
+updated: 2024-09-30T21:53:45.106Z
 tags: 
   - ai
   - animation videos
@@ -44,10 +44,14 @@ Are you an enthusiastic user of the iPhone and want to create videos across it t
 
 If you are seeking an **iPhone slo-mo app,** then this application holds all the relevant features. The application is designed to assist users in achieving slow motion and other speed effects. For precise and accurate slow motion, it offers basic slider and timeline settings. You can slow down a video at any scene by incorporating Advanced or Basic options.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![slow motion video fx editor](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-apps-for-ios-video-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -55,16 +59,10 @@ If you are seeking an **iPhone slo-mo app,** then this application holds all the
 * Users can improve videos by incorporating music using its music library of 170+ tracks.
 * The platform provides sharing options along social platforms like Instagram and Facebook.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. SloMo Slow Motion Video Editor
 
 This **iPhone slow-motion app** has all the abilities to slow down videos and enhance them. It provides two options to slow down a video via playback speed or video frame rate. The playback speed slows a video instantly while the frame rates smoothen it. You can also choose a specific period for adding the slow-motion effect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![slomo slow motion video editor](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-apps-for-ios-video-2.jpg)
 
 #### Key Features
@@ -73,14 +71,25 @@ This **iPhone slow-motion app** has all the abilities to slow down videos and en
 * The application offers 40 color filters to enhance your video’s visual outlook.
 * There are multiple ratio options to export a video to upload it to different platforms.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Slow Motion Video Editor
 
 Create ultra-slow motion or ultra-high motion videos with this **iPhone slo-mo app**. It offers distinct speed manipulation options, such as up to 10x to slow down a video. In addition, the application offers built-in speed templates to help you add speed effects to dance videos. Users can also retain the original audio of the videos after speed alteration.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![slow motion video editor](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-apps-for-ios-video-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -88,16 +97,10 @@ Create ultra-slow motion or ultra-high motion videos with this **iPhone slo-mo a
 * Import music from iTunes into this **iPhone slo-mo app** and add it to your videos.
 * Publish your slo-mos directly to other editing apps like GoPro and InShot for additional editing.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### 4\. Slow Motion’ Video Editor
 
 Make professional-grade slow-motion videos using this **iPhone slow-motion app**. The application can record and edit videos at 60 to 240 fps, ensuring smooth, slow motions. With its modern and accessible user interface, achieving slow motions is easy. Other speed settings include split-second freezing frames and time-lapse videos.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![slow motion video editor ios](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-apps-for-ios-video-4.jpg)
 
 #### Key Features
@@ -106,16 +109,10 @@ Make professional-grade slow-motion videos using this **iPhone slow-motion app**
 * You can trim the unnecessary parts of the video using its Trim tool.
 * Offers one-click functionality to share videos across Instagram, YouTube, Facebook, or Email.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Slow Motion Video FX Edit
 
 Do you want to be in control of your slow-motion videos while editing? This **iPhone slow motion app** offers custom speed manipulation options like 12x and 240 fps. You can add freeze frames if you want to highlight a specific part of the video. With its interface, speed manipulation is just as simple as dragging a slider.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![slow motion video fx edit](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-apps-for-ios-video-5.jpg)
 
 #### Key Features
@@ -124,20 +121,37 @@ Do you want to be in control of your slow-motion videos while editing? This **iP
 * The application offers weekly, monthly, and yearly plans to suit your requirements.
 * You can add music from your library to videos or specific scenes via this app.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6\. Slow Fast Motion Video Editor
 
 Apply slow motion effect to the specific parts of your videos using this **iPhone slow motion app**. You can access it on the app store; the application is free to download. It features a timeline editing interface and a playback speed of up to 8x for Slomo. It separates the video frames, and you can change their speed, and afterward, it merges them.
 
 ![slow fast motion video editor ios](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-apps-for-ios-video-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Key Features
 
 * The ability to incorporate music from your music library into videos with this app.
 * You can manually trim out video segments and merge them back.
 * Showcase your creativity to other social platforms directly from the app.
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7\. Slow-Fast Motion Video Editor
 
@@ -163,14 +177,31 @@ If you want to create slow-motion videos effectively, then this **iPhone slow-mo
 * Uses advanced image processing algorithms for video frame manipulation.
 * The application is free to use and only takes up 25.3 MB of your iPhone’s storage.
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 9\. Vidma - Video Editor Music
 
 You have read about many applications that offer to transform normal videos into slow motions. However, this **iPhone slo-mo app** is much more than just a speed changer. It slows down your videos via a velocity graph and maintains the audio pitch during the process. Using this application, you can slow down videos to 0.1x while also having video reverse options.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![vidma video editor music](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-apps-for-ios-video-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -208,9 +239,6 @@ Speed ramping is a way to slow down or speed up videos smoothly. A slow change i
 
 Begin your video editing journey after downloading Filmora on your device. After downloading, open this platform and select “New Project.” This way, you will access its editing screen to begin working. Start with importing your video and bringing it to the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add media to filmora timeline](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-apps-for-ios-video-15.jpg)
 
 ##### Step 2Discover the Speed Ramping Option with Templates
@@ -223,18 +251,12 @@ Place your cursor on the video and right-click to choose “Speed Ramping” fro
 
 Otherwise, hit the “Customize” and direct downward. Go to the editing panel and hold the dots to move downward if you want to slow down. You can speed up video portions by holding the dots upward. Meanwhile, you can play the video to see the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![customize speed ramping function](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-apps-for-ios-video-17.jpg)
 
 ##### Step 4Use Optical Flow for Good Quality and Move to Save Changes
 
 Extend the “AI Frame Interpolation” menu and hit the “Optical Flow.” That’s how you will get a high-quality video with slow speed. Keep editing or save changes through the “Export” button on the upper right.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![perform optical flow and export](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-apps-for-ios-video-18.jpg)
 
 ### Find Core Functionalities of Wondershare Filmora
@@ -257,18 +279,20 @@ Sometimes, background noises ruin the vocals of the audio. Remove that noise wit
 
 It’s a human urge to look beautiful, and video editing apps are not denying it. Filmora also provides more than 70 AI portrait effects to beautify facial features. Moreover, it can assist you in removing the background and keeping humans in video frames. Some AI stickers include Heart eyes, Emojis, and Sunglasses that can evoke humorous emotions.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Until now, you might find your answer about using **iPhone slow-motion apps**. The overview of such premium apps has guided you to select an app that best aligns with your needs. If you are still confused, use Wondershare Filmora, an incredible video editor. This platform is available for iPhone, Android, Windows, and macOS with its limitless editing tools.
 
 [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [More Features](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -277,5 +301,24 @@ Until now, you might find your answer about using **iPhone slow-motion apps**. T
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-enhancing-vimeo-playback-velocity-guide/"><u>[New] 2024 Approved Enhancing Vimeo Playback Velocity Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channel-marketing-making-a-trailer-that-sells-more/"><u>[Updated] In 2024, Channel Marketing Making a Trailer that Sells More</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-facebook-live-a-comprehensive-tutorial-for-2024/"><u>[Updated] Navigating Facebook Live A Comprehensive Tutorial for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-ultimate-guide-to-affordable-free-screen-capture/"><u>[Updated] The Ultimate Guide to Affordable, Free Screen Capture</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-optimizing-video-playback-with-pip-on-safari-devices/"><u>2024 Approved Optimizing Video Playback with PIP on Safari Devices</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-note-12-4g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chill-and-thrills-highlighting-olympic-snowboard-cross-winners/"><u>Chill & Thrills Highlighting Olympic Snowboard Cross Winners</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1723008749707-fix-terrarias-frequent-crashes-with-these-expert-tips-for-gamers/"><u>Fix Terraria's Frequent Crashes with These Expert Tips for Gamers !</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-what-should-be-considered-to-choose-a-nice-gopro-for-vlogging/"><u>New 2024 Approved What Should Be Considered to Choose A Nice GoPro for Vlogging?</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/transforma-tu-archivo-webm-a-formato-mp3-gratuito-con-descarga-en-linea-movavi/"><u>Transforma Tu Archivo WEBM a Formato MP3 Gratuito Con Descarga en Línea - Movavi</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-are-you-looking-to-vlog-across-your-next-stop-at-the-cafe-get-aware-of-the-significant-elements-that-make-up-the-cafe-vlog-for-2024/"><u>Updated Are You Looking to Vlog Across Your Next Stop at the Café? Get Aware of the Significant Elements that Make up the Café Vlog for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-do-you-want-to-record-videos-with-a-phantom-high-speed-camera-in-this-guide-you-can-get-a-detailed-note-on-the-phantom-camera-for-2024/"><u>Updated Do You Want to Record Videos with a Phantom High-Speed Camera? In This Guide, You Can Get a Detailed Note on the Phantom Camera for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-here-you-will-learn-how-to-add-a-realistic-fire-effect-using-wondershare-filmora-that-will-help-to-boost-your-channel-and-decorate-your-yout/"><u>Updated In 2024, Here, You Will Learn How to Add a Realistic Fire Effect Using Wondershare Filmora. That Will Help to Boost Your Channel and Decorate Your YouTube Channel with Creative and Unique Effects</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-perform-mask-tracking-discovering-the-best-methods/"><u>Updated In 2024, How to Perform Mask Tracking Discovering the Best Methods</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-if-youre-looking-to-create-a-brand-video-that-makes-your-business-pop-out-we-have-put-together-some-video-editing-tips-and-tricks-that-work./"><u>Updated In 2024, If Youre Looking to Create a Brand Video that Makes Your Business Pop Out, We Have Put Together some Video Editing Tips and Tricks that Work</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-making-creative-and-engaging-youtube-videos-is-now-easy-with-several-tools-now-youtube-also-offers-you-its-own-built-in-video-editor-through/"><u>Updated In 2024, Making Creative and Engaging Youtube Videos Is Now Easy with Several Tools. Now, YouTube Also Offers You Its Own Built-In Video Editor Through Which You Can Edit and Enhance the Video Quality</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-recording-slow-motion-videos-is-not-more-difficult-using-a-smartphone-learn-everything-from-how-to-record-slow-motion-video-and-edit-a-video/"><u>Updated In 2024, Recording Slow-Motion Videos Is Not More Difficult Using a Smartphone. Learn Everything From How to Record Slow-Motion Video and Edit a Video to Slow Down It</u></a></li>
+</ul></div>
 

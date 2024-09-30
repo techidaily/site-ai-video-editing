@@ -1,7 +1,7 @@
 ---
 title: New How to Be a Good Podcast Host for 2024
-date: 2024-08-02T04:53:28.055Z
-updated: 2024-08-03T04:53:28.055Z
+date: 2024-09-26T22:44:32.678Z
+updated: 2024-09-30T21:15:50.392Z
 tags: 
   - ai
   - animation videos
@@ -19,9 +19,6 @@ You may be a blogger who has the habit of writing long articles. Or you may be a
 
 This article will look at how to prepare, call guests, warm them up, and give practical ideas about how to host a podcast. Let's start the article by learning how to get prepared to host a podcast.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## #1 Get prepared to host a podcast
 
 A good podcast host always gets prepared, sets up his goals, and gets easy tips to set apart from everyone in the marketplace. For this, you have to follow the below instructions and tips:
@@ -38,18 +35,12 @@ A good understanding of how to pan out a situation makes you a good host. You mu
 
 You don't need to sound the script on the screen like a robot. Scripts can be helpful but only if read in a conversational mood.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Find the right location
 
 A good location means good conversation. A proper set prepared for the guest and the podcast will help you boost your conversation skills and get yourself and the guest into the mood of your show.
 
 Before the show, you can change the settings or have a monotone set that fits every mood.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## #2 Warm up the audience
 
 **Warming up** is a necessary part of the show. A warmup works just like gas in a car before a long drive. You have to do this by asking any question or by telling them an inspirational or motivational story.
@@ -61,6 +52,13 @@ A good host must realize that a warm show has a high chance of becoming viral, a
 Your goal is to set the mood of the audience according to the topic. Warming up the audience before getting to the guest.
 
 You have to set the tone according to the topic of your podcast to warm them up. In this way, you need to make the connection between the guest, you, and your voice.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 2\. Build an emotional connection
 
@@ -76,9 +74,6 @@ You can also do this on Instagram polls or by posting a story and asking them to
 
 You need to have authenticity if you want your podcast to be successful. An authentic show attracts a larger audience, while a show whose mood resembles a person with a multiple personality disorder will throw off the whole vibe of the podcast. And the listeners will eventually press back buttons to escape the colossal wreck.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Tips to have authentic content
 
 * Your topic may be emotional, happy, or of any other information.
@@ -103,8 +98,18 @@ Tales are as old as time. As time moves on, more and more stories pile up. Your 
 You may have a bland topic to discuss or a guest who is tough to break character. These are the situations where your charm and concern will play their part. So you also want to learn how to make your podcasts enjoyable through stories? Then check out the short tips below:
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### How to add stories to your podcasts
 
 * First, you should have the skill to **read** the room and the mood.
@@ -116,16 +121,10 @@ You may have a bland topic to discuss or a guest who is tough to break character
 
 The audience and the guest will also develop an interest in the conversation that will lead to a successful show for the day.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## #5 Transcribe your episodes
 
 A good podcast also looks to give you quality content for each episode. You may call on guests upon guests and promote your podcasts in many ways. One of the ways you can also allow your podcasts to be recognized more is by the use of transcribing.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What is transcribing?
 
 Transcribing means converting the speech in the audio of your podcasts to a text format. Your podcast may raise some eyes if the content is desirable to the audience.
@@ -173,16 +172,10 @@ For better playout and matching the audio with subtitles, you have to adjust the
 
 * At last, type the speech into text in the subtitle box.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![typing in the speech](https://images.wondershare.com/filmora/article-images/2023/04/typing-in-the-speech.jpg)
 
 In this way, you have created speech-to-text using a human transcriber rather than an AI. Doing this will ensure no mistakes are recorded and make it even more efficient.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## #6 Put yourself in audiences' shoes
 
 And if you feel like the general audience would want to make sense of a particular statement, ask the guest about it. This is what differentiates a good host from a bad one! A general understanding of the audience's point of view would always allow you to process your podcast accordingly.
@@ -193,9 +186,6 @@ And if you feel like the general audience would want to make sense of a particul
 
 All qualities of a good podcast are there, and it's your job to identify them and make the most of them.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## #7 Understand why the guest is here
 
 You are the host of the podcast. Your job is to be sincere with the guest. Moreover, useful information or a valued thought might be a reason why the guest has come to your show. Understand that reason and try to make the most of it.
@@ -210,9 +200,6 @@ You are the host of the podcast. Your job is to be sincere with the guest. Moreo
 
 Your goal should be to captivate the guest as much as you can. If the guest is entertained, the more chances are that they will recommend you to other guests. **An experience gone wrong will be bad for the podcast.**
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## #8 Invite the right guest
 
 A podcast can be an excellent tool for attracting the audience to your content. And as podcast hosts guests, your first step is finding the right guests for your audience.
@@ -244,9 +231,6 @@ Following the above methods could give you **50-100** potential clients. Your ma
 
 Start by writing emails and promoting content that will attract these guests. Your chances are increased by how much you polish your podcast into creating **premium content**. The more premium the content is, the more premium your chances are of inviting those dream guests.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Bottom Line
 
 Podcasts are tricky to promote. Many other alternatives are available in the market that provides a more Visual representation. And it's no lie; an audience like to sit and watch rather than sit and listen.
@@ -257,9 +241,6 @@ Following the steps, tips, and tricks mentioned above, you can build a strong ba
 
 Our main focus would be manually converting speech to text using a human transcriber. And we will be doing so by using the Wondershare Filmora app.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Transcribing podcasts with Wondershare Filmora
 
 Filmora is an all-in-one video editing tool. In the following steps, we will learn the step-by-step process of transcribing podcast by using Wondershare Filmora.
@@ -268,9 +249,6 @@ Filmora is an all-in-one video editing tool. In the following steps, we will lea
 
 * First of all, drag the imported audio files or footage into the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![adding footage into the timeline](https://images.wondershare.com/filmora/article-images/2023/04/adding-footage-into-the-timeline.jpg)
 
 ##### Step2Add subtitles
@@ -295,10 +273,14 @@ For better playout and matching the audio with subtitles, you have to adjust the
 
 * At last, type the speech into text in the subtitle box.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![typing in the speech](https://images.wondershare.com/filmora/article-images/2023/04/typing-in-the-speech.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In this way, you have created speech-to-text using a human transcriber rather than an AI. Doing this will ensure no mistakes are recorded and make it even more efficient.
 
@@ -312,9 +294,6 @@ And if you feel like the general audience would want to make sense of a particul
 
 All qualities of a good podcast are there, and it's your job to identify them and make the most of them.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## #7 Understand why the guest is here
 
 You are the host of the podcast. Your job is to be sincere with the guest. Moreover, useful information or a valued thought might be a reason why the guest has come to your show. Understand that reason and try to make the most of it.
@@ -329,9 +308,6 @@ You are the host of the podcast. Your job is to be sincere with the guest. Moreo
 
 Your goal should be to captivate the guest as much as you can. If the guest is entertained, the more chances are that they will recommend you to other guests. **An experience gone wrong will be bad for the podcast.**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## #8 Invite the right guest
 
 A podcast can be an excellent tool for attracting the audience to your content. And as podcast hosts guests, your first step is finding the right guests for your audience.
@@ -363,9 +339,6 @@ Following the above methods could give you **50-100** potential clients. Your ma
 
 Start by writing emails and promoting content that will attract these guests. Your chances are increased by how much you polish your podcast into creating **premium content**. The more premium the content is, the more premium your chances are of inviting those dream guests.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Bottom Line
 
 Podcasts are tricky to promote. Many other alternatives are available in the market that provides a more Visual representation. And it's no lie; an audience like to sit and watch rather than sit and listen.
@@ -384,9 +357,6 @@ Following the steps, tips, and tricks mentioned above, you can build a strong ba
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Creating Motivational Videos with AI: Comprehensive Guide 2024
 
 In the buzzing realm of social media, motivational videos have risen as a beacon of hope and inspiration for millions. Scrolling through your feeds, you've likely encountered a motivational video status that tugged at your heartstrings or ignited a spark of ambition. But why are these videos so compelling?
@@ -406,9 +376,6 @@ To begin, simply navigate to the Midjourney homepage. From here, choose a theme 
 
 Remember the importance of keeping the motivation status video download feature in mind. Users love to save and share these videos, and starting with a captivating image ensures your video gets the traction it deserves.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Use Runway Gen2 to convert pictures to videos
 
 With your motivation status image, it's time to bring it to life! That's where Runway Gen2 steps in. This platform is designed to seamlessly convert static images into dynamic videos, enriching the user experience.
@@ -419,9 +386,6 @@ The beauty of Runway Gen2 is that it does all the heavy lifting. Within moments,
 
 By harnessing AI tools like Midjourney and Runway Gen2, anyone can now become a creator of powerful motivational content.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Use Chat-GPT to generate motivational quotes
 
 Now that we have the visual backbone for our motivational video, the next step is to infuse it with words that resonate, inspire, and motivate. And who better to turn to than Chat-GPT, the AI writing virtuoso?
@@ -438,9 +402,6 @@ Imagine having the capability to request specific quotes on themes like "overcom
 
 But what if you're targeting events? For those creating Republic Day status videos, you can request patriotic quotes that ignite national pride or reflect upon the nation's journey.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Quick solution: Filmora AI Editing tool
 
 For those in a hurry or those who might not incline to traverse through various platforms, there's a one-stop solution: Filmora AI Editing tool. This all-encompassing tool streamlines the process of creating compelling motivational videos.
@@ -463,9 +424,6 @@ For those who are not seasoned video editors, Filmora offers a range of template
 
 With the tools and techniques available in 2024, creating motivational videos has never been more accessible. Whether you're a seasoned creator or a novice dipping your toes into the world of content creation, the AI-driven platforms mentioned above ensure that your motivation status video stands out and leaves an indelible mark on your audience.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: Summary
 
 AI-driven tools have democratized motivational content creation. No longer exclusive to professionals, crafting inspiring motivational videos status is now accessible to all. These AI-enhanced videos serve as beacons of hope and encouragement, resonating deeply across various audience demographics.
@@ -490,6 +448,13 @@ The beauty of Runway Gen2 is that it does all the heavy lifting. Within moments,
 
 By harnessing AI tools like Midjourney and Runway Gen2, anyone can now become a creator of powerful motivational content.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Use Chat-GPT to generate motivational quotes
 
 Now that we have the visual backbone for our motivational video, the next step is to infuse it with words that resonate, inspire, and motivate. And who better to turn to than Chat-GPT, the AI writing virtuoso?
@@ -506,9 +471,6 @@ Imagine having the capability to request specific quotes on themes like "overcom
 
 But what if you're targeting events? For those creating Republic Day status videos, you can request patriotic quotes that ignite national pride or reflect upon the nation's journey.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Quick solution: Filmora AI Editing tool
 
 For those in a hurry or those who might not incline to traverse through various platforms, there's a one-stop solution: Filmora AI Editing tool. This all-encompassing tool streamlines the process of creating compelling motivational videos.
@@ -553,9 +515,6 @@ Keep reading to find out how you can use this style of effect to spice up your d
 
 ![a preview of the alternate reality effect](https://images.wondershare.com/filmora/article-images/2023/01/alternate-reality-effect-1.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Preparing the footage
 
 There are not many restrictions on preparing the footage for this effect. However, depending on the results you're aiming for, you might need to consider a few things.
@@ -566,9 +525,6 @@ Then, while you're at it, you need to also figure out the purpose of the video i
 
 Last but not least, consider the length of the footage. If you're planning to make a bumper video, you might want a quick yet comprehensive shot of the objects you want to highlight. You can always trim and adjust the timing later, but it is better to also plan it early.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Editing the video
 
 If you have your footage or stock video ready, then you can start editing. Follow this simple step-by-step guide to create your own alternate reality using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -579,9 +535,6 @@ If you have your footage or stock video ready, then you can start editing. Follo
 
 Step 1: Drag and drop the video footage into the timeline - this will be the bottom part of the scene. Go to **Effect > Utility > Image Mask**. Drag and drop it onto the video footage.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![open the utility menu to insert an image mask](https://images.wondershare.com/filmora/article-images/2023/01/alternate-reality-effect-2.gif)
 
 Step 2: Adjust the mask by double-clicking the video footage. Go to **Setting > Mask Setting** and choose any shape you like. Set the feather number to 100.
@@ -614,9 +567,6 @@ Step 8: Double-click to open the **Setting > Transform**, then, adjust the x and
 
 You can recheck the preview at this stage and just save it as it is if you're already satisfied with the result. However, if you want a more dynamic alternate reality scene, continue reading to see advanced tips you can follow to make your video looks even more otherworldly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enhancing the effect with rotation keyframes
 
 If you're using stock videos or encountering limitations when making your footage, chances are your alternate reality is not looking as dynamic as you want it to be. Go all out by adding the rotation keyframes to the video footage so that the alternate reality looks more unreal.
@@ -635,9 +585,6 @@ Step 3: Now move the playhead to the end of the video footage and add another ke
 
 Step 4: Do Steps 1 to 3 to the second video footage. Don't forget to preview the result to see if both footages are rotated properly.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![previewing the result](https://images.wondershare.com/filmora/article-images/2023/01/alternate-reality-effect-13.gif)
 
 Your alternate reality is now more dynamic with more movement. You can also add more filters or effects to further enhance the sci-fi ambiance. Once you're satisfied, you can export the file to a format that is compatible with your destination platform.
@@ -660,23 +607,14 @@ Step 2: Adjust the mask by double-clicking the video footage. Go to **Setting > 
 
 Step 3: Scroll up the **Setting > Transform**. Adjust the position of the video footage on the x and y-axis to ensure that the mask shows the bottom of the landscape view. Click Ok.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![adjust the position using the x and y-axis](https://images.wondershare.com/filmora/article-images/2023/01/alternate-reality-effect-4.jpg)
 
 Step 4: Drag and drop the same video footage onto the timeline next to the first video footage. Place an Image Mask as well on this footage. This will be the upper part of the scene.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drop the same footage on the timeline](https://images.wondershare.com/filmora/article-images/2023/01/alternate-reality-effect-5.gif)
 
 Step 5: Double-click the second footage to open the Setting menu on the top left. Choose **Transform > Vertical Flip**.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![opt for a vertical flip transformation to the footage](https://images.wondershare.com/filmora/article-images/2023/01/alternate-reality-effect-6.jpg)
 
 Step 6: Scroll down the Setting menu to find the mask settings. Choose an opposing mask shape for this second footage then set the feather number to 100 as well.
@@ -689,9 +627,6 @@ Step 7: Adjust the video footage position by dragging the second footage to the 
 
 Step 8: Double-click to open the **Setting > Transform**, then, adjust the x and y-axis numbers to ensure that the mask reveals only the top half of the landscape. Click Ok.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![adjust the x and y-axis of the second footage](https://images.wondershare.com/filmora/article-images/2023/01/alternate-reality-effect-9.jpg)
 
 You can recheck the preview at this stage and just save it as it is if you're already satisfied with the result. However, if you want a more dynamic alternate reality scene, continue reading to see advanced tips you can follow to make your video looks even more otherworldly.
@@ -730,8 +665,6 @@ Not only it offers a strapping video editing menu with simple visual effects plu
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 ## How to Make Coin Magic With Filmora
 
 Do you want to become a magician in your videos? Now, everyone can look like a magician with the magic of editing. This article will show you how to do a cool coin trick in [Filmora 11](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -740,19 +673,20 @@ Do you want to become a magician in your videos? Now, everyone can look like a m
 
 Cutting on action is a technique the editors use to cut in the middle of an action to another shot that matches the first shot's action. Typically, the subject starts an action in one shot and continues the action in another, creating a smooth transition. For example, when you make the coin trick video, you need to cut on the tapping so it can trick the eyes, and the cut won't be noticeable.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![what is filmmaking technique](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-1.jpg)
 
 ## Part 2: Things You Need to Prepare for The Coin Magic Trick
 
 1. Glass and two coins
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![glass and coins](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Set the phone on a tripod. Because utilizing a tripod can significantly improve the recording's stability.
 
@@ -764,38 +698,47 @@ Step1 Firstly, you must show the coin and the bottom of the glass.
 
 ![show the coin and the bottom of the glass](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 After that, you need to hold the coin with the fingers part of one hand and tap down on the coin. Make sure it looks like the coin is going through straight to the glass.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hold the coin with the fingers](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 You need someone else to drop the other coin from the top. Meanwhile, you are pretending to tap a coin on the glass. You don't need to worry about someone else hand in the frame. Since you can remove it easily with the masking feature in Filmora.
 
 ![drop the other coin from the top](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 It would help if you had a second shot for a clean plate of the background. You can record background for 20 seconds.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![record background for 20 seconds](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-7.jpg)
 
 ## Part 4: Bring the clips into Filmora 11
 
 Step1 If you have not downloaded Filmora, you can visit filmora.wondershare.com to download Filmora's new version.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![download Filmora](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-8.jpg)
 
 Step2 Drag and drop the clip onto the first track of the timeline.Afterward, move the playhead to the right and find the spot where you tapped the coin last time before your friend drops the other coin. Additionally, make sure it is in the middle of the tapping action and cut.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drag and drop the clip onto the first track](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-9.jpg)
 
 Step3 Then move the playhead to the right and find the spot where your friend drops the coin while you tap without the coin in your hand. Make sure it is in the middle of the tapping action, and the position of your hand roughly matches that in the last cut and make a cut.
@@ -804,51 +747,24 @@ Step3 Then move the playhead to the right and find the spot where your friend dr
 
 Step4 Now you need to delete the middle part and play it back. Indeed, cutting on action is the key to creating the illusion that the action is continued without editing.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![delete the middle part](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-11.jpg)
 
 Step5 Next, you must remove your friend's hand in the frame with the Filmora masking feature. Afterwards. drag and drop the clean plate video onto the second track of the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![remove your friend's hand in the frame](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-12.jpg)
 
 Step6 Next, double-click the clip to open the setting video. Find the Mask Section and select the single line.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-13.jpg)
 
 Step7 Here you can see the mask is applied.First, adjust the angle and position of the mask to only show the top part of the frame. Then you have to change the Blur Strength to add more blur to the edge of the mask.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![adjust the angle and position of the mask](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-14.jpg)
 
 Step8 With the mask finalized, unhide the first video track and adjust the length of the clip on the timeline. Finally, playback the video and see how it looks.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![adjust the length of the clip](https://images.wondershare.com/filmora/article-images/2022/12/coin-magic-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Summary
 
 That's how to make a coin move through a glass-like MAGIC with the cutting on action editing technique. You can pay close attention to the steps above and follow each step for perfect results.
@@ -873,10 +789,24 @@ That's how to make a coin move through a glass-like MAGIC with the cutting on ac
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-key-role-of-image-quality-in-generating-clicks-on-youtube-videos/"><u>[New] 2024 Approved The Key Role of Image Quality in Generating Clicks on YouTube Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-haste-in-video-supercharge-facebook-videos-with-proxies-and-tools-for-2024/"><u>[New] Haste in Video Supercharge Facebook Videos with Proxies and Tools for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-affordable-hardware-excellent-obs-setup/"><u>2024 Approved Affordable Hardware Excellent OBS Setup</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/expert-advice-5-proven-methods-to-document-minecraft-on-apple-devices/"><u>Expert Advice 5 Proven Methods to Document Minecraft on Apple Devices</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-15-pro-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 15 Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-fidelity-on-the-big-screen-the-4k-monitor-tale-of-lgs-31mu97-b/"><u>In 2024, High Fidelity on the Big Screen The 4K Monitor Tale of LG's 31MU97-B</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-add-a-spooky-shadow-effect/"><u>In 2024, How to Add a Spooky Shadow Effect</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pro-stabilized-gimbals-for-smartphones-tablets-and-dslr-cameras/"><u>In 2024, Pro Stabilized Gimbals for Smartphones, Tablets, and DSLR Cameras</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-tips-to-make-cinematic-color-grading/"><u>In 2024, Tips to Make Cinematic Color Grading</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-the-intricacies-of-dfu-mode-in-iphones-for-effective-troubleshooting/"><u>Mastering the Intricacies of DFU Mode in iPhones for Effective Troubleshooting</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-if-you-are-a-free-video-editor-being-a-windows-user-vsdc-free-video-editor-is-a-great-choice-but-is-it-the-best-video-editor-you-should-use-find-out-fro/"><u>New If You Are a Free Video Editor Being a Windows User, VSDC Free Video Editor Is a Great Choice. But Is It the Best Video Editor You Should Use? Find Out From Our VSDC Free Video Editor Review</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-use-your-social-media-app-and-make-slow-motion-videos-by-reading-this-guide-besides-learning-slow-motion-snapchat-get-useful-apps-serving-the-same-purpo/"><u>New Use Your Social Media App and Make Slow-Motion Videos by Reading This Guide. Besides Learning Slow-Motion Snapchat, Get Useful Apps Serving the Same Purposes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/satire-software-studio/"><u>Satire Software Studio</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/top-5-ways-to-convert-hdr-to-sdr-videos/"><u>Top 5 Ways To Convert Hdr To Sdr Videos</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-best-guide-for-setting-tiktok-countdown-timer-for-2024/"><u>Updated Best Guide for Setting TikTok Countdown Timer for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-a-tattoo-disappear-like-a-magic/"><u>Updated How to Make A Tattoo Disappear Like A Magic</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-add-font-effects-to-videos/"><u>Updated In 2024, How to Add Font Effects to Videos</u></a></li>
+</ul></div>
 

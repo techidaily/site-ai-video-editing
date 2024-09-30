@@ -1,7 +1,7 @@
 ---
 title: Updated Green Screen Is a Widely Used Effect in After Effects. Many Professional Photographers Use It to Make Creative Video Effects. This Guide Will Show You How to Use Green Screen to Videos in After Effects for 2024
-date: 2024-08-02T04:54:41.323Z
-updated: 2024-08-03T04:54:41.323Z
+date: 2024-09-28T16:36:18.742Z
+updated: 2024-09-30T20:34:38.095Z
 tags: 
   - ai
   - animation videos
@@ -23,35 +23,21 @@ Let’s start off!
 
 After you have imported your material into the After Effects project, you should next create a new composition using the footage. In the following stage, you have the option of either adding each plugin one at a time or doing it all at once. You may find them grouped together as Keylight, Key Cleaner, and Advanced Spill Suppressor in the Animation Presets box, which is located under the "Image Utilities" heading.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![import green screen video footage ae](https://images.wondershare.com/filmora/article-images/2022/11/import-green-screen-video-footage-ae.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Remove the green color
 
 After Effects users can get rid of a green screen by going to the "Animation Presets" window, searching for the "Keylight" preset, dragging, and dropping it over the clip, and then shifting their focus to the "Effects Controls" window. Make sure the Screen Colour is set to the color of your screen's background (which, in this case, is green). You may do this with the color selector.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove green color from video in ae](https://images.wondershare.com/filmora/article-images/2022/11/remove-green-color-from-video-in-ae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Clean up the shot
 
 You have no doubt observed that some of the remaining parts do not have the correct keying installed in them. In order to get rid of them, you need to put the view into the Combined Matte mode and turn the Screen Gain up a notch.
@@ -84,9 +70,6 @@ After completing this lesson, you should have a better understanding of what a c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Ultimate Guide to Making Cinematography for Music Video
 
 To visually represent the story in the music video, cinematography shots are helpful. It'll obviously and pleasing and eye-catchy effect in your video. These major requirements for making that cinematography can be covered as the following:
@@ -105,9 +88,6 @@ Before, we go deeper to the details on how to make a cinematography for music, l
 
 Cinematography covers all aspects of how a movie or music video is made, including choosing the lighting for the scene. The type of camera equipment to use, how to frame your photographs, and how to decide on camera movement are also included in this. Let's move toward the next lines to get the cool cinematography on display.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Light a subject
 
 Although you may assume that cinematography is just concerned with the usage of the camera, lighting plays an equally important role. While planning your photographs, you should think about how the scene is lit and how your subject is illuminated.
@@ -124,14 +104,8 @@ The cinematographers mainly focus on the hard and soft lights during filmmaking.
 
 The **soft light** is trying to wrap around the subject. It gives diffused shadows and soft edges to the character of the music video.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![soft light on the subject](https://images.wondershare.com/filmora/article-images/2023/04/soft-light-on-the-subject.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** To get better results of the soft look, you need to add diffusion to lower the intensity.
@@ -156,25 +130,16 @@ To give proper lights in the set is illustrated with the help of an example as s
 
 In this music video of the 3lau's, the main prop used is a bus, which is presented in the middle of the set and lit very well. The bus is rounded by many tungsten lights, which give a resemblance to those street lights. They are set up automatically in such a way that this stimulates the real movement of the bus on the road.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![lighting a set](https://images.wondershare.com/filmora/article-images/2023/04/lighting-a-set.gif)
 
 The three projectors are set to give the street footage at the back scene to add more realism.
 
 The three lights are set in the queue by the production team to get the memory of the protagonist. In the setup, soft lights are also added on top of all the upper windows of the bus to give blue interior light to the bus.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Camera Techniques
 
 The cameras used during filming play a major role in giving the cinematographic shots. All the techniques shown below are applied to the DSLRs and even the smartphones you use for filming.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Prime lenses
 
 The foremost and most helpful lenses in filming are called prime lenses, which have fixed focal lengths. There is no Johns to zoom out and zoom-in in prime lenses.
@@ -201,14 +166,6 @@ Whenever we use a microscope, we are dealing with the aspect ratio and narrowing
 
 Framing is a way used to illustrate the concepts such as the rule of thirds and leading lines. To give customized headroom to the subject, the framing is used from the top of the head and the top of the frame.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Camera Movement
 
 The camera movement actually shows the real story presented in the music video. The camera movements used for filming are mainly the pedestal, truck, pan, tilt, and roll.
@@ -221,9 +178,6 @@ Whenever the protagonist looks out the bus's window, the camera operator will us
 
 The trucking movement of the camera is done in left-to-right motion in the filming. This is used for emotional purposes and whenever the subject is in a pull-out shot.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dolly Movement
 
 The dolly movement of the camera is done by moving towards or away from the subject. This often gives a sense of importance to the character.
@@ -244,16 +198,23 @@ You need a haze machine to create the atmosphere and give the environment true v
 
 ![filmora](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![filmora](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Light a Set
 
 To give proper lights in the set is illustrated with the help of an example as shown below!
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Examples
 
 In this music video of the 3lau's, the main prop used is a bus, which is presented in the middle of the set and lit very well. The bus is rounded by many tungsten lights, which give a resemblance to those street lights. They are set up automatically in such a way that this stimulates the real movement of the bus on the road.
@@ -276,29 +237,27 @@ For filming, we need to choose the right level of zoom, which the DP does by pic
 
 ![prime lens of the camera](https://images.wondershare.com/filmora/article-images/2023/04/prime-lens-of-the-camera.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In the close-up scenes, there is a requirement for a wider field of view which also depends on the aspect ratio of shooting.
 
 ## Aspect Ratio
 
 In filmy view, the most appropriate aspect ratio is 2.35, which is also a cinematic ratio. There is also another ratio of 16:9, which is a wider ratio. While 2.35 gives a more narrow perspective as compared to the prior one.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** The narrow ratio is helpful in showing the relationships between the subjects.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![aspect ratio of the filming](https://images.wondershare.com/filmora/article-images/2023/04/aspect-ratio-of-the-filming.jpg)
 
 Whenever we use a microscope, we are dealing with the aspect ratio and narrowing down to the required point where we want to look, and this is all about framing, which is discussed as shown below!
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Framing
 
 Framing is a way used to illustrate the concepts such as the rule of thirds and leading lines. To give customized headroom to the subject, the framing is used from the top of the head and the top of the frame.
@@ -319,9 +278,6 @@ The trucking movement of the camera is done in left-to-right motion in the filmi
 
 The dolly movement of the camera is done by moving towards or away from the subject. This often gives a sense of importance to the character.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Final Words
 
 The above article gives the exact preferences of the "Tokyo" song by which you learned a lot of techniques for your future use. By following the above rules and tips, you'll obviously come up with a viral music video.
@@ -332,9 +288,6 @@ The above article gives the exact preferences of the "Tokyo" song by which you l
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How To Fix Slow Playback Issues in DaVinci Resolve: Finding the Best Solutions
 
 Davinci Resolve is a well-known video editing software with an intuitive interface. This all-in-all program combines editing, color correction, motion graphics, and visual effects. Video editors don’t need to switch to many apps when DaVinci Resolve can do different tasks. High-quality editing of original camera images can only be done through this tool.
@@ -370,50 +323,32 @@ DaVinci Resolve can work on 4K high-resolution footage that might disrupt the pl
 
 Adjust the timeline resolution and right-click on the timeline in the Media Pool. Choose “Timeline” and then “Timeline Settings.” Lastly, check the “Use Project Settings” option and decide a resolution to click on "OK."
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change timeline resolution slow playback](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 3: Enable Render Cache
 
 It’s another solution to fix the **DaVinci resolve slow playback**. Render cache is a file that stores the rendered frames and makes the rendering faster. Start by hitting the “Playback” option and choose “Render Cache.” Then, you’ll see 3 options: None, Smart, and User. You should select "Smart" and let DaVinci Resolve pick one clip to be cached.
 
 ![enable render cache slow playback](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 4: Disable the Live Save Feature
 
 Every change you make gets saved with the Live Save option in DaVinci Resolve. If your remote drive is linked, this feature can drag the playback speed down. You can disable it for a **DaVinci resolve faster playback**.
 
 Look for the “User Preference” menu and click on the top left side button of DaVinci Resolve. Go to the “Preferences” under the user tab. From the “Project Save and load,” check the “Disable Live Save” option. Now, you should remember to manually save your projects after editing.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![disable live save feature slow playback](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-4.jpg)
 
 ### Solution 5: Use Proxy Media Files
 
 Another solution is to use proxy media during the project editing. Proxy files are small copy files transcoded from a larger, original video file. Get the proxy file to increase the playback and go to your "Media Pool" in DaVinci Resolve. Right-click on the intended file and choose "Generate Proxy Media" from the list.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![use proxy files slow playback](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-5.jpg)
 
 ### Solution 6: Disable Color Grades
 
 If you are still failing to resolve the slow playback issue on Davinci Resolve, try this fix. Disable color grades and other effects in the first place. To do so, head to the DaVinci Resolve Edit Page. After getting there, press the "Bypass Color Grades and Fusion Effects” button from the top right side. This way, you can surely solve the **DaVinci Resolve slow-down playback** error.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![disable color grades slow playback](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-6.jpg)
 
 ## Part 2: What Makes a Slow-Motion Video Good?
@@ -425,9 +360,6 @@ After resolving the **DaVinci Resolve slow playback**, let's continue further ed
 * **Resolution:** A good slow motion is only possible when it is captured in high-quality resolution. Better image quality allows more detail in such footage. Moreover, you can optimize the camera settings for the desired resolution.
 * **Editing and Timing:** Thoughtfully chosen clips, timings, and editing can set the stage. Thus, maintain a cohesive flow and pay more attention to the video pacing. Edit all segments in a way that fits seamlessly to contribute a good slow-motion video.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Making Slow Playback Issues Go Away with Perfect Alternative: Wondershare Filmora
 
 Sometimes, issues like **DaVinci Resolve slow down playback** do not go easily. Resolving them requires a lot of effort that might prove frustrating beyond limits. So, it seems better there to switch towards a better option. In this regard, [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is the most effective solution in video editing. Professionals can rely on Filmora, which offers AI-integrated features for easy video-making.
@@ -438,9 +370,6 @@ Users can use its [AI Copilot Editing](https://tools.techidaily.com/wondershare/
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Make a Slow-motion video with Optical Flow
 
 [Slow-motion videos](https://tools.techidaily.com/wondershare/filmora/download/) with high resolution are not easy to create. Without any playback lagging, this tool can provide you with slow-motion video. Following are those steps that can lead you to easily create such videos:
@@ -449,18 +378,12 @@ Users can use its [AI Copilot Editing](https://tools.techidaily.com/wondershare/
 
 Launch Filmora’s latest version in your system. Open it and choose the “New Project” option from its main interface. After getting into the editing screen, press the “Ctrl + I” keys to bring the media to Filmora. Drag and drop the file in the timeline section to start editing.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add video to filmora](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-7.jpg)
 
 ##### Step 2Explore the Speed Option and Use Optical Flow Feature
 
 In the Timeline, right-click on the video and choose the “Uniform Speed” option. An extended menu will appear on the right side. Now, turn the video into slow motion with the “Speed” slider. Afterward, head down and extend the “AI Frame Interpolation” menu. From the list, select the “Optical Flow” option for slow but high-quality speed.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set speed with uniform options](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-8.jpg)
 
 ##### Step 3Continue Editing or Export as Desired
@@ -488,60 +411,47 @@ As Highlighted, DaVinci Resolve is a good video editor for all kinds of use case
 * [Solution 5: Use Proxy Media Files](#davinci5)
 * [Solution 6: Disable Color Grades](#davinci6)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 1: Lower Playback Resolution
 
 In DaVinci Resolve, full timeline proxy resolution is set by default. To enjoy a smooth playback while editing, you should reduce the playback resolution. Open your project in DaVinci Resolve and press the "Playback" menu from the top. Then, select "Timeline Proxy Resolution" and pick one either "Half" or "Quarter" options. It will reduce the playback resolution and speed up the playback.
 
 ![lower playback resolution slow playback](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 2: Change Timeline Resolution
 
 DaVinci Resolve can work on 4K high-resolution footage that might disrupt the playback. So, cutting down the resolution to speed up your playback is suggested. To do so, click the "Settings" icon from the bottom right side and enter the “Project Settings” window. Expand the “Time Resolution” menu and choose 1920x1080 HD if working on 4K or high resolutions. Now, apply the changes by hitting on “Save.”
 
 Adjust the timeline resolution and right-click on the timeline in the Media Pool. Choose “Timeline” and then “Timeline Settings.” Lastly, check the “Use Project Settings” option and decide a resolution to click on "OK."
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change timeline resolution slow playback](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-2.jpg)
 
 ### Solution 3: Enable Render Cache
 
 It’s another solution to fix the **DaVinci resolve slow playback**. Render cache is a file that stores the rendered frames and makes the rendering faster. Start by hitting the “Playback” option and choose “Render Cache.” Then, you’ll see 3 options: None, Smart, and User. You should select "Smart" and let DaVinci Resolve pick one clip to be cached.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![enable render cache slow playback](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Solution 4: Disable the Live Save Feature
 
 Every change you make gets saved with the Live Save option in DaVinci Resolve. If your remote drive is linked, this feature can drag the playback speed down. You can disable it for a **DaVinci resolve faster playback**.
 
 Look for the “User Preference” menu and click on the top left side button of DaVinci Resolve. Go to the “Preferences” under the user tab. From the “Project Save and load,” check the “Disable Live Save” option. Now, you should remember to manually save your projects after editing.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![disable live save feature slow playback](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 5: Use Proxy Media Files
 
@@ -553,9 +463,6 @@ Another solution is to use proxy media during the project editing. Proxy files a
 
 If you are still failing to resolve the slow playback issue on Davinci Resolve, try this fix. Disable color grades and other effects in the first place. To do so, head to the DaVinci Resolve Edit Page. After getting there, press the "Bypass Color Grades and Fusion Effects” button from the top right side. This way, you can surely solve the **DaVinci Resolve slow-down playback** error.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![disable color grades slow playback](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-6.jpg)
 
 ## Part 2: What Makes a Slow-Motion Video Good?
@@ -567,9 +474,6 @@ After resolving the **DaVinci Resolve slow playback**, let's continue further ed
 * **Resolution:** A good slow motion is only possible when it is captured in high-quality resolution. Better image quality allows more detail in such footage. Moreover, you can optimize the camera settings for the desired resolution.
 * **Editing and Timing:** Thoughtfully chosen clips, timings, and editing can set the stage. Thus, maintain a cohesive flow and pay more attention to the video pacing. Edit all segments in a way that fits seamlessly to contribute a good slow-motion video.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Making Slow Playback Issues Go Away with Perfect Alternative: Wondershare Filmora
 
 Sometimes, issues like **DaVinci Resolve slow down playback** do not go easily. Resolving them requires a lot of effort that might prove frustrating beyond limits. So, it seems better there to switch towards a better option. In this regard, [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is the most effective solution in video editing. Professionals can rely on Filmora, which offers AI-integrated features for easy video-making.
@@ -596,14 +500,25 @@ In the Timeline, right-click on the video and choose the “Uniform Speed” opt
 
 ![set speed with uniform options](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 3Continue Editing or Export as Desired
 
 Now, you can extend your editing and work on “Reverse Speed” and “Ripple Edit." If you have nothing to edit more, look for the "Export" option from the top-right corner. Click on it and export with customized parameters.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![further edit and export video](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -614,8 +529,6 @@ In short, there are several ways to fix **DaVinci Resolve's slow playback** erro
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 ## Looking for Simple Steps to Apply Fade in Effect to Your Text in Premiere Pro? Here Are Two Different Methods Along with an Alternative Way to Fade Text in Videos
 
@@ -629,9 +542,6 @@ If you have added any text or any graphical object in your video on Premiere Pro
 
 Step1 You must have your video clip as well as text clip on the Timeline of Premiere Pro. Make sure that you add text from Essential Graphics panel. Select the text clip from the Timeline to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select text sample pr](https://images.wondershare.com/filmora/article-images/2022/07/select-text-sample-pr.jpg)
 
 Step2 Go to Effect Controls and click on Text option to expand it. Click on Opacity option from the dropdown menu.
@@ -644,9 +554,6 @@ Step3 Put the timeline cursor at the beginning of the selected text clip. Therea
 
 Step4 Put the timeline cursor at that point in the clip where you want the text to appear completely. Now make the Opacity value to 100\. Click on Stopwatch to add a keyframe here.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make opacity to 100 pr](https://images.wondershare.com/filmora/article-images/2022/07/make-opacity-to-100-pr.jpg)
 
 Step5 Play the video to watch the fade in effect on your selected text. You can move the keyframes to speed up or slow down fade in effect.
@@ -659,32 +566,27 @@ Step1 You should have multiple video clips added to Timeline. Select the video c
 
 Step2 Go to Effects panel and click on Video Transitions option.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click video transitions pr](https://images.wondershare.com/filmora/article-images/2022/07/click-video-transitions-pr.jpg)
 
 Step3 Click on Dissolve and from the dropdown list, drag and drop Film Dissolve to the beginning of the selected video clip for fade in effect.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![drag film dissolve pr](https://images.wondershare.com/filmora/article-images/2022/07/drag-film-dissolve-pr.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4 Click on the added effect on Timeline to adjust speed, duration, and alignment of the effect.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![adjust effects control pr](https://images.wondershare.com/filmora/article-images/2022/07/adjust-effects-control-pr.jpg)
 
 Step5 Play the video to ensure that the effect looks perfect. Therefore, go to File> Share> Export File to save the video.
 
 You can place the transition at the end of the video for fading out effect. Instead of Film Dissolve, you can use Crossfade or Dip to Black effect for fade in and fade out effect on video clips.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Part 3\. Alternative way to fade in text in videos
 
 If you do not have Adobe Premiere Pro or you find the steps difficult to fade in text in videos using Premiere Pro, we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Filmora is a professional video editor that is available for Windows as well as Mac users. There is a wide range of video effects available in Filmora in comparison to Premiere Pro. Most importantly, Filmora is super easy and intuitive to use, and even amateur users can use it comfortably. Here are the steps to fade in text in videos using Filmora.
@@ -695,9 +597,6 @@ If you do not have Adobe Premiere Pro or you find the steps difficult to fade in
 
 Step1 Download and install [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Launch Filmora and click on New Project option.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download and install filmora](https://images.wondershare.com/filmora/guide/create-new-project-01.png)
 
 Step2 Import the video clip under Project Media folder. Drag and drop the video clip to Timeline.
@@ -706,9 +605,6 @@ Step2 Import the video clip under Project Media folder. Drag and drop the video 
 
 Step3 Go to Titles located at the top and drag and drop any title style on Timeline. Double-click on the Title clip on Timeline and type in your required text in the Viewer. You can stretch the Title clip to extend its duration as per your requirement.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![go to titles](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
 Step4 Double-click on Title clip again on the Timeline and go to Text> Animation tab located at the top-left corner. Scroll down to go to Fade1 option and double-click Fade1 to apply it to your text.
@@ -717,9 +613,6 @@ Step5 You can go to settings by clicking on Advanced button and adjust parameter
 
 Step6 Once you are done, play the video and thereafter, click on Export to save the video on your hard drive.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 We have stated the steps on how to fade text in Premiere Pro. You can use the same steps to apply the effect to graphical objects. We have also illustrated how to apply fade in and fade out effects between video clips and scenes using transition effects. If you are looking for an alternative and easier way to fade in texts in your videos, we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -728,23 +621,14 @@ We have stated the steps on how to fade text in Premiere Pro. You can use the sa
 
 Step1 Download and install [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Launch Filmora and click on New Project option.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download and install filmora](https://images.wondershare.com/filmora/guide/create-new-project-01.png)
 
 Step2 Import the video clip under Project Media folder. Drag and drop the video clip to Timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![import video clip](https://images.wondershare.com/filmora/guide/create-new-project-02.png)
 
 Step3 Go to Titles located at the top and drag and drop any title style on Timeline. Double-click on the Title clip on Timeline and type in your required text in the Viewer. You can stretch the Title clip to extend its duration as per your requirement.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![go to titles](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
 Step4 Double-click on Title clip again on the Timeline and go to Text> Animation tab located at the top-left corner. Scroll down to go to Fade1 option and double-click Fade1 to apply it to your text.
@@ -771,9 +655,22 @@ We have stated the steps on how to fade text in Premiere Pro. You can use the sa
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-optimal-speech-recognition-for-silent-input-for-2024/"><u>[New] Optimal Speech Recognition for Silent Input for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/11-tools-to-create-radial-blur-photo-mobile-and-desktop/"><u>11 Tools To Create Radial Blur Photo Mobile And Desktop</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-quick-guide-adding-zoom-to-your-email-communications/"><u>In 2024, Quick Guide Adding Zoom to Your Email Communications</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-complete-wm-maker-playbook-for-youtube-clips-perfection/"><u>In 2024, The Complete WM Maker Playbook for YouTube Clips Perfection</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-reels-a-prodigys-blueprint-for-2024/"><u>Instagram Reels A Prodigy’s Blueprint for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-learning-unique-ways-to-slow-down-time-lapse-on-iphone/"><u>New 2024 Approved Learning Unique Ways to Slow Down Time Lapse on iPhone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-templates-increase-the-editing-possibilities-for-beginners-and-professionals-read-this-article-to-learn-about-some-customizable-slow-motio/"><u>New 2024 Approved Templates Increase the Editing Possibilities for Beginners and Professionals. Read This Article to Learn About some Customizable Slow-Motion CapCut Templates</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/textual-journeys-gameplay-mastery-through-chatgpt/"><u>Textual Journeys: Gameplay Mastery Through ChatGPT</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-real-environmental-impact-of-switching-to-electric-vehicles/"><u>The Real Environmental Impact of Switching to Electric Vehicles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-list-of-7-ai-technologies-transforming-how-we-tackle-math-challenges/"><u>The Ultimate List of 7 AI Technologies Transforming How We Tackle Math Challenges</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-if-you-want-to-replace-or-delete-the-sky-pictures-or-background-media-then-give-a-quick-read-to-this-article-for-effective-solutions.m/"><u>Updated 2024 Approved If You Want to Replace or Delete the Sky Pictures or Background Media, Then Give a Quick Read to This Article for Effective Solutions</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-if-youre-not-using-video-yet-now-is-the-time-to-start-in-this-post-well-discuss-the-benefits-of-using-video-for-social-media-marketing/"><u>Updated 2024 Approved If Youre Not Using Video yet, Now Is the Time to Start. In This Post, Well Discuss the Benefits of Using Video for Social Media Marketing and Provide Tips for Getting Started. Keep Reading to Learn More</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-fortnite-thumbnail-with-motion-blur-in-2024/"><u>Updated How to Make Fortnite Thumbnail with Motion Blur, In 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-davinci-resolve-scopes-have-undergone-significant-improvements-find-out-how-to-use-these-scopes-and-improve-your-video-editing-skills/"><u>Updated In 2024, DaVinci Resolve Scopes Have Undergone Significant Improvements. Find Out How to Use These Scopes and Improve Your Video Editing Skills</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-is-my-helldivers-2-not-launching-expert-tips-to-get-it-running-on-steam-again/"><u>Why Is My Helldivers 2 Not Launching? Expert Tips to Get It Running on Steam Again</u></a></li>
+</ul></div>
 

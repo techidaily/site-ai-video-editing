@@ -1,7 +1,7 @@
 ---
 title: New Have You Ever Used Premiere Pro to Create Slow-Motion Effects? This Article Will Provide a Guide on Producing Slow-Motion Effects by Using Adobe Premiere Pro for 2024
-date: 2024-08-02T04:54:42.119Z
-updated: 2024-08-03T04:54:42.119Z
+date: 2024-09-24T22:09:40.609Z
+updated: 2024-09-30T22:26:13.884Z
 tags: 
   - ai
   - animation videos
@@ -25,9 +25,6 @@ To create [slow-motion effects](https://tools.techidaily.com/wondershare/filmora
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How To Perform Slow Motion on Adobe Premiere Pro?
 
 [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) offers an advanced user interface to perform complex functions. It contains a wide range of features supporting non-destructive video editing. Its auto-correct feature lets you adjust the color patterns of the video in a smart way. Moreover, it contains a comparison view to analyze the before and after visual effects. You can also add adjustment layers in the timeline to change many clips at once.
@@ -36,9 +33,6 @@ On Premiere Pro, you can also connect third-party plugins for more features. It 
 
 **Step 1:** On Premiere Pro, upload the video in which you want to create a slow-motion effect. To proceed, drag it to the timeline with your cursor. At the start of the timeline, right-click on the small icon saying FX on the left side. From there, select “Time Remapping” and then “Speed.”
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![access speed settings](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-effect-in-premiere-pro-1.jpg)
 
 **Step 2:** Now, add the keyframe where you want to begin and end the slow-motion effect. To do so, press “CTRL + Click” on the timeline. To add a ramp, click on the added keyframes and drag them a little to the right side.
@@ -57,9 +51,6 @@ In this section, you can find popular **slow-motion effect Premiere Pro** templa
 
 This template is perfect for use in the intros of videos, presentations, slideshows, etc. It contains 9 different scenes of outdoor areas. Moreover, it offers 16 media placeholders and 7 text placeholders to add custom content. You can promote your brand by using its 2 placeholder logos. Hence, it’s a perfect slow-motion video template with HD-quality resolution.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![slow motion short opener template](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-effect-in-premiere-pro-4.jpg)
 
 * [Slow Motion Explosion Logo Opener](https://videohive.net/item/slow-motion-explosion-logo-opener-for-premiere-pro/46233632)
@@ -72,9 +63,6 @@ The slow-motion explosion logo opener is an attractive template featuring vibran
 
 Do you want to create a modern video on Premiere Pro? Well, this slow-motion template features freeze frames to offer viewers a unique look. The template gives a glimpse of urban life with energetic background music. It’s available in full HD resolution with eye-catching urban locations. Hence, try this template for demos, fashion, and action videos.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![urban freeze frame template](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-effect-in-premiere-pro-6.jpg)
 
 * [Dynamic Sport](https://motionarray.com/premiere-pro-templates/dynamic-sport-477936/)
@@ -87,14 +75,8 @@ Dynamic Sport is one of the famous **slow-motion Premiere Pro** templates. With 
 
 This planet-themed template introduces cinematic spinning planets. With 8 text placeholders, you can write content related to your shows, movies, and events. It contains intriguing background music that can grasp the attention of your audience. In full HD resolution, this template can help you produce cinematic slow-motion videos with minimal effort.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![planet titles template](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-effect-in-premiere-pro-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Tutorial: Perform Slow Motion in Filmora Video Editing
 
 Are you ready to perform **slow-motion effects in Premiere Pro** in Filmora? Check the directions below to [add a slow-motion effect to your video](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -113,18 +95,12 @@ After the launch of Filmora, click on the “New Project” button. Click on the
 
 Go to the right panel of the screen to open the settings. From there, go to the “Speed” tab and select “Speed Ramping”. It will display the speed ramping settings below.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access speed ramping settings](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-effect-in-premiere-pro-13.jpg)
 
 ##### Step 3Adjust the Video Speed
 
 The presets are available for speed ramping in the above section. Choose “Customize” and then proceed to the small graph given below. Here, you can move the points to adjust the video’s speed. By pulling down the points, you can reduce the video’s speed. Continue the process until you achieve your desired speed.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select preset or customize](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-effect-in-premiere-pro-14.jpg)
 
 ##### Step 4Render the Video
@@ -134,8 +110,12 @@ Expand the option of “AI Frame Interpolation” and choose “Optical Flow.”
 ![introduce optical flow and export](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-effect-in-premiere-pro-15.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 **Slow-motion effect Premiere Pro** can produce high-end results for professionals. Yet, this tool is not ideal for every kind of user. In contrast, Filmora is the most flexible tool due to its friendly user interface. Without extensive manual efforts, you can produce slow-motion videos within a few clicks. Moreover, it features many AI options to let you increase your productivity.
@@ -144,6 +124,13 @@ Expand the option of “AI Frame Interpolation” and choose “Optical Flow.”
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: How To Perform Slow Motion on Adobe Premiere Pro?
 
 [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) offers an advanced user interface to perform complex functions. It contains a wide range of features supporting non-destructive video editing. Its auto-correct feature lets you adjust the color patterns of the video in a smart way. Moreover, it contains a comparison view to analyze the before and after visual effects. You can also add adjustment layers in the timeline to change many clips at once.
@@ -152,28 +139,16 @@ On Premiere Pro, you can also connect third-party plugins for more features. It 
 
 **Step 1:** On Premiere Pro, upload the video in which you want to create a slow-motion effect. To proceed, drag it to the timeline with your cursor. At the start of the timeline, right-click on the small icon saying FX on the left side. From there, select “Time Remapping” and then “Speed.”
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![access speed settings](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-effect-in-premiere-pro-1.jpg)
 
 **Step 2:** Now, add the keyframe where you want to begin and end the slow-motion effect. To do so, press “CTRL + Click” on the timeline. To add a ramp, click on the added keyframes and drag them a little to the right side.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add keyframe for speed adjustment](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-effect-in-premiere-pro-2.jpg)
 
 **Step 3:** To proceed, move to the central part of the two added keyframes. Afterward, click on the central part and drag it downwards. By doing so, you can see the reduced percentage number on the timeline. To add a more slow-motion effect, pull down the central part of the timeline. For more adjustments in the length within the keyframes, you can go to the effects control. By doing so, you can determine how smoothly you want to create a slow-motion effect.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![adjust keyframes and finalize](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-effect-in-premiere-pro-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2:Leading Templates Offering Quick Slow Motion Effect in Premiere Pro
 
 In this section, you can find popular **slow-motion effect Premiere Pro** templates. After accessing the templates, you can customize them as per your needs. Hence, let’s dig into the details below:
@@ -206,9 +181,6 @@ Dynamic Sport is one of the famous **slow-motion Premiere Pro** templates. With 
 
 This planet-themed template introduces cinematic spinning planets. With 8 text placeholders, you can write content related to your shows, movies, and events. It contains intriguing background music that can grasp the attention of your audience. In full HD resolution, this template can help you produce cinematic slow-motion videos with minimal effort.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![planet titles template](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-effect-in-premiere-pro-8.jpg)
 
 ## Part 3: Tutorial: Perform Slow Motion in Filmora Video Editing
@@ -241,14 +213,8 @@ The presets are available for speed ramping in the above section. Choose “Cust
 
 Expand the option of “AI Frame Interpolation” and choose “Optical Flow.” Once done, click on “Render Preview” from the timeline’s toolbar to see the highest-quality results.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![introduce optical flow and export](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-effect-in-premiere-pro-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 **Slow-motion effect Premiere Pro** can produce high-end results for professionals. Yet, this tool is not ideal for every kind of user. In contrast, Filmora is the most flexible tool due to its friendly user interface. Without extensive manual efforts, you can produce slow-motion videos within a few clicks. Moreover, it features many AI options to let you increase your productivity.
@@ -265,9 +231,6 @@ Expand the option of “AI Frame Interpolation” and choose “Optical Flow.”
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Easy Way to Create a DIY Green Screen Video Effect
 
 No matter how big the budget of a Hollywood movie is, at the end of the day, it has to rely on the humble green screens for special video effects. The stunning studios from where your favorite YouTubers and gamers stream their videos are graphical video effects created through green screens. Even the studios that you see on TV channels are a graphical creation of green screens. You must be wondering how they could achieve such awesome graphics with a simple green screen.
@@ -275,8 +238,12 @@ No matter how big the budget of a Hollywood movie is, at the end of the day, it 
 All you need is a good-quality green fabric, a professional video editing software, and a camera. You may not believe it, but that is all you need for creating DIY green screen video effect. You do not have to be a professional video editor to edit the green screen on your videos and add any special video effect. In this article, you will learn how to create your own DIY green backdrop.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What Is Green Screen Technique?
 
 A green screen is nothing but a green fabric. In a video, a green screen is placed in the background behind the subject. In the editing phase of the video, the green screen is replaced with any background image or video effect that stays intact in the video as long as possible. In short, the green screen technique involves superimposing photos and videos on the green screen in a video.
@@ -285,9 +252,6 @@ Starting from the video game industry, movie industry to video streaming and TV 
 
 Technically speaking, instead of a green screen, you can use any other color of screen. However, green screens are widely used, and it has become a norm. The main point to remember when using a green screen is that nothing else should have green color such as the dresses the subject is wearing. Therefore, in technical terms, the green screen is referred to as Chroma Key, and you will find Chroma Key option instead of green screen in most video editors.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Use Green Screen Technique?
 
 The main reason why the green screen technique is used in movie and video making is that the video editor can replace the entire background at once instead of replacing the background frame by frame. Once you replace a green screen with an image or video effect, it stays the same throughout the video as long as required.
@@ -324,9 +288,6 @@ There are various video editors available, but not all of them are suitable for 
 
 Wondershare Filmora also lets you capture video through webcam and you can also capture your screen. It is perfect for recording gameplay as well as your reaction and commentary. Similarly, you can record demonstrations, tutorial videos, as well as video conferences. You can apply green screen effects to your recorded video instantly and publish on different platforms. In fact, you can adjust all the parameters such as color scheme, audio ducking, keyframing, motion tracking and much more to enhance the video output quality.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Making videos with DIY green screen stand is no more an esoteric concept. You can set it up anywhere and start shooting video. The magic begins in the post-production stage where you can use Wondershare Filmora to replace the green screen with video effects that will blow the mind of your viewers and followers. Filmora has intuitive options and controls through which you can apply green screen effect in simple steps.
@@ -399,9 +360,6 @@ There are various video editors available, but not all of them are suitable for 
 
 Wondershare Filmora also lets you capture video through webcam and you can also capture your screen. It is perfect for recording gameplay as well as your reaction and commentary. Similarly, you can record demonstrations, tutorial videos, as well as video conferences. You can apply green screen effects to your recorded video instantly and publish on different platforms. In fact, you can adjust all the parameters such as color scheme, audio ducking, keyframing, motion tracking and much more to enhance the video output quality.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Making videos with DIY green screen stand is no more an esoteric concept. You can set it up anywhere and start shooting video. The magic begins in the post-production stage where you can use Wondershare Filmora to replace the green screen with video effects that will blow the mind of your viewers and followers. Filmora has intuitive options and controls through which you can apply green screen effect in simple steps.
@@ -412,11 +370,6 @@ Making videos with DIY green screen stand is no more an esoteric concept. You ca
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Green Screen Is a Widely Used Effect in After Effects. Many Professional Photographers Use It to Make Creative Video Effects. This Guide Will Show You How to Use Green Screen to Videos in After Effects
 
 You'll probably get the finest results in After Effects out of all the editing programs. Working with green screen footage in After Effects can be done in a variety of ways. Utilizing a built-in preset that combines three effects is advised by Adobe. Due to its ability to deliver speedy (and typically excellent) outcomes, this strategy is great for both beginners and specialists. We'll demonstrate how to do easily for you.
@@ -433,9 +386,6 @@ After you have imported your material into the After Effects project, you should
 
 After Effects users can get rid of a green screen by going to the "Animation Presets" window, searching for the "Keylight" preset, dragging, and dropping it over the clip, and then shifting their focus to the "Effects Controls" window. Make sure the Screen Colour is set to the color of your screen's background (which, in this case, is green). You may do this with the color selector.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove green color from video in ae](https://images.wondershare.com/filmora/article-images/2022/11/remove-green-color-from-video-in-ae.jpg)
 
 ## 3\. Clean up the shot
@@ -444,16 +394,17 @@ You have no doubt observed that some of the remaining parts do not have the corr
 
 Because everything that is not transparent is turned white by Combined Matte, any remaining debris can be seen very clearly after it has been applied. After you have finished cleaning the frame, you should change the view to Intermediate Result. Your footage may become contaminated with artifacts if the Final Result view is inadvertently switched on.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![clean up green screen shot ae](https://images.wondershare.com/filmora/article-images/2022/11/clean-up-green-screen-shot-ae.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can go to the "Screen Matte" area if you feel like the frame still needs more tweaking after you've applied the previous ones. You can accomplish that with the assistance of Clip Black and Clip White. Feel free to turn the Clip Black dial all the way to the right and turn the Clip White dial to the left. You can also adjust the other settings, if necessary, but based on my observations, everything should be working properly at this point.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Bottom Line
 
 After completing this lesson, you should have a better understanding of what a chroma key is, how to get rid of a green screen in After Effects, and how to adjust some settings if something goes wrong. Keep in mind that if the footage is not captured properly, you will not be able to successfully key out the green screen in the final video. Extra caution should be taken with the lights, and spills should be avoided at all costs!
@@ -470,23 +421,24 @@ After completing this lesson, you should have a better understanding of what a c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Make Custom Lower Thirds with Filmora
 
 As a video creator, there are times when you need to use Lower Thirds. Although many lower-third presets are available, making unique and personalized ones can ensure your video stands out.
 
 So, to empower your inner video creator, this article will show you how to make your own Lower Thirds in Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: What is Lower Third
 
 A Lower Third is a mix of motion graphic design and texts that are placed in the lower area of the screen. It provides additional information, such as a person's name or other relevant information, without distracting the audience from the main content.
 
 Lower Thirds can be used in various settings, such as news broadcasts or interviews, to help provide viewers with additional context.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Make Your Own Lower Thirds in Filmora
 
@@ -502,9 +454,6 @@ Lower Thirds can be used in various settings, such as news broadcasts or intervi
 
 Go to the **Media library > Sample Media folder > choose a color sample**. For this tutorial, we will select the white color. Then, drag and drop this sample color onto the upper video track.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![create a simple line](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-2.jpg)
 
 Double-click the white sample clip to open the settings and scale it to 30%. Then, reposition the white bar to your desired place.
@@ -525,16 +474,10 @@ After that, double-click the white sample on the timeline and find the Image Mas
 
 Go to **Titles > Plain Text > Basic 6** and drop it onto the second video track above the white line clip. Don't worry about the exact position yet. We can adjust it later.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![add a text for your lower thirds](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-6.jpg)
 
 Double-click on the text clip to open the settings, then type some text there and adjust the size and font.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![double-click on the text clip](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-7.jpg)
 
 ##### Step4 Add animation to the text
@@ -547,10 +490,14 @@ Click **Advanced > Animation > Up Down 1** animation. Adjust the animation lengt
 
 Double-click on the white line clip on the timeline to show the animation keyframe setting window. Then, playback the animation of the text, find a position before the text animation starts and move the play head there. Make sure it is close enough to when the texts show up so the white line enters the keyframe right before the text enters.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add keyframes to the white line clip when entering](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-9.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Click to add a keyframe, double-check to make sure it is the final position you want, and the opacity should be 100 at this point.
 
@@ -574,14 +521,8 @@ Instead, move the play head again to the right for a few frames and add another 
 
 Playback the video and see how it looks.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### (2) A name card with a solid background
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![a name card with a solid background](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-13.gif)
 
 Sometimes you might want to create a name card with a solid background like the sample above. To create it, we can use the same method. Here's how to do it:
@@ -590,25 +531,16 @@ Sometimes you might want to create a name card with a solid background like the 
 
 Select the white color sample from the sample color folder and drop it onto the upper video track of the video.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make the lower third background](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-14.jpg)
 
 Change the scale to 30%, then reposition the white sample to your desired place. Click OK.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change the scale to 30%](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-15.gif)
 
 ##### Step2 Create an image mask for the lower third background
 
 Drag and drop the Image Mask onto the white sample clip on the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![create an image mask](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-16.gif)
 
 Double-click on the white sample clip to activate the video setting window and find the Image Mask settings. Then, choose the mask shape you need. You can also adjust its size by changing the X or Y-axis.
@@ -619,18 +551,6 @@ Double-click on the white sample clip to activate the video setting window and f
 
 Once the background card is in place, go to Titles > Plain Text > ‘Basic 6' and drop it onto the third video track.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![go to titles](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-18.jpg)
 
 Now, type in the texts as needed. Reposition and scale the texts to make sure they are on top of the background shape.
@@ -645,23 +565,14 @@ Click Advanced > Animation > Push. Then, adjust the animation length accordingly
 
 Double-click on the background clip to show the animation tab setting. Then, playback the text animation and find a position earlier than the start and add a keyframe.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![double-click on the background clip](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-21.jpg)
 
 Similar to the tutorial before, move the play head again a few frames earlier to the left and add another keyframe. If you want to have the name card flying in from the left while expanding, you can change the X-axis and scale of the background card to 0\. Change the opacity to 0 to create a color change from transparent to white.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![move the play head again](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-22.gif)
 
 To let the background card exit the frame, add two more keyframes to the background card. Add a keyframe with no changes to settings. Move the play head to the right for a few frames and add another keyframe.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add two more keyframes](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-23.gif)
 
 If you want the name card to exit to the bottom, change the Y-axis number until it exits. Change the scale and opacity to 0\. Then, playback and adjust the keyframes.
@@ -670,9 +581,6 @@ Finally, you can add a Subscribe button from the new default Filmora element pac
 
 ![add a subscribe button](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-24.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Wrapping up
 
 These are two ways you can create your own Lower Thirds in FIlmora. You can also change the keyframe settings to customize your lower thirds even more. Now, it's time to try it yourself, and let us know what you think!
@@ -689,11 +597,15 @@ Go to the **Media library > Sample Media folder > choose a color sample**. For t
 
 ![create a simple line](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Double-click the white sample clip to open the settings and scale it to 30%. Then, reposition the white bar to your desired place.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![double-click the white sample clip](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-3.gif)
 
 ##### Step2 Mask the white sample
@@ -720,9 +632,6 @@ Double-click on the text clip to open the settings, then type some text there an
 
 Click **Advanced > Animation > Up Down 1** animation. Adjust the animation length by dragging the two brackets on the timeline on the right side. Click Ok.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add animation to the text](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-8.jpg)
 
 ##### Step5 Add keyframes to the white line clip when entering
@@ -743,18 +652,12 @@ These two keyframes will create an effect of the line entering the frame while t
 
 Playback again to find where the texts disappear, then move the play head to a position after it. Also, make sure it's close enough to where the texts disappear so you can ensure the white line exits right after the texts disappear. Then, add the keyframe.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add keyframes to the white line clip when exiting](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-11.gif)
 
 You don't need to change the setting this time because this keyframe is used to keep the position and opacity unchanged.
 
 Instead, move the play head again to the right for a few frames and add another keyframe. Move the texts out of the frame by changing the y-axis number, then change the opacity to 0\. This keyframe is used to create the white line animation exiting the frame and turning back to transparent in the meantime.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![move the texts out of the frame](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-12.gif)
 
 Playback the video and see how it looks.
@@ -793,25 +696,16 @@ Once the background card is in place, go to Titles > Plain Text > ‘Basic 6' an
 
 Now, type in the texts as needed. Reposition and scale the texts to make sure they are on top of the background shape.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![type in the texts](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-19.jpg)
 
 ##### Step4 Add animation to the text
 
 Click Advanced > Animation > Push. Then, adjust the animation length accordingly. Click Ok.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click advanced](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-20.jpg)
 
 Double-click on the background clip to show the animation tab setting. Then, playback the text animation and find a position earlier than the start and add a keyframe.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![double-click on the background clip](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-21.jpg)
 
 Similar to the tutorial before, move the play head again a few frames earlier to the left and add another keyframe. If you want to have the name card flying in from the left while expanding, you can change the X-axis and scale of the background card to 0\. Change the opacity to 0 to create a color change from transparent to white.
@@ -822,15 +716,19 @@ To let the background card exit the frame, add two more keyframes to the backgro
 
 ![add two more keyframes](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-23.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you want the name card to exit to the bottom, change the Y-axis number until it exits. Change the scale and opacity to 0\. Then, playback and adjust the keyframes.
 
 Finally, you can add a Subscribe button from the new default Filmora element pack “Social Media.”
 
 ![add a subscribe button](https://images.wondershare.com/filmora/article-images/2023/01/custom-lower-thirds-24.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Wrapping up
 
 These are two ways you can create your own Lower Thirds in FIlmora. You can also change the keyframe settings to customize your lower thirds even more. Now, it's time to try it yourself, and let us know what you think!
@@ -849,9 +747,19 @@ These are two ways you can create your own Lower Thirds in FIlmora. You can also
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-ultimate-guide-to-trending-hashtags-on-instagram/"><u>[New] 2024 Approved The Ultimate Guide to Trending Hashtags on Instagram</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-10-best-web-based-tools-for-clearing-up-fuzzy-images/"><u>[Updated] 10 Best Web-Based Tools for Clearing Up Fuzzy Images</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/direct-connection-how-to-integrate-disney-plus-onto-your-chromecast-device/"><u>Direct Connection: How to Integrate Disney Plus Onto Your Chromecast Device</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-best-free-screen-recording-apps-reviewed-and-ranked/"><u>In 2024, Best Free Screen Recording Apps Reviewed & Ranked</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/microsoft-surface-pro-7-examined-reliable-upgrade-with-familiar-features/"><u>Microsoft Surface Pro 7 Examined: Reliable Upgrade with Familiar Features</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-wmv-file-format-has-many-benefits-over-the-video-industry-if-you-are-excited-to-know-more-about-the-format-and-its-pros-and-cons-then-lets/"><u>New 2024 Approved WMV File Format Has Many Benefits over the Video Industry. If You Are Excited to Know More About the Format and Its Pros and Cons, Then Lets Start the Discussion</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-exploring-tools-to-integrate-special-mask-effects-into-your-content-read-the-following-article-to-master-some-tools-experts-in-mask-tracking/"><u>New In 2024, Exploring Tools to Integrate Special Mask Effects Into Your Content. Read the Following Article to Master some Tools Experts in Mask Tracking</u></a></li>
+<li><a href="https://article-files.techidaily.com/quick-methods-syncing-ios-images-and-movies-to-windows/"><u>Quick Methods Syncing iOS Images & Movies to Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/repairing-a-stand-alone-headphone/"><u>Repairing a Stand-Alone Headphone</u></a></li>
+<li><a href="https://win-premium.techidaily.com/simple-steps-setting-up-your-iphone-as-a-wi-fi-hotspot/"><u>Simple Steps: Setting Up Your iPhone as a Wi-Fi Hotspot</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-do-you-want-to-create-slow-motion-videos-this-article-shows-methods-to-create-slow-mo-videos-without-changing-the-medias-quality-for-2024/"><u>Updated Do You Want to Create Slow-Motion Videos? This Article Shows Methods to Create Slow-Mo Videos without Changing the Medias Quality for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713964791283-updated-stop-worrying-if-your-adobe-premiere-playback-slows-down-this-guide-will-show-you-the-best-solutions-to-resolve-this-issue-and-a-perfect-alternative/"><u>Updated Stop Worrying if Your Adobe Premiere Playback Slows Down. This Guide Will Show You the Best Solutions to Resolve This Issue and a Perfect Alternative for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, End Your Struggles with Choppy Playback on DaVinci Resolve. Read This Guide to Find Effective Fixes and Reliable DaVinci Resolve Slow Playback Alternatives
-date: 2024-09-09T00:18:05.168Z
-updated: 2024-09-10T00:18:05.168Z
+date: 2024-09-24T21:42:50.726Z
+updated: 2024-09-30T20:15:58.328Z
 tags: 
   - ai
   - animation videos
@@ -36,24 +36,19 @@ As Highlighted, DaVinci Resolve is a good video editor for all kinds of use case
 * [Solution 5: Use Proxy Media Files](#davinci5)
 * [Solution 6: Disable Color Grades](#davinci6)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 1: Lower Playback Resolution
 
 In DaVinci Resolve, full timeline proxy resolution is set by default. To enjoy a smooth playback while editing, you should reduce the playback resolution. Open your project in DaVinci Resolve and press the "Playback" menu from the top. Then, select "Timeline Proxy Resolution" and pick one either "Half" or "Quarter" options. It will reduce the playback resolution and speed up the playback.
 
 ![lower playback resolution slow playback](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 2: Change Timeline Resolution
 
 DaVinci Resolve can work on 4K high-resolution footage that might disrupt the playback. So, cutting down the resolution to speed up your playback is suggested. To do so, click the "Settings" icon from the bottom right side and enter the “Project Settings” window. Expand the “Time Resolution” menu and choose 1920x1080 HD if working on 4K or high resolutions. Now, apply the changes by hitting on “Save.”
@@ -62,6 +57,13 @@ Adjust the timeline resolution and right-click on the timeline in the Media Pool
 
 ![change timeline resolution slow playback](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 3: Enable Render Cache
 
 It’s another solution to fix the **DaVinci resolve slow playback**. Render cache is a file that stores the rendered frames and makes the rendering faster. Start by hitting the “Playback” option and choose “Render Cache.” Then, you’ll see 3 options: None, Smart, and User. You should select "Smart" and let DaVinci Resolve pick one clip to be cached.
@@ -69,11 +71,12 @@ It’s another solution to fix the **DaVinci resolve slow playback**. Render cac
 ![enable render cache slow playback](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Solution 4: Disable the Live Save Feature
 
 Every change you make gets saved with the Live Save option in DaVinci Resolve. If your remote drive is linked, this feature can drag the playback speed down. You can disable it for a **DaVinci resolve faster playback**.
@@ -82,30 +85,12 @@ Look for the “User Preference” menu and click on the top left side button of
 
 ![disable live save feature slow playback](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 5: Use Proxy Media Files
 
 Another solution is to use proxy media during the project editing. Proxy files are small copy files transcoded from a larger, original video file. Get the proxy file to increase the playback and go to your "Media Pool" in DaVinci Resolve. Right-click on the intended file and choose "Generate Proxy Media" from the list.
 
 ![use proxy files slow playback](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 6: Disable Color Grades
 
 If you are still failing to resolve the slow playback issue on Davinci Resolve, try this fix. Disable color grades and other effects in the first place. To do so, head to the DaVinci Resolve Edit Page. After getting there, press the "Bypass Color Grades and Fusion Effects” button from the top right side. This way, you can surely solve the **DaVinci Resolve slow-down playback** error.
@@ -113,23 +98,19 @@ If you are still failing to resolve the slow playback issue on Davinci Resolve, 
 ![disable color grades slow playback](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: What Makes a Slow-Motion Video Good?
 
 After resolving the **DaVinci Resolve slow playback**, let's continue further editing. Create a slow-motion video to emphasize certain information in the video. It involves technical and creative elements for a good-quality video. You can read this section to understand the points that contribute to a good Slow-motion video.
@@ -139,18 +120,6 @@ After resolving the **DaVinci Resolve slow playback**, let's continue further ed
 * **Resolution:** A good slow motion is only possible when it is captured in high-quality resolution. Better image quality allows more detail in such footage. Moreover, you can optimize the camera settings for the desired resolution.
 * **Editing and Timing:** Thoughtfully chosen clips, timings, and editing can set the stage. Thus, maintain a cohesive flow and pay more attention to the video pacing. Edit all segments in a way that fits seamlessly to contribute a good slow-motion video.
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Making Slow Playback Issues Go Away with Perfect Alternative: Wondershare Filmora
 
 Sometimes, issues like **DaVinci Resolve slow down playback** do not go easily. Resolving them requires a lot of effort that might prove frustrating beyond limits. So, it seems better there to switch towards a better option. In this regard, [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is the most effective solution in video editing. Professionals can rely on Filmora, which offers AI-integrated features for easy video-making.
@@ -161,12 +130,6 @@ Users can use its [AI Copilot Editing](https://tools.techidaily.com/wondershare/
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Make a Slow-motion video with Optical Flow
 
 [Slow-motion videos](https://tools.techidaily.com/wondershare/filmora/download/) with high resolution are not easy to create. Without any playback lagging, this tool can provide you with slow-motion video. Following are those steps that can lead you to easily create such videos:
@@ -178,11 +141,12 @@ Launch Filmora’s latest version in your system. Open it and choose the “New 
 ![add video to filmora](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##### Step 2Explore the Speed Option and Use Optical Flow Feature
 
 In the Timeline, right-click on the video and choose the “Uniform Speed” option. An extended menu will appear on the right side. Now, turn the video into slow motion with the “Speed” slider. Afterward, head down and extend the “AI Frame Interpolation” menu. From the list, select the “Optical Flow” option for slow but high-quality speed.
@@ -195,6 +159,13 @@ Now, you can extend your editing and work on “Reverse Speed” and “Ripple E
 
 ![further edit and export video](https://images.wondershare.com/filmora/article-images/2023/fix-slow-playback-issues-in-davinci-resolve-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In short, there are several ways to fix **DaVinci Resolve's slow playback** error. As explained earlier, you can use any solution for a smooth playback experience. If you don't want to waste time resolving such issues, switch to Wondershare Filmora. It is a reliable, all-in-all tool for video editors that doesn't cause any playback lagging. So, start creating slow-motion videos with optical flow.
@@ -203,14 +174,6 @@ In short, there are several ways to fix **DaVinci Resolve's slow playback** erro
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -218,5 +181,26 @@ In short, there are several ways to fix **DaVinci Resolve's slow playback** erro
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-prime-desktopmobile-communication-alternatives-to-zoom/"><u>[New] 2024 Approved Prime Desktop/Mobile Communication Alternatives to Zoom</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-cured-non-appearance-of-tiny-vid-content/"><u>[New] In 2024, Cured Non-Appearance of Tiny Vid Content</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-navigating-video-sharing-from-imovie-to-the-vimeo-network/"><u>[New] In 2024, Navigating Video Sharing From iMovie to the Vimeo Network</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-smartphone-and-computer-movie-logging-made-easy/"><u>[New] In 2024, Smartphone & Computer Movie Logging Made Easy</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-outstanding-unlimited-space-service-index/"><u>[New] Outstanding Unlimited Space Service Index</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-saturate-scenes-with-circular-edge-dilution-photosuite/"><u>[New] Saturate Scenes with Circular Edge Dilution PhotoSuite</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-igtv-vs-youtube-unveiling-key-distinctions-and-best-platform-for-sharing/"><u>[Updated] IGTV Vs. YouTube Unveiling Key Distinctions & Best Platform for Sharing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-guide-to-producing-quality-social-media-film/"><u>[Updated] The Ultimate Guide to Producing Quality Social Media Film</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-easy-way-to-create-a-diy-green-screen-video-effect/"><u>2024 Approved Easy Way to Create a DIY Green Screen Video Effect</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/best-8-ai-video-denoise-software/"><u>Best 8 AI Video Denoise Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-preventing-and-repairing-slimerancher-2-crashes-on-desktop-computers/"><u>Expert Guide: Preventing and Repairing Slimerancher 2 Crashes on Desktop Computers</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-add-font-effect-for-2024/"><u>How to Add Font Effect for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-save-as-mp4-file-on-windows-movie-maker/"><u>In 2024, How to Save As MP4 File on Windows Movie Maker?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-looking-for-the-best-online-video-editors-to-add-filter-to-your-video-here-is-the-list-of-the-best-video-editors-to-add-filter-video-online-in-simpl/"><u>In 2024, Looking for the Best Online Video Editors to Add Filter to Your Video? Here Is the List of the Best Video Editors to Add Filter Video Online in Simple Steps</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-what-is-hdri-everything-you-need-to-know-about-hdri/"><u>New 2024 Approved What Is HDRI? Everything You Need to Know About HDRI</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-fixes-for-the-persistent-windows-11-restart-problem/"><u>Simple Fixes for the Persistent Windows 11 Restart Problem</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-use-premiere-pro-and-want-to-learn-how-to-change-a-videos-frame-rate-using-the-tool-here-are-the-steps-that-you-need-to-follow./"><u>Updated 2024 Approved Do You Use Premiere Pro and Want to Learn How to Change a Videos Frame Rate Using the Tool? Here Are the Steps that You Need to Follow</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-best-online-youtube-video-trimmer/"><u>Updated Best Online YouTube Video Trimmer</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713954225633-updated-whatre-the-best-alternatives-to-pexels-in-2024/"><u>Updated Whatre the Best Alternatives to Pexels, In 2024</u></a></li>
+</ul></div>
 
