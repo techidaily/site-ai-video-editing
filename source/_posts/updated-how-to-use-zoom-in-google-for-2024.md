@@ -1,7 +1,7 @@
 ---
 title: Updated How to Use Zoom in Google for 2024
-date: 2024-09-24T19:43:56.823Z
-updated: 2024-09-30T20:21:57.252Z
+date: 2024-09-29T19:26:40.556Z
+updated: 2024-10-05T23:03:06.127Z
 tags: 
   - ai
   - animation videos
@@ -53,13 +53,6 @@ You can type "Page Zoom" in the search box. You can even click on the appearance
 
 ![how to use zoom in google](https://images.wondershare.com/filmora/article-images/2022/07/set-page-zoom-level.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Use the Zoom Control on Google Docs
 
 Step1Open the document.
@@ -80,6 +73,13 @@ Step1Sign in to Google Drive and open your documents where you want to zoom in o
 
 Step2Click or Tap on the zoom button in the toolbar above the document and then choose the predefined zoom levels, or you can manually enter the preferred zoom level in the space.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Use the zoom controller in Google sheets with Built-in Functionality?
 
 It is a functionality of Google sheets that allows using the zoom controller. Here are the steps of using the Zoom feature in Google sheets:
@@ -89,13 +89,6 @@ Step1Tap on the Zoom option in the toolbar. It will show a drop-down option with
 Step2Choose the level you wish. You can choose from the existing one or manually enter the value. You must know that if you prefer more petite than a hundred percent, it will get smaller, and if you choose more than a hundred, it will get bigger.
 
 Step3You can even veg the same options while you click File Tab and linger the cursor on zoom options.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Use the zoom controller manually in Google Sheets by using the browser?
 
@@ -108,15 +101,22 @@ Step2In options, you can change the zoom level by tapping on the minus or plus s
 Step3You can even find a similar option to zoom in on other browsers.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. How to use the Zoom controller in Mobile
 
 When you are using an iOS or Android device, you can pinch the screen to zoom in and slide two fingers apart to zoom out.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. How to make Google earth zoom-in video
 
@@ -134,10 +134,16 @@ Do you also want to make a fantastic **Google earth zoom-in video?** Then let's 
 10. After the video is done, you can click on "Stop Recording."
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -157,19 +163,16 @@ Previously there were no such options in Google sheet to zoom or out. But, now G
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-enhancing-stardew-valley-through-its-best-7-modifications-for-2024/"><u>[New] Enhancing Stardew Valley Through Its Best 7 Modifications for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-strategies-for-adequate-lighting-in-youtube-videos-for-2024/"><u>[Updated] Strategies for Adequate Lighting in YouTube Videos for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-instantaneous-pro-thumbnail-creation-valorant-edition/"><u>2024 Approved Instantaneous Pro Thumbnail Creation - Valorant Edition</u></a></li>
-<li><a href="https://fox-that.techidaily.com/effective-solutions-to-reactivate-your-imessage-on-an-iphone/"><u>Effective Solutions to Reactivate Your iMessage on an iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/improve-your-safari-browser-speeds-on-iphone-with-these-4-effective-methods/"><u>Improve Your Safari Browser Speeds on iPhone with These 4 Effective Methods</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-tiktok-aspect-ratio-is-a-crucial-element-to-succeeding-in-the-tiktok-algorithm-here-are-some-suggestions-to-improve-video-quality-and-land/"><u>New 2024 Approved Tiktok Aspect Ratio Is a Crucial Element to Succeeding in the Tiktok Algorithm. Here Are some Suggestions to Improve Video Quality and Land on the for You Page</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-unleash-the-power-of-video-scopes-in-your-video-editing-projects-find-the-most-common-video-scopes-and-how-to-use-them-on-video-editing-so/"><u>New 2024 Approved Unleash the Power of Video Scopes in Your Video Editing Projects. Find the Most Common Video Scopes and How to Use Them on Video Editing Software</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-get-zoom-on-tv-easy-solutions/"><u>New In 2024, How to Get Zoom on TV Easy Solutions</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-slow-motion-videos-are-taking-over-social-media-and-becoming-a-new-trend-read-this-article-if-you-want-to-learn-how-to-slow-down-video-in-after-effects-/"><u>New Slow Motion Videos Are Taking over Social Media and Becoming a New Trend. Read This Article if You Want to Learn How to Slow Down Video in After Effects for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamline-your-communication-5-ai-software-options-for-premium-email-creation-and-inbox-synopsis-with-chatgpt/"><u>Streamline Your Communication: 5 AI Software Options for Premium Email Creation and Inbox Synopsis with ChatGPT</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unlock-unlimited-savings-discover-your-new-doordash-dashpass-benefits/"><u>Unlock Unlimited Savings: Discover Your New DoorDash DashPass Benefits!</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-mastering-video-speed-control-slow-down-speed-up-and-edit-with-ease/"><u>Updated In 2024, Mastering Video Speed Control Slow Down, Speed Up, and Edit with Ease</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-wondering-how-to-replace-sky-in-after-effects-learn-how-for-2024/"><u>Updated Wondering How to Replace Sky in After Effects? Learn How for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/where-to-buy-a-monetized-youtube-channel-a-complete-guide/"><u>Where to Buy a Monetized YouTube Channel A Complete Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-treacle-tracking-step-by-step-tutorial-on-summer-snack-monitoring/"><u>[New] 2024 Approved Treacle Tracking Step-by-Step Tutorial on Summer Snack Monitoring</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-mastering-snapchat-boomerangs-ultimate-instructions/"><u>[Updated] Mastering Snapchat Boomerangs Ultimate Instructions</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-hdr-photography-how-to-use-hdr-mode-on-your-android-devices/"><u>2024 Approved HDR Photography How to Use HDR Mode on Your Android Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-monica-ai-understanding-its-features-and-mastering-chatgpt-assistance/"><u>Exploring Monica AI: Understanding Its Features & Mastering ChatGPT Assistance</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gratis-online-converter-de-m4v-para-wav-pela-movavi-faca-a-ponte-perfeita/"><u>Gratis Online: Converter De M4V Para WAV Pela Movavi - Faça a Ponte Perfeita!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-use-obs-chroma-key-withwithout-green-screen/"><u>How to Use OBS Chroma Key With/Without Green Screen</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-adobe-premiere-pro-rec-709-luts-finding-the-best-choices/"><u>New 2024 Approved Adobe Premiere Pro Rec 709 LUTs Finding The Best Choices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ltimate-insight-into-analyzing-youtube-view-counts-and-revenue/"><u>The Ultimate Insight Into Analyzing Youtube View Counts & Revenue</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-create-quiz-videos-detailed-guide/"><u>Updated How To Create Quiz Videos Detailed Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-want-to-add-freeze-frame-effect-to-your-video-on-your-device-here-are-the-steps-to-add-freeze-frame-on-pc-mac-smartphone-as-well-as-online-f/"><u>Updated In 2024, Want to Add Freeze Frame Effect to Your Video on Your Device? Here Are the Steps to Add Freeze Frame on PC, Mac, Smartphone as Well as Online From Any Device</u></a></li>
 </ul></div>
 

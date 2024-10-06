@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Easy Way to Create a DIY Green Screen Video Effect
-date: 2024-08-02T04:51:49.207Z
-updated: 2024-08-03T04:51:49.207Z
+date: 2024-10-01T18:50:10.813Z
+updated: 2024-10-05T21:42:16.854Z
 tags: 
   - ai
   - animation videos
@@ -28,8 +28,12 @@ Starting from the video game industry, movie industry to video streaming and TV 
 Technically speaking, instead of a green screen, you can use any other color of screen. However, green screens are widely used, and it has become a norm. The main point to remember when using a green screen is that nothing else should have green color such as the dresses the subject is wearing. Therefore, in technical terms, the green screen is referred to as Chroma Key, and you will find Chroma Key option instead of green screen in most video editors.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Why Use Green Screen Technique?
 
 The main reason why the green screen technique is used in movie and video making is that the video editor can replace the entire background at once instead of replacing the background frame by frame. Once you replace a green screen with an image or video effect, it stays the same throughout the video as long as required.
@@ -38,9 +42,6 @@ Therefore, the video editor can save a lot of time in editing and the editing st
 
 You can replace green screens with anything you want. It could be a still image of a beautiful studio with 3D effect like you see in case of YouTubers and gamers. It could be a moving, real-life landscape on any place in the world instead of a beautiful background picture. Similarly, it could be replaced by video effects such as explosions, stadiums full of people, battlefields, and likewise. At times, it could be live animations as you see on TV channels.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How To Create DIY Green Screen Stand Setup and Add Green Screen Effect?
 
 If you want to have a green screen setup for your video, you need to have the following things ready.
@@ -69,9 +70,6 @@ There are various video editors available, but not all of them are suitable for 
 
 Wondershare Filmora also lets you capture video through webcam and you can also capture your screen. It is perfect for recording gameplay as well as your reaction and commentary. Similarly, you can record demonstrations, tutorial videos, as well as video conferences. You can apply green screen effects to your recorded video instantly and publish on different platforms. In fact, you can adjust all the parameters such as color scheme, audio ducking, keyframing, motion tracking and much more to enhance the video output quality.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Making videos with DIY green screen stand is no more an esoteric concept. You can set it up anywhere and start shooting video. The magic begins in the post-production stage where you can use Wondershare Filmora to replace the green screen with video effects that will blow the mind of your viewers and followers. Filmora has intuitive options and controls through which you can apply green screen effect in simple steps.
@@ -248,17 +246,18 @@ Beginning to experiment with all of Final Cut Pro X's functions and determining 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Ultimate Wedding Videography Checklist
 
 Wedding videography has become increasingly popular in recent years. Many couples are opting to have a video made of their wedding day, rather than just photos. If you're thinking of becoming a wedding videographer, it's important to understand the basics of what goes into making a great wedding video. In this article, we'll provide you with a Wedding Videography Checklist to help you get started.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wedding videographer working](https://images.wondershare.com/filmora/article-images/2022/07/wedding-videographer-working.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. [Get to know the couple](#part1-1)
 2. [Understand your videography style and skill level](#part1-2)
@@ -275,14 +274,15 @@ Wedding videography has become increasingly popular in recent years. Many couple
 
 * [BONUS: Important moments to capture on the wedding day:](#part2)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Wedding Videography Checklist
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. Get to know the couple
 
 As a wedding videographer, it's important to get to know the couple you're working with. This will help you better capture the essence of their wedding day. Spend time talking to them, learn about their relationship, and find out what is important to them. By doing this, you'll be able to create a video that truly reflects who they are as a couple.
@@ -302,8 +302,12 @@ Check with the venue to see where you can set up equipment. Some venues may have
 To be a successful wedding videographer, you'll need some basic equipment. This includes a good-quality video camera, tripod, microphone, and lighting. It's also a good idea to have some editing software on hand in case you need to do any post-production work. Be sure to discuss your needs with the couple ahead of time and make sure they're comfortable with what you plan on bringing along to the wedding.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 5\. Get insurance for yourself and your gear
 
 If you're going to be a wedding videographer, it's important to have insurance for yourself and your gear. This will help protect you in the event of an accident or damage to your equipment. There are a number of companies that offer insurance specifically for photographers and videographers, so be sure to shop around and find the best deal for you.
@@ -316,16 +320,10 @@ This will help you know what specific shots they are hoping to get on their wedd
 
 Some couples may want to keep their wedding video a surprise, while others will want to let their guests know in advance that they'll be filmed. If the latter is the case, it's important to alert guests of your presence so that they're not caught off guard by the cameras. Be sure to discuss this with the couple beforehand and come up with a plan that everyone is comfortable with.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 8\. Recruit an assistant videographer if you need one
 
 If you're going to be filming the wedding by yourself, it's important to make sure you have all the necessary gear. However, if you're not comfortable doing this or feel like you might need some help, consider recruiting an assistant videographer. This person can help carry gear, set up equipment, and make sure everything is running smoothly on the day of the wedding.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 9\. Have some backups on hand, just in case
 
 Wedding videography is a big responsibility, and things can sometimes go wrong. Be sure to have some backups on hand, just in case. This includes extra batteries, memory cards, and cables. It's better to be safe than sorry, and having these backups will give you peace of mind knowing that you're prepared for anything.
@@ -338,21 +336,12 @@ This will help ensure that everything is working properly and that you're famili
 
 While it's important to capture the big moments, such as the ceremony and speeches, don't forget about the smaller ones as well. These can often be just as special, if not more so. Be sure to keep your camera rolling throughout the entire event so that you don't miss a thing.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### 12\. Have fun
 
 Wedding videography can be a lot of work, but it's also a lot of fun. Be sure to enjoy yourself and have a good time while you're working. This will come through in your final product and the couple will be sure to appreciate it.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## BONUS: Important moments to capture on the wedding day
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![important moments for wedding day](https://images.wondershare.com/filmora/article-images/2022/07/important-moments-for-wedding-day.jpg)
 
 * The bride getting ready
@@ -404,37 +393,29 @@ Check with the venue to see where you can set up equipment. Some venues may have
 
 To be a successful wedding videographer, you'll need some basic equipment. This includes a good-quality video camera, tripod, microphone, and lighting. It's also a good idea to have some editing software on hand in case you need to do any post-production work. Be sure to discuss your needs with the couple ahead of time and make sure they're comfortable with what you plan on bringing along to the wedding.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 5\. Get insurance for yourself and your gear
 
 If you're going to be a wedding videographer, it's important to have insurance for yourself and your gear. This will help protect you in the event of an accident or damage to your equipment. There are a number of companies that offer insurance specifically for photographers and videographers, so be sure to shop around and find the best deal for you.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 6\. Ask for a shot list from the couple in advance
 
 This will help you know what specific shots they are hoping to get on their wedding day. Be sure to discuss the shot list with the couple and make sure you're both on the same page.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 7\. Alert guests of their wedding video presence
 
 Some couples may want to keep their wedding video a surprise, while others will want to let their guests know in advance that they'll be filmed. If the latter is the case, it's important to alert guests of your presence so that they're not caught off guard by the cameras. Be sure to discuss this with the couple beforehand and come up with a plan that everyone is comfortable with.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 8\. Recruit an assistant videographer if you need one
 
 If you're going to be filming the wedding by yourself, it's important to make sure you have all the necessary gear. However, if you're not comfortable doing this or feel like you might need some help, consider recruiting an assistant videographer. This person can help carry gear, set up equipment, and make sure everything is running smoothly on the day of the wedding.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### 9\. Have some backups on hand, just in case
 
 Wedding videography is a big responsibility, and things can sometimes go wrong. Be sure to have some backups on hand, just in case. This includes extra batteries, memory cards, and cables. It's better to be safe than sorry, and having these backups will give you peace of mind knowing that you're prepared for anything.
@@ -443,16 +424,10 @@ Wedding videography is a big responsibility, and things can sometimes go wrong. 
 
 This will help ensure that everything is working properly and that you're familiar with your surroundings. It's also a good idea to do a sound check to make sure the audio is coming through clearly. Be sure to allow yourself plenty of time to set up and test your equipment before the wedding begins.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 11\. Capture both the big and small moments
 
 While it's important to capture the big moments, such as the ceremony and speeches, don't forget about the smaller ones as well. These can often be just as special, if not more so. Be sure to keep your camera rolling throughout the entire event so that you don't miss a thing.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 12\. Have fun
 
 Wedding videography can be a lot of work, but it's also a lot of fun. Be sure to enjoy yourself and have a good time while you're working. This will come through in your final product and the couple will be sure to appreciate it.
@@ -496,18 +471,10 @@ Wedding videography can be a lot of work, but it's also a lot of fun. Be sure to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Create Chroma Key Written Text Effects in Filmora
 
 Did you know it only takes a few clicks to key out the color in Filmora? It means that you can add green screen effects to many other objects. This article will show a cool chroma key effect you can try using written text.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1\. What Is Chroma Key Text Effect?
 
 Composing of the chroma key effect is widely used in the gaming and newscasting industries. In this technique, you can make layering images and videos for the text together based on color hues.
@@ -517,6 +484,19 @@ Composing of the chroma key effect is widely used in the gaming and newscasting 
 Video editors can eliminate the basis from a picture by automatically choosing a certain hue in post-production. An interactive animation results by adding different color schemes; it's an easy way to make 3D motion videos.
 
 To make the effects on text, we have to film the subject writing on white paper. For this, follow the below instructions:
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. Filming Tips for Written Texts
 
@@ -532,18 +512,12 @@ We are using a purple color pen here for writing an essential text to make it mo
 
 It all depends upon the contrast, and you can choose another color too but ensure that it's more apparent during filming.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Tip 2\. Different Color Paper
 
 There are many chances that you don't have only white paper in your studio, or your requirement is not going with a blank white sheet. Then you don't need to worry because you can use different color papers too.
 
 But always try to use clearer paper and a prominent pen or highlighter. See the below example of a different color paper with a different highlighter.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![different color paper with different markers](https://images.wondershare.com/filmora/article-images/2023/01/chroma-key-text-effect-3.png)
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
@@ -568,9 +542,6 @@ It is because the effect we insert during editing will be more standing and give
 
 ![the larger size of the written key text](https://images.wondershare.com/filmora/article-images/2023/01/chroma-key-text-effect-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** You can create more shots till you get the right angle for a final video. Just focus on the camera alignment and highlighted words, then it will be all set.
@@ -589,16 +560,10 @@ We need software that will give great setting choices and stock videos for a mor
 
 Launch Wondershare Filmora on your PC or Mac after downloading.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** If you want to enjoy its unlimited effect, you get its premium version quickly.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![interface of wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/chroma-key-text-effect-6.png)
 
 ##### Step2 Import the clips to the Filmora
@@ -615,9 +580,6 @@ Drag and drop the clip into the timeline from the import section. If you have mo
 
 Add the text-written clip into the second video track because we have to insert the background into the first video track later.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drag the clip to the timeline](https://images.wondershare.com/filmora/article-images/2023/01/chroma-key-text-effect-8.png)
 
 After inserting the clip into the timeline, it's time to edit it. For this, keep following the below-mentioned steps!
@@ -644,9 +606,6 @@ To key out the specific color for changing its background, you have to perform t
 
 **Note:** Ensure to select the color from the middle of the text for better key-out accuracy.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![color key out from the text](https://images.wondershare.com/filmora/article-images/2023/01/chroma-key-text-effect-10.gif)
 
 You have to adjust the size and thickness after selecting the key-out. For this, follow the next step!
@@ -691,34 +650,22 @@ You have all done with the steps and got such a fascinating result. Following th
 
 You can also use any other motion video of scenes rather than colorful videos to give a striking look.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Create more attractive looks and share them with your subscribers. Mainly, vloggers can attract many viewers by making the introductory part with this effect. Then, choose hundreds of other videos from the stock media and create different looks daily.
 
 See how you can get editing tricks on Wondershare Filmora and use them in a few clicks to get an attractive look!
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tip 3\. Camera Angles
 
 While filming a writing process for a video, you have to take care of the alignment of the camera. First, ensure the camera is at a suitable angle so it will not block the writing letters from the left side.
 
 Sometimes, the writer's hand blocks the letters on the left side during writing. Take note of this tip during filming a professional video, as shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![don't block the letters from the left side](https://images.wondershare.com/filmora/article-images/2023/01/chroma-key-text-effect-4.png)
 
 After checking the alignment of the camera, it's time to look at what size we have to use for writing!
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tip 4\. Larger Size of Letters
 
 As we already said about the prominence of written text, we have to follow one more instruction related to the structure of the letters. Use the larger size and bold words when writing from a highlighter.
@@ -727,9 +674,6 @@ It is because the effect we insert during editing will be more standing and give
 
 ![the larger size of the written key text](https://images.wondershare.com/filmora/article-images/2023/01/chroma-key-text-effect-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** You can create more shots till you get the right angle for a final video. Just focus on the camera alignment and highlighted words, then it will be all set.
@@ -748,25 +692,10 @@ We need software that will give great setting choices and stock videos for a mor
 
 Launch Wondershare Filmora on your PC or Mac after downloading.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** If you want to enjoy its unlimited effect, you get its premium version quickly.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![interface of wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/chroma-key-text-effect-6.png)
 
 ##### Step2 Import the clips to the Filmora
@@ -795,9 +724,6 @@ To edit the chroma key, you need to open the settings. For this, follow the belo
 * Then, the setting section of the video will pop up at the top left side.
 * Mark the tick in front of the **Chroma Key** section, and it will show the list of different features as shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![chroma key setting of the clip in filmora](https://images.wondershare.com/filmora/article-images/2023/01/chroma-key-text-effect-9.png)
 
 ##### Step5 Color key out
@@ -812,10 +738,14 @@ To key out the specific color for changing its background, you have to perform t
 
 **Note:** Ensure to select the color from the middle of the text for better key-out accuracy.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![color key out from the text](https://images.wondershare.com/filmora/article-images/2023/01/chroma-key-text-effect-10.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You have to adjust the size and thickness after selecting the key-out. For this, follow the next step!
 
@@ -825,9 +755,6 @@ To adjust the Chroma Key's settings, set the offset, tolerance, edge thickness, 
 
 Then click on **Alpha Channel** to mark the tick in front of the option. It is due to that chroma key effects will be more clearly shown.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![adjust the chroma key settings in the filmora](https://images.wondershare.com/filmora/article-images/2023/01/chroma-key-text-effect-11.png)
 
 Now, it's time to set the background after fixing all the settings of the chroma key effect. To perform this, scroll more to get to the next step.
@@ -836,18 +763,12 @@ Now, it's time to set the background after fixing all the settings of the chroma
 
 You have to add an excellent motion background in the handwritten text video. For this, you must first import the background clip into the filmora. Then, click on **Import Media** and choose what you want from your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![import background clip into the filmora](https://images.wondershare.com/filmora/article-images/2023/01/chroma-key-text-effect-12.png)
 
 ##### Step8 Add a background clip to the timeline
 
 After importing the background clip, now drag and drop the clip into the timeline. Finally, add the background clip to the first video track at the bottom.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add a background clip into the timeline of filmora](https://images.wondershare.com/filmora/article-images/2023/01/chroma-key-text-effect-13.png)
 
 ##### Step9 Turn off the alpha channel
@@ -860,20 +781,21 @@ The last step is merging the background clip with the first clip. For this, foll
 
 ![turn the alpha channel off](https://images.wondershare.com/filmora/article-images/2023/01/chroma-key-text-effect-14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Final Results
 
 You have all done with the steps and got such a fascinating result. Following the above tricks, you can easily make your vlogs and daily videos more professional and creative. Make sure to add a great and colorful background clip.
 
 ![final video after adding chroma key written text effect](https://images.wondershare.com/filmora/article-images/2023/01/chroma-key-text-effect-15.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You can also use any other motion video of scenes rather than colorful videos to give a striking look.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Create more attractive looks and share them with your subscribers. Mainly, vloggers can attract many viewers by making the introductory part with this effect. Then, choose hundreds of other videos from the stock media and create different looks daily.
@@ -894,10 +816,22 @@ See how you can get editing tricks on Wondershare Filmora and use them in a few 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-scholarly-selection-pinpointing-top-10-teaching-equipment-options/"><u>[New] 2024 Approved Scholarly Selection Pinpointing Top 10 Teaching Equipment Options</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-capturing-your-browsing-journey-top-2023-web-recorder-software/"><u>[Updated] Capturing Your Browsing Journey Top 2023 Web Recorder Software</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-enhancing-on-screen-appeal-essential-tips-for-talking-head-shots/"><u>2024 Approved Enhancing On-Screen Appeal Essential Tips for Talking-Head Shots</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-how-chatgpt-can-improve-your-health-top-9-insights/"><u>Discover How ChatGPT Can Improve Your Health - Top 9 Insights</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/get-quality-picture-fixing-solutions-buy-now/"><u>Get Quality Picture Fixing Solutions – Buy Now!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/harness-the-power-of-youtube-and-facebook-streaming-old-video-content-for-2024/"><u>Harness the Power of YouTube & Facebook Streaming Old Video Content for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-wish-to-design-the-perfect-slow-motion-video-on-your-smartphone-learn-some-top-rated-free-slow-mo-apps-for-android-and-ios-users-in/"><u>New 2024 Approved Do You Wish to Design the Perfect Slow-Motion Video on Your Smartphone? Learn some Top-Rated Free Slow-Mo Apps for Android and iOS Users in This Article</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-end-your-struggles-with-choppy-playback-on-davinci-resolve-read-this-guide-to-find-effective-fixes-and-reliable-davinci-resolve-slow-playb/"><u>New 2024 Approved End Your Struggles with Choppy Playback on DaVinci Resolve. Read This Guide to Find Effective Fixes and Reliable DaVinci Resolve Slow Playback Alternatives</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-if-you-want-to-replace-or-delete-the-sky-pictures-or-background-media-then-give-a-quick-read-to-this-article-for-effective-solutions/"><u>New 2024 Approved If You Want to Replace or Delete the Sky Pictures or Background Media, Then Give a Quick Read to This Article for Effective Solutions</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-do-you-want-to-know-which-are-the-best-wondershare-filmora-luts-to-use-there-are-many-luts-that-you-can-download-each-with-a-different-tone-and-style-fo/"><u>New Do You Want to Know Which Are the Best Wondershare Filmora LUTs to Use? There Are Many LUTs that You Can Download, Each with a Different Tone and Style for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-stop-worrying-if-your-adobe-premiere-playback-slows-down-this-guide-will-show-you-the-best-solutions-to-resolve-this-issue-and-a-perfect-alternative-for/"><u>New Stop Worrying if Your Adobe Premiere Playback Slows Down. This Guide Will Show You the Best Solutions to Resolve This Issue and a Perfect Alternative for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transformacion-rapida-de-video-conversion-mkv-a-mp4-sin-perdida-de-calidad/"><u>Transformación Rápida De Vídeo: Conversión MKV a MP4 Sin Pérdida De Calidad</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-perform-mask-tracking-discovering-the-best-methods/"><u>Updated 2024 Approved How to Perform Mask Tracking Discovering the Best Methods</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-zoom-in-on-powerpoint-easy-ways-for-2024/"><u>Updated How to Zoom in on PowerPoint Easy Ways for 2024</u></a></li>
+</ul></div>
 

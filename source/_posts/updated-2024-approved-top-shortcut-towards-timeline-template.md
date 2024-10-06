@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Top Shortcut Towards Timeline Template
-date: 2024-09-26T22:08:03.683Z
-updated: 2024-09-30T18:58:45.952Z
+date: 2024-09-30T19:37:41.499Z
+updated: 2024-10-05T16:00:45.932Z
 tags: 
   - ai
   - animation videos
@@ -39,6 +39,13 @@ Detailed tutorials provided by the official channel
 
 If you desire to become an expert timeline designer, it is essential to hone your skills. Here are some tips that will help you in boosting your skills and become an expert.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 01Keep it Simple
 
 Keeping it simple looks beautiful, helps in communicating messages more clearly. Using required elements without making it look cluttered, will help to understand the messages more quickly. Adding space where it is necessary will make it look clean and you can fully focus on the content. Focus on the fonts as it will represent your content.
@@ -51,6 +58,13 @@ Adding high quality images is not a big deal now. Images play an important role 
 
 If you want to make your images look more professional, add layers. Add an overlay to your images to change them in unicolor.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 03Use simple shapes
 
 Using simple shapes will enhance the look of the design. There are a lot of shapes from which you can choose like geometric, organic shapes etc. Geometric shapes include basic shapes like square, circle, rectangle and triangle. Circles are the best shapes as they don’t have any sharp corners or edges. Circles help to keep the content separate and look neat.
@@ -59,18 +73,18 @@ Using simple shapes will enhance the look of the design. There are a lot of shap
 
 Using dark color can be challenging to work on but it looks sophisticated. Using dark color with dark color text can be difficult to read and thus it should be avoided. Try to add a contrast color with a dark color background. Use dark color as your background and light color like grey, orange or yellow to highlight the specific content.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 05Add borders
 
 Borders are a set of designs shapes, boundaries of text boxes, lines, etc. that can make your document look more beautiful and attractive. Adding a border can enhance the look of the content and theme of the menu. You can customize the design and thickness of the page. It totally depends on you that if you want add colorful border, text border, picture border, text border and custom border then you can add them. Adding a border will make it look more clean and simple.
 
 ## Part 2 Editable Timeline Templates
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 06Handwritten Circles Timeline PowerPoint Template
 
@@ -81,10 +95,16 @@ The timeline template of hand writing circles is editable. You can customize its
 ![Handwritten Circles Timeline Powerpoint Template](https://images.wondershare.com/filmora/article-images/2022/06/Best-Shortcut-Towards-Timeline-Template-1.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 07One Pager Vertical Timeline Slide Timeline
@@ -107,13 +127,6 @@ The Creative Timeline Template for PowerPoint is a selection of milestone shapes
 
 ![Creative Timeline Template for PowerPoint](https://images.wondershare.com/filmora/article-images/2022/06/Best-Shortcut-Towards-Timeline-Template-4.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 10Bubble Timeline PowerPoint Template
 
 This **timeline PowerPoint template** has a bubble style and comes with a clean design. This timeline template for PowerPoint has different slides with timeline graphics. You can make changes or edit this timeline as you want. Some slides designs include a series of bars to represent the important milestones in the form of bubble.
@@ -132,13 +145,6 @@ The Weekly Work Plan Template is designed to present the progress of weekly task
 
 ![Weekly Work Plan Template](https://images.wondershare.com/filmora/article-images/2022/06/Best-Shortcut-Towards-Timeline-Template-7.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 13Work Plan Slides PowerPoint Templates
 
 The Work Plan Slides PowerPoint Templates come in four designs which can be used by professionals to present their work plans. Professionals can customize this **Work Plan Slides PowerPoint Templates** according to how they want to present their work plan. Teachers and organizations can also edit this template to design this. This There are several elements that can also be changed. Users can modify background, text font, shapes and colors as they wish.
@@ -146,16 +152,10 @@ The Work Plan Slides PowerPoint Templates come in four designs which can be used
 ![<strong> </strong>Work Plan Slides PowerPoint Templates](https://images.wondershare.com/filmora/article-images/2022/06/Best-Shortcut-Towards-Timeline-Template-8.JPG)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 14Annual Work Plan Template for PowerPoint
@@ -165,13 +165,6 @@ You can represent the annual strategy plan by customizing the Annual Work Plan T
  Any changes like color, font style, design or background changes are customizable. Use this template for preparing an annual work plan for your organization.
 
 ![<strong> </strong>Annual Work Plan Template for PowerPoint](https://images.wondershare.com/filmora/article-images/2022/06/Best-Shortcut-Towards-Timeline-Template-9.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 15 10\. Product Portfolio Timeline Template
 
@@ -185,6 +178,13 @@ The Arrow Milestone Timeline Template is a set of arrows PowerPoint diagram. The
 
 ![Arrows Milestone Timeline Template](https://images.wondershare.com/filmora/article-images/2022/06/Best-Shortcut-Towards-Timeline-Template-11.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 17Scheduled Day View Calendar PowerPoint Template
 
 Scheduled Day View Calendar PowerPoint Template is available in three designs. These are the templates which help the individuals and corporate in time management. These templates make it easy for the busy individuals to manage their activities. It will keep you updated with all the events which are happening around you. A daily calendar PowerPoint template will help you ti make and present to- do- list. The template of day schedule will represent the day chores, activities and work which is happened throughout the day. The Schedule Day View Calendar PowerPoint Template is customizable making it easy for you to manage the tasks in a creative manner.
@@ -192,10 +192,10 @@ Scheduled Day View Calendar PowerPoint Template is available in three designs. T
 ![Scheduled Day View Calendar PowerPoint Template](https://images.wondershare.com/filmora/article-images/2022/06/Best-Shortcut-Towards-Timeline-Template-12.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3 How To Create A Timeline?
@@ -235,10 +235,10 @@ You have to select the work area on the timeline to make use of the Export optio
 ![Export the video](https://images.wondershare.com/filmora/article-images/2022/06/Best-Shortcut-Towards-Timeline-Template-15.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4 Time template Q&A
@@ -298,18 +298,24 @@ You have to select the work area on the timeline to make use of the Export optio
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-8-free-instagram-to-mp4-converters-that-you-can-try-onlinewindowsmac-for-2024/"><u>[Updated] 8 Free Instagram to MP4 Converters That You Can Try [Online/Windows/Mac] for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-channel-branding-hacks-10-must-use-online-tools/"><u>[Updated] In 2024, Channel Branding Hacks 10 Must-Use Online Tools</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-change-your-tecno-spark-20-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Tecno Spark 20 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-chuckles-and-pixels-suite/"><u>In 2024, Ultimate Chuckles and Pixels Suite</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-davinci-resolve-scopes-have-undergone-significant-improvements-find-out-how-to-use-these-scopes-and-improve-your-video-editing-skills/"><u>New 2024 Approved DaVinci Resolve Scopes Have Undergone Significant Improvements. Find Out How to Use These Scopes and Improve Your Video Editing Skills</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-vlogs-and-travel-content-are-incomplete-without-a-fast-motion-effect-learn-step-by-step-how-to-make-fast-motion-video-on-an-iphone-in-this/"><u>New 2024 Approved Vlogs and Travel Content Are Incomplete without a Fast-Motion Effect. Learn Step-by-Step How to Make Fast Motion Video on an iPhone in This Article</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-are-you-also-a-fan-of-the-slow-mo-guys-well-who-isnt-learn-how-you-can-create-compelling-slow-mo-videos-like-the-slow-mo-guys-here-for-2024/"><u>New Are You Also a Fan of the Slow Mo Guys? Well! Who Isnt? Learn How You Can Create Compelling Slow-Mo Videos Like the Slow Mo Guys Here for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-honor-x8b-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Honor X8b Phone Now with These Tips</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oneplus-nord-ce-3-lite-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from OnePlus Nord CE 3 Lite 5G FRP Bypass</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-unlocking-the-power-of-davinci-resolve-scopes-enhance-your-color-grad/"><u>Updated 2024 Approved Unlocking the Power of DaVinci Resolve Scopes Enhance Your Color Grad</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-are-you-searching-for-the-best-canon-lut-download-this-article-provides-the-best-recommendations-for-creating-the-best-professional-videos-for-2024./"><u>Updated Are You Searching for the Best Canon LUT Download? This Article Provides the Best Recommendations for Creating the Best Professional Videos for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-a-vlogger-looking-for-good-color-correction-and-video-grading-presets-here-youll-find-different-vlog-luts-that-you-can-use-for-your-/"><u>Updated In 2024, Are You a Vlogger Looking for Good Color Correction and Video Grading Presets? Here Youll Find Different Vlog LUTs that You Can Use for Your Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/watch-unprotected-disney-films-at-home-how-to-use-handbrake-for-dvd-ripping-without-drm-protection/"><u>Watch Unprotected Disney Films at Home: How to Use Handbrake for DVD Ripping Without DRM Protection</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-dusk-to-dawn-iphone-night-photography-essentials-for-2024/"><u>[New] Dusk to Dawn IPhone Night Photography Essentials for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-ppt-recording-process-explained-for-2024/"><u>[New] The Ultimate PPT Recording Process Explained for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-visual-flow-control-simple-fade-strategies-for-2024/"><u>[New] Visual Flow Control Simple Fade Strategies for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-perfecting-audio-the-best-cam-mics/"><u>[Updated] 2024 Approved Perfecting Audio The Best Cam Mics</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-first-steps-in-the-digital-dollar-youtube-earning-hacks/"><u>[Updated] In 2024, First Steps in the Digital Dollar - YouTube Earning Hacks</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-deep-dive-into-the-stunning-picture-quality-of-the-65-inch-lg-c9-oled-television/"><u>A Deep Dive Into the Stunning Picture Quality of the 65-Inch LG C9 OLED Television.</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-vivo-t2-pro-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Vivo T2 Pro 5G Devices</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-looking-for-efficient-ways-to-create-a-slow-motion-video-read-the-article-for-reliable-solutions-that-provide-excellent-results/"><u>New 2024 Approved Looking for Efficient Ways to Create a Slow-Motion Video? Read the Article for Reliable Solutions that Provide Excellent Results</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-explore-a-variety-of-inexpensive-camera-models-suitable-for-making-slow-motion-footage-without-compromising-quality/"><u>New In 2024, Explore a Variety of Inexpensive Camera Models Suitable for Making Slow-Motion Footage without Compromising Quality</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-explore-our-comprehensive-guide-to-the-10-best-cameras-unlock-the-world-of-advanced-technology-perfect-for-capturing-slow-motion-footage-in-vari/"><u>New In 2024, Explore Our Comprehensive Guide to the 10 Best Cameras . Unlock the World of Advanced Technology Perfect for Capturing Slow-Motion Footage in Various Scenarios</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/spotting-gone-from-your-friend-list-for-2024/"><u>Spotting Gone From Your Friend List for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-if-you-want-to-replace-or-delete-the-sky-pictures-or-background-media-then-give-a-quick-read-to-this-article-for-effective-solutions-for-2024/"><u>Updated If You Want to Replace or Delete the Sky Pictures or Background Media, Then Give a Quick Read to This Article for Effective Solutions for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-clearly-the-efectum-app-download-without-a-watermark-option-is-on-android-phones-thus-read-this-review-on-the-efectum-app-and-find-replaceme/"><u>Updated In 2024, Clearly, the Efectum App Download without a Watermark Option Is on Android Phones. Thus, Read This Review on the Efectum App and Find Replacements for Good</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-record-video-in-slow-motion-comprehending-important-points/"><u>Updated In 2024, How To Record Video in Slow Motion Comprehending Important Points</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-timeline-template-is-a-visual-representation-showing-the-passage-of-time-it-includes-text-diagrams-images-and-icons-they-are-perfect-for-tel/"><u>Updated In 2024, Timeline Template Is a Visual Representation Showing the Passage of Time. It Includes Text, Diagrams, Images and Icons. They Are Perfect for Telling Stories, Events Etc</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-want-to-make-a-single-video-from-different-clips-follow-these-ways-to-learn-about-how-to-merge-clips-in-davinci-resolve/"><u>Updated In 2024, Want to Make a Single Video From Different Clips? Follow These Ways to Learn About How to Merge Clips in DaVinci Resolve</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713964069928-updated-learn-how-to-convert-mp4-videos-to-60-fps-gifs-with-this-easy-to-follow-tutorial-get-smooth-and-crisp-motion-in-your-gifs-in-just-a-few-simple-steps/"><u>Updated Learn How to Convert MP4 Videos to 60 FPS GIFs with This Easy-to-Follow Tutorial. Get Smooth and Crisp Motion in Your GIFs in Just a Few Simple Steps for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/video-capturing-essentials-top-8-apps-for-windows-users-for-2024/"><u>Video Capturing Essentials Top 8 Apps for Windows Users for 2024</u></a></li>
 </ul></div>
 

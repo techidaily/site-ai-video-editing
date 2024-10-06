@@ -1,7 +1,7 @@
 ---
 title: New This Article Aims to Show You How to Improve Your Lighting in the Sun for 2024
-date: 2024-09-23T01:30:08.451Z
-updated: 2024-09-25T20:35:10.552Z
+date: 2024-09-30T20:30:40.394Z
+updated: 2024-10-06T07:20:33.036Z
 tags: 
   - ai
   - animation videos
@@ -38,13 +38,6 @@ If we want a specific background for our shot but our talent has to face the sun
 
 ![pick up an nd filter on lens](https://images.wondershare.com/filmora/article-images/2022/12/len.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 We use it outside so we can open our aperture to get nice blurry backgrounds without overexposing our footage.
 
 **2\. Use a "flag" to block or shape the sunlight**
@@ -78,13 +71,6 @@ Now, take a look at the comparison with all the lighting conditions we create:
 1. Flag VS Flag & Light
 
 ![flag vs flag light](https://images.wondershare.com/filmora/article-images/2022/12/comparison-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Backlight VS Backlight & Bounce
 
@@ -127,13 +113,6 @@ Here's how you can use VEED to add text to your video;
 Step1Go to <https://www.veed.io/> on any browser to access the video editing tool. Click on “Upload Your Video” to open a new project. In the new project screen that appears, tap on “Upload a file” to add your video.
 
 ![upload video to veedio](https://images.wondershare.com/filmora/article-images/2022/08/upload-video-to-veedio.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step2Once the video is open, click on the “Text” tab on the left and then select the type of text you want to add to the video.
 
@@ -179,6 +158,13 @@ Step1Open the video clip that you would like to add text to. Once the video is o
 
 ![text icon imovie](https://images.wondershare.com/filmora/article-images/2022/08/text-icon-imovie.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2Select the style you would like to use from the list of templates.
 
 ![select text style imovie](https://images.wondershare.com/filmora/article-images/2022/08/select-text-style-imovie.jpg)
@@ -208,10 +194,10 @@ Step1Install PowerDirector on your device. Open it and tap “New Project” at 
 ![new project powerdirector](https://images.wondershare.com/filmora/article-images/2022/08/new-project-powerdirector.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step2Select the video that you would like to edit from the folders that show up on the screen. The video will be added to the main timeline of the project.
@@ -225,13 +211,6 @@ Step4Type in the text that you want to add to the video on the text box and then
 You can use PowerDirector to change the font, color, and text size or even add effects like Text shadow.
 
 ![edit text powerdirector](https://images.wondershare.com/filmora/article-images/2022/08/edit-text-powerdirector.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step5When you're done editing the video, tap on the “Export” icon at the top-right corner of the screen and choose if you would like to save the video on the device or share it via a social media app.
 
@@ -255,6 +234,13 @@ Discord is the most popular platform for communication among gaming communities 
 
 There could also be a scenario where you have excessive zoom in effect, and you need to zoom out for better readability. Similarly, if you have pressed the wrong shortcuts accidentally and the screen on Discord has zoomed in, you have to zoom out to bring the screen to its original state. We will illustrate how to zoom out in Discord as well for computer, smartphone, and online users.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: How to Zoom Discord on Computer
 
 Since Discord is mostly popular among gamers, Discord desktop app is the most widely used. If you want to zoom in on Discord desktop app, you should know that the zoom option is not readily available under any menu, and there is no keyboard shortcut you can press to zoom in and zoom out instantly. Instead, here are the steps on how to zoom in on Discord.
@@ -268,6 +254,13 @@ Step2Once Settings window opens, go to App Settings section from the left side a
 Step3On the right section, scroll down, and you will find three options for zooming – Chat font scaling, Space between message groups, and Zoom level.
 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/discord-nitro-options.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4According to your requirements, you can move the slider to the right to zoom in on Discord. You can also press Ctrl and “+” keys together to zoom in. Press Ctrl and “-“ keys together to zoom out. If you want to reset the changes, press Ctrl and O keys together.
 
@@ -284,13 +277,6 @@ Step2Click on the three-dot icon at the top-right corner of the browser.
 Step3From the drop-down menu, go to Zoom option. Click on “+” icon to zoom in and “-“ icon to zoom out.
 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/online-discord-zoom-icon.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Alternatively, you can simply launch Discord on any browser and press Ctrl and “+” or “-“ keys together for zooming in and out. You get to see by how much percentage the browser is zooming in and zooming out. If you want to reset, bring the percentage to 100%.
 
@@ -394,6 +380,13 @@ In this article, we'll explore everything you need to know about **Track Mattes*
 4. [Luma Inverted Matte](#part4-4)
 5. [Differences Between Alpha Channel and Luma Channel](#part4-5)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1\. What Are Track Mattes In After Effects?
 
 A Track Matte is an element used in video editing to control the opacity of a layer. Essentially, it lets you create a "hole" in a layer so that underlying layers can show through. This tool can be used with video and audio layers, which is essential for creating complex composites in After Effects.
@@ -450,13 +443,6 @@ Alpha Matte is an important option under the Track Matte menu, as it allows you 
 
 The Alpha Inverted Matte option is quite the opposite of the Alpha Matte, and around the Alpha channel, it uses negative space from the above layer and will therefore use pixels with 0% opacity as it had 100% opacity.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Luma Matte
 
 Instead of using the Alpha channel, Luma Mattes uses the brightness level or Luma channel of the upper layer to create a mask for the bottom layer.
@@ -479,6 +465,13 @@ On the other hand, a Luma channel is a video track that stores brightness inform
 
 **Video – How to use Track Mattes in Adobe After Effects - Tutorial**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In this article, we've discussed what Track Matte is in After Effects and how it differs from the mask tool. We also explored where to find the Track Matter option and its four options, i.e., Alpha Matte, Alpha Inverted Matte, Luma Matte, and Luma Inverted Matte. In the end, we discussed the difference between the Alpha and Luma channels to provide a clear view of the two.
@@ -499,6 +492,19 @@ Moreover, Track Mattes uses Alpha or Luma channels as a layer mask to determine 
 
 Thus, if you want to use an image to hide your video until you want to unveil it or add a picture in your text, Track Mattes will help you to shape the appearance of a layer above it.
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. Differences Between A Mask And A Track Matte
 
 In Adobe After Effects, there are two types of masking tools: Masks and Track Mattes. Both are used to hide or reveal a portion of a layer.
@@ -507,6 +513,13 @@ Here're some key differences between a Mask and a Track Matte:
 
 1. A mask is dependent on a specific layer, while the Track Matter is independent of any layer.
 2. A mask is applied directly to a layer having an image or a video and transforms with the layers. On the other hand, Track Matte is a stationary mask applied to the composition rather than a layer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Finding The Track Matte Tool In After Effects
 
@@ -540,13 +553,6 @@ Let's find out the functions of each option one by one:
 ### Alpha Matte
 
 Alpha Matte is an important option under the Track Matte menu, as it allows you to create a mask based on the transparency of the layer you are using it on. Like the mask, it will use any pixel above 0% opacity and can be useful for various purposes, such as creating a vignette or isolating a certain area of the frame.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Alpha Inverted Matte
 
@@ -600,24 +606,15 @@ Hopefully, this guide resolves your queries, and you now have a better understan
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-best-value-in-screen-recording-in-depth-review-of-free-apps/"><u>[New] Best Value in Screen Recording In-Depth Review of Free Apps</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-exploiting-youtubes-creative-commons-in-media-making/"><u>[Updated] In 2024, Exploiting YouTube's Creative Commons in Media Making</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-radiant-tone-refactoring-pro/"><u>[Updated] In 2024, Radiant Tone Refactoring Pro</u></a></li>
-<li><a href="https://article-tips.techidaily.com/a-full-review-of-cutspace-suite-with-visualfx-tools-2023-for-2024/"><u>A Full Review of CutSpace Suite with VisualFX Tools, 2023 for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/critical-asmr-video-elements-to-note/"><u>Critical ASMR Video Elements to Note</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-realme-12-pro-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Realme 12 Pro 5G</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-total-war-rome-remastered-game-crashing-issues-easily/"><u>How to Fix Total War: Rome Remastered Game Crashing Issues Easily</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-this-article-will-show-you-how-to-make-a-tattoo-disappear-on-your-body-magically/"><u>New 2024 Approved This Article Will Show You How to Make a Tattoo Disappear on Your Body Magically</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-fade-audio-with-movavi-editor-for-2024/"><u>New How To Fade Audio With Movavi Editor for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/real-time-ai-voice-changer-revolutionizing-communication/"><u>Real-Time AI Voice Changer Revolutionizing Communication</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-the-best-ai-narrative-tools/"><u>The Ultimate Guide to the Best AI Narrative Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-data-gpt-3s-six-pivotal-roles-for-analysts/"><u>Transforming Data: GPT-3's Six Pivotal Roles for Analysts</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-beginners-guide-to-green-screen-keying/"><u>Updated Beginners Guide to Green Screen Keying</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-color-grading-in-final-cut-pro/"><u>Updated How to Color Grading in Final Cut Pro</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-a-movie-with-windows-movie-maker-for-2024/"><u>Updated How to Make a Movie with Windows Movie Maker for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-best-free-luts-to-use-in-shotcut/"><u>Updated In 2024, Best Free LUTs To Use in Shotcut</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-want-to-rotate-your-tiktok-video-to-stylize-it-more-this-article-will-provide-simple-methods-of-rotating-tiktok-videos-to-improve-the/"><u>Updated In 2024, Do You Want to Rotate Your TikTok Video to Stylize It More? This Article Will Provide Simple Methods of Rotating TikTok Videos to Improve the Audience Viewing Experience</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-this-article-introduces-how-sheila-become-a-youtuber-and-how-she-started-video-editing/"><u>Updated In 2024, This Article Introduces How Sheila Become a Youtuber and How She Started Video Editing</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713965801102-updated-we-all-know-very-well-that-a-1-second-video-has-several-images-in-a-single-row-even-with-imovie-time-lapse-you-can-create-this-so-without-any-furthe/"><u>Updated We All Know Very Well that a 1-Second-Video Has Several Images in a Single Row. Even with iMovie Time-Lapse, You Can Create This! So, without Any Further Ado, Lets Learn How to Make a Timelapse in iMovie for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-journey-through-hybrid-horizons-understanding-mixed-reality-for-2024/"><u>[New] Journey Through Hybrid Horizons Understanding Mixed Reality for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-cross-service-playlist-exchange-simplified/"><u>[Updated] 2024 Approved Cross-Service Playlist Exchange Simplified</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/backpack-essentials-for-filming-tours/"><u>Backpack Essentials for Filming Tours</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722623303103-best-bargains-in-2019-tcls-50-inch-50s425-roku-smart-tv-our-ultimate-review/"><u>Best Bargains in 2019: TCL's 50-Inch 50S425 Roku Smart TV - Our Ultimate Review</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-do-you-want-to-record-videos-with-a-phantom-high-speed-camera-in-this-guide-you-can-get-a-detailed-note-on-the-phantom-camera-for-2024/"><u>New Do You Want to Record Videos with a Phantom High-Speed Camera? In This Guide, You Can Get a Detailed Note on the Phantom Camera for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/setting-boundaries-on-social-media-images/"><u>Setting Boundaries on Social Media Images</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-technique-snapping-pics-from-your-hp-machines-display/"><u>The Ultimate Technique: Snapping Pics From Your HP Machine's Display</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-based-on-preferences-you-can-adjust-the-speed-of-youtube-videos-learn-how-to-produce-a-youtube-slow-motion-video-in-this-article-for-2024/"><u>Updated Based on Preferences, You Can Adjust the Speed of YouTube Videos. Learn How to Produce a YouTube Slow-Motion Video in This Article for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-stunning-glitch-effect-and-its-creation-guideline-for-premiere-pro/"><u>Updated In 2024, Stunning Glitch Effect and Its Creation Guideline for Premiere Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-step-by-step-guide-to-storyboard-for-2024/"><u>Updated Step-by-Step Guide to Storyboard for 2024</u></a></li>
 </ul></div>
 

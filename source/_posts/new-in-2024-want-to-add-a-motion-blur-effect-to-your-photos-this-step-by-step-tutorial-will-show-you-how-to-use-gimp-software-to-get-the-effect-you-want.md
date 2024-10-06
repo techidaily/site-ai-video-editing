@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Want to Add a Motion Blur Effect to Your Photos? This Step-by-Step Tutorial Will Show You How to Use GIMP Software to Get the Effect You Want
-date: 2024-09-23T04:17:16.819Z
-updated: 2024-09-25T21:01:12.300Z
+date: 2024-10-05T03:43:56.420Z
+updated: 2024-10-05T21:23:34.849Z
 tags: 
   - ai
   - animation videos
@@ -38,13 +38,6 @@ Here are some key features of the GIMP software:
 * Add overlays and crop or resize an image
 * Wide range of file formats that it can read and write, making it a versatile tool for working with images
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part II. How To Add The Motion Blur Effect To Your Photos in GIMP?
 
 Below we’ve provided the step-by-step tutorial to add a **motion blur effect** to your photos in **GIMP:**
@@ -62,6 +55,19 @@ Step3 Next, click the **“Filters”** option from the top toolbar, select **�
 ![adding motion blur effect to photo using gimp](https://images.wondershare.com/filmora/article-images/2023/02/adding-motion-blur-effect-to-photo-using-gimp.png)
 
 Step4 Once you are satisfied with your changes, click **“OK”** to apply the effect to the image, and make some other edits if needed. Finally, click **“File”** from the top toolbar, choose **“Export As,”** click **“File Type”** to select the format, and select the **“Export”** option to save your file.
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus Tips – The Alternative To GIMP To Create Motion Blur Effect
 
@@ -87,13 +93,6 @@ Step1 Download the Filmora software on your PC, launch it, and click **“Create
 
 ![importing file to filmora to add motion blur](https://images.wondershare.com/filmora/article-images/2023/02/importing-file-to-filmora-to-add-motion-blur.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Now, head to the **“Effects”** tab from the taskbar. Use the search option to find the **Blur** effect. Afterward, drag & drop it in the timeline and adjust it on your selected clip.
 
 ![adding motion blur effect using filmora](https://images.wondershare.com/filmora/article-images/2023/02/adding-motion-blur-effect-using-filmora.png)
@@ -107,19 +106,6 @@ Step5 Once satisfied with the outcome, click the "Export" option, go to the **"L
 ![exporting file from filmora](https://images.wondershare.com/filmora/article-images/2023/02/exporting-file-from-filmora.png)
 
 Filmora offers many export options, such as your device, YouTube, Vimeo, and DVD, with just a few clicks.
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Last Words
 
@@ -145,13 +131,6 @@ Step1 Download the Filmora software on your PC, launch it, and click **“Create
 
 ![importing file to filmora to add motion blur](https://images.wondershare.com/filmora/article-images/2023/02/importing-file-to-filmora-to-add-motion-blur.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Now, head to the **“Effects”** tab from the taskbar. Use the search option to find the **Blur** effect. Afterward, drag & drop it in the timeline and adjust it on your selected clip.
 
 ![adding motion blur effect using filmora](https://images.wondershare.com/filmora/article-images/2023/02/adding-motion-blur-effect-using-filmora.png)
@@ -165,6 +144,13 @@ Step5 Once satisfied with the outcome, click the "Export" option, go to the **"L
 ![exporting file from filmora](https://images.wondershare.com/filmora/article-images/2023/02/exporting-file-from-filmora.png)
 
 Filmora offers many export options, such as your device, YouTube, Vimeo, and DVD, with just a few clicks.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Last Words
 
@@ -204,13 +190,6 @@ Step 2After successful uploading, TwistedWave will separate the audio portion fr
 
 ![separate audio twisted wave](https://images.wondershare.com/filmora/article-images/2022/08/separate-audio-twisted-wave.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3On the new editor window, go to Effects> VST Effects and click on mdaDelay.so.
 
 ![vst effects mdadelay so](https://images.wondershare.com/filmora/article-images/2022/08/vst-effects-mdadelay-so.jpg)
@@ -241,13 +220,6 @@ Step 2Go to File> Import Media and click on Import Media Files option. Select yo
 
 ![import media files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3Click on Effects option located at the top and search for “echo”. Drag and drop the Echo effect on your video located on Timeline.
 
 ![effects option](https://images.wondershare.com/filmora/guide/audio-effects-1.png)
@@ -276,9 +248,23 @@ Step 4Click on Audio Effect – None option and “Choose Audio Effect” pop-up
 
 ![echo delay effect imovie](https://images.wondershare.com/filmora/article-images/2022/08/echo-delay-effect-imovie.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 5Play the video and go to File> Share> File option to export the edited video.
 
 ![share files imovie](https://images.wondershare.com/filmora/article-images/2022/08/share-files-imovie.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### The Bottom Line
 
@@ -294,13 +280,6 @@ Step 1Download and install Filmora. Launch the application and click on New Proj
 
 ![download and install filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2Go to File> Import Media and click on Import Media Files option. Select your video file from your storage device. Otherwise, you can drag and drop the video on Project Media and drop the video on Timeline.
 
 ![import media files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
@@ -309,11 +288,38 @@ Step 3Click on Effects option located at the top and search for “echo”. Drag
 
 ![effects option](https://images.wondershare.com/filmora/guide/audio-effects-1.png)
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4Double-click on the video file and click on Audio option at the top. Scroll down and go to Echo section. You can adjust the parameters to get the echo effect as per your preference. Click on Ok button.
 
 ![click on ok button](https://images.wondershare.com/filmora/guide/audio-effects-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 5Play the video and if you are satisfied, click on Export button to save the video in your desired file format.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. How to Add Echo to Video on Mac
 
@@ -368,19 +374,19 @@ Merging and trimming videos is an editing technique that offers many benefits. H
 * By trimming, you can select the best moments from a longer video. You can also create highlight reels that showcase the most important or exciting parts.
 * Many social media platforms have specific time limitations for videos. It allows you to meet these requirements and share their content without compromising its essence.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Merging Videos
 
 * The **merging** of videos enables you to combine multiple clips or segments into a single video. This technique is useful when users want to compile footage from different sources. It also creates a uniform narrative from separate scenes.
 * Merging allows you to create montages or collages that showcase various moments or perspectives. This is often used in music videos, compilations, or video presentations.
 * Doing this can make seamless transitions between different shots or scenes. This further creates a visually fluid experience for the viewer.
 * It also helps you create a coherent storyline by combining different clips. You can use this technique to communicate ideas, emotions, or messages effectively.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: Wondershare Filmora: An Introduction to A Great Video Editor
 
@@ -396,14 +402,21 @@ Besides all this, the tool offers more than you're expectations. It exists for p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-revolutionize-your-gaming-recordings-a-guide-to-fbx-tech/"><u>[New] In 2024, Revolutionize Your Gaming Recordings A Guide to FBX Tech</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-samsung-galaxy-a05-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-novice-level-nft-production-with-precision/"><u>In 2024, Navigating Novice-Level NFT Production with Precision</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-split-videos-in-premier-pro/"><u>New 2024 Approved How To Split Videos in Premier Pro</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-explore-a-variety-of-inexpensive-camera-models-suitable-for-making-slow-motion-footage-without-compromising-quality-for-2024/"><u>New Explore a Variety of Inexpensive Camera Models Suitable for Making Slow-Motion Footage without Compromising Quality for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-if-you-want-an-app-to-make-videos-with-pictures-and-music-for-social-media-posts-we-are-with-the-best-apps-to-make-videos-with-music-and-picture/"><u>New In 2024, If You Want an App to Make Videos with Pictures and Music for Social Media Posts, We Are with the Best Apps to Make Videos with Music and Pictures</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-read-and-learn-how-to-convert-a-slow-motion-video-to-normal-in-this-guide-besides-find-the-best-desktop-solution-to-adjust-video-speed-quickly-a/"><u>New In 2024, Read and Learn How to Convert a Slow-Motion Video to Normal in This Guide. Besides, Find the Best Desktop Solution to Adjust Video Speed Quickly and Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-solving-minecrafts-troublesome-error-code-5/"><u>Step-by-Step Guide: Solving Minecraft’s Troublesome Error Code 5</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unveiling-the-hidden-mastering-the-mask-of-background-blur-for-2024/"><u>Unveiling the Hidden Mastering the Mask of Background Blur for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-phantom-slow-motion-camera-guide/"><u>[New] Phantom Slow Motion Camera Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-web-enhancer-facebook-story-keeper/"><u>[New] Web Enhancer Facebook Story Keeper</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comparative-income-freelance-vs-full-time-podcaster/"><u>[Updated] Comparative Income Freelance Vs. Full-Time Podcaster</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-from-still-to-moving-webcam-capture-basics-for-mac/"><u>[Updated] In 2024, From Still to Moving Webcam Capture Basics for Mac</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-video-separation-standards-recorders-rating-review-for-2024/"><u>[Updated] Video Separation Standards Recorder's Rating Review for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-guide-to-legal-gaming-music-without-price-tag/"><u>2024 Approved Exclusive Guide to Legal Gaming Music Without Price Tag</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/8-best-website-for-3d-graffiti-fonts/"><u>8 Best Website for 3D Graffiti Fonts</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/advanced-computing-insights-from-toms-equipment-analysis/"><u>Advanced Computing Insights From Tom’s Equipment Analysis</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/legal-battle-hp-enterprise-accuses-inspur-of-intellectual-property-theft-as-it-persists-in-american-market-operations/"><u>Legal Battle: HP Enterprise Accuses Inspur of Intellectual Property Theft as It Persists in American Market Operations</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-connects-inspiring-educational-journeys-in-70-millions-lives/"><u>Mondly Connects - Inspiring Educational Journeys in 70 Millions Lives</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/next-level-peripheral-connectivity-pci-sig-releases-innovative-copprlink-cables-to-power-pci-express-gen-v-and-vi-while-preparing-for-version-vii-developmen105/"><u>Next-Level Peripheral Connectivity: PCI-SIG Releases Innovative CopprLink Cables to Power PCI Express Gen V and VI, While Preparing for Version VII Development</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/no-more-glitches-master-easy-techniques-for-stable-rage-2-gameplay/"><u>No More Glitches: Master Easy Techniques for Stable RAGE 2 Gameplay</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/revive-your-razer-microphone-a-step-by-step-guide-to-troubleshooting-the-mic/"><u>Revive Your Razer Microphone: A Step-by-Step Guide to Troubleshooting the Mic</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/the-authors-secret-weapon-discover-how-chatgpt-revolutionizes-writing/"><u>The Author's Secret Weapon? Discover How ChatGPT Revolutionizes Writing</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/transforming-camproj-into-mp4-with-flawless-quality-no-need-for-camtasia-software/"><u>Transforming CAMPROJ Into MP4 with Flawless Quality - No Need for Camtasia Software!</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/unveiling-innovative-solutions-discover-top-picks-at-techmaster-review-center/"><u>Unveiling Innovative Solutions: Discover Top Picks at TechMaster Review Center</u></a></li>
 </ul></div>
 
