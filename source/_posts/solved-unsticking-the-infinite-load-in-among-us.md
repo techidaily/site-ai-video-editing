@@ -1,7 +1,7 @@
 ---
 title: "Solved: Unsticking the Infinite Load in Among Us"
-date: 2024-10-03T01:14:52.383Z
-updated: 2024-10-06T00:17:34.858Z
+date: 2024-10-05T18:50:15.226Z
+updated: 2024-10-12T00:38:23.429Z
 tags:
   - win11
   - win10
@@ -30,10 +30,10 @@ Some players are reporting that they can’t get past the Mojang screen. It look
 7. **[Perform a clean reinstall](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Uninstall your antivirus software
@@ -58,6 +58,13 @@ The known problematic software are:
 
  Mojang has blocked most VPN users from logging into Minecraft as these free VPNs are often used by malicious users to hack into accounts. This can cause login/loading issues. Some VPNs such as[Express VPN](https://tools.techidaily.com/drivereasy/download/) and[NordVPN](https://tools.techidaily.com/drivereasy/download/) (get an[80% off coupon](https://tools.techidaily.com/drivereasy/download/) ) get Minecraft unblocked, giving you access to all of the latest features no matter where you live.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your device drivers
 
  Just in case, make sure all your drivers are up to date. Outdated or corrupted device drivers are outdated or corrupted (especially your graphics driver) can lead to a lot of issues such as Minecraft being stuck on the loading screen.
@@ -78,17 +85,17 @@ There are mainly two ways to update your device drivers:
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you get 30-day money back guarantee and full technical support.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once the driver is updated, you’d better restart your computer and try launching your Minecraft again to check if it can load normally. If unfortunately not, you can try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Remove the adware
 
@@ -115,23 +122,17 @@ There are mainly two ways to update your device drivers:
 1. Right-click the**Start** menu (the Windows logo) and select**Windows PowerShell (Admin).**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/admin.jpg)  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you are on Windows 11, it will be**Terminal (Amin)** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
 2. Type or paste**Get-AppxPackage \*photos\* | Remove-AppxPackage** and press**Enter** . This will uninstall the Windows Photo app from your machine.
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Restart your PC to see if Minecraft can load normally.
 
@@ -149,6 +150,13 @@ If this method doesn’t work for you, then try the next fix, below.
 
  Now you can launch your Minecraft again to see if this issue has been resolved by now.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Perform a clean reinstall
 
  Minecraft stuck on the loading screen might be triggered by some important files in your Minecraft folder. Performing a clean uninstall might fix that. To do that, you’ll need to delete all the Minecraft data.
@@ -157,23 +165,9 @@ If this method doesn’t work for you, then try the next fix, below.
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 2. Right-click Minecraft, and select**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Once complete, type**%appdata%** in the Windows Search bar, and select the**%appdata%** folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/appdata.jpg)
 4. In case your system’s uninstallation removes all your worlds, you can create a backup of your worlds.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Once done, delete the**.Minecraft** folder.
 6. Download the most recent version of Minecraft Java[here](https://www.minecraft.net/en-us/download/) .
@@ -201,20 +195,20 @@ If this method doesn’t work for you, then try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-essential-pathway-to-hd-video-acquisition-on-fb/"><u>[New] 2024 Approved The Essential Pathway to HD Video Acquisition on FB</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-from-pc-to-smartphone-the-essential-guide-to-hulu-recording/"><u>[New] In 2024, From PC to Smartphone The Essential Guide to Hulu Recording</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-ultimate-mac-hd-capture-and-sound-recording-tool/"><u>[New] In 2024, Ultimate Mac HD Capture & Sound Recording Tool</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-maximizing-your-fb-page-visibility-a-step-by-step-guide-for-2024/"><u>[Updated] Maximizing Your FB Page Visibility A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/infinix-note-30-pro-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Note 30 Pro Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-make-fortnite-thumbnail-with-motion-blur/"><u>New 2024 Approved How to Make Fortnite Thumbnail with Motion Blur?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-are-you-looking-for-a-voice-changer-to-make-your-gaming-experience-more-fun-here-is-a-list-of-the-top-6-best-alternatives-of-clownfish-voice-cha/"><u>New In 2024, Are You Looking for a Voice Changer to Make Your Gaming Experience More Fun? Here Is a List of the Top 6 Best Alternatives of Clownfish Voice Changers to Use</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-zoom-in-discord/"><u>New In 2024, How to Zoom in Discord</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-overview-of-best-luts-for-vlog-for-2024/"><u>New Overview of Best LUTs for Vlog for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-tiktok-video-aspect-ratio-for-2024/"><u>New Tiktok Video Aspect Ratio for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/secure-success-in-win11-meetings-with-advanced-zooming-techniques-for-2024/"><u>Secure Success in Win11 Meetings with Advanced Zooming Techniques for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-chrome-cache-miss-error-errcachemiss-a-step-by-step-guide/"><u>Solving the Chrome Cache Miss Error (ERR_CACHE_MISS): A Step-by-Step Guide</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-ultimate-guide-seamless-mp4-audio-extraction-techniques-for-2024/"><u>The Ultimate Guide Seamless MP4 Audio Extraction Techniques for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/twitter-scams-battle-and-metasigs-rising-significance/"><u>Twitter Scams Battle and Metasig's Rising Significance</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-there-are-many-vlogging-cameras-you-can-find-in-the-market-however-to-get-a-good-start-in-vlogging-some-sony-vlogging-cameras-and-canon-vlog/"><u>Updated In 2024, There Are Many Vlogging Cameras You Can Find in the Market. However, to Get a Good Start in Vlogging, some Sony Vlogging Cameras and Canon Vlog Cameras Are to Consider. This Article Introduces You to the Respective List</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-spot-real-vs-sham-accounts-in-instagram-life/"><u>[New] Spot Real Vs. Sham Accounts in Instagram Life</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-tailor-videos-for-impact-on-instagram-feed/"><u>[New] Tailor Videos for Impact on Instagram Feed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-educators-essentials-the-leading-10-devices-for-lecture-recording/"><u>[Updated] 2024 Approved Educators' Essentials The Leading 10 Devices for Lecture Recording</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-essential-techniques-for-convenient-iphone-screen-recording-for-2024/"><u>[Updated] Essential Techniques for Convenient Iphone Screen Recording for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-screenplay-blueprint-unveiled-for-2024/"><u>[Updated] Screenplay Blueprint Unveiled for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-motorola-g24-power-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Motorola G24 Power without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-vivo-v27-pro-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Vivo V27 Pro to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-diy-vhs-overlay-in-after-effects/"><u>New How to DIY VHS Overlay in After Effects?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-speed-up-video-with-lightworks-video-editor-for-2024/"><u>New How To Speed Up Video With Lightworks Video Editor for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-eliminating-songs-from-your-canva-videos-swiftly/"><u>Step-by-Step Tutorial: Eliminating Songs From Your Canva Videos Swiftly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-v30-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo V30</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-a-guide-to-motion-tracking-using-the-best-video-editors-for-2024/"><u>Updated A Guide To Motion Tracking Using The Best Video Editors for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-apply-video-filters-mobile-and-desktop-for-2024/"><u>Updated How to Apply Video Filters Mobile and Desktop for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-use-motion-blur-on-video-star/"><u>Updated How To Use Motion Blur On Video Star?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-mastering-video-speed-control-slow-down-speed-up-and-edit-with-ease/"><u>Updated Mastering Video Speed Control Slow Down, Speed Up, and Edit with Ease</u></a></li>
 </ul></div>
 

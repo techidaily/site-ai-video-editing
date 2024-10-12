@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Being an After Effects Editor, You Often Find Yourself the Need to Add Motion Blur After Effects. This Guide Has Got You Covered. Follow to Find Out How to Add Motion Blur in After Effects
-date: 2024-10-03T05:19:04.507Z
-updated: 2024-10-05T23:05:51.203Z
+date: 2024-10-04T19:51:33.334Z
+updated: 2024-10-11T21:09:24.081Z
 tags: 
   - ai
   - animation videos
@@ -47,20 +47,27 @@ Step1 Download and install Adobe After Effects if it isn't already on your PC. S
 
 ![install adobe after effects](https://images.wondershare.com/filmora/article-images/2022/07/install-adobe-after-effects.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 You have a variety of settings in Adobe After Effects on the right side. Then, choose "Effects & Presets." A search bar will appear as a result. Enter "CC Force Motion Blur" in the search field if you wish to add motion blur to the video. You may apply this effect to whatever layer you choose since your movie is made up of layers.
 
 ![preview effects and presets after effects](https://images.wondershare.com/filmora/article-images/2022/07/preview-effects-and-presets-after-effects.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Next, drag the "CC Force Motion Blur" to the layers that represent your imported video at the bottom left of the screen. On the left side of the screen, under "CC Force Motion Blur," you will find settings for motion blur. Here, you may change the motion blur to suit your needs. You may type in the values and watch the video as appropriate. There are several choices available for you to modify.
 
 ![cc force motion blur](https://images.wondershare.com/filmora/article-images/2022/07/cc-force-motion-blur.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
@@ -82,13 +89,6 @@ Wondershare: A video-making and editing program has its flagship product called 
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Import Files
 
 Media files may be easily added to the timeline in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) from the device's library. .mpg,.mpeg, and many more file types are supported for this video file format's input.
@@ -96,10 +96,23 @@ Media files may be easily added to the timeline in [Filmora](https://tools.techi
 ![import files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Utilize Filmstock
@@ -113,10 +126,10 @@ Download films from the effect store or import them from your device and add the
 ![edit effect](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apply filters
@@ -126,13 +139,6 @@ Overlays and video filters are effects used to enhance the appeal of the video. 
 ### Export
 
 Exporting a video to a variety of platforms comes after editing it. Filmora allows users to export video in a number of different file types, including mp4, Wmv, Mkv, ts, 3gp, f4v, Mkv, MOV, mpg, 3gp, GIF 4K, and mp3.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,22 +155,22 @@ Motion blur is crucial when animating characters to move. Your videos require so
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-innovative-techniques-for-captivating-tiktok-videos/"><u>[New] In 2024, Innovative Techniques for Captivating TikTok Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-from-silence-to-soundscape-step-by-step-in-audition/"><u>[Updated] From Silence to Soundscape Step-by-Step in Audition</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-identifying-when-unfriended-on-snapchat/"><u>2024 Approved Identifying When Unfriended on Snapchat</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/declutter-your-drive-discovering-excessive-disk-space-consumers/"><u>Declutter Your Drive: Discovering Excessive Disk Space Consumers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-k11-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo K11 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-the-quirks-of-playback-solving-frozen-photobooth-videos/"><u>In 2024, The Quirks of Playback Solving Frozen Photobooth Videos</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-record-videos-with-a-phantom-high-speed-camera-in-this-guide-you-can-get-a-detailed-note-on-the-phantom-camera/"><u>New 2024 Approved Do You Want to Record Videos with a Phantom High-Speed Camera? In This Guide, You Can Get a Detailed Note on the Phantom Camera</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-leveraging-the-vectorscope-for-better-color-correction-in-premiere-pro/"><u>New 2024 Approved Leveraging the Vectorscope for Better Color Correction in Premiere Pro</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-do-you-like-clouds-or-sky-and-want-to-use-them-as-a-video-background-explore-this-article-to-learn-about-the-sky-change-video-in-filmora-for-2024/"><u>New Do You Like Clouds or Sky and Want to Use Them as a Video Background? Explore This Article to Learn About the Sky Change Video in Filmora for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-use-adjustment-layer-in-photoshop-in-2024/"><u>New How to Use Adjustment Layer in Photoshop, In 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-slow-motion-video-editors-to-look-out-for/"><u>New In 2024, Slow Motion Video Editors To Look Out For</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-shift-in-development-due-to-ai/"><u>The Shift in Development Due to AI</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-learn-how-to-make-a-gaming-montage-guide-and-tips/"><u>Updated 2024 Approved Learn How to Make a Gaming Montage - Guide & Tips</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-a-newbie-across-youtube-want-to-know-who-the-best-vloggers-are-this-article-provides-you-with-the-best-vloggers-on-youtube/"><u>Updated In 2024, Are You a Newbie Across YouTube? Want to Know Who the Best Vloggers Are? This Article Provides You with the Best Vloggers on YouTube</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-wondering-how-to-edit-a-video-to-slow-motion-on-iphone-and-android-devices-find-out-how-to-use-wondershare-filmora-to-create-and-edit-slo-mo/"><u>Updated In 2024, Wondering How to Edit a Video to Slow Motion on iPhone and Android Devices? Find Out How to Use Wondershare Filmora to Create and Edit Slo Mo Videos in a Few Clicks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-how-to-elevate-your-images-with-instagrams-new-filter-options/"><u>[New] 2024 Approved How to Elevate Your Images with Instagram's New Filter Options</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-journey-of-rhythms-choreographing-tiktok-on-macos/"><u>[New] Journey of Rhythms Choreographing TikTok on MacOS</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-master-list-top-free-photo-stockpile-locales/"><u>[Updated] 2024 Approved Master List Top Free Photo Stockpile Locales</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-explore-our-collection-50plus-unique-free-youtube-banner-ads/"><u>[Updated] Explore Our Collection 50+ Unique, Free YouTube Banner Ads</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-halt-and-rewind-mastering-live-streams-on-twitch/"><u>[Updated] Halt & Rewind Mastering Live Streams on Twitch</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-unlock-your-fcp-potential-with-these-10-plugs/"><u>2024 Approved Unlock Your FCP Potential with These 10 Plugs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/custom-whatsapp-ringtone-guide-on-ios-devices/"><u>Custom WhatsApp Ringtone Guide on iOS Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-11-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 11 Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-slow-down-videos-on-instagram-with-perfection-a-guide/"><u>New 2024 Approved Slow Down Videos on Instagram With Perfection A Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-top-15-slow-motion-capcut-templates-to-work-with/"><u>New 2024 Approved Top 15 Slow Motion CapCut Templates to Work With</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-having-gopro-accessories-is-easy-but-editing-on-gopro-quik-is-challenging-read-this-guide-and-stepwise-learn-to-use-gopro-slow-motion-for-perfect-shots-/"><u>New Having GoPro Accessories Is Easy, but Editing on GoPro Quik Is Challenging. Read This Guide and, Stepwise, Learn to Use GoPro Slow-Motion for Perfect Shots for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-follow-the-trend-of-making-slow-motion-videos-with-a-camera-lenta-capcut-template-learn-everything-about-capcut-and-find-its-alternatives-in-thi/"><u>New In 2024, Follow the Trend of Making Slow-Motion Videos with a Camera Lenta CapCut Template. Learn Everything About CapCut and Find Its Alternatives in This Article</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-recording-slow-motion-videos-is-not-more-difficult-using-a-smartphone-learn-everything-from-how-to-record-slow-motion-video-and-edit-a-video-to-/"><u>New In 2024, Recording Slow-Motion Videos Is Not More Difficult Using a Smartphone. Learn Everything From How to Record Slow-Motion Video and Edit a Video to Slow Down It</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/starting-your-pc-gaming-journey-without-a-bulky-desktop-setup/"><u>Starting Your PC Gaming Journey Without a Bulky Desktop Setup</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-unleash-the-power-of-video-scopes-in-your-video-editing-projects-find-the-most-common-video-scopes-and-how-to-use-them-on-video-editin/"><u>Updated 2024 Approved Unleash the Power of Video Scopes in Your Video Editing Projects. Find the Most Common Video Scopes and How to Use Them on Video Editing Software</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713961457110-updated-are-you-interested-in-the-best-luts-do-you-want-to-enhance-your-photos-and-images-with-high-end-quality-then-quickly-step-into-this-article-for-mind/"><u>Updated Are You Interested in the Best LUTs ? Do You Want to Enhance Your Photos and Images with High-End Quality? Then, Quickly Step Into This Article for Mind-Blowing Facts on It for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-use-the-best-luts-for-lightroom-for-2024/"><u>Updated Use The Best LUTs for Lightroom for 2024</u></a></li>
 </ul></div>
 

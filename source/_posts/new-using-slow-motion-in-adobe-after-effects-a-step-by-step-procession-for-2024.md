@@ -1,7 +1,7 @@
 ---
 title: New Using Slow Motion in Adobe After Effects A Step-by-Step Procession for 2024
-date: 2024-10-04T01:10:31.050Z
-updated: 2024-10-05T16:06:27.997Z
+date: 2024-10-04T20:01:00.211Z
+updated: 2024-10-11T20:50:59.314Z
 tags: 
   - ai
   - animation videos
@@ -62,17 +62,23 @@ For high-quality results, enable the “Frame Blending” option. Right-click on
 ![introduce frame blending](https://images.wondershare.com/filmora/article-images/2023/guide-to-use-slow-motion-after-effects-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Quick and Unique Alternative: Making Slow Motion Effect with Wondershare Filmora
@@ -85,6 +91,13 @@ It contains a wide range of filters and overlays. It also allows you to apply tr
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Add Slow-Motion Effect With Filmora
 
 Are you ready to create a slow-mo effect in Filmora? Read the following section to learn how to create a **slow-motion effect** using this tool.
@@ -96,10 +109,10 @@ Begin by launching this desktop tool on your PC. Choose the “Profile” icon f
 ![open new filmora project](https://images.wondershare.com/filmora/article-images/2023/guide-to-use-slow-motion-after-effects-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 2: Import Video to Filmora
@@ -108,25 +121,11 @@ On the main interface, press “Ctrl + I” from your keyboard. By doing so, you
 
 ![add video to timeline](https://images.wondershare.com/filmora/article-images/2023/guide-to-use-slow-motion-after-effects-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Step 3: Choose Optical Flow
 
 Now, select the video you have dragged to the timeline. Go to the right panel and choose the “Speed” tab. Look through the “Uniform Speed” tab and look for the “AI Frame Interpolation” option. By expanding this option, choose “Optical Flow.”
 
 ![access speed ramping open optical flow](https://images.wondershare.com/filmora/article-images/2023/guide-to-use-slow-motion-after-effects-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Step 4: Render and Export the Video
 
@@ -146,6 +145,13 @@ With the new upgrade, you can add an accurate **slow-mo effect** from Filmora. I
 
 * [**Speech-to-Text**](https://tools.techidaily.com/wondershare/filmora/download/)**:** The STT feature transcribes the video in the selected language. You can add subtitles to the videos in up to 26 languages. This feature increases your editing efficiency and offers great accuracy.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 A **slow-motion effect** can highlight an action in a video clip. It can engage the viewers by generating a cinematic impact. The After Effects is a common program to add a slow-mo effect in videos. However, to create a more captivating slow-motion effect, we suggest Filmora. Its latest version has introduced many premium features for video editing. With AI algorithms, you can add a smooth, slow-motion effect to your videos. The process is automatic, which saves you from manual work.
@@ -163,19 +169,22 @@ A **slow-motion effect** can highlight an action in a video clip. It can engage 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-iconic-stop-motion-animations-15-best-ever/"><u>[New] Iconic Stop-Motion Animations - #15 Best Ever</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-insta-style-the-essential-guide-to-instagram-story-magnification/"><u>2024 Approved Insta Style The Essential Guide to Instagram Story Magnification</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/comment-transformer-un-fichier-mkv-en-mp4-sans-pertes-de-qualite/"><u>Comment Transformer Un Fichier MKV en MP4 Sans Pertes De Qualité ?</u></a></li>
-<li><a href="https://win-able.techidaily.com/cyberpunk-2077-optimized-fixes-for-eliminating-game-lags-and-hitches/"><u>Cyberpunk 2077 Optimized: Fixes for Eliminating Game Lags & Hitches</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/go-beyond-basic-10-advanced-whatsapp-tips-and-tricks-you-must-try-for-2024/"><u>Go Beyond Basic 10 Advanced WhatsApp Tips and Tricks You Must Try for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-ultimate-guide-to-professional-screen-capture-using-adobe-captive-software/"><u>In 2024, The Ultimate Guide to Professional Screen Capture Using Adobe Captive Software</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-being-an-after-effects-editor-you-often-find-yourself-the-need-to-add-motion-blur-after-effects-this-guide-has-got-you-covered-follow-to-f/"><u>New 2024 Approved Being an After Effects Editor, You Often Find Yourself the Need to Add Motion Blur After Effects. This Guide Has Got You Covered. Follow to Find Out How to Add Motion Blur in After Effects</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723014106320-say-goodbye-to-frustration-alien-fireteam-elite-no-longer-crashes-on-pc/"><u>Say Goodbye to Frustration – Alien: Fireteam Elite No Longer Crashes on PC!</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/transforming-photos-with-simple-bg-removal-in-picsart-for-2024/"><u>Transforming Photos with Simple Bg Removal in Picsart for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-are-you-curious-about-finding-a-good-iphone-slow-motion-app-discover-the-top-rated-applications-in-the-market-that-will-help-you-creat/"><u>Updated 2024 Approved Are You Curious About Finding a Good iPhone Slow-Motion App? Discover the Top-Rated Applications in the Market that Will Help You Create the Perfect Video</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-do-you-know-you-dont-need-a-pc-or-mac-to-apply-luts-on-your-media-you-can-use-many-smartphone-apps-to-apply-luts-such-as-3dlut-mobile-app-for-2024.m/"><u>Updated Do You Know You Dont Need a PC or Mac to Apply LUTs on Your Media? You Can Use Many Smartphone Apps to Apply LUTs, Such as 3DLUT Mobile App for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-want-to-add-a-slow-mo-effect-in-your-videos-in-this-guide-we-will-discuss-how-to-add-slow-motion-effects-in-the-videos-with-after-eff/"><u>Updated In 2024, Do You Want to Add a Slow-Mo Effect in Your Videos? In This Guide, We Will Discuss How to Add Slow-Motion Effects in the Videos with After Effects in an Efficient Way</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-understanding-the-best-tools-for-changing-sky-background/"><u>Updated In 2024, Understanding The Best Tools for Changing Sky Background</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-gimbal-guide-for-enhanced-aerial-video-quality-for-2024/"><u>[New] Gimbal Guide for Enhanced Aerial Video Quality for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-conquer-oversized-drafts-learn-to-edit-and-organize-tiktok-content/"><u>[Updated] 2024 Approved Conquer Oversized Drafts Learn to Edit and Organize TikTok Content</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-storing-solution-for-sony-a7s-ii/"><u>Best Storing Solution for Sony A7S II</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-common-issues-why-your-steam-games-wont-start-on-windows-10/"><u>Fixing Common Issues: Why Your Steam Games Won't Start on Windows 10</u></a></li>
+<li><a href="https://fox-info.techidaily.com/grasping-the-advantages-of-av1-in-video-coding/"><u>Grasping the Advantages of AV1 in Video Coding</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-master-thumbnail-design-for-mac-users-youtube-edition/"><u>In 2024, Master Thumbnail Design for Mac Users - YouTube Edition</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-xiaomi-redmi-a2-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Xiaomi Redmi A2 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/lost-in-translation-no-videos-on-a6400/"><u>Lost in Translation No Videos on A6400</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-understanding-the-best-tools-for-changing-sky-background/"><u>New 2024 Approved Understanding The Best Tools for Changing Sky Background</u></a></li>
+<li><a href="https://article-helps.techidaily.com/pro-level-strategies-for-photo-color-enhancement/"><u>Pro-Level Strategies for Photo Color Enhancement</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-change-aspect-ratio-in-imovie/"><u>Updated 2024 Approved How to Change Aspect Ratio in iMovie</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-zoom-in-on-powerpoint-easy-ways/"><u>Updated 2024 Approved How to Zoom in on PowerPoint Easy Ways</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-top-ways-to-make-fast-motion-video-on-iphone-solved/"><u>Updated 2024 Approved Top Ways to Make Fast Motion Video on iPhone Solved</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-get-zoom-on-tv-easy-solutions-for-2024/"><u>Updated How to Get Zoom on TV Easy Solutions for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-find-a-solution-for-effortless-sky-replacement-photoshop-in-this-comprehensive-guide-also-use-the-easiest-video-editing-tool-to-make-your-me/"><u>Updated In 2024, Find a Solution for Effortless Sky Replacement Photoshop in This Comprehensive Guide. Also, Use the Easiest Video Editing Tool to Make Your Media Stunning</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713963870780-updated-in-this-article-you-will-learn-about-splitting-the-video-into-the-frames-in-ffmpeg-and-mentioning-the-easy-option-for-doing-the-same-task-in-a-few-s/"><u>Updated In This Article, You Will Learn About Splitting the Video Into the Frames in FFmpeg and Mentioning the Easy Option for Doing the Same Task in a Few Seconds by Wondershare Filmora for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-steps-to-make-a-neon-dance-effect-with-filmora-for-2024/"><u>Updated Steps to Make a Neon Dance Effect With Filmora for 2024</u></a></li>
 </ul></div>
 

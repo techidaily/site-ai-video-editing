@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Ultimate Guide for the 10 Leading Slow-Motion Cameras
-date: 2024-10-01T01:32:03.360Z
-updated: 2024-10-06T00:50:30.650Z
+date: 2024-10-08T22:38:04.767Z
+updated: 2024-10-11T22:48:40.944Z
 tags: 
   - ai
   - animation videos
@@ -51,6 +51,13 @@ If you want a good slow-motion camera, start by checking out the ones with highe
 * [Nikon D6 FX-Format Digital SLR Camera](#filmora9)
 * [Canon DSLR Camera \[EOS 90D\]](#filmora10)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. PowerShot G7 X Mark III Black
 
 The PowerShot G7 X Mark III Black is a small but powerful camera for taking high-quality slow-motion videos. It has a 20.1 Megapixel camera and a DIGIC 8 Image Processor, which means it shows exceptional clarity even in different lighting. The 4.2x Optical Zoom Kens with Optical Image Stabilizer helps get close-up shots without making them blurry. For videos, it can record in 4K (at 30 frames per second) and Full HD (at 120 frames per second) for super smooth slow-motion shots.
@@ -58,10 +65,10 @@ The PowerShot G7 X Mark III Black is a small but powerful camera for taking high
 ![powershot g7 x mark iii slowmo camera](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-cameras-in-2024-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Sony ZV-1 Camera
@@ -72,13 +79,6 @@ The camera's results are sharp and colorful thanks to its 20.1 MP resolution and
 
 ![sony zv 1 slowmo camera](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-cameras-in-2024-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. GoPro HERO11 Black
 
 The GoPro HERO11 Black is an awesome **slow-motion** **camera** perfect for all kinds of adventures. It takes clear videos up to 5.3K resolution and sharp 27MP photos. The camera has great stabilization, so your videos always look smooth. You can change how wide your shots are and switch lenses digitally while keeping things clear.
@@ -87,18 +87,25 @@ GoPro HERO11 Black has cool effects for nighttime shots, making them look artist
 
 ![gopro hero11 black slowmo camera](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-cameras-in-2024-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. GoPro HERO10 Black
 
 The GoPro HERO10 Black has a faster processor for smoother use and better touch controls. It can record super clear videos at higher speeds: 5.3K at 60fps and 4K at 120fps. You can also shoot **camera** **slow-motion videos** at 240fps in 2.7K resolution. The camera's sensor is better, too, making photos sharper and allowing you to grab 15.8MP pictures from videos. It keeps footage perfectly steady with its excellent stabilization.
 
 ![gopro hero10 black slowmo camera](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-cameras-in-2024-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Panasonic LUMIX GH6
 
@@ -116,6 +123,13 @@ This **slow-motion video camera** lets you choose different ways to measure ligh
 
 ![sony 74 iv slowmo camera](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-cameras-in-2024-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 7\. Fujifilm X-S20
 
 The Fujifilm X-S20 is a versatile camera that is equipped with advanced features and is easy to carry. This **slow-motion camera** has a 26.1MP sensor for really clear pictures. The screen is a vary-angle touchscreen of 3.0 inches and 1.84m-dot. You can connect it to Wi-Fi and Bluetooth to share and control the camera from a distance.
@@ -123,13 +137,6 @@ The Fujifilm X-S20 is a versatile camera that is equipped with advanced features
 It's perfect for videos, too, recording in high-quality up to 6.2K resolution. The camera is small and compact at 127.7 x 85.1 x 65.4mm and weighs only 491g.
 
 ![fujifilm xs20 slowmo camera](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-cameras-in-2024-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 8\. Canon EOS-1D X Mark III DSLR Camera
 
@@ -147,18 +154,25 @@ Using digital image stabilization, the **slow-motion video camera** helps preven
 
 ![nikon d6 fxformat slowmo camera](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-cameras-in-2024-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 10\. Canon DSLR Camera \[EOS 90D\]
 
 The Canon 90D Body is a **slow-mo camera** for both filmmakers and videographers. It has a 32.5-megapixel CMOS APS-C sensor for clear and detailed images. Furthermore, it supports recording videos in 4K UHD 30P and Full HD 120P, which helps in delivering excellent video quality. With a 45-Point All Cross-type AF System, the 90D provides precise autofocus across the entire frame.
 
 ![canon dslr eos 90d slowmo camera](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-cameras-in-2024-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: What To Do If You Do Not Have a Camera? Use Filmora for Slow-Mo Video Making
 
@@ -180,6 +194,13 @@ Start by launching Wondershare Filmora and creating a new project. Then, import 
 
 ![start project and import to timeline](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-cameras-in-2024-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 2Apply Slow-Motion Effect to Slow Down Video
 
 In the next step, add the imported video to the timeline and access the "Speed" icon. Choose a preset, such as 0.5x from the "Slow" menu, to apply a slow-motion effect to the entire clip. Alternatively, right-click on the video, go to "Speed," followed by "Uniform Speed," and adjust the slider leftwards for slow motion.
@@ -197,13 +218,6 @@ To create slow-motion effects for specific parts or frames within your video, na
 For freezing a frame, position the play head at the desired spot. Select "Add Freeze Frame," then set the freeze duration in the "Freeze Time Field" and adjust its placement as required. Save changes by clicking "OK."
 
 ![add freeze frame on necessity](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-cameras-in-2024-18.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Top Features Offered by Filmora
 
@@ -223,13 +237,6 @@ Filmora Audio Visualizer is an innovative tool for music videos on how you exper
 
 ![filmora audio visualizer](https://images.wondershare.com/filmora/article-images/2023/best-slow-motion-cameras-in-2024-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 4\. Speech-To-Text
 
 The Filmora Speech-To-Text (STT) feature is a huge help for video editors who want to work more efficiently. With just one click, this tool changes spoken words in videos into written text. It saves a lot of time by avoiding the manual work of typing subtitles. This feature not only saves time but also ensures that subtitles match what's being said in the video accurately.
@@ -242,13 +249,6 @@ In summary, slow-motion videography is an amazing way to tell stories visually. 
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -258,24 +258,24 @@ In summary, slow-motion videography is an amazing way to tell stories visually. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-crafting-your-professional-space-setting-up-an-account-on-ig/"><u>[New] Crafting Your Professional Space Setting Up an Account on IG</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-beyond-popularity-metrics-understanding-trillers-distinct-features/"><u>[New] In 2024, Beyond Popularity Metrics Understanding Triller's Distinct Features</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-what-is-color-finale/"><u>2024 Approved What Is Color Finale</u></a></li>
-<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/artificial-muse-discovering-the-5-best-writing-helpers/"><u>Artificial Muse: Discovering the 5 Best Writing Helpers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/frontier-fantasies-selecting-the-most-impressive-titles/"><u>Frontier Fantasies Selecting the Most Impressive Titles</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-lava-blaze-pro-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Lava Blaze Pro 5G</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713950242747-if-you-are-a-marketer-who-want-to-create-facebook-ads-to-boost-your-business-you-are-coming-to-the-right-place-well-share-you-some-useful-tips-to-start-your/"><u>If You Are a Marketer Who Want to Create Facebook Ads to Boost Your Business, You Are Coming to the Right Place. Well Share You some Useful Tips to Start Your First FB Ads Campaign for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-be-a-youtube-vlogger/"><u>In 2024, How to Be a YouTube Vlogger</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-create-a-bokeh-effect-for-2024/"><u>New How to Create a Bokeh Effect for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-boost-the-pace-of-your-instagram-reels-videos-with-these-simple-tricks/"><u>New In 2024, Boost the Pace of Your Instagram Reels Videos with These Simple Tricks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/snagging-memories-the-ultimate-technique-for-screenshots-on-your-ps4/"><u>Snagging Memories: The Ultimate Technique for Screenshots on Your PS4</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-infinix-gt-10-pro-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Infinix GT 10 Pro.</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-kobo-forma-a-focused-e-reader-taking-literary-enjoyment-to-a-serious-level/"><u>Unveiling the Kobo Forma: A Focused E-Reader Taking Literary Enjoyment to a Serious Level</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-easy-steps-to-export-video-in-filmora/"><u>Updated 2024 Approved Easy Steps to Export Video in Filmora</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-best-ways-to-add-meme-text-to-videos-for-2024/"><u>Updated Best Ways to Add Meme Text to Videos for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-use-motion-blur-on-video-star-for-2024/"><u>Updated How To Use Motion Blur On Video Star for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-here-is-a-step-by-step-guide-to-color-correct-and-color-grade-a-video-professionally-with-wondershare-filmora-lets-get-going/"><u>Updated In 2024, Here Is a Step-by-Step Guide to Color Correct and Color Grade a Video Professionally with Wondershare Filmora. Lets Get Going</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-combining-camera-action-in-iphone-recording-for-2024/"><u>[New] Combining Camera Action in iPhone Recording for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-hues-in-action-implementing-color-schemes-properly/"><u>[New] Hues in Action Implementing Color Schemes Properly</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-facebook-file-to-mp3-converter-tool/"><u>[Updated] Facebook File to MP3 Converter Tool</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-best-10-mind-blowing-video-collage-maker-for-pc/"><u>2024 Approved Best 10 Mind-Blowing Video Collage Maker for PC</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-do-you-know-how-ai-is-helping-video-editors-and-enthusiasts-many-video-editing-software-allows-an-auto-reframe-option-to-use-that-can-help-man/"><u>2024 Approved Do You Know How AI Is Helping Video Editors and Enthusiasts? Many Video Editing Software Allows an Auto Reframe Option to Use that Can Help Manage Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hunt-down-these-10-vectors-stock-image-websites/"><u>2024 Approved Hunt Down These 10 Vectors Stock Image Websites</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/backup-and-organize-your-tons-of-footage-in-minutes/"><u>Backup and Organize Your Tons of Footage in Minutes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nd-the-youtube-stage-mastering-visibility-through-tactics/"><u>Command the YouTube Stage Mastering Visibility Through Tactics</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-20plus-funny-metaverse-memes-and-how-to-make-your-own-memes/"><u>In 2024, 20+ Funny Metaverse Memes and How to Make Your Own Memes</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-add-a-miniature-effect-on-your-video-for-filmy-looks-to-add-this-effect-read-the-complete-guide-and-make-your-video-cinematic-by-wondershare-filmora/"><u>In 2024, Add a Miniature Effect on Your Video for Filmy Looks. To Add This Effect, Read the Complete Guide and Make Your Video Cinematic by Wondershare Filmora</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-online-upgrade-fb-story-repository/"><u>In 2024, Online Upgrade Fb Story Repository</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-usb-c-drivers-for-windows-10-free-download/"><u>Latest USB-C Drivers for Windows 10: Free Download</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-text-reveal-effect-easily-for-2024/"><u>New How to Make Text Reveal Effect Easily for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-11-tips-to-make-product-ad-videos/"><u>New In 2024, 11 Tips to Make Product Ad Videos</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-nokia-c22-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Nokia C22 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-here-we-are-going-to-show-you-the-best-effects-to-appear-on-camera-made-with-filmora/"><u>Updated 2024 Approved Here We Are Going to Show You the Best Effects to Appear on Camera Made with Filmora</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-do-you-want-to-know-about-efficient-motion-blur-plugins-for-adobe-effects-read-this-article-to-find-out-how-to-use-motion-blur-plugins-for-enhanced-/"><u>Updated Do You Want to Know About Efficient Motion Blur Plugins for Adobe Effects? Read This Article to Find Out How to Use Motion Blur Plugins for Enhanced Results</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/using-one-of-the-best-converter-tools-to-turn-gifs-into-png-or-jpg-here-learn-about-the-ten-best-ones-for-different-operating-systems-with-details-on-featur/"><u>Using One of the Best Converter Tools to Turn GIFs Into PNG or JPG. Here, Learn About the Ten Best Ones for Different Operating Systems, with Details on Features, Prices, and More</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-to-expect-from-the-latest-version-of-the-iconic-ipad/"><u>What to Expect From the Latest Version of the Iconic iPad?</u></a></li>
 </ul></div>
 

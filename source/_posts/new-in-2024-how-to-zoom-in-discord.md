@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Zoom in Discord
-date: 2024-10-04T00:58:08.510Z
-updated: 2024-10-06T00:32:12.880Z
+date: 2024-10-08T00:12:59.921Z
+updated: 2024-10-11T18:28:59.607Z
 tags: 
   - ai
   - animation videos
@@ -50,28 +50,15 @@ Step3From the drop-down menu, go to Zoom option. Click on “+” icon to zoom i
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/online-discord-zoom-icon.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Alternatively, you can simply launch Discord on any browser and press Ctrl and “+” or “-“ keys together for zooming in and out. You get to see by how much percentage the browser is zooming in and zooming out. If you want to reset, bring the percentage to 100%.
 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/zoom-discord-screen-online.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to Zoom Discord on Mobile
 
@@ -82,16 +69,10 @@ Step1On your smartphone, open Discord app. Tap on your Profile icon located at t
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/open-discord-on-smartphone.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step2You must be on User Settings page where you need to find and tap on Appearance present under App Settings.
@@ -101,13 +82,26 @@ Step3Scroll down and come to Chat Font Scaling and move the slider to the right 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/discord-appearance-zoom.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 There is Reset option at the bottom to cancel out the changes made as far as zoom effect goes.
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -126,17 +120,19 @@ There could also be a scenario where you have excessive zoom in effect, and you 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hidden-gems-on-youtube-understanding-unlisted-videos/"><u>[New] 2024 Approved Hidden Gems on YouTube Understanding 'Unlisted' Videos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-optimal-obs-configurations-for-thrifty-computers/"><u>[New] Optimal OBS Configurations for Thrifty Computers</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/he-intersection-of-brain-research-and-strategic-business-management-for-2024/"><u>[New] The Intersection of Brain Research and Strategic Business Management for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-unlock-video-brilliance-through-advanced-chroma-techniques-11-steps/"><u>[New] Unlock Video Brilliance Through Advanced Chroma Techniques (11 Steps)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-eliminate-camera-sway-no-tripods-allowed-for-2024/"><u>[Updated] Eliminate Camera Sway No Tripods, Allowed for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-utorrent-network-errors-tips-for-reestablishing-peer-links/"><u>Fixing uTorrent Network Errors – Tips for Reestablishing Peer Links</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-oneplus-ace-2v-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on OnePlus Ace 2V Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-mask-tracking-with-adobe-premiere-pro-a-detailed-guide/"><u>New 2024 Approved Mask Tracking with Adobe Premiere Pro A Detailed Guide</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-use-kahoot-on-zoom-for-2024/"><u>New How to Use Kahoot! On Zoom for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713963576144-new-if-you-are-a-marketer-who-want-to-create-facebook-ads-to-boost-your-business-you-are-coming-to-the-right-place-well-share-you-some-useful-tips-to-start-/"><u>New If You Are a Marketer Who Want to Create Facebook Ads to Boost Your Business, You Are Coming to the Right Place. Well Share You some Useful Tips to Start Your First FB Ads Campaign for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-want-to-explore-some-available-opportunities-to-create-slow-motion-discover-the-best-slow-motion-video-editors-for-desktop-android-an/"><u>Updated In 2024, Do You Want to Explore some Available Opportunities to Create Slow Motion? Discover the Best Slow-Motion Video Editors for Desktop, Android, and iPhone Here</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713964149338-updated-learn-how-to-feather-shapes-in-after-effects-and-add-a-professional-touch-to-your-designs-this-comprehensive-guide-covers-everything-from-the-basics/"><u>Updated Learn How to Feather Shapes in After Effects and Add a Professional Touch to Your Designs. This Comprehensive Guide Covers Everything From the Basics to Advanced Techniques. Perfect for Beginners and Experts Alike for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/13676214-new-in-2024-boost-channels-to-partner-status-in-under-90-days-start-now/"><u>[New] In 2024, Boost Channels to Partner Status in Under 90 Days, Start Now!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-perfect-photo-finishes-picarts-background-erase-method/"><u>[New] Perfect Photo Finishes PicArt's Background Erase Method</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-a-step-by-step-approach-to-using-cg-central-luts-in-grading-for-2024/"><u>[Updated] A Step-by-Step Approach to Using CG Central LUTs in Grading for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-creating-a-link-building-foundation-for-video-marketers/"><u>[Updated] Creating a Link-Building Foundation for Video Marketers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-snapseeds-power-for-everyday-photos/"><u>[Updated] Exploring Snapseed's Power for Everyday Photos</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-realme-gt-neo-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-zte-nubia-z60-ultra-phone-by-drfone-android/"><u>How to Reset a Locked ZTE Nubia Z60 Ultra Phone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-15-pro-maxipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 15 Pro Max/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-are-you-searching-for-the-best-canon-lut-download-this-article-provides-the-best-recommendations-for-creating-the-best-professional-videos-for-2024/"><u>New Are You Searching for the Best Canon LUT Download? This Article Provides the Best Recommendations for Creating the Best Professional Videos for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-making-creative-and-engaging-youtube-videos-is-now-easy-with-several-tools-now-youtube-also-offers-you-its-own-built-in-video-editor-through-whi/"><u>New In 2024, Making Creative and Engaging Youtube Videos Is Now Easy with Several Tools. Now, YouTube Also Offers You Its Own Built-In Video Editor Through Which You Can Edit and Enhance the Video Quality</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-premiere-pro-slow-playback-issues-finding-the-best-solutions/"><u>New In 2024, Premiere Pro Slow Playback Issues Finding The Best Solutions</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-ways-to-merge-videos-in-handbrake-expectation-vs-reality-for-2024/"><u>New Ways to Merge Videos in HandBrake? Expectation Vs. Reality for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/precision-and-durability-in-every-detail-reviewing-the-stable-masterpiece-that-is-the-twelve-south-compass-pro/"><u>Precision and Durability in Every Detail: Reviewing the Stable Masterpiece That Is the Twelve South Compass Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-steps-to-make-a-neon-dance-effect-with-filmora/"><u>Updated In 2024, Steps to Make a Neon Dance Effect With Filmora</u></a></li>
 </ul></div>
 
