@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Master Premiere Pro Custom Sequence Presets
-date: 2024-10-05T22:08:56.813Z
-updated: 2024-10-11T23:26:42.184Z
+date: 2024-10-19T16:51:16.478Z
+updated: 2024-10-23T16:15:41.611Z
 tags: 
   - ai
   - animation videos
@@ -23,16 +23,16 @@ It allows users to save specific settings for sequence attributes like frame rat
 
 Creating a custom sequence is like tailoring a shirt to fit you perfectly. Here's a step-by-step guide to help you do just that:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Displays the New Sequence Window
 
 Begin by launching Adobe Premiere Pro. Once opened, navigate to the top menu and select **_File_ \> _New_ \> _Sequence_**. This will open up the New Sequence window, where all the magic happens!
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 2: Change the Editing Mode to Custom in the Settings Panel
 
@@ -49,10 +49,10 @@ Here, you'll find the **'Editing Mode'** dropdown menu. By default, it's set to 
 5. **Audio Settings:** Here, you can configure the sample rate, among other things. 48000Hz is standard for video.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 3: Give the New Preset a Name and Save It
@@ -64,10 +64,10 @@ A pop-up window will show up, requesting you to provide a name for your new pres
 Your custom sequence preset is now saved and will appear under the **'Custom'** folder in the **'Sequence Presets'** tab.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Why Custom Sequence Presets are Essential for Efficient Editing
@@ -83,10 +83,10 @@ As you delve deeper into video editing, you'll begin to appreciate the little th
 Incorporating this practice into your editing routine might initially seem trivial, but its benefits compound with time.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Summary
@@ -110,18 +110,18 @@ It allows users to save specific settings for sequence attributes like frame rat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-5-effortlessly-converted-gif-to-professional-videos-online/"><u>[New] 2024 Approved Top 5 Effortlessly Converted GIF to Professional Videos Online</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-click-your-way-to-fun-top-12-pc-titles-of-2021/"><u>[Updated] 2024 Approved Click Your Way to Fun Top 12 PC Titles of 2021</u></a></li>
-<li><a href="https://facebook.techidaily.com/breaking-down-facebooks-streamlined-music-royalties-process/"><u>Breaking Down Facebook’s Streamlined Music Royalties Process</u></a></li>
-<li><a href="https://fox-that.techidaily.com/experiencing-problems-with-facetime-here-are-15-fixes-that-could-help/"><u>Experiencing Problems with FaceTime? Here Are 15 Fixes That Could Help</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-a-detailed-guid-to-remove-background-from-a-video-in-premier-pro/"><u>New 2024 Approved A Detailed Guid to Remove Background From a Video in Premier Pro</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-ultimate-guide-fix-hitching-games-with-steady-high-fps-streams/"><u>The Ultimate Guide: Fix Hitching Games with Steady High FPS Streams</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/uncovering-the-most-recent-facebook-changes-for-2024/"><u>Uncovering the Most Recent Facebook Changes for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-msdia80dll-importance-and-necessity-in-your-system/"><u>Understanding msdia80.dll: Importance and Necessity in Your System</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-vintage-film-effect-1980s-for-2024/"><u>Updated How to Make Vintage Film Effect 1980S for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-aware-that-av1-has-the-potential-to-change-the-way-we-watch-videos-online-read-on-to-learn-more-about-av1-and-how-it-could-impact-yo/"><u>Updated In 2024, Are You Aware that AV1 Has the Potential to Change the Way We Watch Videos Online? Read on to Learn More About AV1 and How It Could Impact Your Life</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-top-8-sites-to-download-glitch-transition-for-premiere-pro/"><u>Updated In 2024, Top 8 Sites to Download Glitch Transition for Premiere Pro</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-level-up-videos-by-applying-keyframe-like-a-pro-for-2024/"><u>Updated Level Up Videos By Applying Keyframe Like A Pro for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/what-languages-do-they-speak-in-belgium/"><u>What Languages Do They Speak In Belgium?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-your-first-venture-into-hosting-effective-zoom-webinars/"><u>[New] 2024 Approved Your First Venture Into Hosting Effective Zoom Webinars</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-methods-for-scaling-up-tiktok-video-importation/"><u>[New] Unveiling Methods for Scaling Up TikTok Video Importation</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-pioneering-video-content-creation-via-google-trends-study/"><u>[Updated] In 2024, Pioneering Video Content Creation via Google Trends Study</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-resolve-absent-watch-screen-button-for-2024/"><u>[Updated] Resolve Absent Watch Screen Button for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-cameras-to-capture-slow-motion-videos-for-2024/"><u>Best Cameras to Capture Slow Motion Videos for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/elevate-your-online-identity-with-tailored-fb-slideshow-content/"><u>Elevate Your Online Identity with Tailored FB Slideshow Content</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-vivo-v29e-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Vivo V29e FRP Bypass Instantly</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-unlocking-the-power-of-davinci-resolve-scopes-enhance-your-color-grad/"><u>New 2024 Approved Unlocking the Power of DaVinci Resolve Scopes Enhance Your Color Grad</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-if-youre-not-using-video-yet-now-is-the-time-to-start-in-this-post-well-discuss-the-benefits-of-using-video-for-social-media-marketing-and-provi/"><u>New In 2024, If Youre Not Using Video yet, Now Is the Time to Start. In This Post, Well Discuss the Benefits of Using Video for Social Media Marketing and Provide Tips for Getting Started. Keep Reading to Learn More</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-top-ways-to-make-fast-motion-video-on-iphone-solved/"><u>New In 2024, Top Ways to Make Fast Motion Video on iPhone Solved</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-ways-to-merge-videos-in-handbrake-expectation-vs-reality/"><u>Updated 2024 Approved Ways to Merge Videos in HandBrake? Expectation Vs. Reality</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-if-you-want-an-app-to-make-videos-with-pictures-and-music-for-social-media-posts-we-are-with-the-best-apps-to-make-videos-with-music-and-pictures-fo/"><u>Updated If You Want an App to Make Videos with Pictures and Music for Social Media Posts, We Are with the Best Apps to Make Videos with Music and Pictures for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Oppo Reno 9A? | Dr.fone</u></a></li>
 </ul></div>
 

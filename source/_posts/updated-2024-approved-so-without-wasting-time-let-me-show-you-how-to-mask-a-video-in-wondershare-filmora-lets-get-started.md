@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved So, without Wasting Time, Let Me Show You How to Mask a Video in Wondershare Filmora. Lets Get Started
-date: 2024-10-02T06:52:12.868Z
-updated: 2024-10-06T04:16:48.451Z
+date: 2024-10-16T16:10:38.021Z
+updated: 2024-10-23T17:41:27.156Z
 tags: 
   - ai
   - animation videos
@@ -51,6 +51,19 @@ Step 5 Up to this point, unhide the first track, then find the scene where the s
 
 ![unhide the first track](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-5.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### _Masking Trick: 2_
 
 In the second masking effect, we want to create a subject walking in and outside a tree. To do that, find a tree with a clear background, then place your camera to film the center of the tree trunk where the subject will be walking.
@@ -58,10 +71,10 @@ In the second masking effect, we want to create a subject walking in and outside
 ![create a subject walking in and outside a tree](https://images.wondershare.com/filmora/article-images/2023/01/tree-with-clear-background.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now film the subject walking from one side of the tree, stop for a second, and then turn back. They should repeat the same action, but this time they'll walk forward outside the frame after the one-second stop. That's all!
@@ -72,6 +85,13 @@ Step 1 Import the clip on Filmora, then add the footage on the first and second 
 
 ![import the clip on filmora](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2 Next, click **Effects**, choose **Utility**, then drag the **Image Mask** effect on the second video track. Then, double-click the second clip, select **Video Effects**, and choose a rectangular option that masks the right side of the frame.
 
 Now adjust the mask until it covers the entire right side of the tree. After that, unhide the first clip and move the second to match the first clip's timing. You can also cut out everything outside the scene of the first clip.
@@ -81,13 +101,6 @@ Now adjust the mask until it covers the entire right side of the tree. After tha
 Step 3 Play the video to see your subject walking in both directions of the tree.
 
 ![play the video to see your subject walking in both directions of the tree](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### _Masking Trick 3:_
 
@@ -112,32 +125,25 @@ Step 3 Double-click the video track and choose an image mask under **Video Effec
 ![double-click the video track](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 4 After masking, unhide the first track on the timeline before playing the video to find the scene where the subject appears and cut off everything before that scene. Also, find the scene where the subject jumps in the air and cut the clip in the second track. Then, delete everything after that scene.
 
 ![unhide the first track on the timeline](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 5 Play the video to see your subject jumping over the building and walking away from the scene.
 
 ![play the video to see your subject](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -155,22 +161,19 @@ That was easy, right? Playing around with Filmora's masking tools can create inc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-audiovisual-interpretation-engine/"><u>[New] 2024 Approved Audiovisual Interpretation Engine</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-design-thinking-for-podcasters-constructing-efficient-rss-files/"><u>[New] Design Thinking for Podcasters Constructing Efficient RSS Files</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-supreme-writing-talents-through-genre-lenses/"><u>[Updated] 2024 Approved Supreme Writing Talents Through Genre Lenses</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-photographers-guide-to-effective-watermarking/"><u>2024 Approved Photographers' Guide to Effective Watermarking</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/abbyy-unveils-free-neoml-cutting-edge-toolkit-for-building-next-gen-ai-applications/"><u>ABBYY Unveils Free NeoML: Cutting-Edge Toolkit for Building Next-Gen AI Applications</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/ai-companions-showdown-whos-best-for-your-day-to-day-claude-or-chatgpt/"><u>AI Companions Showdown: Who's Best for Your Day-to-Day – Claude or ChatGPT?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/ayaneos-latest-innovation-am01-mini-with-amd-zen-3-echoing-the-iconic-macintosh-style/"><u>Ayaneo's Latest Innovation - AM01 Mini with AMD Zen 3, Echoing the Iconic Macintosh Style</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/behind-the-scenes-of-lol-top-3-broadcast-techniques-for-2024/"><u>Behind the Scenes of LOL - Top 3 Broadcast Techniques for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/exploring-the-world-of-gadgets-with-tom-in-depth-analysis/"><u>Exploring the World of Gadgets with Tom - In-Depth Analysis</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-depth-analysis-of-cutting-edge-devices-by-toms-hardware-experts/"><u>In-Depth Analysis of Cutting-Edge Devices by Tom's Hardware Experts</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/meet-the-gem12-pro-powerful-performance-with-upgraded-ryzen-processor-built-in-screen-and-enhanced-overclocking-connectivity/"><u>Meet the Gem12 Pro – Powerful Performance with Upgraded Ryzen Processor, Built-In Screen, and Enhanced Overclocking Connectivity</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/navigating-digital-realms-at-toms-tech-oasis/"><u>Navigating Digital Realms at Tom's Tech Oasis</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/quintuplets-of-quality-youtubes-channels/"><u>Quintuplets of Quality YouTube's Channels</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/rapidly-convert-your-vintage-dvd-collection-with-winx-dvd-ripper-platinum-ultimate-fast-track-copying-solution/"><u>Rapidly Convert Your Vintage DVD Collection with WinX DVD Ripper Platinum – Ultimate Fast-Track Copying Solution</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1723262402976-secure-a-high-performance-gaming-pc-with-an-rtx-3080-for-only-2091-avail-lenovos-deal-now/"><u>Secure a High-Performance Gaming PC with an RTX 3,080 for Only $2,091 - Avail Lenovo's Deal Now</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/unlock-the-secrets-of-maingear-zero-series-advanced-hidden-cabling-tech-in-new-premium-desktops-from-1399/"><u>Unlock the Secrets of Maingear Zero Series: Advanced Hidden Cabling Tech in New Premium Desktops From $1,399</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-key-conduct-criteria-in-the-youtube-sphere/"><u>[New] 2024 Approved Key Conduct Criteria in the YouTube Sphere</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-immortalizing-moments-live-photo-to-dynamic-video/"><u>[New] Immortalizing Moments Live Photo to Dynamic Video</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-critical-game-analysis-from-top-creators/"><u>[New] In 2024, Critical Game Analysis From Top Creators</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-transform-your-video-editing-youtube-tunes-in-imovie/"><u>[Updated] 2024 Approved Transform Your Video Editing YouTube Tunes in iMovie</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-quickly-adapt-to-changing-video-speeds-on-youtube/"><u>2024 Approved Quickly Adapt to Changing Video Speeds on YouTube</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-nubia-red-magic-8s-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Nubia Red Magic 8S Pro Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-learn-to-create-custom-sequence-presets-in-premiere-pro-for-efficient-video-editing-ensure-consistency-and-speed-up-your-workflow-with-per/"><u>New 2024 Approved Learn to Create Custom Sequence Presets in Premiere Pro for Efficient Video Editing. Ensure Consistency and Speed up Your Workflow with Personalized Settings</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-to-replace-the-sky-in-your-media-read-the-article-to-learn-how-to-change-the-sky-app-on-your-mobile-phone/"><u>New In 2024, Do You Want to Replace the Sky in Your Media? Read the Article to Learn How to Change the Sky App on Your Mobile Phone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-top-15-slow-motion-capcut-templates-to-work-with-for-2024/"><u>New Top 15 Slow Motion CapCut Templates to Work With for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/riding-out-the-storm-conquering-xbox-app-glitches-on-win11/"><u>Riding Out the Storm: Conquering Xbox App Glitches on Win11</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-are-you-also-a-fan-of-the-slow-mo-guys-well-who-isnt-learn-how-you-can-create-compelling-slow-mo-videos-like-the-slow-mo-guys-here/"><u>Updated 2024 Approved Are You Also a Fan of the Slow Mo Guys? Well! Who Isnt? Learn How You Can Create Compelling Slow-Mo Videos Like the Slow Mo Guys Here</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-what-should-be-considered-to-choose-a-nice-gopro-for-vlogging/"><u>Updated In 2024, What Should Be Considered to Choose A Nice GoPro for Vlogging?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-clear-vision-flawless-screens/"><u>Win11 - Clear Vision, Flawless Screens</u></a></li>
 </ul></div>
 

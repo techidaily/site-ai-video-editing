@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Zoom in Discord
-date: 2024-10-13T21:41:05.791Z
-updated: 2024-10-17T22:05:15.533Z
+date: 2024-10-17T16:56:48.800Z
+updated: 2024-10-23T16:22:01.563Z
 tags: 
   - ai
   - animation videos
@@ -37,19 +37,6 @@ Step4According to your requirements, you can move the slider to the right to zoo
 
 Step5Once you are satisfied with the level of zooming, press Esc key on your keyboard to save the changes.
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Zoom Discord Online
 
 If you are relatively new to Discord, you are likely to use its in-browser online version before downloading desktop or smartphone app. Zooming in and out on Discord is super easy when you use Discord online. This is because almost all browsers have in-built option to zoom in and zoom out any website including Discord. Here are the steps on how to zoom in Discord online.
@@ -62,16 +49,23 @@ Step3From the drop-down menu, go to Zoom option. Click on “+” icon to zoom i
 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/online-discord-zoom-icon.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Alternatively, you can simply launch Discord on any browser and press Ctrl and “+” or “-“ keys together for zooming in and out. You get to see by how much percentage the browser is zooming in and zooming out. If you want to reset, bring the percentage to 100%.
 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/zoom-discord-screen-online.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Zoom Discord on Mobile
 
@@ -81,26 +75,26 @@ Step1On your smartphone, open Discord app. Tap on your Profile icon located at t
 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/open-discord-on-smartphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2You must be on User Settings page where you need to find and tap on Appearance present under App Settings.
 
 Step3Scroll down and come to Chat Font Scaling and move the slider to the right for zooming in.
 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/discord-appearance-zoom.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 There is Reset option at the bottom to cancel out the changes made as far as zoom effect goes.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -120,18 +114,24 @@ There could also be a scenario where you have excessive zoom in effect, and you 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/2024-tips-how-to-fix-dev-error-6068-in-mw-warzone/"><u>[2024 Tips] How to Fix Dev Error 6068 in MW: Warzone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-expert-advice-for-flawless-recordings-on-mi-11-phones/"><u>[New] Expert Advice for Flawless Recordings on Mi 11 Phones</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-facebook-verification-how-to-get-the-blue-verified-badge-easily/"><u>2024 Approved Facebook Verification How to Get the Blue Verified Badge (Easily)</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-compact-guide-to-creating-viral-music-on-youtube/"><u>2024 Approved The Compact Guide to Creating Viral Music on YouTube</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-advice-overcoming-connectivity-and-functionality-issues-in-tiktok/"><u>Expert Advice: Overcoming Connectivity and Functionality Issues in TikTok.</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-breathtaking-bounds-of-2022-skaters/"><u>In 2024, Breathtaking Bounds of 2022 Skaters</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-master-the-art-of-video-cuts-essential-tools-for-mac-users/"><u>In 2024, Master the Art of Video Cuts Essential Tools for Mac Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-sleeksky-saver-the-frugal-file-nest/"><u>In 2024, SleekSky Saver - The Frugal File Nest</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-get-zoom-on-tv-easy-solutions-for-2024/"><u>New How to Get Zoom on TV Easy Solutions for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-what-anime-character-are-you-look-like/"><u>New In 2024, What Anime Character Are You Look Like?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-what-is-the-best-mp4-cutters-for-youtubers-on-mac/"><u>New In 2024, What Is the Best MP4 Cutters for YouTubers on Mac?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-bloodhunt-performance-a-guide-to-stop-game-disruptions-and-delays/"><u>Optimizing Bloodhunt Performance: A Guide to Stop Game Disruptions and Delays</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713962802533-updated-do-you-wish-to-know-how-ffmpeg-can-remove-audio-from-a-video-if-yes-keep-scrolling-this-guide-to-remove-audio-from-video-with-ffmpeg-and-other-alter/"><u>Updated Do You Wish to Know How FFmpeg Can Remove Audio From a Video? If Yes, Keep Scrolling This Guide to Remove Audio From Video with FFmpeg and Other Alternative Software for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-compact-guide-setting-up-snapchat-macos-style/"><u>[New] Compact Guide Setting up Snapchat macOS-Style</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-top-picks-for-traditional-japanese-huts-in-mc-worlds/"><u>[Updated] In 2024, Top Picks for Traditional Japanese Huts in MC Worlds</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-io-screen-snapshot-savvy-your-complete-manual/"><u>2024 Approved IO Screen Snapshot Savvy Your Complete Manual</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-premier-guide-to-filmed-action-preservation/"><u>2024 Approved Premier Guide to Filmed Action Preservation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-reliable-strategy-to-infuse-direct-urls-in-tiktok-bio/"><u>2024 Approved Reliable Strategy to Infuse Direct URLs in TikTok Bio</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/2024-approved-what-is-an-ai-avatar/"><u>2024 Approved What Is an AI Avatar?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expand-your-soundscape-simultaneously-connecting-multiple-bluetooth-audio-devices/"><u>Expand Your Soundscape: Simultaneously Connecting Multiple Bluetooth Audio Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-samsung-galaxy-s24plus-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Samsung Galaxy S24+ Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-are-you-looking-for-a-video-format-converter-free-we-will-introduce-the-5-best-online-converters-and-also-the-5-best-video-format-converte/"><u>New 2024 Approved Are You Looking for a Video Format Converter Free? We Will Introduce the 5 Best Online Converters and Also the 5 Best Video Format Converters for PC</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-wish-to-create-high-quality-videos-and-experience-effective-videos-with-editing-no-problem-at-all-because-the-keyboard-shortcuts-li/"><u>New 2024 Approved Do You Wish to Create High-Quality Videos and Experience Effective Videos with Editing? No Problem at All because the Keyboard Shortcuts Listed Here Will Assist You</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-use-adjustment-layer-in-photoshop/"><u>New 2024 Approved How to Use Adjustment Layer in Photoshop?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-through-speed-ramping-create-a-smooth-transition-in-slow-motion-videos-follow-this-guide-and-learn-about-premiere-pro-slow-motion-and-a-better-a/"><u>New In 2024, Through Speed Ramping, Create a Smooth Transition in Slow-Motion Videos. Follow This Guide and Learn About Premiere Pro Slow Motion and a Better Alternative</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-step-by-step-guide-to-storyboard-for-2024/"><u>New Step-by-Step Guide to Storyboard for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-tackle-errortoomanyretries-in-wsl-subsystem/"><u>Strategies to Tackle ERROR_TOO_MANY_RETRIES in WSL Subsystem</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-much-information-do-you-have-about-mp4-digital-file-storage-let-us-tell-you-more-about-the-mp4-file-format-get-ready-to-increase-your-kn/"><u>Updated In 2024, How Much Information Do You Have About MP4 Digital File Storage? Let Us Tell You More About the MP4 File Format; Get Ready to Increase Your Knowledge</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-using-ai-to-replace-skies-finding-the-right-methods/"><u>Updated In 2024, Using AI to Replace Skies Finding the Right Methods</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-premiere-pro-slow-playback-issues-finding-the-best-solutions-for-2024/"><u>Updated Premiere Pro Slow Playback Issues Finding The Best Solutions for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-top-ways-to-make-fast-motion-video-on-iphone-solved-for-2024/"><u>Updated Top Ways to Make Fast Motion Video on iPhone Solved for 2024</u></a></li>
 </ul></div>
 

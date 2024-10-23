@@ -1,7 +1,7 @@
 ---
 title: New If You Want to Replace or Delete the Sky Pictures or Background Media, Then Give a Quick Read to This Article for Effective Solutions for 2024
-date: 2024-10-04T01:05:03.530Z
-updated: 2024-10-06T07:19:20.924Z
+date: 2024-10-21T16:34:52.125Z
+updated: 2024-10-23T18:56:51.258Z
 tags: 
   - ai
   - animation videos
@@ -38,6 +38,13 @@ This article aims to provide you with all the necessary information on how you c
 * [BeFunky](#online7)
 * [remove.bg](#online8)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. SnapEdit
 
 SnapEdit is one of the most incredible online tools with an AI **sky replacement image** option. With this function, users can add a more eye-catching sky background to their images instead of the default one. The tool modifies the sky background's colors, textures, and gradients using artificial intelligence. Additionally, it offers a selection from a library of more attractive, lifelike replacement possibilities.
@@ -55,13 +62,6 @@ SnapEdit is one of the most incredible online tools with an AI **sky replacement
 | **Pricing Plan** | **Billing** |
 | ---------------- | ----------- |
 | Pro              | $5/month    |
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Fotor
 
@@ -82,11 +82,25 @@ With this **sky replacement photo** tool, you can add artistic skies to your ima
 | Fotor Pro         | $2.66/month |
 | Fotor Pro+        | $5.99/month |
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Wondershare AI Lab
 
 With this tool’s **photo editing sky** function, you can add a new sky to your images using AI technology. You can alter the sky in your pictures to a bright blue, pink, purple, and grey sky to add drama and interest. The tool can instantly replace the sky in your photo with the desired one and add a unique touch to your horizon. You can upload images up to 5MB, and the application supports most file formats.
 
 ![ai lab replace sky from photo](https://images.wondershare.com/filmora/article-images/2023/top-sky-replacement-tools-online-and-offline-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -105,16 +119,10 @@ Pixlr can easily swap out the sky in your images for a more visually stimulating
 ![pixlr replace sky from photo](https://images.wondershare.com/filmora/article-images/2023/top-sky-replacement-tools-online-and-offline-4.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Key Features
@@ -130,13 +138,6 @@ Pixlr can easily swap out the sky in your images for a more visually stimulating
 | Plus              | $0.99/month        |
 | Premium           | $4.90/month        |
 | Team              | $9.91/month        |
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Autoenhance.ai
 
@@ -164,13 +165,6 @@ Using the photo editing program PhotoScissors, you can change around the sky in 
 
 ![photoscissors replace sky from photo](https://images.wondershare.com/filmora/article-images/2023/top-sky-replacement-tools-online-and-offline-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Key Features
 
 * You can remove the image background programmatically using the API of PhotoScissors.
@@ -187,16 +181,10 @@ Using the photo editing program PhotoScissors, you can change around the sky in 
 | 10 Credits            | $4.99       |
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 7\. BeFunky
@@ -204,13 +192,6 @@ Using the photo editing program PhotoScissors, you can change around the sky in 
 BeFunky's AI-powered Sky Replacer is a specialized tool that recognizes the image's sky and foreground to replace the sky precisely. The program is an all-in-one sky editor since it contains all the tools needed to alter the sky and foreground separately. This tool can edit the sky and front location so well that grey and dull photos become colorful and brighter.
 
 ![befunky replace sky from photo](https://images.wondershare.com/filmora/article-images/2023/top-sky-replacement-tools-online-and-offline-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -243,13 +224,6 @@ With the sky replacement feature offered by the remove.bg software, you can add 
 | Subscription Plan | **Minimum:** $0.20/40 Credits **Maximum:** Custom Pricing |
 | Pay as you go     | **Minimum:** $1.99/1 **Maximum:** Custom Pricing          |
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Wondershare Filmora: A Comprehensive Offline Solution for Background Replacement with Perfection
 
 [Background replacement](https://tools.techidaily.com/wondershare/filmora/download/) can assist you in highlighting the primary topic to attract viewers while giving your products or marketing materials a polished, professional appearance. Many users look for offline background removal to edit their photos immediately. If you’re working on some projects, offline tools are a much safer option as they depend on the availability of the internet network.
@@ -276,11 +250,32 @@ Now that both files have been brought together click on the media file that need
 
 ![enable chroma key option](https://images.wondershare.com/filmora/article-images/2023/top-sky-replacement-tools-online-and-offline-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 3: Preview and Export Final Results
 
 Once you click on the chroma key option, the app automatically replaces the background of your media file. You can preview it, and if you are satisfied with the results, click “Export,” and save your new video.
 
 ![export the edited video](https://images.wondershare.com/filmora/article-images/2023/top-sky-replacement-tools-online-and-offline-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -292,13 +287,6 @@ It’s important to do thorough research before you choose the right app for the
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -308,24 +296,24 @@ It’s important to do thorough research before you choose the right app for the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-obs-tutorial-for-youtube-and-twitch-broadcasts/"><u>[Updated] 2024 Approved The Ultimate OBS Tutorial for YouTube & Twitch Broadcasts</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-playcapture-x-the-cost-free-videography-for-games/"><u>[Updated] In 2024, PlayCapture X The Cost-Free Videography for Games</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/downsize-window-space-in-win-10/"><u>Downsize Window Space in WIN 10</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-elite-tech-enhancement-with-top-srt-tweaks/"><u>In 2024, Elite Tech Enhancement with Top SRT Tweaks</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-from-isolated-viewers-to-shared-experiences-online/"><u>In 2024, From Isolated Viewers to Shared Experiences Online</u></a></li>
-<li><a href="https://win-best.techidaily.com/les-13-apps-videoconference-premium-pour-ordinateurs-le-guide-ultime-par-movavi/"><u>Les 13 Apps Vidéoconférence Premium Pour Ordinateurs : Le Guide Ultime Par Movavi</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-mixed-media-with-color-for-2024/"><u>Mastering Mixed Media with Color for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-clearly-the-efectum-app-download-without-a-watermark-option-is-on-android-phones-thus-read-this-review-on-the-efectum-app-and-find-replace/"><u>New 2024 Approved Clearly, the Efectum App Download without a Watermark Option Is on Android Phones. Thus, Read This Review on the Efectum App and Find Replacements for Good</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-convert-text-to-mp3-on-windows-mac-android-and-iphone/"><u>New In 2024, Convert Text to MP3 on Windows, Mac, Android and iPhone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-the-benefits-of-using-video-for-social-media-marketing/"><u>New In 2024, The Benefits Of Using Video For Social Media Marketing</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-what-should-be-considered-to-choose-a-nice-gopro-for-vlogging-for-2024/"><u>New What Should Be Considered to Choose A Nice GoPro for Vlogging for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713966084879-new-would-you-like-to-know-how-to-change-the-ratio-of-the-video-or-which-is-the-correct-aspect-ratio-for-uploading-to-the-online-platform-then-go-through-th/"><u>New Would You Like to Know How to Change the Ratio of the Video or Which Is the Correct Aspect Ratio for Uploading to the Online Platform? Then, Go Through the Article to Get Complete Details About the Video Aspect Ratio for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-complete-guide-to-asus-proart-pa-329q-professionals-features/"><u>The Complete Guide to Asus ProArt PA 329Q Professional's Features</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-a-smooth-madden-22-gaming-experience/"><u>Troubleshooting Tips for a Smooth Madden 22 Gaming Experience</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-want-to-make-your-photos-and-videos-look-different-from-others-there-are-many-lightroom-luts-free-and-they-make-your-media-cont/"><u>Updated 2024 Approved Do You Want to Make Your Photos and Videos Look Different From Others? There Are Many Lightroom LUTs Free, and They Make Your Media Content Stand Out From Others</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-learn-how-to-change-aspect-ratio-in-imovie-on-mac-ipad-and-iphone-in-this-guide-and-you-can-also-use-imovie-alternatives-like-wondersh/"><u>Updated 2024 Approved Learn How to Change Aspect Ratio in iMovie on Mac, iPad, and iPhone in This Guide. And You Can Also Use iMovie Alternatives Like Wondershare Filmora to Edit Your Videos</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-vlog-a-beginners-guide-to-start-vlogging-for-2024/"><u>Updated How to Vlog? A Beginners Guide to Start Vlogging for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-trying-to-make-slow-mo-videos-on-instagram-in-this-article-we-will-discuss-top-rated-ways-to-produce-perfect-slow-motion-videos-for-/"><u>Updated In 2024, Are You Trying to Make Slow-Mo Videos on Instagram? In This Article, We Will Discuss Top-Rated Ways to Produce Perfect Slow-Motion Videos for Instagram</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-want-to-find-a-good-camera-for-youtube-this-article-brings-you-some-of-the-best-options-of-different-varieties-for-your-channel-for-2024/"><u>Updated Want to Find a Good Camera for YouTube? This Article Brings You some of the Best Options of Different Varieties for Your Channel for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/aking-money-with-youtube-understanding-partner-program-for-2024/"><u>[New] Making Money with YouTube Understanding Partner Program for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-stepwise-approach-to-snagging-youtube-playlists-efficiently/"><u>[New] Stepwise Approach to Snagging YouTube Playlists Efficiently</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-reimagining-action-filming-the-complete-review-of-sj7s-star-cam/"><u>[Updated] 2024 Approved Reimagining Action Filming The Complete Review of SJ7's Star Cam</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-byb-e430-swing-arm-led-lamp-analysis-and-features-overview/"><u>Comprehensive BYB E430 Swing Arm LED Lamp Analysis and Features Overview</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-y27-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-minecraft-lan-compatibility-problems-easily/"><u>How To Overcome 'Minecraft LAN Compatibility Problems' Easily</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-what-should-be-considered-to-choose-a-nice-gopro-for-vlogging/"><u>New 2024 Approved What Should Be Considered to Choose A Nice GoPro for Vlogging?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-premiere-pro-slow-playback-issues-finding-the-best-solutions/"><u>New In 2024, Premiere Pro Slow Playback Issues Finding The Best Solutions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/pinpointing-the-10-most-discreet-story-advocates-for-2024/"><u>Pinpointing the 10 Most Discreet Story Advocates for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/pixel-powerhouse-expert-review-on-top-8k-tv-models/"><u>Pixel Powerhouse Expert Review on Top 8K TV Models</u></a></li>
+<li><a href="https://facebook.techidaily.com/politics-no-thanks-optimize-your-facebook-experience/"><u>Politics? No Thanks! Optimize Your Facebook Experience</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-are-you-looking-to-vlog-across-your-next-stop-at-the-cafe-get-aware-of-the-significant-elements-that-make-up-the-cafe-vlog-for-2024/"><u>Updated Are You Looking to Vlog Across Your Next Stop at the Café? Get Aware of the Significant Elements that Make up the Café Vlog for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-do-you-want-to-record-videos-with-a-phantom-high-speed-camera-in-this-guide-you-can-get-a-detailed-note-on-the-phantom-camera-for-2024/"><u>Updated Do You Want to Record Videos with a Phantom High-Speed Camera? In This Guide, You Can Get a Detailed Note on the Phantom Camera for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-here-you-will-learn-how-to-add-a-realistic-fire-effect-using-wondershare-filmora-that-will-help-to-boost-your-channel-and-decorate-your-yout/"><u>Updated In 2024, Here, You Will Learn How to Add a Realistic Fire Effect Using Wondershare Filmora. That Will Help to Boost Your Channel and Decorate Your YouTube Channel with Creative and Unique Effects</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-perform-mask-tracking-discovering-the-best-methods/"><u>Updated In 2024, How to Perform Mask Tracking Discovering the Best Methods</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-learning-how-to-slow-down-a-video-on-iphone-properly/"><u>Updated In 2024, Learning How to Slow Down a Video on iPhone Properly</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-recording-slow-motion-videos-is-not-more-difficult-using-a-smartphone-learn-everything-from-how-to-record-slow-motion-video-and-edit-a-video/"><u>Updated In 2024, Recording Slow-Motion Videos Is Not More Difficult Using a Smartphone. Learn Everything From How to Record Slow-Motion Video and Edit a Video to Slow Down It</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-steps-to-make-a-neon-dance-effect-with-filmora/"><u>Updated In 2024, Steps to Make a Neon Dance Effect With Filmora</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/usbmp4-mts-2/"><u>USBを使わずにMP4ファイル変換が簡単! MTS からのアップグレード - 最適なサイト2選</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Put a Background on A Green Screen
-date: 2024-10-14T21:03:42.411Z
-updated: 2024-10-17T17:46:43.291Z
+date: 2024-10-18T18:00:22.072Z
+updated: 2024-10-23T17:48:04.678Z
 tags: 
   - ai
   - animation videos
@@ -29,13 +29,6 @@ Starting from replacing the green screen with a studio setup like news broadcast
 
 The first thing you need to do is shoot your video with high-quality green screen in the background. Make sure that it is evenly spread and lit up so that there are no light and dark patches. Now that you have green screen video, you will need a professional video editor to replace the green screen with any background as per your requirements. Here are the three ways on how to add background to green screen.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Way 1\. Use Filmora
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is the easiest video editor to add a background to green screen video instantly. Filmora is a professional video editor with an intuitive user interface. There are loads of tools to add visual effects and perform basic to advanced editing. Filmora is available for Windows and Mac users and you have to transfer your recorded green screen video to your computer. You can replace green screen with a video as well as photo as per your preference. Here are the steps to put a background on green screen video using Filmora.
@@ -50,6 +43,13 @@ Step2 Import your green screen video as well as the background video or photo un
 
 ![import green screen video](https://images.wondershare.com/filmora/guide/filmora-chroma-key-remove-selected-color.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Double-click on the video clip that you have dropped on Timeline. Go to Video tab and turn on Chroma Key option.
 
 ![double click on the video clip](https://images.wondershare.com/filmora/guide/green-screen-overlay-video-chroma-key-settings.jpg)
@@ -61,10 +61,10 @@ Step5 Finally, play the video and if you are satisfied, click on Export button t
 ![click on export button](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Way 2\. Use iMovie
@@ -79,13 +79,6 @@ Step3 Drag and drop them into Timeline and place the green screen video above th
 
 ![drag green screen video imovie](https://images.wondershare.com/filmora/article-images/2022/07/drag-green-screen-video-imovie.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 Click on the green screen video and click on Video Overlay Settings and select Green/Blue Screen option from the drop-down menu.
 
 ![remove green screen video imovie](https://images.wondershare.com/filmora/article-images/2022/07/remove-green-screen-video-imovie.jpg)
@@ -95,10 +88,17 @@ Step5 You can adjust Softness as well as Clean-up option so that the green scree
 ![adjust softness green screen video imovie](https://images.wondershare.com/filmora/article-images/2022/07/adjust-softness-green-screen-video-imovie.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Way 3\. Use Premiere Pro
@@ -119,6 +119,13 @@ Step4 Click on eyedropper tool under Ultra Key and use the tool to select the gr
 
 ![select green screen premiere pro](https://images.wondershare.com/filmora/article-images/2022/07/select-green-screen-premiere-pro.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step5 Go to Ultra Key> Output> and select Alpha Channel option. Set Setting located under Output to Aggressive.
 
 ![ultra key output premiere](https://images.wondershare.com/filmora/article-images/2022/07/ultra-key-output-premiere.jpg)
@@ -127,16 +134,16 @@ Step6 Go to Matte Generation and adjust Transparency using the slider available.
 
 ![matte generation premiere](https://images.wondershare.com/filmora/article-images/2022/07/matte-generation-premiere.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step7 You will see the green screen get replaced by the video or photo you have placed below the green screen video in Timeline.
 
 ![edit green screen video premiere](https://images.wondershare.com/filmora/article-images/2022/07/edit-green-screen-video-premiere.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. How to change the background of green screen image?
 
@@ -156,22 +163,21 @@ Step4 Go to Select menu and click on Inverse option. Go to Select menu and click
 
 ![refine edge photoshop](https://images.wondershare.com/filmora/article-images/2022/07/refine-edge-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step5 Go to Select menu and click on Inverse option. Press Delete key and the green screen background will disappear and the replacement image will appear in the background.
 
 ![apply green screen to image ps](https://images.wondershare.com/filmora/article-images/2022/07/apply-green-screen-to-image-ps.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -189,19 +195,24 @@ We have illustrated how you can add a background to your green screen video on y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-experts-companion-navigating-the-nuances-of-mobizen-screen-recording/"><u>[New] 2024 Approved Expert's Companion Navigating the Nuances of Mobizen Screen Recording</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-streamlined-sounds-iphones-efficient-podcasting/"><u>[New] Streamlined Sounds IPhone's Efficient Podcasting</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-art-of-low-volume-playback-system-guide/"><u>[New] The Art of Low-Volume Playback System Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-tecno-pop-8-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Tecno Pop 8</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-testing-the-netgear-orbi-rbs51-unit-for-expansive-yard-internet-access/"><u>In-Depth Review: Testing the Netgear Orbi RBS5^1 Unit for Expansive Yard Internet Access</u></a></li>
-<li><a href="https://win-able.techidaily.com/metro-exodus-pc-enhanced-ed-persistent-crash-issues-resolved/"><u>Metro Exodus PC Enhanced Ed.: Persistent Crash Issues Resolved?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-zoom-in-discord-for-2024/"><u>New How to Zoom in Discord for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-to-use-luts-in-final-cut-pro-there-are-many-free-luts-for-fcpx-available-that-you-can-use-using-luts-you-can-create-professional-loo/"><u>New In 2024, Do You Want to Use LUTs in Final Cut Pro? There Are Many Free LUTs for FCPX Available that You Can Use. Using LUTs, You Can Create Professional-Looking Content</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-what-is-the-best-voice-changer-for-whatsapp-discover-the-seven-7-best-voice-changers-for-whatsapp-here-in-this-post/"><u>New In 2024, What Is the Best Voice Changer for WhatsApp? Discover the Seven (7) Best Voice Changers for WhatsApp Here in This Post</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-top-shortcut-towards-timeline-template-for-2024/"><u>New Top Shortcut Towards Timeline Template for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-dsounddll-file-errors-a-step-by-step-guide/"><u>Resolving dsound.dll File Errors: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-premium.techidaily.com/ultimate-guide-to-emeditor-your-ideal-text-editing-solution/"><u>Ultimate Guide to EmEditor: Your Ideal Text Editing Solution</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/understanding-facebook-messengers-signaling-with-a-blue-splash-for-2024/"><u>Understanding Facebook Messenger's Signaling With a Blue Splash for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-are-you-a-newbie-across-youtube-want-to-know-who-the-best-vloggers-are-this-article-provides-you-with-the-best-vloggers-on-youtube-for-2024/"><u>Updated Are You a Newbie Across YouTube? Want to Know Who the Best Vloggers Are? This Article Provides You with the Best Vloggers on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-maximizing-youtube-engagement-with-strategic-hashes/"><u>[New] In 2024, Maximizing YouTube Engagement with Strategic Hashes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-navigating-the-pinning-landscape-in-snapchat/"><u>[New] In 2024, Navigating the Pinning Landscape in Snapchat</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-parallel-audio-stream-mapping-for-2024/"><u>[New] Parallel Audio Stream Mapping for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-add-fade-to-black-on-premiere-pro/"><u>2024 Approved HOW to Add Fade to Black on Premiere Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-revisionfx-reelsmart-motion-blur-plugin-for-premiere-pro/"><u>2024 Approved ReVisionFX ReelSmart Motion Blur Plugin For Premiere Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/are-you-looking-for-dark-luts-premiere-pro-free-this-article-discusses-the-dark-moody-luts-with-top-recommendations-for-beginning-visual-editing/"><u>Are You Looking for Dark LUTs Premiere Pro Free? This Article Discusses the Dark Moody LUTs with Top Recommendations for Beginning Visual Editing</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/becoming-a-wealthy-beauty-channel-host/"><u>Becoming a Wealthy Beauty Channel Host</u></a></li>
+<li><a href="https://win-community.techidaily.com/cloud-download-ou-installation-locale-une-comparaison-detaillee-de-pratiques-optimales/"><u>Cloud Download Ou Installation Locale : Une Comparaison Détaillée De Pratiques Optimales</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/filmora-guide-efficiently-convert-avi-files-to-gifs-on-both-operating-systems-for-2024/"><u>Filmora Guide Efficiently Convert AVI Files to GIFs on Both Operating Systems for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/for-operation-2-when-simplifying-terms-such-as-receptor-status-use-comparisons-like-just-like-some-people-need-different-kinds-of-glasses-depending-on-their37/"><u>For Operation 2, when Simplifying Terms Such as “Receptor Status” Use Comparisons Like “Just Like some People Need Different Kinds of Glasses Depending on Their Vision Needs.” Mention in Layman’s Terms at Least Once How Radiation Targets only the Bad Cells</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-guide-to-using-free-luts-for-obs/"><u>In 2024, Guide To Using Free Luts for OBS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/maximizing-hd-playback-on-social-media-fb-for-2024/"><u>Maximizing HD Playback on Social Media (FB) for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-easily-sync-audio-with-video-with-filmora/"><u>New 2024 Approved Easily Sync Audio With Video With Filmora</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-memory-issue-alert-a-step-by-step-guide/"><u>Resolving Windows' Memory Issue Alert: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/skyrocket-your-earnings-by-mastering-youtube-shorts-monetization-for-2024/"><u>Skyrocket Your Earnings by Mastering YouTube Shorts Monetization for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/unlock-the-power-of-shotcut-the-ultimate-guide-to-rotating-videos-for-2024/"><u>Unlock the Power of Shotcut The Ultimate Guide to Rotating Videos for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-create-glitch-text-effect-for-2024/"><u>Updated Create Glitch Text Effect for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-discover-the-ultimate-luts-for-wondershare-filmora-uncover-the-answer-for-2024/"><u>Updated Discover the Ultimate LUTs for Wondershare Filmora Uncover the Answer for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-top-6-online-video-speed-controller-for-chrome-safari-firefox-for-2024/"><u>Updated TOP 6 Online Video Speed Controller for Chrome, Safari, Firefox for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated DaVinci Resolve Scopes Have Undergone Significant Improvements. Find Out How to Use These Scopes and Improve Your Video Editing Skills for 2024
-date: 2024-10-15T20:53:37.973Z
-updated: 2024-10-17T16:29:59.446Z
+date: 2024-10-20T17:41:20.923Z
+updated: 2024-10-23T16:54:16.237Z
 tags: 
   - ai
   - animation videos
@@ -34,10 +34,16 @@ The inclusion of the CIE chromaticity diagram is perhaps the biggest change to D
 ![cie 1931 color space](https://images.wondershare.com/filmora/article-images/2023/mastering-davinci-resolve-scopes-a-comprehensive-guide-1.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **2\. Low Pass Filter**
@@ -46,21 +52,7 @@ The wavefront and parade scopes now have a low pass filter, which reduces noise 
 
 ![low pass filter](https://images.wondershare.com/filmora/article-images/2023/mastering-davinci-resolve-scopes-a-comprehensive-guide-2.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The image above shows the major improvements. The second set of waveforms has more defined lines. These have the low-pass filter activated, which makes the scopes easier to read.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **3\. High, Mid, and Low Views in Vectorscope**
 
@@ -68,14 +60,14 @@ The vectorscope has been added to the ability to toggle the mid-tones, shadows, 
 
 ![high, mid, and low views in vectorscope](https://images.wondershare.com/filmora/article-images/2023/mastering-davinci-resolve-scopes-a-comprehensive-guide-3.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As seen in the picture above, the vectorscope controls allow you to select the low, mid, or high range of the image. You can also set the low and high ranges as desired.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **4\. Histograms Over Curves**
 
@@ -84,10 +76,17 @@ Another great DaVinci scope is the histogram, which now appears outside of the s
 ![histograms over curves](https://images.wondershare.com/filmora/article-images/2023/mastering-davinci-resolve-scopes-a-comprehensive-guide-4.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **5\. Scope Quality**
@@ -95,19 +94,6 @@ Another great DaVinci scope is the histogram, which now appears outside of the s
 The GPU-accelerated scopes engine allows the scopes to respond quickly. Users have the option to set the quality to high, medium, or low and the scopes will respond to a range of hardware systems. Depending on whether you are working on a stationary short or looking to see how the scopes react in real-time, you will be able to toggle the modes quickly and easily.
 
 ![scope quality](https://images.wondershare.com/filmora/article-images/2023/mastering-davinci-resolve-scopes-a-comprehensive-guide-5.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **6\. YRGB View in Histogram and Parade**
 
@@ -122,10 +108,17 @@ These are weak elements in the signore, which are of lesser importance compared 
 ![extent](https://images.wondershare.com/filmora/article-images/2023/mastering-davinci-resolve-scopes-a-comprehensive-guide-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Part 2\. Mastering Scopes in DaVinci Resolve: A Brief Guide**
@@ -153,6 +146,13 @@ The RGB Parade comprises 3 waveforms that represent the luminance of red, green,
 
 The Parade works almost in a similar manner as the waveform. It displays the red, green, and blue channels of the image as separate waveforms. This way, you can easily identify and correct color casts while ensuring the colors in the image are balanced. The video scope provides useful information to decide which parts of the image need to be corrected or tweaked further.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **3\. Vectorscope**
 
 Vectorscope in DaVinci Resolve shows hue and saturation on a circular graph. Hues (the colors) are indicated outside of the color wheel for easier color correction. Saturation is indicated by how far the graph extends from the center.
@@ -168,6 +168,13 @@ Histogram is a video scope in DaVinci Resolve that displays the brightness or lu
 ![histogram](https://images.wondershare.com/filmora/article-images/2023/mastering-davinci-resolve-scopes-a-comprehensive-guide-11.JPG)
 
 Using the histogram video scope on DaVinci Resolve allows you to check for overexposure or underexposure in your image. You can also ensure that the image has a good overall brightness range. The scope provides a graphical representation of tonal distribution in each channel. This way, you can evaluate the tone in detail for more accurate brightness and contrast adjustments.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Part 3:** **Edit Like a Pro: Mastering Video Scopes in Filmora
 
@@ -202,13 +209,6 @@ Scopes are indeed valuable to video editors and colorists. While viewing images 
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -218,21 +218,24 @@ Scopes are indeed valuable to video editors and colorists. While viewing images 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unlock-creative-expression-mastering-jump-cut-usage/"><u>[Updated] 2024 Approved Unlock Creative Expression Mastering Jump Cut Usage</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-essential-gb-games-selecting-pc-emulators-to-simulate-gba-perfectly/"><u>[Updated] Essential GB Games Selecting PC Emulators to Simulate GBA Perfectly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mp4wav/"><u>「もっと楽に - MP4からWAVへのお手頃価格なオンライン変換サービス」</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/audacity-insider-perfecting-your-audio-crossfades-for-2024/"><u>Audacity Insider Perfecting Your Audio Crossfades for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-for-non-functional-logitech-settings-on-your-windows-machine/"><u>Effective Solutions for Non-Functional Logitech Settings on Your Windows Machine</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Vivo Y100 5G? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-pop-8-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Tecno Pop 8 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/master-the-fix-for-common-icloud-glitches-affecting-your-iphoneipad/"><u>Master the Fix for Common iCloud Glitches Affecting Your iPhone/iPad</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-excel-at-using-adobe-premiere-pro-software-for-splitting-videos-and-audio-learn-about-splitting-a-video-and-audio-using-dif/"><u>New 2024 Approved Do You Want to Excel at Using Adobe Premiere Pro Software for Splitting Videos and Audio? Learn About Splitting a Video and Audio Using Different Tools and Add a New Skill to Your Skillset with a Step-by-Step Guide in This Article</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-having-gopro-accessories-is-easy-but-editing-on-gopro-quik-is-challenging-read-this-guide-and-stepwise-learn-to-use-gopro-slow-motion-for-perfec/"><u>New In 2024, Having GoPro Accessories Is Easy, but Editing on GoPro Quik Is Challenging. Read This Guide and, Stepwise, Learn to Use GoPro Slow-Motion for Perfect Shots</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713964442414-new-looking-forward-to-complement-your-weekend-evenings-with-a-fantasy-tour-to-the-anime-world-stay-here-to-pick-the-most-appealing-alternative-from-the-bes/"><u>New Looking Forward to Complement Your Weekend Evenings with a Fantasy Tour to the Anime World? Stay Here to Pick the Most Appealing Alternative From the Best and Timeless Anime Creations for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-what-anime-character-are-you-look-like-for-2024/"><u>New What Anime Character Are You Look Like for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-user-profile-services-failure-and-sign-in-issues-in-windows-10-and-11/"><u>Resolving User Profile Services Failure and Sign-In Issues in Windows 10 & 11</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-put-a-background-on-a-green-screen/"><u>Updated 2024 Approved How to Put a Background on A Green Screen</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-do-you-want-to-replace-the-sky-in-your-media-read-the-article-to-learn-how-to-change-the-sky-app-on-your-mobile-phone-for-2024/"><u>Updated Do You Want to Replace the Sky in Your Media? Read the Article to Learn How to Change the Sky App on Your Mobile Phone for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-make-fortnite-thumbnail-with-motion-blur/"><u>Updated In 2024, How to Make Fortnite Thumbnail with Motion Blur?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-harvest-hangouts-the-most-friendly-farm-gaming-experiences/"><u>[New] 2024 Approved Harvest Hangouts The Most Friendly Farm Gaming Experiences</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-chart-success-using-youtube-statistics-to-grow-engagement-for-2024/"><u>[New] Chart Success Using YouTube Statistics to Grow Engagement for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unleash-your-gameplays-social-impact-from-xbox-live-to-facebook-for-2024/"><u>[New] Unleash Your Gameplay's Social Impact From Xbox Live to Facebook for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-enhancing-viewers-staying-power-top-6-strategies-for-youtube-success/"><u>[Updated] Enhancing Viewers' Staying Power Top 6 Strategies for YouTube Success</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-fundamentals-of-copywriting-for-engaging-fb-campaigns/"><u>[Updated] In 2024, Fundamentals of Copywriting for Engaging FB Campaigns</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-top-luts-for-sony-hlg/"><u>2024 Approved Top LUTs for Sony HLG</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-vintage-film-effect-1920s-how-to-make/"><u>2024 Approved Vintage Film Effect 1920S - How to Make</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/backup-windows-server-2019-in-un-caffe-passaggi-essenziali-per-lutente-principiante/"><u>Backup Windows Server 2019 in Un Caffè: Passaggi Essenziali per L'Utente Principiante</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-downloading-youtube-videos-directly-onto-your-iphone-using-a-mac/"><u>Guide: Downloading YouTube Videos Directly Onto Your iPhone Using a Mac</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713950353021-if-you-want-to-prompt-your-ecommerce-business-in-facebook-then-using-facebook-video-ads-is-one-of-the-effective-methods-this-post-will-show-you-how-to-edit-/"><u>If You Want to Prompt Your eCommerce Business in Facebook, Then Using Facebook Video Ads Is One of the Effective Methods. This Post Will Show You How to Edit Videos for Facebook Advertisement for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-maximize-gameplay-efficiency-with-top-monitor-extensions/"><u>In 2024, Maximize Gameplay Efficiency With Top Monitor Extensions</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-select-and-use-the-best-braw-luts/"><u>New 2024 Approved How to Select and Use The Best BRAW LUTs</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-fade-audio-in-kinemaster/"><u>New In 2024, How To Fade Audio In Kinemaster</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-slow-down-a-video-on-iphone-and-android-the-easy-way/"><u>New In 2024, How to Slow Down a Video on iPhone and Android The Easy Way</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-the-power-of-music-in-videos-plusfilmora-editing-tricks/"><u>New The Power of Music in Videos (+Filmora Editing Tricks)</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/solution-for-qualcomm-atheros-enabling-bluetooth-driver-performance-in-windows-press-release/"><u>Solution for Qualcomm Atheros: Enabling Bluetooth Driver Performance in Windows Press Release</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/top-des-10-applications-de-conversion-video-sans-frais-sur-windows-10-selection-officielle-pour-lannee-2023/"><u>Top Des 10 Applications De Conversion Vidéo Sans Frais Sur Windows 10 - Sélection Officielle Pour L'année 2023</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-your-vision-the-best-360-livestimation-devices-for-2024/"><u>Unleash Your Vision The Best 360° Livestimation Devices for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-step-by-step-to-split-clips-in-vlc-for-2024/"><u>Updated Step by Step to Split Clips in VLC for 2024</u></a></li>
 </ul></div>
 
