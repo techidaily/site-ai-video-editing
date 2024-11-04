@@ -1,7 +1,7 @@
 ---
 title: New How To Split Videos in Premier Pro for 2024
-date: 2024-10-22T08:54:15.646Z
-updated: 2024-10-29T12:14:33.230Z
+date: 2024-11-02T03:09:35.486Z
+updated: 2024-11-03T18:33:43.405Z
 tags: 
   - ai
   - animation videos
@@ -22,10 +22,10 @@ Premiere Pro is the most popular video editing program for movies, television, a
 ## Part 1\. How to split a clip in premiere pro?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. The Razor tool
@@ -40,6 +40,13 @@ Step2Drag the clip onto the timeline if there is an existing sequence. If not, u
 
 ![new sequence from clip](https://images.wondershare.com/filmora/article-images/2022/08/how-to-split-in-premierpro-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3Choose the Razor tool from the panel next to the timeline to split the clip.
 
 Step4To split a video clip, click on the section you want to split.
@@ -47,10 +54,10 @@ Step4To split a video clip, click on the section you want to split.
 Step5Now that you have two segments from the same video file, you can edit them separately.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Current-Time Indicator
@@ -66,10 +73,10 @@ Step2Ensure that the video layer you want to split is highlighted on the timelin
 Step3Use the keyboard shortcuts Cmd+K or Ctrl+K to split the clip.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Source Panel
@@ -86,13 +93,6 @@ Step2Wherever you want the In and Out indicators to appear, press the **I** or *
 
 Step3Select Insert from the Source panel's tools once your marks are in place.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2\. How to split audio from video in premiere pro?
 
 <ins class="adsbygoogle"
@@ -104,21 +104,18 @@ Step3Select Insert from the Source panel's tools once your marks are in place.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-10-best-mobile-edits-youtube-shorts-clips-on-iosandroid/"><u>[New] 2024 Approved 10 Best Mobile Edits YouTube Shorts Clips on iOS/Android</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-boost-your-online-presence-by-mastering-video-editing-in-sony-vegas-for-2024/"><u>[New] Boost Your Online Presence by Mastering Video Editing in Sony Vegas for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/enhance-your-media-experience-mastering-hdr-videos-with-windows-for-2024/"><u>Enhance Your Media Experience Mastering HDR Videos with Windows for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-how-to-fix-easy-anti-cheat-not-loaded-in-new-world/"><u>Expert Advice: How to Fix 'Easy Anti-Cheat Not Loaded' In New World</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-branding-success-on-fb-through-immersive-cover-videos/"><u>In 2024, Branding Success on FB Through Immersive Cover Videos</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/inside-look-at-googles-smart-security-device-revolutionary-identity-verification-and-real-time-parcel-tracking/"><u>Inside Look At Google's Smart Security Device: Revolutionary Identity Verification And Real-Time Parcel Tracking</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-know-which-are-the-best-wondershare-filmora-luts-to-use-there-are-many-luts-that-you-can-download-each-with-a-different-ton/"><u>New 2024 Approved Do You Want to Know Which Are the Best Wondershare Filmora LUTs to Use? There Are Many LUTs that You Can Download, Each with a Different Tone and Style</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-make-stunning-glitch-effect-in-photoshop/"><u>New In 2024, How to Make Stunning Glitch Effect in Photoshop?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-using-vn-editor-to-add-luts-for-video-editing/"><u>New In 2024, Using VN Editor To Add Luts for Video Editing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/ultimate-how-to-on-adata-secure-wipe-methods-for-full-data-protection-and-easy-process/"><u>Ultimate How-To on ADATA Secure Wipe Methods for Full Data Protection & Easy Process</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-step-by-step-guide-to-storyboard/"><u>Updated 2024 Approved Step-by-Step Guide to Storyboard</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-stop-worrying-if-your-adobe-premiere-playback-slows-down-this-guide-will-show-you-the-best-solutions-to-resolve-this-issue-and-a-perfe/"><u>Updated 2024 Approved Stop Worrying if Your Adobe Premiere Playback Slows Down. This Guide Will Show You the Best Solutions to Resolve This Issue and a Perfect Alternative</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-want-to-use-luts-in-final-cut-pro-there-are-many-free-luts-for-fcpx-available-that-you-can-use-using-luts-you-can-create-professional/"><u>Updated In 2024, Do You Want to Use LUTs in Final Cut Pro? There Are Many Free LUTs for FCPX Available that You Can Use. Using LUTs, You Can Create Professional-Looking Content</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-overview-of-perfect-moody-luts-for-vn-editor-for-2024/"><u>Updated Overview of Perfect Moody LUTs for VN Editor for 2024</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/1726028578764-2024/"><u>フリーで強力なビデオ・音声コーデックパック 2024年選考</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-captivate-audiences-quickly-shortcuts-for-youtube-trailers-with-filmora/"><u>[New] In 2024, Captivate Audiences Quickly Shortcuts for YouTube Trailers with Filmora</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-audience-centric-strategies-for-top-facebook-listings/"><u>[Updated] 2024 Approved Audience-Centric Strategies for Top Facebook Listings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apples-latest-innovation-with-ios-14-a-brilliant-flashlight-feature-showcasing-why-it-stands-out/"><u>Apple’s Latest Innovation with iOS 14: A Brilliant Flashlight Feature Showcasing Why It Stands Out</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-s18e-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo S18e without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-resolve-unreal-device-issue-in-win-11/"><u>How to Resolve Unreal Device Issue in Win 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From Apple iPhone 13 mini?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-are-you-also-a-fan-of-the-slow-mo-guys-well-who-isnt-learn-how-you-can-create-compelling-slow-mo-videos-like-the-slow-mo-guys-here/"><u>New In 2024, Are You Also a Fan of the Slow Mo Guys? Well! Who Isnt? Learn How You Can Create Compelling Slow-Mo Videos Like the Slow Mo Guys Here</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-to-know-about-the-best-filmic-pro-luts-for-video-editing-this-article-provides-details-on-the-best-recommendations/"><u>New In 2024, Do You Want to Know About the Best Filmic Pro LUTs for Video Editing? This Article Provides Details on the Best Recommendations</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-xiaomi-redmi-k70-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Xiaomi Redmi K70 Location | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/ultimate-walkthrough-safeguarding-your-iphone-memories-by-backing-up-to-an-ssd-on-windows-or-macos-systems/"><u>Ultimate Walkthrough: Safeguarding Your iPhone Memories by Backing Up to an SSD on Windows or macOS Systems</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-top-10-anime-movies-of-all-time/"><u>Updated 2024 Approved Top 10 Anime Movies of All Time</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-use-kahoot-on-zoom/"><u>Updated In 2024, How to Use Kahoot! On Zoom</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-unleash-the-power-of-video-scopes-in-your-video-editing-projects-find-the-most-common-video-scopes-and-how-to-use-them-on-video-editing-soft/"><u>Updated In 2024, Unleash the Power of Video Scopes in Your Video Editing Projects. Find the Most Common Video Scopes and How to Use Them on Video Editing Software</u></a></li>
 </ul></div>
 

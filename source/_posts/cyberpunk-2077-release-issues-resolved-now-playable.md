@@ -1,7 +1,7 @@
 ---
 title: "Cyberpunk 2077 Release Issues Resolved: Now Playable"
-date: 2024-10-25T23:51:24.700Z
-updated: 2024-10-28T22:25:13.186Z
+date: 2024-11-01T02:38:06.168Z
+updated: 2024-11-04T00:06:03.190Z
 tags:
   - win11
   - win10
@@ -26,13 +26,6 @@ These days, players have reported the issue of black screen when loading a save 
 3. **[Update Windows 10 to version 20H2](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Verify integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Allow your game through firewall
 
  The Windows Firewall is designed to help keep unauthorized users from accessing files and resources on your computer. But there are circumstances that it fails to trust your applications. In this case, you need to manually add your game to the list of allowing apps through Windows Defender Firewall. Here’s how you can do this:
@@ -53,13 +46,6 @@ These days, players have reported the issue of black screen when loading a save 
   
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/click-Browse.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Navigate to the drive on which you installed the game. Then open the folder **Program Files > Steam > steamapps > common > Cyberpunk 2077> bin > x64** . In the**x64** folder, select the**Cyberpunk 2077 Application** and then click**Open** .
 
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/allow-the-game-through-windows-firewall.jpg)
@@ -72,16 +58,16 @@ These days, players have reported the issue of black screen when loading a save 
 
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/Cyberpunk-2077-is-ticked-for-private-and-public.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once done, simply click**OK** to save your changes. Then you can play your game to check if it does the trick. If the issue persists, proceed to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -100,6 +86,13 @@ These days, players have reported the issue of black screen when loading a save 
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it. For NVIDIA graphics card users, you can also use the Geforce Experience application to update your driver.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 2: Automatically update your graphics driver (recommended)
 
  If you are not familiar with computer hardware, and if you don’t have the time to update your graphics driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It’s a useful tool that automatically recognizes your system and finds the correct drivers for it. You don’t need to know exactly what system your computer is running or risk downloading and installing the wrong driver.
@@ -112,23 +105,30 @@ Here’s how it works:
 
 ![update drivers automatically with Driver Easy to fix Beyond Light FPS drops](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and load your game to check if the issue has been resolved.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Update Windows 10 to version 20H2
 
@@ -142,6 +142,13 @@ Here’s how it works:
   
 ![how to check your windows version](https://images.drivereasy.com/wp-content/uploads/2020/12/check-your-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) From the left panel, select**About** . Then scroll down to the**Windows specifications** section. From there, you’ll know your Windows version.  
   
 ![how to check your windows version](https://images.drivereasy.com/wp-content/uploads/2020/12/check-your-windows-version.jpg)
@@ -150,16 +157,16 @@ Here’s how it works:
 
 ![download Windows updates assistant to update windows](https://images.drivereasy.com/wp-content/uploads/2020/12/forcily-update-windows-10-to-version-20H2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When the download is finished, double-click on the installation file and install it. Once done, the application should be opening. Simply click**Update Now** and then follow the on-screen instructions to finish the process. This may take some minutes so you just need to wait patiently. Once done, you’ll get the latest version, which is 20H2.  
   
 ![use windows 10 updates assistant to update to version 20H2](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-update-assistant-update-now.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After you’ve updated your Windows to version 20H2, your issue should be resolved.
 
@@ -179,22 +186,22 @@ Here’s how it works:
   
 ![verify integrity of game files Cyberpunk 2077](https://images.drivereasy.com/wp-content/uploads/2020/12/Cyberpunk-Properties-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the Properties window, select the tab**LOCAL FILES** . Then click**VERIFY INTEGRITY OF GAME FILES…** . This may take some minutes. Just wait for the process to complete.  
   
 ![verify integrity of game files Cyberpunk 2077](https://images.drivereasy.com/wp-content/uploads/2020/12/verify-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### GOG GALAXY 2.0
@@ -204,13 +211,6 @@ Here’s how it works:
  2) Click on the settings icon next to the Play button. Then from the menu, select**Manage installation > Verify / Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/GOG-GALAXY.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Epic Games Launcher
 
@@ -245,18 +245,19 @@ Here’s how it works:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-enhancing-tweets-adding-media-files/"><u>[New] Enhancing Tweets Adding Media Files</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ogg-wav4/"><u>最適なフリー音楽ファイルコンバーターランキング - OGG WAV変更専用ソフトウェア4推薦</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-edge-intelligence-insights-into-its-operational-framework/"><u>Demystifying Edge Intelligence: Insights Into Its Operational Framework</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/detailed-guide-to-rotate-videos-in-blender-for-2024/"><u>Detailed Guide to Rotate Videos in Blender for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-10-leading-substitutes-for-chatgpt-in-todays-market/"><u>Discover the 10 Leading Substitutes for ChatGPT in Today's Market</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/how-to-concatenate-videos-using-ffmpeg-for-2024/"><u>How to Concatenate Videos Using FFmpeg for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-tackling-facebook-message-video-not-sending-issue-androidiphone/"><u>In 2024, Tackling Facebook Message Video Not Sending Issue (Android/iPhone)</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-oneplus-open-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 OnePlus Open Android SIM Unlock APK</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-unveiling-the-foundations-of-virtual-storytelling/"><u>In 2024, Unveiling the Foundations of Virtual Storytelling</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-master-premiere-pro-custom-sequence-presets/"><u>New Master Premiere Pro Custom Sequence Presets</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-path-to-clear-visible-notes-obsidian/"><u>The Ultimate Path to Clear, Visible Notes: Obsidian</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-ultimate-source-download-and-install-broadcoms-bluetooth-drivers-for-win11-win8-and-win7-systems/"><u>The Ultimate Source: Download & Install Broadcom's Bluetooth Drivers for Win11, Win8 & Win7 Systems</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-make-a-slow-motion-video-complete-guide/"><u>Updated In 2024, How to Make a Slow Motion Video Complete Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/reening-the-grid-paving-the-way-for-sustainable-metropolises-for-2024/"><u>[New] Greening the Grid Paving the Way for Sustainable Metropolises for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-eye-opening-list-of-the-top-12-yt-gamers-intros-freepaid-sessions/"><u>[Updated] Eye-Opening List of the Top 12 YT Gamers' Intros (Free/Paid Sessions)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-essential-win11-pro-tips-and-hacks/"><u>[Updated] In 2024, Essential Win11 Pro Tips & Hacks</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/boosting-efficiency-in-kreditorenbuchhaltung-via-shared-services-and-automation-by-madsack-sap-dank-abbyy-and-beck-it/"><u>Boosting Efficiency in Kreditorenbuchhaltung via Shared Services & Automation by MADSACK, SAP Dank ABBYY, and Beck IT</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/decoding-complex-hardware-for-beginners-a-look-inside-with-toms-experience/"><u>Decoding Complex Hardware for Beginners: A Look Inside With Tom's Experience</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1722996356181-easy-steps-to-fix-windows-11-or-10-spatial-audio-not-working-correctly/"><u>Easy Steps to Fix Windows 11 or 10 Spatial Audio Not Working Correctly.</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/economical-ibuypower-preassembled-esports-pc-for-competitive-gaming-on-a-budget/"><u>Economical iBUYPOWER Preassembled Esports PC for Competitive Gaming on a Budget</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/exploring-the-capabilities-of-the-heavy-but-powerful-radpower-radcity-nplus/"><u>Exploring the Capabilities of the Heavy but Powerful RadPower RadCity N+</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-demystifying-absence-no-recommended-video-content-on-facebook/"><u>In 2024, Demystifying Absence No Recommended Video Content on Facebook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-pinnacle-strategies-for-persuasive-client-centered-videography/"><u>In 2024, The Pinnacle Strategies for Persuasive Client-Centered Videography</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-depth-gadget-evaluations-by-team-tom/"><u>In-Depth Gadget Evaluations by Team Tom</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-world-of-social-media-facebook-twitter-instagram-and-youtube-unveiled/"><u>Navigating the World of Social Media - Facebook, Twitter, Instagram & YouTube Unveiled</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-6-mac-screen-capture-tools-expert-picks/"><u>Top 6 Mac Screen Capture Tools - Expert Picks</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/top-notch-wireless-technology-tested-netgears-nighthawk-c7000-reviewed-for-maximum-connectivity/"><u>Top-Notch Wireless Technology Tested - Netgear's Nighthawk C7000 Reviewed for Maximum Connectivity</u></a></li>
 </ul></div>
 

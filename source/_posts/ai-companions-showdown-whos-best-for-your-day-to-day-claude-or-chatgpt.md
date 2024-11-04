@@ -1,7 +1,7 @@
 ---
 title: "AI Companions Showdown: Who's Best for Your Day-to-Day – Claude or ChatGPT?"
-date: 2024-10-22T03:48:19.769Z
-updated: 2024-10-28T20:41:54.060Z
+date: 2024-11-03T02:19:19.469Z
+updated: 2024-11-03T20:58:38.072Z
 tags:
   - chatgpt
   - open-ai
@@ -49,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
 
  Claude AI clearly got this one. We tried a few more tricky problems, and both chatbots had a fair share of successes and failures in dealing with them. Considering the outcome we observed, it might be fair to say that while ChatGPT has an edge, both chatbots are not too far apart in common sense and logical reasoning abilities.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT vs. Claude AI: Math Skills
 
  Even if you never plan to use ChatGPT or Claude AI to solve your Algebra homework, their mathematical abilities have far-reaching implications. For AI chatbots, math is the key to understanding real-world logic, identifying flawed thinking, and admitting mistakes.
@@ -65,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
 ![Claude AI solves maths problem on productivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-maths-problem-on-productivity.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ChatGPT also cracked the problem as well.
@@ -80,10 +73,10 @@ ChatGPT also cracked the problem as well.
 ![ChatGPT solves a math problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-a-math-problem.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Claude AI failed at the first attempt, but when we prompted it to solve the problem step by step (which forces it to think through every step of its logic) it was able to crack it.
@@ -91,13 +84,6 @@ ChatGPT also cracked the problem as well.
 ![Claude AI solves a math problem step-by-step](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-a-math-problem-step-by-step.jpg)
 
  We tried a few more math problems. While both chatbots got it right on the first try in some cases, in several instances, Claude AI needed a second or third attempt to provide the right response. In terms of math skills, we'll give the crown to ChatGPT.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT vs. Claude AI: Creativity
 
@@ -127,6 +113,13 @@ ChatGPT also cracked the problem as well.
 
 ![to-do list app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/to-do-list-app-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Moving on to Claude AI, the chatbot wrote clearly intelligible code. The structure and logic all seemed fine. Unfortunately, despite repeated attempts, Claude AI kept missing some critical logic to make the code actually run on a browser. It's a fail on this one.
 
  After Claude AI failed the last test, we tried a different kind of coding task, one that was more about analyzing code and less about writing new code. We uploaded five PHP files that represent the complete backend for a website and asked both Claude AI and ChatGPT where we would need to edit in all the uploaded files to ensure we get a mail once a new user registers on the site.
@@ -138,6 +131,13 @@ ChatGPT also cracked the problem as well.
  Of course, this was not an isolated case, we repeated it with several other code files, but ChatGPT stumbled and stalled on the majority of cases while Claude AI kept delivering impressive results. In terms of coding skills, the winner is not entirely straightforward.
 
  ChatGPT is clearly significantly better at writing new code and can manage complex code with impressive proficiency. However, Claude AI is significantly better at analyzing large code bases. So, if you're looking to write code for some new idea you have, ChatGPT is the tool to turn to. If you want to analyze or make sense of a code base with thousands of lines across several files, then we would definitely recommend Claude AI.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Claude AI Is a Potent Competitor on the Block
 
@@ -158,17 +158,19 @@ ChatGPT also cracked the problem as well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-discovering-the-worlds-most-popular-shorter-videos-free/"><u>[Updated] In 2024, Discovering the World's Most Popular Shorter Videos (FREE)</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-6s-plus-location-by-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 6s Plus Location by Number | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-to-use-your-itunes-gift-card-on-ios-devices-and-mac-computers/"><u>How To Use Your iTunes Gift Card On iOS Devices And Mac Computers</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-dazzle-with-vibrant-android-video-quality-enhancement/"><u>In 2024, Dazzle With Vibrant Android Video Quality Enhancement</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-vivo-s18-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Vivo S18 to iPad | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-pro-level-insights-into-the-world-of-windows-11/"><u>In 2024, Pro-Level Insights Into the World of Windows 11</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-creating-flawless-slow-motion-videos-is-every-content-creators-dream-learn-about-davinci-resolve-slow-motion-video-creation-amongst-other-/"><u>New 2024 Approved Creating Flawless Slow-Motion Videos Is Every Content Creators Dream. Learn About DaVinci Resolve Slow-Motion Video Creation, Amongst Other Tools</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-making-slow-motion-videos-in-premiere-pro-a-review-on-the-best-method/"><u>New 2024 Approved Making Slow Motion Videos in Premiere Pro A Review on The Best Method</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-top-6-best-alternatives-to-clownfish-voice-changer/"><u>New 2024 Approved Top 6 Best Alternatives to Clownfish Voice Changer</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-the-glitch-effect-shows-errors-and-flaws-in-the-image-or-a-video-the-write-up-presents-the-complete-procedure-of-adding-premiere-pros-glitch-eff/"><u>New In 2024, The Glitch Effect Shows Errors and Flaws in the Image or a Video. The Write-Up Presents the Complete Procedure of Adding Premiere Pros Glitch Effect and Introduces Eight Free Glitch Effects</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/premium-video-capturing-for-digital-screens/"><u>Premium Video Capturing for Digital Screens</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-top-6-best-alternatives-to-clownfish-voice-changer/"><u>Updated In 2024, Top 6 Best Alternatives to Clownfish Voice Changer</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-leading-edge-selecting-9-superior-online-microphone-recorders/"><u>[New] Leading Edge Selecting 9 Superior Online Microphone Recorders</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-disrupted-beats-best-mobile-music-distortors/"><u>[Updated] 2024 Approved Disrupted Beats Best Mobile Music Distortors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ppm-bmp-movavi/"><u>免費線上 PPM 轉換 BMP 的簡便方法 - Movavi轉換器指南</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-v27-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo V27 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-inconspicuous-footprint-of-social-media-engagements/"><u>In 2024, The Inconspicuous Footprint of Social Media Engagements</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-printer-laptop-connections-your-comprehensive-guide-to-wireless-and-direct-cable-methods/"><u>Mastering Printer-Laptop Connections: Your Comprehensive Guide to Wireless and Direct Cable Methods</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-the-way-to-quick-and-efficient-editing-keyboard-shortcuts-in-filmora/"><u>New 2024 Approved The Way to Quick and Efficient Editing | Keyboard Shortcuts in Filmora</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-applications-and-software-take-up-your-devices-storage-to-create-slow-mo-explore-this-piece-to-learn-about-some-slow-motion-video-online-makers./"><u>New In 2024, Applications and Software Take up Your Devices Storage to Create Slow-Mo. Explore This Piece to Learn About some Slow-Motion Video Online Makers</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-are-you-an-apple-user-interested-in-adding-a-slow-mo-to-their-videos-this-article-features-an-exceptional-procedure-for-creating-slow-mo-in-imov/"><u>New In 2024, Are You an Apple User Interested in Adding a Slow-Mo to Their Videos? This Article Features an Exceptional Procedure for Creating Slow-Mo in iMovie</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-looking-forward-to-complement-your-weekend-evenings-with-a-fantasy-tour-to-the-anime-world-stay-here-to-pick-the-most-appealing-alternative-from/"><u>New In 2024, Looking Forward to Complement Your Weekend Evenings with a Fantasy Tour to the Anime World? Stay Here to Pick the Most Appealing Alternative From the Best and Timeless Anime Creations</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-offering-the-best-understanding-of-performing-imovie-slow-motion-video-for-2024/"><u>New Offering The Best Understanding of Performing iMovie Slow Motion Video for 2024</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-repair-corrupt-pdf-v17-file-by-stellar-guide/"><u>Solutions to Repair Corrupt PDF v1.7 File</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-12-pro-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 12 Pro With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-making-slow-motion-videos-in-premiere-pro-a-review-on-the-best-method/"><u>Updated 2024 Approved Making Slow Motion Videos in Premiere Pro A Review on The Best Method</u></a></li>
 </ul></div>
 

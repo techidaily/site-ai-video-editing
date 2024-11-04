@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Required: Inadequate CPU Power for Optimal Vanguard Performance"
-date: 2024-10-21T21:01:06.344Z
-updated: 2024-10-29T00:00:43.497Z
+date: 2024-10-30T19:46:15.828Z
+updated: 2024-11-04T03:02:38.415Z
 tags:
   - win11
   - win10
@@ -31,19 +31,6 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
 4. [**Set graphics preference to High performance**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Run Warzone in Windowed mode](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your graphics driver
 
  In most cases, Warzone won’t work properly with your GPU when you’re using**a broken or outdated graphics driver** . So first you need to make sure you have the latest correct graphics driver. The newest driver usually helps improve compatibility and boost in-game performance.
@@ -59,18 +46,18 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-pro-3070-update-all.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your graphics driver, restart your PC and test the gameplay in Warzone.
 
  If the latest GPU driver doesn’t give you luck, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Install all Windows updates
 
@@ -83,26 +70,26 @@ Here’s how you can check for updates manually:
 2. Scroll down and select**Update & Security** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -111,16 +98,16 @@ Once done, restart your PC and see if Warzone is using your GPU.
  If updating your system doesn’t help, you can take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Change settings in your graphics control panel
@@ -134,14 +121,21 @@ Once done, restart your PC and see if Warzone is using your GPU.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-1.jpg)
 3. In the left pane, select**Set PhysX Configuration** . Under**Select a PhysX processor** , click to expand the drop down list and**select your GPU** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-2.jpg)
 4. Now start your game and check if it’s running properly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this trick doesn’t work for you, simply move on to the next one.
@@ -164,21 +158,21 @@ Once done, restart your PC and see if Warzone is using your GPU.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-force-gpu-1.jpg)
 5. In the pop-up window, select**High performance** and click**OK** to apply the settings.  
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-force-gpu-2.jpg)
 6. You can do the same for**Modern Warfare Launcher.exe** . Once done, start Warzone and compare the GPU utilization with the gameplay.
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this setting doesn’t help, take a look at the next solution below.
 
@@ -210,18 +204,19 @@ Once done, restart your PC and see if Warzone is using your GPU.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-digital-duel-diaries-record-galaxy-gamer-stories-for-2024/"><u>[New] Digital Duel Diaries Record Galaxy Gamer Stories for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-developing-dynamic-instagram-feed-slides/"><u>[New] In 2024, Developing Dynamic Instagram Feed Slides</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-become-a-tiktok-phenomenon-with-self-cloning-insights-for-2024/"><u>[Updated] Become a TikTok Phenomenon with Self-Cloning Insights for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-fast-forwards-and-flashbacks-in-creative-tiktoks/"><u>[Updated] In 2024, Fast Forwards and Flashbacks in Creative TikToks</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-nightlight-nuggets-essential-dos-and-donts-of-nocturnal-imaging-for-2024/"><u>[Updated] Nightlight Nuggets Essential Do's & Don'ts of Nocturnal Imaging for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-start-chatting-in-real-time-learn-live-on-instagram-for-2024/"><u>[Updated] Start Chatting in Real-Time Learn Live on Instagram for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-effortlessly-add-realistic-motion-blur-in-ps/"><u>In 2024, How to Effortlessly Add Realistic Motion Blur in PS</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-the-best-peter-mckinnon-luts-recommendation/"><u>New 2024 Approved The Best Peter McKinnon LUTs Recommendation</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-create-quiz-videos-detailed-guide-for-2024/"><u>New How To Create Quiz Videos Detailed Guide for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/premier-eco-cinema-tech-usage-and-mastery-for-2024/"><u>Premier Eco-Cinema Tech Usage and Mastery for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-want-to-use-a-professional-tool-to-add-subtitles-read-this-article-to-discover-the-best-reliable-tool-to-create-subtitles-in-yo/"><u>Updated 2024 Approved Do You Want to Use a Professional Tool to Add Subtitles? Read This Article to Discover the Best Reliable Tool to Create Subtitles in Your Desired Manner</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-creative-ways-to-add-green-screen-effects-in-photoshop/"><u>Updated Creative Ways to Add Green Screen Effects In Photoshop</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-professionals-method-for-removing-unwanted-sounds-from-media-projects-using-premiere-pro/"><u>Updated In 2024, The Professionals Method for Removing Unwanted Sounds From Media Projects Using Premiere Pro</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-channel-image-makeovers-on-the-house/"><u>[Updated] Channel Image Makeovers on the House</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-x-recorder-pc-version-capture-and-save-audio-for-2024/"><u>[Updated] X-Recorder Pc Version Capture & Save Audio for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-infinix-hot-30-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Infinix Hot 30 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-12-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 12 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-apple-iphone-12-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from Apple iPhone 12 Pro Max without Password?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/navegar-faciles-las-hora-y-segundo-en-espanol/"><u>Navegar Fáciles Las Hora Y Segundo en Español</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-adobe-premiere-pro-rec-709-luts-finding-the-best-choices/"><u>New 2024 Approved Adobe Premiere Pro Rec 709 LUTs Finding The Best Choices</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/proven-methods-for-sensational-instagram-puzzle-creation/"><u>Proven Methods for Sensational Instagram Puzzle Creation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-correcting-ftd2xxdll-not-detected-problems/"><u>Troubleshooting Guide: Correcting Ftd2xx.dll Not Detected Problems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-8-best-sites-to-get-glitch-transition-for-premiere-pro/"><u>Updated 2024 Approved 8 Best Sites to Get Glitch Transition for Premiere Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-blur-background-in-adobe-premiere-pro-detailed-guide/"><u>Updated How To Blur Background in Adobe Premiere Pro Detailed Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-create-quiz-videos-detailed-guide/"><u>Updated How To Create Quiz Videos Detailed Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-also-a-fan-of-the-slow-mo-guys-well-who-isnt-learn-how-you-can-create-compelling-slow-mo-videos-like-the-slow-mo-guys-here/"><u>Updated In 2024, Are You Also a Fan of the Slow Mo Guys? Well! Who Isnt? Learn How You Can Create Compelling Slow-Mo Videos Like the Slow Mo Guys Here</u></a></li>
 </ul></div>
 

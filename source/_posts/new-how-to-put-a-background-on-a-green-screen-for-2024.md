@@ -1,7 +1,7 @@
 ---
 title: New How to Put a Background on A Green Screen for 2024
-date: 2024-10-21T17:36:11.819Z
-updated: 2024-10-29T05:07:21.251Z
+date: 2024-10-29T20:31:22.026Z
+updated: 2024-11-03T22:38:30.134Z
 tags: 
   - ai
   - animation videos
@@ -43,13 +43,6 @@ Step2 Import your green screen video as well as the background video or photo un
 
 ![import green screen video](https://images.wondershare.com/filmora/guide/filmora-chroma-key-remove-selected-color.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Double-click on the video clip that you have dropped on Timeline. Go to Video tab and turn on Chroma Key option.
 
 ![double click on the video clip](https://images.wondershare.com/filmora/guide/green-screen-overlay-video-chroma-key-settings.jpg)
@@ -61,10 +54,10 @@ Step5 Finally, play the video and if you are satisfied, click on Export button t
 ![click on export button](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Way 2\. Use iMovie
@@ -78,6 +71,13 @@ Step2 Import your green screen video as well as replacement background video or 
 Step3 Drag and drop them into Timeline and place the green screen video above the replacement background video/photo. Make sure that the duration of both videos is the same.
 
 ![drag green screen video imovie](https://images.wondershare.com/filmora/article-images/2022/07/drag-green-screen-video-imovie.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4 Click on the green screen video and click on Video Overlay Settings and select Green/Blue Screen option from the drop-down menu.
 
@@ -102,10 +102,10 @@ Step3 Go to Effects tab and click on Effects> Keying> Ultra Key.
 ![ultra key premiere pro](https://images.wondershare.com/filmora/article-images/2022/07/ultra-key-premiere-pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step4 Click on eyedropper tool under Ultra Key and use the tool to select the green screen background color.
@@ -121,10 +121,10 @@ Step6 Go to Matte Generation and adjust Transparency using the slider available.
 ![matte generation premiere](https://images.wondershare.com/filmora/article-images/2022/07/matte-generation-premiere.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step7 You will see the green screen get replaced by the video or photo you have placed below the green screen video in Timeline.
@@ -132,10 +132,10 @@ Step7 You will see the green screen get replaced by the video or photo you have 
 ![edit green screen video premiere](https://images.wondershare.com/filmora/article-images/2022/07/edit-green-screen-video-premiere.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. How to change the background of green screen image?
@@ -148,26 +148,26 @@ Step2 Copy the replacement image and paste it on the green screen image. Make su
 
 ![layer green screen photoshop](https://images.wondershare.com/filmora/article-images/2022/07/layer-green-screen-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Now select green screen image layer and go to Select menu and click on Color Range. You will get an eyedropper tool. Press Shift key and click the areas where green screen background is there so that you can remove it. Click on OK button when done.
 
 ![color range photoshop](https://images.wondershare.com/filmora/article-images/2022/07/color-range-photoshop.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4 Go to Select menu and click on Inverse option. Go to Select menu and click on Refine Edge option. This is to smoothen the edges so that no green screen is visible. Click on Ok button.
 
 ![refine edge photoshop](https://images.wondershare.com/filmora/article-images/2022/07/refine-edge-photoshop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step5 Go to Select menu and click on Inverse option. Press Delete key and the green screen background will disappear and the replacement image will appear in the background.
@@ -189,18 +189,22 @@ We have illustrated how you can add a background to your green screen video on y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-navigate-the-best-free-photography-enhancers-worldwide-for-2024/"><u>[New] Navigate the Best Free Photography Enhancers Worldwide for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-exclusive-selection-of-high-caliber-free-luts/"><u>[Updated] In 2024, Exclusive Selection of High-Caliber Free LUTs</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-secret-glance-at-fb-snapshots/"><u>2024 Approved Secret Glance at FB Snapshots</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/comparing-audio-formats-understanding-the-key-differences-between-mp3-and-mp4/"><u>Comparing Audio Formats: Understanding the Key Differences Between MP3 and MP4</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-supreme-cyber-seminar-sorter/"><u>In 2024, Supreme Cyber Seminar Sorter</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-stunning-glitch-effect-in-photoshop-for-2024/"><u>New How to Make Stunning Glitch Effect in Photoshop for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-rusts-display-flaw-solutions-and-tips/"><u>Overcoming Rust's Display Flaw - Solutions and Tips</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/software-tutorial/"><u>Software Tutorial</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/soundless-pc-woes-reestablish-audio-functionality-post-windows-10-upgrade/"><u>Soundless PC Woes? Reestablish Audio Functionality Post-Windows 10 Upgrade</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-want-to-know-about-phone-aspect-ratio-vertical-trying-to-learn-about-iphone-vertical-video-dimensions-read-this-article-to-get-/"><u>Updated 2024 Approved Do You Want to Know About Phone Aspect Ratio Vertical? Trying to Learn About iPhone Vertical Video Dimensions? Read This Article to Get All Your Answers on Vertical Phone Aspect Ratio Definition, Types and Tips</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-overview-of-perfect-moody-luts-for-vn-editor/"><u>Updated 2024 Approved Overview of Perfect Moody LUTs for VN Editor</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-ways-to-merge-videos-in-handbrake-expectation-vs-reality/"><u>Updated 2024 Approved Ways to Merge Videos in HandBrake? Expectation Vs. Reality</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-offering-the-best-understanding-of-performing-imovie-slow-motion-video/"><u>Updated In 2024, Offering The Best Understanding of Performing iMovie Slow Motion Video</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-iconic-acting-peek-vimeo/"><u>[New] 2024 Approved Iconic Acting Peek - Vimeo</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-the-path-to-digital-riches-on-facebook/"><u>[New] 2024 Approved The Path to Digital Riches on Facebook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-instant-reddit-history-retrieval-for-deleted-threads/"><u>[Updated] 2024 Approved Instant Reddit History Retrieval for Deleted Threads</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-advanced-subtitle-tools-navigate-through-the-best-10-web-edits/"><u>2024 Approved Advanced Subtitle Tools - Navigate Through the Best 10 Web Edits</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-construct-chuckles-adobe-meme-creation/"><u>2024 Approved Construct Chuckles Adobe Meme Creation</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/explore-more-than-94-customizable-ui-frameworks-from-creative-tims-libraries/"><u>Explore More than 94 Customizable UI Frameworks From Creative Tim's Libraries</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-hack-finding-the-epic-games-on-apple-arcade/"><u>Gamer's Hack: Finding the Epic Games on Apple Arcade</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-13-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-quintessential-quest-for-quality-storytellers-top-8-institutions/"><u>In 2024, The Quintessential Quest for Quality Storytellers – Top 8 Institutions</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-also-use-android-to-create-and-edit-videos-read-about-the-efectum-video-effects-editor-which-is-available-in-your-app-stores-for-se/"><u>New 2024 Approved Do You Also Use Android to Create and Edit Videos? Read About the Efectum Video Effects Editor, Which Is Available in Your App Stores for Seamless Editing</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713942930825-new-imovie-review-is-it-the-best-video-editor-for-mac-users/"><u>New IMovie Review – Is It The Best Video Editor for Mac Users</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-making-slow-motion-videos-in-premiere-pro-a-review-on-the-best-method-for-2024/"><u>New Making Slow Motion Videos in Premiere Pro A Review on The Best Method for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713966039322-new-wondering-how-to-edit-a-video-to-slow-motion-on-iphone-and-android-devices-find-out-how-to-use-wondershare-filmora-to-create-and-edit-slo-mo-videos-in-a/"><u>New Wondering How to Edit a Video to Slow Motion on iPhone and Android Devices? Find Out How to Use Wondershare Filmora to Create and Edit Slo Mo Videos in a Few Clicks for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-zoom-in-and-out-on-mac-for-2024/"><u>Updated How to Zoom In and Out on Mac for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-create-eye-catching-slow-motion-videos-to-set-your-own-trend-for-this-purpose-read-this-article-to-find-and-learn-to-use-capcuts-new-slow-mo/"><u>Updated In 2024, Create Eye-Catching Slow-Motion Videos to Set Your Own Trend. For This Purpose, Read This Article to Find and Learn to Use CapCuts New Slow-Motion Templates</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-what-is-the-best-voice-changer-for-whatsapp-discover-the-seven-7-best-voice-changers-for-whatsapp-here-in-this-post/"><u>Updated In 2024, What Is the Best Voice Changer for WhatsApp? Discover the Seven (7) Best Voice Changers for WhatsApp Here in This Post</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713965288071-updated-tiktok-aspect-ratio-is-a-crucial-element-to-succeeding-in-the-tiktok-algorithm-here-are-some-suggestions-to-improve-video-quality-and-land-on-the-fo/"><u>Updated Tiktok Aspect Ratio Is a Crucial Element to Succeeding in the Tiktok Algorithm. Here Are some Suggestions to Improve Video Quality and Land on the for You Page for 2024</u></a></li>
 </ul></div>
 

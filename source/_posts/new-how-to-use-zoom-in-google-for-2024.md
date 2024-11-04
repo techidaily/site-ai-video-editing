@@ -1,7 +1,7 @@
 ---
 title: New How to Use Zoom in Google for 2024
-date: 2024-10-22T08:32:15.043Z
-updated: 2024-10-29T13:35:43.984Z
+date: 2024-10-30T17:51:23.697Z
+updated: 2024-11-03T21:33:16.852Z
 tags: 
   - ai
   - animation videos
@@ -53,6 +53,13 @@ You can type "Page Zoom" in the search box. You can even click on the appearance
 
 ![how to use zoom in google](https://images.wondershare.com/filmora/article-images/2022/07/set-page-zoom-level.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Use the Zoom Control on Google Docs
 
 Step1Open the document.
@@ -74,10 +81,16 @@ Step1Sign in to Google Drive and open your documents where you want to zoom in o
 Step2Click or Tap on the zoom button in the toolbar above the document and then choose the predefined zoom levels, or you can manually enter the preferred zoom level in the space.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Use the zoom controller in Google sheets with Built-in Functionality?
@@ -90,6 +103,13 @@ Step2Choose the level you wish. You can choose from the existing one or manually
 
 Step3You can even veg the same options while you click File Tab and linger the cursor on zoom options.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Use the zoom controller manually in Google Sheets by using the browser?
 
 You can even change the zoom level by changing the zoom value manually in the browser. Here are some steps for changing the zoom level on the Google sheets in the chrome browser:
@@ -100,23 +120,9 @@ Step2In options, you can change the zoom level by tapping on the minus or plus s
 
 Step3You can even find a similar option to zoom in on other browsers.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. How to use the Zoom controller in Mobile
 
 When you are using an iOS or Android device, you can pinch the screen to zoom in and slide two fingers apart to zoom out.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. How to make Google earth zoom-in video
 
@@ -134,10 +140,10 @@ Do you also want to make a fantastic **Google earth zoom-in video?** Then let's 
 10. After the video is done, you can click on "Stop Recording."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -157,22 +163,20 @@ Previously there were no such options in Google sheet to zoom or out. But, now G
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-chill-challenge-highlighting-the-speed-and-skill-of-winter-olympics-x-c-skiers/"><u>[New] Chill Challenge Highlighting the Speed and Skill of Winter Olympics X-C Skiers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-mastering-videographic-success-stories-for-client-praise/"><u>[New] Mastering Videographic Success Stories for Client Praise</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-latest-android-selection-ranked-top-10-apps-for-saving-facebook-videos/"><u>[Updated] 2024 Approved Latest Android Selection Ranked Top 10 Apps for Saving Facebook Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-how-to-buy-youtube-views-everything-you-need-to-know/"><u>[Updated] How to Buy YouTube Views - Everything You Need To Know</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-tongue-to-type-tools-a-guide-to-the-best-speech-to-text-software/"><u>2024 Approved Tongue-to-Type Tools A Guide to the Best Speech-to-Text Software</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-engagement-with-creative-video-titling-and-tagging-techniques/"><u>Boost Engagement with Creative Video Titling and Tagging Techniques</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/guide-to-synchronizing-your-audio-and-videos-properly-in-2024/"><u>Guide to Synchronizing Your Audio And Videos Properly, In 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-of-your-kotion-g2000-microphones/"><u>How to Restore Functionality of Your Kotion G2000 Microphones</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-applying-the-effect-of-camera-shake-in-video-creation/"><u>In 2024, Applying the Effect of Camera Shake in Video Creation</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-infinix-smart-8-hd-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Infinix Smart 8 HD Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/the-power-of-music-in-videos-plusfilmora-editing-tricks-for-2024/"><u>The Power of Music in Videos (+Filmora Editing Tricks) for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-make-tutorial-video-with-filmora/"><u>Updated 2024 Approved How to Make Tutorial Video with Filmora</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-to-help-you-perform-this-action-in-this-article-we-list-the-steps-you-will-need-for-cropping-into-video-clips-with-powerdirector-as-an/"><u>Updated 2024 Approved To Help You Perform This Action, in This Article, We List the Steps You Will Need for Cropping Into Video Clips with PowerDirector. As an Added Bonus, We Have Also Included the Method to Perform the Same Actions in WonderShare Filmora</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-add-font-effects-to-videos-for-2024/"><u>Updated How to Add Font Effects to Videos for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-clone-yourself-in-videos-with-filmora-for-2024/"><u>Updated How to Clone Yourself in Videos with Filmora for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-working-on-editing-a-video-and-youd-like-to-add-text-to-it-learn-the-various-ways-that-you-can-add-text-to-a-video/"><u>Updated In 2024, Are You Working on Editing a Video and Youd Like to Add Text to It? Learn the Various Ways that You Can Add Text to a Video</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-honorable-highlights-elite-endorsements-for-snapping-alert-songs/"><u>[New] 2024 Approved Honorable Highlights Elite Endorsements for Snapping Alert Songs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-script-mastery-online-academy/"><u>2024 Approved Script Mastery Online Academy</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/advanced-computing-insights-from-toms-equipment-analysis/"><u>Advanced Computing Insights From Tom’s Equipment Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-store-upgrades-transforming-gpt-plugins-interface/"><u>Essential Store Upgrades: Transforming GPT Plugins' Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-enabling-windows-11-toolbar-elements/"><u>Guide to Enabling Windows 11 Toolbar Elements</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-influence-of-soundtracks-on-a-teasers-audience-reception/"><u>In 2024, The Influence of Soundtracks on a Teaser's Audience Reception</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/legal-battle-hp-enterprise-accuses-inspur-of-intellectual-property-theft-as-it-persists-in-american-market-operations/"><u>Legal Battle: HP Enterprise Accuses Inspur of Intellectual Property Theft as It Persists in American Market Operations</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/next-level-peripheral-connectivity-pci-sig-releases-innovative-copprlink-cables-to-power-pci-express-gen-v-and-vi-while-preparing-for-version-vii-developmen105/"><u>Next-Level Peripheral Connectivity: PCI-SIG Releases Innovative CopprLink Cables to Power PCI Express Gen V and VI, While Preparing for Version VII Development</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/no-more-glitches-master-easy-techniques-for-stable-rage-2-gameplay/"><u>No More Glitches: Master Easy Techniques for Stable RAGE 2 Gameplay</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/proofreading-made-easier-with-chatgpt-how-effective-is-it-really/"><u>Proofreading Made Easier with ChatGPT: How Effective Is It Really?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/revive-your-razer-microphone-a-step-by-step-guide-to-troubleshooting-the-mic/"><u>Revive Your Razer Microphone: A Step-by-Step Guide to Troubleshooting the Mic</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-fixing-stop-0x0000003d-bsod-troubleshooting-tips/"><u>Step-by-Step Solutions: Fixing STOP 0X0000003D BSOD Troubleshooting Tips</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/telecharger-et-jouer-gratuitement-la-playlist-en-4k-avec-le-telechargement-video-4k-optimal/"><u>Télécharger Et Jouer Gratuitement La Playlist en 4K Avec Le Téléchargement Vidéo 4K Optimal</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/the-authors-secret-weapon-discover-how-chatgpt-revolutionizes-writing/"><u>The Author's Secret Weapon? Discover How ChatGPT Revolutionizes Writing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Lava Blaze 2 5G | Dr.fone</u></a></li>
 </ul></div>
 

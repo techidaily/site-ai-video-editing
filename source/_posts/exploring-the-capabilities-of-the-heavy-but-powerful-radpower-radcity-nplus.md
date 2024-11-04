@@ -1,7 +1,7 @@
 ---
 title: Exploring the Capabilities of the Heavy but Powerful RadPower RadCity N+
-date: 2024-10-25T00:54:33.611Z
-updated: 2024-10-29T09:13:09.260Z
+date: 2024-10-28T16:51:17.167Z
+updated: 2024-11-04T02:29:40.589Z
 categories:
   - BestProducts
 description: This Article Describes Exploring the Capabilities of the Heavy but Powerful RadPower RadCity N+
@@ -40,9 +40,23 @@ Lifewire / Jeff Dojillo
 
 4.3
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## GoPro HERO7 Black
 
 ![GoPro HERO7 Black](https://www.lifewire.com/thmb/GYZOA14ZRWOM3tJzi8ZbmTTASe8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_02LW4158963-1-2553e26bad2246dea19f86f8fb2c3714.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Jeff Dojillo
 
@@ -76,10 +90,10 @@ Lifewire / Jeff Dojillo
  Lifewire / Jeff Dojillo
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Design: Classic action camera design**
@@ -92,18 +106,18 @@ Lifewire / Jeff Dojillo
 
  While testing the GoPro HERO7 Black we noticed that the body of the device becomes very hot when used for long periods of time. We tested it for a few hours nonstop and noticed it was still very warm even when it was not recording. This can be a big concern if the device is used for long recordings in hot temperatures.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Display: Bright and visible**
 
  The back of the GoPro HERO7 Black has a two-inch touchscreen that is bright and easy to read. While testing the camera, we were able to navigate through the menus with the single touch of a finger, which are intuitive and easy to adjust. Simply tap to select.
 
  Lifewire / Jeff Dojillo
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Setup: Updates out of the box**
 
@@ -112,13 +126,6 @@ Lifewire / Jeff Dojillo
  The HERO7 Black has both Wi-Fi and Bluetooth compatibility, which makes it easy to pair with a smartphone that has the GoPro App downloaded. We were able to make the camera discoverable in the Preferences menu, and then the app could automatically scan and connect to the camera when it was opened.
 
  Lifewire / Jeff Dojillo
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Sensor: Small but mighty**
 
@@ -129,22 +136,15 @@ Lifewire / Jeff Dojillo
  It makes your footage impressively stable even when filming handheld or while riding on rough terrain.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Lens: Great for video**
 
  The fixed lens on the GoPro HERO7 Black shoots wide or in SuperView mode, the latter of which is an extra-wide field of view and can sometimes give a kind of distorted fisheye effect to your footage. This distortion can be frustrating, but there are ways to work around it during editing, including using video editing software to correct. And when shooting at a lower resolution, the camera can shoot with a linear field of view which reduces the distortion of the lens. The SuperView is not available when shooting in a 4:3 aspect ratio.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Video Quality: Amazing 4K quality with variable frame rates**
 
@@ -168,6 +168,13 @@ Lifewire / Jeff Dojillo
 
  But generally speaking, the GoPro HERO7 Black is not a camera known for its stunning photographs—it is known for its stunning video capabilities. It’s not for someone that wants to use it specifically for still photographs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Sound Quality: Sensitive to the touch**
 
  The GoPro HERO7 Black’s microphones are sensitive and record ambient noise easily. The microphones are located on the body of the camera and any slight touch becomes audible in your video. When taking some handheld footage, we accidentally covered up the microphones with our fingers, which caused the audio to sound muffled in our video.
@@ -179,13 +186,6 @@ Lifewire / Jeff Dojillo
  The ability to add external microphones turns the GoPro HERO7 Black from an action camera to a high-quality video camera. Pairing the 4K resolution with great audio quality, this camera becomes a powerful tool in the hands of the right content creator.
 
  Lifewire / Jeff Dojillo
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Connectivity: Speedy Wi-Fi and Bluetooth pairing**
 
@@ -266,20 +266,24 @@ Lifewire / Jeff Dojillo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/oney-matters-choosing-best-stocks-yts-guide/"><u>[New] Money Matters Choosing Best Stocks YTs Guide</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ecrets-revealed-the-best-youtube-thumbnails-for-virality/"><u>[New] Secrets Revealed The Best YouTube Thumbnails for Virality</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-ranking-premium-free-excellence-the-finest-free-lut-selections/"><u>[Updated] Ranking Premium-Free Excellence The Finest Free LUT Selections</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-top-ten-video-call-programs-for-phones-and-pc-users/"><u>2024 Approved The Top Ten Video Call Programs for Phones & PC Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-what-to-do-when-you-encounter-a-faulty-directory-name-error/"><u>Expert Advice: What to Do When You Encounter a 'Faulty Directory Name Error'</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-lava-storm-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Lava Storm 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-poco-x5-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco X5 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-6s-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone 6s In Different Conditionsin</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-adobe-premiere-pro-rec-709-luts-finding-the-best-choices/"><u>In 2024, Adobe Premiere Pro Rec 709 LUTs Finding The Best Choices</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-add-freeze-frame-to-your-video-from-any-device/"><u>In 2024, How to Add Freeze Frame to Your Video From Any Device?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-a-detailed-guid-to-remove-background-from-a-video-in-premier-pro/"><u>New 2024 Approved A Detailed Guid to Remove Background From a Video in Premier Pro</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-vintage-film-effect-1980s-for-2024/"><u>Updated How to Make Vintage Film Effect 1980S for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-aware-that-av1-has-the-potential-to-change-the-way-we-watch-videos-online-read-on-to-learn-more-about-av1-and-how-it-could-impact-yo/"><u>Updated In 2024, Are You Aware that AV1 Has the Potential to Change the Way We Watch Videos Online? Read on to Learn More About AV1 and How It Could Impact Your Life</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-top-8-sites-to-download-glitch-transition-for-premiere-pro/"><u>Updated In 2024, Top 8 Sites to Download Glitch Transition for Premiere Pro</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-level-up-videos-by-applying-keyframe-like-a-pro-for-2024/"><u>Updated Level Up Videos By Applying Keyframe Like A Pro for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-revenue-driven-guide-to-designing-youtube-trailers-for-2024/"><u>[New] The Revenue-Driven Guide to Designing YouTube Trailers for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-advanced-ai-for-professional-photography-for-2024/"><u>[Updated] Advanced AI for Professional Photography for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-exquisite-stardew-valley-enhancements-revealed-top-7/"><u>2024 Approved Exquisite Stardew Valley Enhancements Revealed (Top 7)</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/alibaba-yitian-710-cpu-leads-the-race-as-top-arm-based-processor-for-cloud-servers-research-finds/"><u>Alibaba Yitian 710 CPU Leads the Race as Top Arm-Based Processor for Cloud Servers, Research Finds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/calling-out-chatgpt-fakes-through-intentional-mentions/"><u>Calling Out ChatGPT Fakes Through Intentional Mentions</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/critical-aspects-to-assess-when-looking-for-an-unbound-cellular-phone/"><u>Critical Aspects to Assess When Looking for an Unbound Cellular Phone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/empowering-tech-teams-to-enhance-customer-journey-insights-from-zdnet/"><u>Empowering Tech Teams to Enhance Customer Journey - Insights From ZDNet</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/global-launch-alert-lenovos-innovative-mini-pc-the-yoga-portal-ai-enhanced-by-powerful-intel-desktop-chips/"><u>Global Launch Alert: Lenovo's Innovative Mini PC - The Yoga Portal AI Enhanced by Powerful Intel Desktop Chips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-realme-10t-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Realme 10T 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-narzo-60-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme Narzo 60 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y28-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y28 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oppo-find-n3-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Oppo Find N3 Device</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-fortnite-thumbnail-with-motion-blur-for-2024/"><u>New How to Make Fortnite Thumbnail with Motion Blur for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-use-your-social-media-app-and-make-slow-motion-videos-by-reading-this-guide-besides-learning-slow-motion-snapchat-get-useful-apps-serving-the-sa/"><u>New In 2024, Use Your Social Media App and Make Slow-Motion Videos by Reading This Guide. Besides Learning Slow-Motion Snapchat, Get Useful Apps Serving the Same Purposes</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-the-way-to-quick-and-efficient-editing-keyboard-shortcuts-in-filmora-for-2024/"><u>New The Way to Quick and Efficient Editing | Keyboard Shortcuts in Filmora for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/samsung-q60r-ultra-hd-gaming-qled-tv-in-depth-product-evaluation/"><u>Samsung Q60R Ultra HD Gaming QLED TV: In-Depth Product Evaluation</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/top-5-solutions-how-to-stop-constant-wi-fi-drops-on-your-iphone/"><u>Top 5 Solutions: How to Stop Constant Wi-Fi Drops on Your iPhone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/unlock-efficient-digital-sanitization-how-to-effectively-use-stellar-file-eraser-5-on-your-windows-system/"><u>Unlock Efficient Digital Sanitization: How To Effectively Use Stellar File Eraser 5 on Your Windows System</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-want-to-download-slow-motion-apps-that-can-edit-video-professionally-this-article-will-discuss-some-slomo-makers-for-both-ios-a/"><u>Updated 2024 Approved Do You Want to Download Slow-Motion Apps that Can Edit Video Professionally? This Article Will Discuss some Slomo Makers for Both iOS and Android</u></a></li>
 </ul></div>
 

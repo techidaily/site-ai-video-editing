@@ -1,7 +1,7 @@
 ---
 title: "Rainbow Six Extraction Error Resolved: How to Address 'No Compatible Driver/Hardware Found'"
-date: 2024-10-23T20:20:16.963Z
-updated: 2024-10-29T10:33:13.396Z
+date: 2024-10-27T23:17:10.057Z
+updated: 2024-11-03T23:15:48.137Z
 tags:
   - win11
   - win10
@@ -34,10 +34,16 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 * etc.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to fix ‘ **_Connection to the Battle.net game server has been lost_**  ‘?
@@ -70,6 +76,13 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 ![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As you know Public network is an unsafe territory, do not allow any third-party application of unknown origin on any public network in your computer settings.
 
 If your game isn’t on the list, follow these steps:
@@ -78,28 +91,8 @@ If your game isn’t on the list, follow these steps:
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/07/add-program.gif)
 2. Click**Browse** to locate your game (**BlackOpsColdWar.exe** ) and click**Add** once selected.
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Once added, tick both the**Private** and**Public** boxes for the application.
 4. Restart your Battle.net and play the game again the test the issue.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2\. Perform a network reset
 
@@ -108,6 +101,13 @@ If your game isn’t on the list, follow these steps:
 1. In the Windows search box, type **cmd** . Under **Command Prompt** , select **Run as administrator** .  
 _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)_
 2. Click **OK** to confirm your action.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3. Once the Command Prompt window is open, type the following 5 command lines (press **Enter**  after entering each command line):  
 
@@ -120,25 +120,19 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2021/07/reset.png)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3\. Change your DNS server
 
 1. On your keyboard, press the **Windows + R** key at the same time to open the Run dialog box.
 2. Type in **ncpa.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa.jpg)
 3. Right-click your current network connection, and select **Properties** .  
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
@@ -151,19 +145,6 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 ![change DNS server](https://images.drivereasy.com/wp-content/uploads/2021/07/following-DNS.jpg)
 6. Click **OK** to apply.
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4\. Update your device drivers
 
@@ -181,16 +162,23 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed.jpg)
 3. Click the **Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-network-driver-2.jpg)
 4. Once your drivers are up to date, restart your computer for the changes to take full effect.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5\. Use a VPN
@@ -231,24 +219,22 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-insiders-look-at-capturing-roblox-games-for-macos-users/"><u>[Updated] In 2024, The Insider's Look at Capturing Roblox Games for macOS Users</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-ultimate-guide-top-5-ways-to-record-audio-in-windows-11/"><u>[Updated] In 2024, The Ultimate Guide Top 5 Ways to Record Audio in Windows 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-10-key-steps-for-optimal-stream-service-picks/"><u>[Updated] The 10 Key Steps for Optimal Stream Service Picks</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-ultimate-guide-to-financial-gains-from-social-video-content/"><u>2024 Approved The Ultimate Guide to Financial Gains From Social Video Content</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-top-luts-for-sony-hlg/"><u>2024 Approved Top LUTs for Sony HLG</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/50-essential-screen-savers-for-online-video-calls/"><u>50 Essential Screen Savers for Online Video Calls</u></a></li>
-<li><a href="https://fox-where.techidaily.com/complete-dallas-data-restoration-tutorial-expert-strategies-and-techniques/"><u>Complete Dallas Data Restoration Tutorial: Expert Strategies and Techniques</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-the-samsung-qn55q6f-the-ultimate-4k-uhd-hdr-smart-television-experience/"><u>Comprehensive Analysis of the Samsung QN55Q6F - The Ultimate 4K UHD HDR Smart Television Experience</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-hot-30-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Hot 30 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713950353021-if-you-want-to-prompt-your-ecommerce-business-in-facebook-then-using-facebook-video-ads-is-one-of-the-effective-methods-this-post-will-show-you-how-to-edit-/"><u>If You Want to Prompt Your eCommerce Business in Facebook, Then Using Facebook Video Ads Is One of the Effective Methods. This Post Will Show You How to Edit Videos for Facebook Advertisement for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/integrating-luts-into-film-colorwork-for-2024/"><u>Integrating Luts Into Film Colorwork for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-fade-audio-in-kinemaster/"><u>New In 2024, How To Fade Audio In Kinemaster</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-slow-down-a-video-on-iphone-and-android-the-easy-way/"><u>New In 2024, How to Slow Down a Video on iPhone and Android The Easy Way</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-the-power-of-music-in-videos-plusfilmora-editing-tricks/"><u>New The Power of Music in Videos (+Filmora Editing Tricks)</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/solution-for-qualcomm-atheros-enabling-bluetooth-driver-performance-in-windows-press-release/"><u>Solution for Qualcomm Atheros: Enabling Bluetooth Driver Performance in Windows Press Release</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-add-motion-blur-in-davinci-resolve-in-2024/"><u>Updated How To Add Motion Blur In Davinci Resolve, In 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-learn-the-step-by-step-process-of-slowing-down-time-lapse-videos-on-your-iphone/"><u>Updated In 2024, Learn the Step-by-Step Process of Slowing Down Time-Lapse Videos on Your iPhone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-step-by-step-to-split-clips-in-vlc-for-2024/"><u>Updated Step by Step to Split Clips in VLC for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-the-monetization-contest-dailymovement-vs-youtubes-earnings-battleground/"><u>[New] 2024 Approved The Monetization Contest DailyMovement vs Youtube's Earnings Battleground</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-access-tons-of-free-vocal-textures/"><u>[New] Access Tons of Free Vocal Textures</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-rising-above-the-crowd-trending-techniques-for-youtubers/"><u>[Updated] 2024 Approved Rising Above the Crowd Trending Techniques for YouTubers</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/cyberpunk-2077-release-issues-resolved-now-playable/"><u>Cyberpunk 2077 Release Issues Resolved: Now Playable</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/expert-tips-for-enhancing-frame-rate-and-smoothness-in-pc-racing-game-f1-2021/"><u>Expert Tips for Enhancing Frame Rate and Smoothness in PC Racing Game F1 2021</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1723262400368-get-your-hands-on-a-high-performance-lenovo-legion-desktop-with-rtx-4080-gpu-priced-at-an-amazing-low-of-2091/"><u>Get Your Hands on a High-Performance Lenovo Legion Desktop with RTX 4080 GPU - Priced at an Amazing Low of $2,091!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-get-and-install-the-newest-logitech-g403-software-on-your-computer/"><u>How to Get and Install the Newest Logitech G403 Software on Your Computer</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-and-install-updated-hd-graphics-drivers-from-amd-for-windows/"><u>How to Get and Install Updated HD Graphics Drivers From AMD for Windows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-maximizing-impact-with-reddit-essential-tips-revealed/"><u>In 2024, Maximizing Impact with Reddit - Essential Tips Revealed</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-depth-look-at-amazonbasics-affordable-flat-antenna-for-catching-free-broadcasts/"><u>In-Depth Look at AmazonBasics' Affordable Flat Antenna for Catching Free Broadcasts</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/mastering-stability-in-halo-infinite-preventing-pc-game-interruptions/"><u>Mastering Stability in Halo Infinite: Preventing PC Game Interruptions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-analysis-reading-experience-with-the-nook-glowlight-4/"><u>The Ultimate Analysis: Reading Experience with the Nook GlowLight 4</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/the-ultimate-resource-for-computer-components-toms-selection/"><u>The Ultimate Resource for Computer Components - Tom’s Selection</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/toms-tech-insights-comprehensive-reviews-and-advice/"><u>Tom's Tech Insights: Comprehensive Reviews & Advice</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/unlock-new-gaming-adventures-for-your-nes-classic-console/"><u>Unlock New Gaming Adventures for Your NES Classic Console!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/zero-clutter-max-impact-professional-tips-for-striking-virtual-presence-for-2024/"><u>Zero Clutter, Max Impact Professional Tips for Striking Virtual Presence for 2024</u></a></li>
 </ul></div>
 

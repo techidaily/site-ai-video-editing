@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Zoom in Discord
-date: 2024-10-24T12:43:01.906Z
-updated: 2024-10-29T00:34:17.972Z
+date: 2024-10-28T20:15:59.953Z
+updated: 2024-11-04T06:13:10.186Z
 tags: 
   - ai
   - animation videos
@@ -37,6 +37,13 @@ Step4According to your requirements, you can move the slider to the right to zoo
 
 Step5Once you are satisfied with the level of zooming, press Esc key on your keyboard to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Zoom Discord Online
 
 If you are relatively new to Discord, you are likely to use its in-browser online version before downloading desktop or smartphone app. Zooming in and out on Discord is super easy when you use Discord online. This is because almost all browsers have in-built option to zoom in and zoom out any website including Discord. Here are the steps on how to zoom in Discord online.
@@ -49,22 +56,22 @@ Step3From the drop-down menu, go to Zoom option. Click on “+” icon to zoom i
 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/online-discord-zoom-icon.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Alternatively, you can simply launch Discord on any browser and press Ctrl and “+” or “-“ keys together for zooming in and out. You get to see by how much percentage the browser is zooming in and zooming out. If you want to reset, bring the percentage to 100%.
 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/zoom-discord-screen-online.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to Zoom Discord on Mobile
@@ -75,13 +82,6 @@ Step1On your smartphone, open Discord app. Tap on your Profile icon located at t
 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/open-discord-on-smartphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2You must be on User Settings page where you need to find and tap on Appearance present under App Settings.
 
 Step3Scroll down and come to Chat Font Scaling and move the slider to the right for zooming in.
@@ -91,16 +91,10 @@ Step3Scroll down and come to Chat Font Scaling and move the slider to the right 
 There is Reset option at the bottom to cancel out the changes made as far as zoom effect goes.
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -120,17 +114,19 @@ There could also be a scenario where you have excessive zoom in effect, and you 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-navigate-subtitle-installation-in-wmp-easily/"><u>[Updated] 2024 Approved Navigate Subtitle Installation in WMP Easily</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-top-free-audio-samples-for-youtube-creators/"><u>[Updated] 2024 Approved Top Free Audio Samples for YouTube Creators</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-educational-journey-through-time-with-top-history-yt-channels-for-2024/"><u>[Updated] Educational Journey Through Time with Top History YT Channels for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-best-10-mind-blowing-video-collage-maker-for-pc/"><u>2024 Approved Best 10 Mind-Blowing Video Collage Maker for PC</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-do-you-know-how-ai-is-helping-video-editors-and-enthusiasts-many-video-editing-software-allows-an-auto-reframe-option-to-use-that-can-help-man/"><u>2024 Approved Do You Know How AI Is Helping Video Editors and Enthusiasts? Many Video Editing Software Allows an Auto Reframe Option to Use that Can Help Manage Videos</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-x9a-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor X9a</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/efficient-practices-logging-google-voice-dialogues/"><u>Efficient Practices Logging Google Voice Dialogues</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-flavor-of-fun-explore-the-10-top-themes-at-betterdiscord/"><u>In 2024, Flavor of Fun Explore the 10 Top Themes at BetterDiscord</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-text-reveal-effect-easily-for-2024/"><u>New How to Make Text Reveal Effect Easily for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-11-tips-to-make-product-ad-videos/"><u>New In 2024, 11 Tips to Make Product Ad Videos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/photographic-albums-with-soundscape-features/"><u>Photographic Albums with Soundscape Features</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-steps-for-overcoming-call-of-duty-wwii-blackout-issue-on-pcs/"><u>Solution Steps for Overcoming Call of Duty: WWII Blackout Issue on PCs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-surpass-everyday-photo-taking-with-ios-11/"><u>[New] Surpass Everyday Photo-Taking with iOS 11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-hidden-havens-of-hand-drawn-harmony-techniques/"><u>[Updated] Hidden Havens of Hand-Drawn Harmony Techniques</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-easy-way-to-create-a-diy-green-screen-video-effect/"><u>2024 Approved Easy Way to Create a DIY Green Screen Video Effect</u></a></li>
+<li><a href="https://facebook.techidaily.com/alert-system-for-suspicious-facebook-activities/"><u>Alert System for Suspicious Facebook Activities</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-restore-your-windows-store-cache-when-its-actual-damage/"><u>Expert Tips to Restore Your Windows Store Cache When It's Actual Damage</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-game-breaking-glitches-in-dragoner-dogma-2-for-pc-players/"><u>Fixing Game-Breaking Glitches in Dragon'er Dogma 2 for PC Players</u></a></li>
+<li><a href="https://video-capture.techidaily.com/hasty-handlings-of-slideshow-documentation/"><u>Hasty Handlings of Slideshow Documentation</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-looking-for-the-best-online-video-editors-to-add-filter-to-your-video-here-is-the-list-of-the-best-video-editors-to-add-filter-video-online-in-simpl/"><u>In 2024, Looking for the Best Online Video Editors to Add Filter to Your Video? Here Is the List of the Best Video Editors to Add Filter Video Online in Simple Steps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-8-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 8 Plus Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-what-is-hdri-everything-you-need-to-know-about-hdri/"><u>New 2024 Approved What Is HDRI? Everything You Need to Know About HDRI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-quest-for-ai-excellence-comparing-bard-chatgpt-and-offline-alpaca-as-top-llm-contenders/"><u>The Quest for AI Excellence: Comparing Bard, ChatGPT and Offline Alpaca as Top LLM Contenders</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-use-premiere-pro-and-want-to-learn-how-to-change-a-videos-frame-rate-using-the-tool-here-are-the-steps-that-you-need-to-follow./"><u>Updated 2024 Approved Do You Use Premiere Pro and Want to Learn How to Change a Videos Frame Rate Using the Tool? Here Are the Steps that You Need to Follow</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-best-online-youtube-video-trimmer/"><u>Updated Best Online YouTube Video Trimmer</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713954225633-updated-whatre-the-best-alternatives-to-pexels-in-2024/"><u>Updated Whatre the Best Alternatives to Pexels, In 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New Using Slow Motion in Adobe After Effects A Step-by-Step Procession for 2024
-date: 2024-10-28T03:39:39.724Z
-updated: 2024-10-29T03:50:37.582Z
+date: 2024-11-01T20:37:52.859Z
+updated: 2024-11-03T16:29:57.524Z
 tags: 
   - ai
   - animation videos
@@ -35,6 +35,13 @@ To create a perfect slow-motion video, you must consider several factors. In thi
 * **Sound Selection:** A slow-mo effect will look more convincing with a relevant sound design. You should search for slow-mo sound effects to generate attractive results. Also, ensure that the speed of sound effects with the video is managed smartly.
 * **Frame Rate:** A frame rate plays a vital role in creating slow-motion effect. Higher frame rates influence a smooth, **slow-motion effect**. Thus, use 240fps or higher to create a seamless slow-mo effect.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Creating Slow Motion Effect in Adobe After Effects
 
 [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) is a famous program used in post-production of video making. It contains many motion graphics effects to enhance a video. You can add animated shapes and text to the video with this tool. Many people use this platform to create VFX in their videos to create stunning videos. It also supports 2D and 3D elements to produce realistic effects.
@@ -49,6 +56,13 @@ Start by uploading a video on After Effects. Drag it to the timeline and edit it
 
 ![open time stretch feature](https://images.wondershare.com/filmora/article-images/2023/guide-to-use-slow-motion-after-effects-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 2
 
 On the Time Stretch window, make the “Stretch Factor” value to 250\. Once done, press the “OK” button.
@@ -56,10 +70,10 @@ On the Time Stretch window, make the “Stretch Factor” value to 250\. Once do
 ![change stretch factor](https://images.wondershare.com/filmora/article-images/2023/guide-to-use-slow-motion-after-effects-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step 3
@@ -67,6 +81,13 @@ On the Time Stretch window, make the “Stretch Factor” value to 250\. Once do
 For high-quality results, enable the “Frame Blending” option. Right-click on the layer and select “Frame Blending” from the pop-up menu. Here, you can select two options: Frame Mix and Pixel Motion. After the frame blending, you can render the final output. Select a suitable format and then export the video.
 
 ![introduce frame blending](https://images.wondershare.com/filmora/article-images/2023/guide-to-use-slow-motion-after-effects-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Quick and Unique Alternative: Making Slow Motion Effect with Wondershare Filmora
 
@@ -95,10 +116,10 @@ On the main interface, press “Ctrl + I” from your keyboard. By doing so, you
 ![add video to timeline](https://images.wondershare.com/filmora/article-images/2023/guide-to-use-slow-motion-after-effects-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 3: Choose Optical Flow
@@ -107,13 +128,6 @@ Now, select the video you have dragged to the timeline. Go to the right panel an
 
 ![access speed ramping open optical flow](https://images.wondershare.com/filmora/article-images/2023/guide-to-use-slow-motion-after-effects-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Step 4: Render and Export the Video
 
 Now, head to the toolbar of the timeline. From there, tap on “Render Preview,” through which you can see the final results. Once done, you can export the video to the desired platform.
@@ -121,13 +135,6 @@ Now, head to the toolbar of the timeline. From there, tap on “Render Preview,�
 ![finalize and export video](https://images.wondershare.com/filmora/article-images/2023/guide-to-use-slow-motion-after-effects-11.jpg)
 
 With the new upgrade, you can add an accurate **slow-mo effect** from Filmora. It uses AI technology to achieve the best results. Hence, this editing tool is a game-changer in the video production industry.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Exceptional Features of Filmora
 
@@ -138,13 +145,6 @@ With the new upgrade, you can add an accurate **slow-mo effect** from Filmora. I
 * [**Silence Detection**](https://tools.techidaily.com/wondershare/filmora/download/)**:** To add more clarity to your videos, try the Silence Detection feature. This option removes the silent parts from your video. The process is automatic and does not need your manual efforts. Thus, with a single tap, you can eradicate unwanted parts from the video.
 
 * [**Speech-to-Text**](https://tools.techidaily.com/wondershare/filmora/download/)**:** The STT feature transcribes the video in the selected language. You can add subtitles to the videos in up to 26 languages. This feature increases your editing efficiency and offers great accuracy.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -163,17 +163,14 @@ A **slow-motion effect** can highlight an action in a video clip. It can engage 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-soil-spinners-finding-the-next-stardew-title-for-2024/"><u>[New] Soil Spinners Finding the Next Stardew Title for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-swift-strategies-randomize-your-video-playlist-quickly/"><u>[New] Swift Strategies Randomize Your Video Playlist Quickly</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-best-10-mind-blowing-video-collage-maker-for-pc/"><u>2024 Approved Best 10 Mind-Blowing Video Collage Maker for PC</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-do-you-know-how-ai-is-helping-video-editors-and-enthusiasts-many-video-editing-software-allows-an-auto-reframe-option-to-use-that-can-help-man/"><u>2024 Approved Do You Know How AI Is Helping Video Editors and Enthusiasts? Many Video Editing Software Allows an Auto Reframe Option to Use that Can Help Manage Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-no-cost-top-quality-premiere-pro-designs/"><u>2024 Approved No-Cost, Top-Quality Premiere Pro Designs</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/best-free-video-combiners-for-mpeg-files/"><u>Best Free Video Combiners for MPEG Files</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y27-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y27 5G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-back-up-and-organize-your-files-to-protect-any-misfortune-befalling-them-the-article-will-guide-you-on-how-to-back-up-and-manage-your-foot/"><u>New 2024 Approved Back up and Organize Your Files to Protect Any Misfortune Befalling Them. The Article Will Guide You on How to Back up and Manage Your Footage</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-text-reveal-effect-easily-for-2024/"><u>New How to Make Text Reveal Effect Easily for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-11-tips-to-make-product-ad-videos/"><u>New In 2024, 11 Tips to Make Product Ad Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/storytelling-with-style-making-instagram-text-dance-for-2024/"><u>Storytelling with Style Making Instagram Text Dance for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/ultimate-guide-exploring-the-power-of-ipad-pro-m1-2021-a-new-era-for-mobile-workstations/"><u>Ultimate Guide: Exploring the Power of iPad Pro (M1, 2021) - A New Era for Mobile Workstations</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/advanced-computing-insights-from-toms-equipment-analysis/"><u>Advanced Computing Insights From Tom’s Equipment Analysis</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-google-pixel-8-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Google Pixel 8 Pro Phone? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/exploring-the-world-of-gadgets-with-tom-in-depth-analysis/"><u>Exploring the World of Gadgets with Tom - In-Depth Analysis</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-process-setting-up-cookies-for-better-browsing/"><u>Master the Process: Setting Up Cookies for Better Browsing</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/revive-your-razer-microphone-a-step-by-step-guide-to-troubleshooting-the-mic/"><u>Revive Your Razer Microphone: A Step-by-Step Guide to Troubleshooting the Mic</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/uncomplicated-methodology-turning-clownfish-sounds-on-windows-systems/"><u>Uncomplicated Methodology Turning Clownfish Sounds on Windows Systems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unmatched-warfare-discovering-the-prime-7-total-war-battles/"><u>Unmatched Warfare Discovering the Prime 7 Total War Battles</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/unveiling-innovative-solutions-discover-top-picks-at-techmaster-review-center/"><u>Unveiling Innovative Solutions: Discover Top Picks at TechMaster Review Center</u></a></li>
 </ul></div>
 

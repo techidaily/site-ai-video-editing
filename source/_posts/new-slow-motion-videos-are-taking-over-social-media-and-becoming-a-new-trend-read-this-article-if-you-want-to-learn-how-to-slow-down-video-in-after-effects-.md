@@ -1,7 +1,7 @@
 ---
 title: New Slow Motion Videos Are Taking over Social Media and Becoming a New Trend. Read This Article if You Want to Learn How to Slow Down Video in After Effects for 2024
-date: 2024-10-28T09:40:34.970Z
-updated: 2024-10-28T20:37:41.989Z
+date: 2024-10-28T04:27:35.013Z
+updated: 2024-11-03T19:29:44.747Z
 tags: 
   - ai
   - animation videos
@@ -46,25 +46,33 @@ Upon learning about After Effects and its functionalities, let’s move forward.
 ![access time stretch feature](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2:** In the Time Stretch window, increase the default value of "Stretch Factor." Then click "OK," and this will slow down your clip.
 
 ![change stretch factor](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** To bring precision to your slow-mo, you need to adjust the frame rate of the video. For this, right-click on the timeline and go to "Frame Blending > Pixel Motion" option. Afterward, play your video from start to end and observe the changes.
 
 ![look for pixel motion](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Alternative: Slowing Down Video in Wondershare Filmora with Clarity
 
@@ -75,6 +83,13 @@ Wondershare Filmora is an AI-driven software that makes task achievement accessi
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Methods to Slow Down Video in Filmora
 
@@ -99,13 +114,6 @@ Once the media is in the timeline, select it and right-click on it. From the opt
 
 ![look for uniform speed settings](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 3Adjust the Speed and Preview
 
 A settings panel will appear on the right side of the screen; navigate towards it. Under the "Uniform Speed" tab, adjust the "Speed" slider to slow down your video. If its value decreases, your video will become slow motion. Further, hit the play button to preview and export your slow-mo video.
@@ -129,10 +137,10 @@ Continue to select a specific preset for speed ramping. As you select one, locat
 ![set preset and change frame interpolation](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step 3Render Preview for Results
@@ -140,13 +148,6 @@ Continue to select a specific preset for speed ramping. As you select one, locat
 Once you have enabled this option, navigate towards the timeline toolbar. Search and select the "Render Preview" option from the given icons. Play the video to see the results, adjust, and click the "Export" button to download.
 
 ![render preview and export](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-13.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Edit Beyond Basic with AI Video Editing Features of Filmora
 
@@ -168,13 +169,6 @@ Filmora offers multiple mask options to infuse effects and filters to specific p
 
 Thumbnails increase video views by evoking the audience's interest in seeing a video. In Filmora, you can employ the AI Thumbnail creator to auto-create thumbnails. It analyzes the best frame out of your video and chooses it as a thumbnail. You can further apply many templates to this thumbnail according to context.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 This article has expanded your knowledge and expertise about two powerful video editors. With **how to slow down video in After Effects**, we introduced you to the software. There is no limitation of features in either software as both bring out the best in videos.
@@ -194,20 +188,19 @@ However, we recommend Wondershare Filmora as it is a more accessible alternative
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-initial-cinematic-composition-review/"><u>[New] Initial Cinematic Composition Review</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-click-inducing-headline-whiz/"><u>[Updated] Click-Inducing Headline Whiz</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unleashing-the-potential-of-fb-videos-for-2024/"><u>[Updated] Unleashing the Potential of FB Videos for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/11-tools-to-create-radial-blur-photo-mobile-and-desktop/"><u>11 Tools To Create Radial Blur Photo Mobile And Desktop</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-tailoring-text-features-in-ae-compositions/"><u>2024 Approved Tailoring Text Features in AE Compositions</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/full-apps-deep-dive-with-az-video-logger-pro/"><u>Full-Apps Deep Dive with AZ Video Logger Pro</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722974835973-get-your-usb-webcam-drivers-instantly-download-now/"><u>Get Your USB Webcam Drivers Instantly: Download Now!</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-seo-for-podcasts-ultimate-guide/"><u>In 2024, SEO for Podcasts - Ultimate Guide</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-are-you-looking-for-the-best-app-to-prank-your-friends-here-is-a-complete-guide-on-the-funcall-app-how-to-use-it-to-change-your-voice-and-/"><u>New 2024 Approved Are You Looking for the Best App to Prank Your Friends? Here Is a Complete Guide on the Funcall App, How to Use It to Change Your Voice, and Its Best Alternatives</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-create-slow-motion-videos-this-article-shows-methods-to-create-slow-mo-videos-without-changing-the-medias-quality/"><u>New 2024 Approved Do You Want to Create Slow-Motion Videos? This Article Shows Methods to Create Slow-Mo Videos without Changing the Medias Quality</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-if-you-want-to-replace-or-delete-the-sky-pictures-or-background-media-then-give-a-quick-read-to-this-article-for-effective-solutions.m/"><u>Updated 2024 Approved If You Want to Replace or Delete the Sky Pictures or Background Media, Then Give a Quick Read to This Article for Effective Solutions</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-if-youre-not-using-video-yet-now-is-the-time-to-start-in-this-post-well-discuss-the-benefits-of-using-video-for-social-media-marketing/"><u>Updated 2024 Approved If Youre Not Using Video yet, Now Is the Time to Start. In This Post, Well Discuss the Benefits of Using Video for Social Media Marketing and Provide Tips for Getting Started. Keep Reading to Learn More</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-fortnite-thumbnail-with-motion-blur-in-2024/"><u>Updated How to Make Fortnite Thumbnail with Motion Blur, In 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-davinci-resolve-scopes-have-undergone-significant-improvements-find-out-how-to-use-these-scopes-and-improve-your-video-editing-skills/"><u>Updated In 2024, DaVinci Resolve Scopes Have Undergone Significant Improvements. Find Out How to Use These Scopes and Improve Your Video Editing Skills</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-quick-steps-to-authenticate-your-youtube-login/"><u>[New] Quick Steps to Authenticate Your YouTube Login</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-the-best-places-for-finding-attractive-free-tiktok-bg-videos/"><u>[Updated] The Best Places for Finding Attractive Free TikTok BG Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/connect-movie-files-in-youtv-catalog-for-2024/"><u>Connect Movie Files in YouTV Catalog for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-to-downloading-the-latest-epson-l3150-driver-for-windows-operating-systems-win11win8win7/"><u>Easy Guide to Downloading the Latest Epson L3150 Driver for Windows Operating Systems (Win11/Win8/Win7)</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/effortless-methods-for-transferring-songs-from-an-ipod-to-a-personal-computer-pc/"><u>Effortless Methods for Transferring Songs From an iPod to a Personal Computer (PC)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Lenovo ThinkPhone? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-get-zoom-on-tv-easy-solutions/"><u>New 2024 Approved How to Get Zoom on TV Easy Solutions</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-slow-mo-youtube-videos-for-2024/"><u>New How to Slow-Mo YouTube Videos for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-end-your-struggles-with-choppy-playback-on-davinci-resolve-read-this-guide-to-find-effective-fixes-and-reliable-davinci-resolve-slow-playback-al/"><u>New In 2024, End Your Struggles with Choppy Playback on DaVinci Resolve. Read This Guide to Find Effective Fixes and Reliable DaVinci Resolve Slow Playback Alternatives</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-learn-how-to-make-a-gaming-montage-guide-and-tips-for-2024/"><u>New Learn How to Make a Gaming Montage - Guide & Tips for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-list-of-supported-iphone-video-formats-and-best-iphone-video-editor-for-2024/"><u>New List of Supported iPhone Video Formats and Best iPhone Video Editor for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-replace-sky-background-in-video-figuring-out-the-best-options-for-2024/"><u>New Replace Sky Background in Video Figuring Out the Best Options for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-to-get-your-windows-11-microphone-working-again/"><u>Quick Solutions to Get Your Windows 11 Microphone Working Again</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/razer-blade-pro-17-review-portable-powerhouse/"><u>Razer Blade Pro 17 Review: Portable Powerhouse</u></a></li>
 </ul></div>
 

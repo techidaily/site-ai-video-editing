@@ -1,7 +1,7 @@
 ---
 title: "Next-Level Peripheral Connectivity: PCI-SIG Releases Innovative CopprLink Cables to Power PCI Express Gen V and VI, While Preparing for Version VII Development"
-date: 2024-10-28T10:03:46.234Z
-updated: 2024-10-28T16:08:34.853Z
+date: 2024-11-01T06:24:30.438Z
+updated: 2024-11-03T20:33:35.596Z
 tags:
   - desktop
 categories:
@@ -28,10 +28,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
  Also note that we don't include the cost of an operating system, because you can get[Windows for Free or Cheap](https://www.tomshardware.com/reviews/get-windows-10-free-or-cheap,5717.html) . Nor do we include the price of peripherals such as the[best gaming monitors](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.html) ,[best gaming keyboards](https://www.tomshardware.com/peripherals/gaming-keyboards/best-gaming-keyboards) or[best gaming mouse](https://www.tomshardware.com/best-picks/best-gaming-mouse) . And if you've never made a computer before, see our article on[how to build a PC](https://www.tomshardware.com/how-to/build-a-pc) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best $500 PC Build for Gaming
@@ -75,22 +75,15 @@ If you want a computer that meets your exact needs and budget, you need to put i
  Finally, we need something to power the whole system, and this is an area where we opted to compromise in pursuit of the $500 price point. The $40 500W PSU should be fine for this basic build, which will likely peak at around 200W of power use, but the Thermaltake Smart series isn't exactly highly regarded, and the listing mentions Haswell support (circa 2014) and it only has 80 Plus certification, which are clear drawbacks. If you want a quality PSU, check out the[Thermaltake Toughpower GX2 600W](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB087CDR14Z%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-2901418645577992029-20) that costs $20 more. It's an 80 Plus Gold certified PSU, from a reputable brand, albeit overkill for a build like this.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best $800 PC Build for Gaming
 
 ![Gamdias Aura GC1](https://cdn.mos.cms.futurecdn.net/fixBMW57Uvy4YDmfRJpWAd-320-80.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (Image credit: Amazon)
 
@@ -115,16 +108,16 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![14400 CPU vs competition](https://cdn.mos.cms.futurecdn.net/FVyBrR3Fkm8RXeguWat4ik-320-80.png)
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -136,10 +129,16 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![1080p GPUs Ranked](https://cdn.mos.cms.futurecdn.net/ktyz8PAoeeySeFAwDS7RGh-320-80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -151,10 +150,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![Crucial P5 Plus Tests](https://cdn.mos.cms.futurecdn.net/dVtKieHEMPgzXkpEJa7jcm-320-80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -203,6 +202,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![3DMark Storage for WD SN580](https://cdn.mos.cms.futurecdn.net/YduTXHRsvK8iHR2sEsSWHH-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  We're going with the[Phanteks XT Pro](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-3971734713525887260%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fblack-phanteks-xt-mid-tower%252Fp%252F11-854-132) as our case, because it has a quality, mesh design, room for up to a 360mm AIO up top and the ability to support back-connecting motherboards, should you get one in the future. For $20, you can get the[Phanteks XT Pro Ultra](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-2132366878660750340%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fblack-phanteks-xt-mid-tower%252Fp%252FN82E16811854133) , which comes with four ARGB fans.
@@ -237,6 +243,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![RTX 4070 Spider-Man: Miles Morales Ray Tracing results](https://cdn.mos.cms.futurecdn.net/XgVebfNva528szwrGpaooB-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  We're also upgrading the CPU to[Intel's Core i5-14600KF](https://www.tomshardware.com/news/intel-core-i9-14900k-cpu-review) , an overclockable processor that has 6 performance cores, 8 efficiency cores, 20 threads and a boost clock of 5.3 GHz. That's before you attempt to overclock it.
@@ -260,10 +273,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![Hyte Y40](https://cdn.mos.cms.futurecdn.net/4uhnTrJWRufEuBFQzenypi-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -303,13 +316,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
  Our motherboard is Gigabyte B650M Aorus Elite AX which is one of the more affordable AM5 motherboards you can buy but it still packs in Wi-Fi 6E radio. AMD Zen 7000 chips require DDR5 RAM so we're going with 32GB of G.Skill Trident Z5\. The Trident Z5 kit tops our list of[best RAM](https://www.tomshardware.com/reviews/best-ram,4057.html) , thanks to its tight-timings, fast performance and overclocking potential. In our tests, the Z5 also had the lowest memory latency of its competitors.
 
 ![Memory Latency](https://cdn.mos.cms.futurecdn.net/ew9VS2PUuTupX8YSvcyb5X-320-80.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (Image credit: Future)
 
@@ -390,20 +396,24 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-skillful-minecraft-players-building-circular-and-spherical-objects/"><u>[Updated] 2024 Approved Skillful Minecraft Players Building Circular & Spherical Objects</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/6-ways-to-record-minecraft-gameplay-for-2024/"><u>6 Ways to Record Minecraft Gameplay for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-c51-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco C51 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-exploring-magix-music-creators-capabilities/"><u>In 2024, Exploring Magix Music Creator's Capabilities</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-through-steams-e84-complications/"><u>Navigate Through Steam's E84 Complications</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-guiding-principles-for-altering-tone-without-sacrificing-sound-quality-using-audacity/"><u>New 2024 Approved Guiding Principles for Altering Tone Without Sacrificing Sound Quality Using Audacity</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-know-you-dont-need-a-pc-or-mac-to-apply-luts-on-your-media-you-can-use-many-smartphone-apps-to-apply-luts-such-as-3dlut-mobile-app/"><u>New In 2024, Do You Know You Dont Need a PC or Mac to Apply LUTs on Your Media? You Can Use Many Smartphone Apps to Apply LUTs, Such as 3DLUT Mobile App</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-stop-worrying-if-your-adobe-premiere-playback-slows-down-this-guide-will-show-you-the-best-solutions-to-resolve-this-issue-and-a-perfect-alterna/"><u>New In 2024, Stop Worrying if Your Adobe Premiere Playback Slows Down. This Guide Will Show You the Best Solutions to Resolve This Issue and a Perfect Alternative</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-the-availability-of-the-slow-motion-feature-on-the-iphone-is-often-debated-this-article-will-guide-you-on-how-to-slow-down-a-video-on-iphone-for-2024/"><u>New The Availability of the Slow-Motion Feature on the iPhone Is Often Debated. This Article Will Guide You on How to Slow Down a Video on iPhone for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/sd-expansion-on-steam-deck-unveiled/"><u>SD Expansion on Steam Deck Unveiled</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-clearly-the-efectum-app-download-without-a-watermark-option-is-on-android-phones-thus-read-this-review-on-the-efectum-app-and-find-rep/"><u>Updated 2024 Approved Clearly, the Efectum App Download without a Watermark Option Is on Android Phones. Thus, Read This Review on the Efectum App and Find Replacements for Good</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-use-kahoot-on-zoom-for-2024/"><u>Updated How to Use Kahoot! On Zoom for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-slow-motion-video-editors-to-look-out-for/"><u>Updated In 2024, Slow Motion Video Editors To Look Out For</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-what-is-the-best-voice-changer-for-whatsapp-discover-the-seven-7-best-voice-changers-for-whatsapp-here-in-this-post-for-2024/"><u>Updated What Is the Best Voice Changer for WhatsApp? Discover the Seven (7) Best Voice Changers for WhatsApp Here in This Post for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210644777-9781955985697-waking-up-to-feeling/"><u>Waking Up to Feeling | Free Book</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-live-chat-to-large-screen-upload-twitch-streams-to-youtube/"><u>[New] 2024 Approved From Live Chat to Large Screen Upload Twitch Streams to YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-quality-overload-top-10-hd-video-apps-for-your-android/"><u>[New] Quality Overload Top 10 HD Video Apps for Your Android</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-melding-music-and-media-the-reel-rhythm-guide/"><u>[Updated] In 2024, Melding Music and Media The Reel Rhythm Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-mastering-timecode-alignment-and-text-modification-in-srt-using-macos-for-2024/"><u>[Updated] Mastering Timecode Alignment & Text Modification in SRT Using macOS for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/asmr-mastery-your-guide-to-nighttime-relaxation/"><u>ASMR Mastery Your Guide to Nighttime Relaxation</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-xiaomi-civi-3-disney-100th-anniversary-edition-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Xiaomi Civi 3 Disney 100th Anniversary Edition to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-reactivate-disconnected-joy-cons-a-complete-guide-for-switch/"><u>How To Reactivate Disconnected Joy-Cons - A Complete Guide for Switch</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-peak-level-illustration-tweaks/"><u>In 2024, Peak Level Illustration Tweaks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/iphone-macro-and-close-up-photography-tips/"><u>IPhone Macro and Close-Up Photography Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/masterful-phone-apps-altering-speech-patterns-for-2024/"><u>Masterful Phone Apps Altering Speech Patterns for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-have-you-ever-used-an-adjustment-layer-in-photoshop-read-this-article-to-find-out-how-to-add-resize-change-and-use-an-adjustment-layer-in-/"><u>New 2024 Approved Have You Ever Used an Adjustment Layer in Photoshop? Read This Article to Find Out How to Add, Resize, Change, and Use an Adjustment Layer in Photoshop Efficiently</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-zoom-in-and-out-on-mac-for-2024/"><u>New How to Zoom In and Out on Mac for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-master-premiere-pro-custom-sequence-presets-for-2024/"><u>New Master Premiere Pro Custom Sequence Presets for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-top-15-slow-motion-capcut-templates-to-work-with-for-2024/"><u>New Top 15 Slow Motion CapCut Templates to Work With for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-zoom-webcam-on-pc/"><u>Updated 2024 Approved How to Zoom Webcam on PC</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-lets-introduce-the-top-5-applications-to-add-a-song-to-a-video-for-free-with-some-amazing-sound-and-visual-effects/"><u>Updated 2024 Approved Lets Introduce the Top 5 Applications to Add a Song to a Video for Free with some Amazing Sound and Visual Effects</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-through-speed-ramping-create-a-smooth-transition-in-slow-motion-videos-follow-this-guide-and-learn-about-premiere-pro-slow-motion-and-/"><u>Updated 2024 Approved Through Speed Ramping, Create a Smooth Transition in Slow-Motion Videos. Follow This Guide and Learn About Premiere Pro Slow Motion and a Better Alternative</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-use-the-best-luts-for-lightroom/"><u>Updated 2024 Approved Use The Best LUTs for Lightroom</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-what-should-be-considered-to-choose-a-nice-gopro-for-vlogging/"><u>Updated In 2024, What Should Be Considered to Choose A Nice GoPro for Vlogging?</u></a></li>
 </ul></div>
 

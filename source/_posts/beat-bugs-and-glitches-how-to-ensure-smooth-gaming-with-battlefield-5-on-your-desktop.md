@@ -1,7 +1,7 @@
 ---
 title: "Beat Bugs & Glitches: How To Ensure Smooth Gaming with Battlefield 5 on Your Desktop"
-date: 2024-10-26T18:11:42.326Z
-updated: 2024-10-29T00:30:53.216Z
+date: 2024-10-31T04:49:00.195Z
+updated: 2024-11-04T00:49:10.889Z
 tags:
   - win11
   - win10
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
 5. **[Cap the framerate to 60](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1:**Use a controller instead**
@@ -45,6 +45,19 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/xbox-controller.jpg)
 
  If you don’t have a controller at hand, or it doesn’t work for your case, simply move on to the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -61,8 +74,22 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
 ![Driver Easy Scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -71,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
  If the latest drivers don’t seem to work for you, take a look at the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Check for system updates
@@ -111,19 +138,6 @@ Now you can start a game and test the performance.
 
  If these settings couldn’t help you, take a look at the next solution.
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Cap the framerate to 60
 
  There’re also players saying that they manage to stop the stuttering by capping the FPS. You can do the same and see if it works for you too. Instead of setting in-game FPS Limiter, you need to cap the framerate in the graphics card control panel.
@@ -134,21 +148,7 @@ Here’s how to do it with NVIDIA GPU:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nvidia-control-panel.jpg)
 2. In the left pane, select**Manage 3D** settings. In the Global Settings section, turn on**Max Frame Rate** and set the value to**60** .  
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/nvidia-control-panel-cap-60.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now you can restart the game and check if the stuttering is gone.
 
@@ -171,24 +171,17 @@ Now you can restart the game and check if the stuttering is gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-transforming-youtube-viewing-how-to-efficiently-insert-timestamps/"><u>[New] Transforming YouTube Viewing How to Efficiently Insert Timestamps</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-snapshot-showdown-youtube-shorts-challenge-to-the-titans-of-tiktok/"><u>[Updated] 2024 Approved Snapshot Showdown YouTube Shorts Challenge to the Titans of TikTok</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-meizu-21-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/age-of-empires-4-stability-issues-resolved-no-more-pc-freezes/"><u>Age of Empires 4 Stability Issues Resolved – No More PC Freezes!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connecting-worldwide-through-social-platforms-like-facebook-twitter-instagram-and-youtube/"><u>Connecting Worldwide Through Social Platforms Like Facebook, Twitter, Instagram, and Youtube</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-upgraded-realtek-audio-driver-software-for-windows-10-instant-download/"><u>Get Upgraded: Realtek Audio Driver Software for Windows 10, Instant Download</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-comprehensive-guide-to-add-luts-in-premiere-pro-with-ease/"><u>In 2024, Comprehensive Guide to Add LUTs in Premiere Pro with Ease</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-correct-lens-distortion-with-filmora/"><u>In 2024, How to Correct Lens Distortion With Filmora</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/maximize-your-media-movement-with-winx-mediatrans-leading-solution-for-iphone-and-ipad-content-transfer-fromto-pcs/"><u>Maximize Your Media Movement with WinX MediaTrans: Leading Solution for iPhone & iPad Content Transfer From/To PCs</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-add-stylish-text-to-videos/"><u>New 2024 Approved Add Stylish Text to Videos</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-are-you-looking-to-store-your-videos-securely-and-efficiently-look-no-further-than-our-top-pick-for-the-best-cloud-storage-service-for-videos-for-2024.m/"><u>New Are You Looking to Store Your Videos Securely and Efficiently? Look No Further than Our Top Pick for the Best Cloud Storage Service for Videos for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-create-a-freeze-frame-sequence-effect/"><u>New In 2024, How to Create a Freeze Frame Sequence Effect</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-turn-your-blog-content-into-audio-podcasts-to-reach-a-wider-audience-and-increase-reader-participation/"><u>New In 2024, Turn Your Blog Content Into Audio Podcasts to Reach a Wider Audience and Increase Reader Participation</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-top-free-luts-to-use-in-shotcut-an-overview/"><u>New Top Free LUTs To Use in Shotcut An Overview</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-ultimate-list-10-best-phones-and-pc-for-chatting/"><u>The Ultimate List 10 Best Phones & PC for Chatting</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-best-video-title-generators/"><u>Updated 2024 Approved Best Video Title Generators</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-get-instant-fake-faces-top-free-online-generators/"><u>Updated 2024 Approved Get Instant Fake Faces Top Free Online Generators</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-create-realistic-fire-effects-for-2024/"><u>Updated How to Create Realistic Fire Effects for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-add-logo-or-watermark-to-youtube-video/"><u>[New] In 2024, How to Add Logo or Watermark to YouTube Video</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mastering-video-capture-in-adobe-presenter/"><u>[New] In 2024, Mastering Video Capture in Adobe Presenter</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-create-a-freeze-frame-sequence-effect/"><u>2024 Approved How to Create a Freeze Frame Sequence Effect</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/facebook-video-vanishing-act-heres-how-to-perform-the-counter-with-12-steps/"><u>Facebook Video Vanishing Act? Here's How to Perform the Counter with 12 Steps</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-11-pro-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From Apple iPhone 11 Pro?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-from-your-apple-iphone-12-mini-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock from your Apple iPhone 12 mini and iPad?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-insightful-interviews-top-15-recruitment-dialogues/"><u>In 2024, Insightful Interviews - Top 15 Recruitment Dialogues</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-save-as-mp4-file-on-windows-movie-maker/"><u>New 2024 Approved How to Save As MP4 File on Windows Movie Maker?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-guide-to-create-a-timelapse-video-in-after-effects-for-2024/"><u>New Guide to Create a Timelapse Video in After Effects for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-create-a-green-screen-video-in-after-effects/"><u>New In 2024, How To Create A Green Screen Video In After Effects</u></a></li>
+<li><a href="https://win-unique.techidaily.com/seamlessly-transform-your-powerpoint-slides-to-swf-files-using-our-top-ranked-free-tool/"><u>Seamlessly Transform Your PowerPoint Slides to .swf Files Using Our Top-Ranked Free Tool!</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-a-video-by-mouse-in-filmora/"><u>Updated How To Make a Video by Mouse in Filmora?</u></a></li>
 </ul></div>
 

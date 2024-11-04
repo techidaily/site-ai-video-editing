@@ -1,7 +1,7 @@
 ---
 title: New This Article Aims to Show You How to Improve Your Lighting in the Sun for 2024
-date: 2024-10-25T16:34:53.771Z
-updated: 2024-10-29T13:36:11.074Z
+date: 2024-11-01T05:24:23.745Z
+updated: 2024-11-03T19:31:45.143Z
 tags: 
   - ai
   - animation videos
@@ -58,13 +58,6 @@ By using a "bounce", we can reflect the light from the sun to our talent. Make s
 
 This should give us a nice look with the sun backlighting our subject and the bounce filling in the shadows and giving us soft light on our talent's face!
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4) Artificial lighting
 
 If we want to control our lighting better, we will want to use artificial lights in combination with the sun.
@@ -82,13 +75,6 @@ Now, take a look at the comparison with all the lighting conditions we create:
 1. Backlight VS Backlight & Bounce
 
 ![backlight vs backlight bounce](https://images.wondershare.com/filmora/article-images/2022/12/comparison-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Summary
 
@@ -118,6 +104,13 @@ If you are making an instructional or explainer video, you will often find that 
 
 In this article, we will share with you the different options you have when you want to add text elements to a video project.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Add Text to a Video Online
 
 One of the easiest ways that you can add text to any video is to use a free online solution. There are many online tools to choose from but VEED is a free solution that is easy to use and offers a wide range of features to choose from.
@@ -128,28 +121,29 @@ Step1Go to <https://www.veed.io/> on any browser to access the video editing too
 
 ![upload video to veedio](https://images.wondershare.com/filmora/article-images/2022/08/upload-video-to-veedio.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2Once the video is open, click on the “Text” tab on the left and then select the type of text you want to add to the video.
 
 ![add text veedio](https://images.wondershare.com/filmora/article-images/2022/08/add-text-veedio.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3Type in your text and then use the options below the text box to choose the font style, size, and color of the text. You can also use the duration icons below the text to indicate where you want the text to appear during playback.
 
 ![edit text veedio](https://images.wondershare.com/filmora/article-images/2022/08/edit-text-veedio.jpg)
 
 Step4When you're happy with the changes, click on the “Export” button at the top to save the changes and download the video.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Add Text to Video on Computer
 
@@ -176,6 +170,13 @@ Step5If you would like to change the duration of the text simply drag the edge o
 Step6Once you are happy with all the changes you have made, click on “Export” and choose an output format to save and export your video.
 
 ![save and export video](https://images.wondershare.com/filmora/article-images/2022/08/adding-text-to-video-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Add text to Video on iPhone
 
@@ -225,13 +226,6 @@ You can use PowerDirector to change the font, color, and text size or even add e
 
 ![edit text powerdirector](https://images.wondershare.com/filmora/article-images/2022/08/edit-text-powerdirector.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step5When you're done editing the video, tap on the “Export” icon at the top-right corner of the screen and choose if you would like to save the video on the device or share it via a social media app.
 
 ![export video powerdirector](https://images.wondershare.com/filmora/article-images/2022/08/export-video-powerdirector.jpg)
@@ -262,6 +256,13 @@ Step1Launch Discord desktop app on your computer. Click on the Gear icon located
 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/launch-discord-desktop-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2Once Settings window opens, go to App Settings section from the left side and click on Appearance option.
 
 Step3On the right section, scroll down, and you will find three options for zooming – Chat font scaling, Space between message groups, and Zoom level.
@@ -271,13 +272,6 @@ Step3On the right section, scroll down, and you will find three options for zoom
 Step4According to your requirements, you can move the slider to the right to zoom in on Discord. You can also press Ctrl and “+” keys together to zoom in. Press Ctrl and “-“ keys together to zoom out. If you want to reset the changes, press Ctrl and O keys together.
 
 Step5Once you are satisfied with the level of zooming, press Esc key on your keyboard to save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Zoom Discord Online
 
@@ -361,11 +355,25 @@ Step1On your smartphone, open Discord app. Tap on your Profile icon located at t
 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/open-discord-on-smartphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2You must be on User Settings page where you need to find and tap on Appearance present under App Settings.
 
 Step3Scroll down and come to Chat Font Scaling and move the slider to the right for zooming in.
 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/discord-appearance-zoom.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 There is Reset option at the bottom to cancel out the changes made as far as zoom effect goes.
 
@@ -411,13 +419,6 @@ Here're some key differences between a Mask and a Track Matte:
 
 1. A mask is dependent on a specific layer, while the Track Matter is independent of any layer.
 2. A mask is applied directly to a layer having an image or a video and transforms with the layers. On the other hand, Track Matte is a stationary mask applied to the composition rather than a layer.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. Finding The Track Matte Tool In After Effects
 
@@ -471,19 +472,6 @@ When altering the opacity of a layer, it may look like the brightness settings a
 Alpha channel is a type of Track Matte that stores transparency information. This information determines how opaque or transparent a layer will be when superimposed over another layer.
 
 ![alpha channel in track matte](https://images.wondershare.com/filmora/article-images/2022/07/alpha-channel-in-track-matte.png)
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 On the other hand, a Luma channel is a video track that stores brightness information. This information is used to determine how bright or dark an image will be and is further divided into three channels, i.e., Red, Green, and Blue (RGB). Their value ranges from 0 to 255, where 0 represents the darkest value while 255 represents the brightest value.
 
@@ -553,13 +541,6 @@ Let's find out the functions of each option one by one:
 
 Alpha Matte is an important option under the Track Matte menu, as it allows you to create a mask based on the transparency of the layer you are using it on. Like the mask, it will use any pixel above 0% opacity and can be useful for various purposes, such as creating a vignette or isolating a certain area of the frame.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Alpha Inverted Matte
 
 The Alpha Inverted Matte option is quite the opposite of the Alpha Matte, and around the Alpha channel, it uses negative space from the above layer and will therefore use pixels with 0% opacity as it had 100% opacity.
@@ -585,6 +566,13 @@ On the other hand, a Luma channel is a video track that stores brightness inform
 ![luma channel in track matte](https://images.wondershare.com/filmora/article-images/2022/07/luma-channel-in-track-matte.png)
 
 **Video – How to use Track Mattes in Adobe After Effects - Tutorial**
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -612,22 +600,14 @@ Hopefully, this guide resolves your queries, and you now have a better understan
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/2024-approved-intelligent-digital-diary-with-mematic-services/"><u>2024 Approved Intelligent Digital Diary with Mematic Services</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-mastering-pubg-sounds-simple-tips/"><u>2024 Approved Mastering PUBG Sounds Simple Tips</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/conquer-call-of-duty-warzone-glitches-mastering-error-6328-hacks-for-players/"><u>Conquer Call of Duty Warzone Glitches: Mastering Error 6328 Hacks for Players</u></a></li>
-<li><a href="https://program-issues.techidaily.com/conquer-the-pitch-black-your-guide-to-fixing-elden-rings-startup-screen-problem/"><u>Conquer the Pitch-Black: Your Guide to Fixing Elden Ring’s Startup Screen Problem</u></a></li>
-<li><a href="https://facebook.techidaily.com/dissecting-silicon-valley-giants-government-intervention/"><u>Dissecting Silicon Valley Giants: Government Intervention</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/enhancing-your-blog-revenue-using-buysellads-promotion-services/"><u>Enhancing Your Blog Revenue Using BuySellAds Promotion Services</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Honor Magic 6 Lite? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-the-upcoming-playstation-5s-release-timing-cost-analysis-news-highlights-and-hardware-features/"><u>Inside the Upcoming PlayStation 5S: Release Timing, Cost Analysis, News Highlights, and Hardware Features</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/legal-battle-hp-enterprise-accuses-inspur-of-intellectual-property-theft-as-it-persists-in-american-market-operations/"><u>Legal Battle: HP Enterprise Accuses Inspur of Intellectual Property Theft as It Persists in American Market Operations</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/mastering-modern-electronics-a-closer-look-at-toms-hardware-hub/"><u>Mastering Modern Electronics: A Closer Look at Tom's Hardware Hub</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/next-level-peripheral-connectivity-pci-sig-releases-innovative-copprlink-cables-to-power-pci-express-gen-v-and-vi-while-preparing-for-version-vii-developmen105/"><u>Next-Level Peripheral Connectivity: PCI-SIG Releases Innovative CopprLink Cables to Power PCI Express Gen V and VI, While Preparing for Version VII Development</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/no-more-glitches-master-easy-techniques-for-stable-rage-2-gameplay/"><u>No More Glitches: Master Easy Techniques for Stable RAGE 2 Gameplay</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/revive-your-razer-microphone-a-step-by-step-guide-to-troubleshooting-the-mic/"><u>Revive Your Razer Microphone: A Step-by-Step Guide to Troubleshooting the Mic</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/the-authors-secret-weapon-discover-how-chatgpt-revolutionizes-writing/"><u>The Author's Secret Weapon? Discover How ChatGPT Revolutionizes Writing</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/troubleshooting-steps-for-lost-ark-connection-issues-resolving-server-related-errors/"><u>Troubleshooting Steps for 'Lost Ark' Connection Issues: Resolving Server-Related Errors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/watch-the-conjuring-films-in-order-how-to-do-it-perfectly/"><u>Watch the 'Conjuring' Films in Order – How to Do It Perfectly?</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-realme-10t-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Realme 10T 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-secrets-unveiled-the-ultimate-strategies-for-saving-disco-livestreams-for-2024/"><u>[Updated] Secrets Unveiled The Ultimate Strategies for Saving Disco Livestreams for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-track-talkative-youtube-threads/"><u>In 2024, Track Talkative YouTube Threads</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-experiment-with-various-sky-backgrounds-for-your-footage-learn-about-sky-replacement-after-effects-in-this-article-with-a-s/"><u>New 2024 Approved Do You Want to Experiment with Various Sky Backgrounds for Your Footage? Learn About Sky Replacement After Effects in This Article with a Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-knowing-all-ways-to-slow-down-video-with-adobe-premiere-pro/"><u>New 2024 Approved Knowing All Ways To Slow Down Video With Adobe Premiere Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-learn-how-to-make-a-gaming-montage-guide-and-tips/"><u>New 2024 Approved Learn How to Make a Gaming Montage - Guide & Tips</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/televisual-methods-for-effective-language-acquisition/"><u>Televisual Methods for Effective Language Acquisition</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-want-to-add-a-slow-mo-effect-in-your-videos-in-this-guide-we-will-discuss-how-to-add-slow-motion-effects-in-the-videos-with-aft/"><u>Updated 2024 Approved Do You Want to Add a Slow-Mo Effect in Your Videos? In This Guide, We Will Discuss How to Add Slow-Motion Effects in the Videos with After Effects in an Efficient Way</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/zoom-breakout-rooms-for-newcomers-explored/"><u>Zoom Breakout Rooms for Newcomers Explored</u></a></li>
 </ul></div>
 

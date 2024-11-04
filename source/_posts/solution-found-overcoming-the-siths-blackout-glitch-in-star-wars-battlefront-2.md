@@ -1,7 +1,7 @@
 ---
 title: Solution Found! Overcoming the Sith's Blackout Glitch in Star Wars Battlefront 2
-date: 2024-10-25T16:37:10.231Z
-updated: 2024-10-29T11:07:33.126Z
+date: 2024-10-31T03:35:15.257Z
+updated: 2024-11-04T05:10:36.484Z
 tags:
   - win11
   - win10
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
  Before we dive into anything advanced, please try to restart the game and your PC to see if it’s a random one-time error.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Check Destiny 2 server status
@@ -62,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
 If you still get the Error Centipede, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Choose NAT Type 1/Open NAT
@@ -83,28 +83,8 @@ If you still get the Error Centipede, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/run-cmd-1.jpg)
 3. Type in**ipconfig** , then press**Enter** . Copy the address of your**default gateway** as we’ll need them for the next steps.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfig-1.jpg)
 4. Now open your browser,**paste the default gateway address** you copied before into the address bar, and press**Enter** .
-
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. You’ll need to enter credentials (username and password) to log into your router’s control panel.
 6. Once you’re logged in, look for UPnP settings. The location may differ on different brands, you can refer to user manuals or turn to specialists for help.
@@ -125,6 +105,13 @@ You can now test a game to see if you still get the Centipede Error.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfigall.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 2: Assign a static IP address
 
 1. Press the**Windows logo key** and**R** to invoke the Run box.
@@ -132,25 +119,25 @@ You can now test a game to see if you still get the Centipede Error.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/run-npca.cpl-.jpg)
 3. Click on the**Ethernet icon** , right-click it then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ethernet-properties-1.jpg)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipv4-properties.jpg)
 5. Select**Use the following IP address** and**Use the following DNS server addresses** . Fill in the information you recorded in Step 1:**IP address, Subnet mask, Default gateway, DNS servers** . Once complete, click**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/assign-static-ip.jpg)
 
@@ -188,6 +175,13 @@ You can now test a game to see if you still get the Centipede Error.
 | Xbox 360              | 3074                                                                                          | 88, 3074                        |
 
  If setting up the NAT type doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your network adapter driver
 
@@ -248,24 +242,24 @@ You can now test a game to see if you still get the Centipede Error.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-dailymovement-vs-youtube-income-comparison/"><u>[New] 2024 Approved DailyMovement vs Youtube Income Comparison</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-benefits-of-live-streaming-on-youtube/"><u>2024 Approved Benefits of Live Streaming on YouTube</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-digital-humorist-hub/"><u>2024 Approved Digital Humorist Hub</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-add-fade-to-black-on-premiere-pro/"><u>2024 Approved HOW to Add Fade to Black on Premiere Pro</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-layers-of-plot-and-character-design/"><u>2024 Approved Layers of Plot and Character Design</u></a></li>
-<li><a href="https://win11.techidaily.com/7-key-approaches-to-cure-the-ailing-windows-service-control-panel/"><u>7 Key Approaches to Cure the Ailing Windows Service Control Panel</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-samsung-galaxy-a54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/are-you-looking-for-dark-luts-premiere-pro-free-this-article-discusses-the-dark-moody-luts-with-top-recommendations-for-beginning-visual-editing/"><u>Are You Looking for Dark LUTs Premiere Pro Free? This Article Discusses the Dark Moody LUTs with Top Recommendations for Beginning Visual Editing</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/how-to-create-a-green-screen-video-in-after-effects/"><u>How To Create A Green Screen Video In After Effects</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-resolve-issues-after-patching-the-escapists-game-on-windows-systems/"><u>How to Resolve Issues After Patching 'The Escapists' Game on Windows Systems</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-ai-driven-shooting-modes-in-todays-cameras/"><u>In 2024, Exploring the AI-Driven Shooting Modes in Today's Cameras</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-vivo-v27e-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Vivo V27e without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-minefield-of-generative-ai-nightshade-as-your-safeguard/"><u>Navigating the Minefield of Generative AI: Nightshade as Your Safeguard</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-best-online-youtube-video-trimmer/"><u>New Best Online YouTube Video Trimmer</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/step-by-step-guide-to-masterful-snapchat-editing-for-2024/"><u>Step-by-Step Guide to Masterful Snapchat Editing for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/unlock-the-power-of-shotcut-the-ultimate-guide-to-rotating-videos-for-2024/"><u>Unlock the Power of Shotcut The Ultimate Guide to Rotating Videos for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-3-in-camera-transitions-tricks-to-make-videos/"><u>Updated 2024 Approved 3 In-Camera Transitions Tricks To Make Videos</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-create-glitch-text-effect-for-2024/"><u>Updated Create Glitch Text Effect for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-11-tips-to-make-product-ad-videos/"><u>Updated In 2024, 11 Tips to Make Product Ad Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-elevating-your-vlogs-with-high-quality-editing-premiere-pro-style/"><u>[New] 2024 Approved Elevating Your Vlogs with High-Quality Editing - Premiere Pro Style</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-thorough-examination-of-dji-inspire-1/"><u>[New] Thorough Examination of DJI Inspire 1</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-upgrading-effortlessly-with-a-focus-on-key-lens-features/"><u>[Updated] 2024 Approved Upgrading Effortlessly with a Focus on Key Lens Features</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-identifying-premium-free-online-tools-for-efficient-srt-translations-for-2024/"><u>[Updated] Identifying Premium Free Online Tools for Efficient SRT Translations for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/macwindows4/"><u>如何重新打開被遮蔽的電子檔案:Mac与Windows电脑使用4种方法解决方法</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-adobe-premiere-pro-rec-709-luts-finding-the-best-choices/"><u>In 2024, Adobe Premiere Pro Rec 709 LUTs Finding The Best Choices</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-add-freeze-frame-to-your-video-from-any-device/"><u>In 2024, How to Add Freeze Frame to Your Video From Any Device?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-xs-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On Apple iPhone XS If Youve Tried Everything</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-picsart-unveiled-full-analysis-and-step-by-step-tutorial/"><u>In 2024, PicsArt Unveiled Full Analysis & Step-by-Step Tutorial</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-a-detailed-guid-to-remove-background-from-a-video-in-premier-pro/"><u>New 2024 Approved A Detailed Guid to Remove Background From a Video in Premier Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-shotcut-video-editor-review/"><u>New 2024 Approved Shotcut Video Editor Review</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-ultimate-tutorial-revamping-samsung-mobile-usb-drivers/"><u>The Ultimate Tutorial: Revamping Samsung Mobile USB Drivers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-walkthrough-upgrading-the-zoom-app-across-different-operating-systems/"><u>The Ultimate Walkthrough: Upgrading the Zoom App Across Different Operating Systems</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-have-you-ever-tried-to-remove-motion-blur-from-photos-this-article-will-address-how-to-remove-the-motion-blur-effect-using-photoshop-and-its-alterna/"><u>Updated Have You Ever Tried to Remove Motion Blur From Photos? This Article Will Address How to Remove the Motion Blur Effect Using Photoshop and Its Alternatives</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-vintage-film-effect-1980s-for-2024/"><u>Updated How to Make Vintage Film Effect 1980S for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-aware-that-av1-has-the-potential-to-change-the-way-we-watch-videos-online-read-on-to-learn-more-about-av1-and-how-it-could-impact-yo/"><u>Updated In 2024, Are You Aware that AV1 Has the Potential to Change the Way We Watch Videos Online? Read on to Learn More About AV1 and How It Could Impact Your Life</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-top-8-sites-to-download-glitch-transition-for-premiere-pro/"><u>Updated In 2024, Top 8 Sites to Download Glitch Transition for Premiere Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-level-up-videos-by-applying-keyframe-like-a-pro-for-2024/"><u>Updated Level Up Videos By Applying Keyframe Like A Pro for 2024</u></a></li>
 </ul></div>
 

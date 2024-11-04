@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Razer Microphone: A Step-by-Step Guide to Troubleshooting the Mic"
-date: 2024-10-26T06:28:16.965Z
-updated: 2024-10-29T03:09:41.411Z
+date: 2024-10-31T04:25:34.965Z
+updated: 2024-11-04T05:19:43.475Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 * **Check the mute switches** on your microphone and make sure it’s disabled.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1 – Run the audio troubleshooter
@@ -46,13 +46,6 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 1. Type**troubleshoot** in the Windows search box and select**Troubleshooting settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/run-troubleshooter-1.jpg)
 2. Scroll down to**Recording Audio** . Then select it and click**Run the troubleshooter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/run-troubleshooter-2-1.jpg)
 
@@ -70,23 +63,24 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-2-1.jpg)
 4. **Toggle on the button** below Allow apps to access your microphone.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-3-1.jpg)
 5. Scroll to locate Allow desktop apps to access your microphone, and set the option to**On** .  
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you should be able to use the Onikuma headset mic with whatever applications. But if the problem persists, try the next fix below.
 
@@ -101,13 +95,6 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-2-1.jpg)
 3. Select the**Recording** tab. Then right-click your Onikuma headset mic and click**Enable** (if it’s not) and click**Set as Default Device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you don’t see it listed, right-click any blank space and tick**Show Disabled Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-0-1.jpg)
 4. Right-click the microphone again and select**Properties** .  
@@ -116,10 +103,10 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 5. On the**Levels** tab, check whether the microphone is muted. If yes, click the**speaker icon** to unmute it and**drag the volume slider to the max** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-8-1.jpg)
@@ -129,10 +116,10 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
  If this method doesn’t help either, move on to the next fix to check your audio driver.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4 – Update your audio driver
@@ -159,6 +146,13 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click**Update** to do it for free, but it’s partly manual.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-2-1.jpg)
 
@@ -189,24 +183,24 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unlocking-sound-potential-mastering-mac-audio-with-audacity/"><u>[New] 2024 Approved Unlocking Sound Potential Mastering Mac Audio with Audacity</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-break-the-1k-barrier-stream-youtube-successfully-from-a-phone/"><u>[New] Break the 1K Barrier Stream Youtube Successfully From a Phone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-online-image-enhancement-melodic-twist/"><u>[New] Online Image Enhancement Melodic Twist</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-secrets-of-effective-iptv-broadcasting-capture/"><u>2024 Approved Secrets of Effective IPTV Broadcasting Capture</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-infinix-hot-30-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Infinix Hot 30 5G</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-landscape-discoveries-at-toms-hardware/"><u>Navigating the Tech Landscape: Discoveries at Tom's Hardware</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-looking-for-efficient-ways-to-create-a-slow-motion-video-read-the-article-for-reliable-solutions-that-provide-excellent-results/"><u>New 2024 Approved Looking for Efficient Ways to Create a Slow-Motion Video? Read the Article for Reliable Solutions that Provide Excellent Results</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-explore-a-variety-of-inexpensive-camera-models-suitable-for-making-slow-motion-footage-without-compromising-quality/"><u>New In 2024, Explore a Variety of Inexpensive Camera Models Suitable for Making Slow-Motion Footage without Compromising Quality</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/swiftsoundphone-apps-top-10-for-rapid-music-for-2024/"><u>SwiftSoundphone Apps Top 10 for Rapid Music for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-persistent-shutdowns-age-of-empires-4-for-windows/"><u>Troubleshooting Persistent Shutdowns: Age of Empires 4 for Windows</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-vlogs-and-travel-content-are-incomplete-without-a-fast-motion-effect-learn-step-by-step-how-to-make-fast-motion-video-on-an-iphone-in-/"><u>Updated 2024 Approved Vlogs and Travel Content Are Incomplete without a Fast-Motion Effect. Learn Step-by-Step How to Make Fast Motion Video on an iPhone in This Article</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-if-you-want-to-replace-or-delete-the-sky-pictures-or-background-media-then-give-a-quick-read-to-this-article-for-effective-solutions-for-2024/"><u>Updated If You Want to Replace or Delete the Sky Pictures or Background Media, Then Give a Quick Read to This Article for Effective Solutions for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-clearly-the-efectum-app-download-without-a-watermark-option-is-on-android-phones-thus-read-this-review-on-the-efectum-app-and-find-replaceme/"><u>Updated In 2024, Clearly, the Efectum App Download without a Watermark Option Is on Android Phones. Thus, Read This Review on the Efectum App and Find Replacements for Good</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-record-video-in-slow-motion-comprehending-important-points/"><u>Updated In 2024, How To Record Video in Slow Motion Comprehending Important Points</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-timeline-template-is-a-visual-representation-showing-the-passage-of-time-it-includes-text-diagrams-images-and-icons-they-are-perfect-for-tel/"><u>Updated In 2024, Timeline Template Is a Visual Representation Showing the Passage of Time. It Includes Text, Diagrams, Images and Icons. They Are Perfect for Telling Stories, Events Etc</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-using-vn-editor-to-add-luts-for-video-editing/"><u>Updated In 2024, Using VN Editor To Add Luts for Video Editing</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713964069928-updated-learn-how-to-convert-mp4-videos-to-60-fps-gifs-with-this-easy-to-follow-tutorial-get-smooth-and-crisp-motion-in-your-gifs-in-just-a-few-simple-steps/"><u>Updated Learn How to Convert MP4 Videos to 60 FPS GIFs with This Easy-to-Follow Tutorial. Get Smooth and Crisp Motion in Your GIFs in Just a Few Simple Steps for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-steady-your-screen-a-guide-to-decelerating-snapchats-playback/"><u>[Updated] 2024 Approved Steady Your Screen A Guide to Decelerating Snapchat's Playback</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-key-techniques-boosting-video-reach-across-both-platforms/"><u>[Updated] In 2024, Key Techniques Boosting Video Reach Across Both Platforms</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-elite-edition-ultimate-guide-to-superior-cardboard-vr-gaming/"><u>2024 Approved Elite Edition Ultimate Guide to Superior Cardboard VR Gaming</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-how-to-blur-background-of-your-youtube-video-2-easy-ways/"><u>2024 Approved How to Blur Background of Your YouTube Video - 2 Easy Ways</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/50plus-best-text-effects-for-videographers/"><u>50+ Best Text Effects for Videographers</u></a></li>
+<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-walkthrough-managing-rar-files-with-mac-os-x-tools/"><u>Comprehensive Walkthrough: Managing RAR Files with Mac OS X Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-a-comprehensive-guide-to-capturing-facebook-chats/"><u>In 2024, A Comprehensive Guide to Capturing Facebook Chats</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-download-slow-motion-apps-that-can-edit-video-professionally-this-article-will-discuss-some-slomo-makers-for-both-ios-and-a/"><u>New 2024 Approved Do You Want to Download Slow-Motion Apps that Can Edit Video Professionally? This Article Will Discuss some Slomo Makers for Both iOS and Android</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-so-without-wasting-time-let-me-show-you-how-to-mask-a-video-in-wondershare-filmora-lets-get-started/"><u>New 2024 Approved So, without Wasting Time, Let Me Show You How to Mask a Video in Wondershare Filmora. Lets Get Started</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-explore-a-variety-of-inexpensive-camera-models-suitable-for-making-slow-motion-footage-without-compromising-quality-for-2024/"><u>New Explore a Variety of Inexpensive Camera Models Suitable for Making Slow-Motion Footage without Compromising Quality for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-to-show-your-mood-in-your-digital-media-content-but-dont-know-how-to-there-are-many-moody-luts-available-that-highlight-your-mood-in/"><u>New In 2024, Do You Want to Show Your Mood in Your Digital Media Content but Dont Know How To? There Are Many Moody LUTs Available that Highlight Your Mood in Your Content</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-read-and-learn-how-to-convert-a-slow-motion-video-to-normal-in-this-guide-besides-find-the-best-desktop-solution-to-adjust-video-speed-quickly-a/"><u>New In 2024, Read and Learn How to Convert a Slow-Motion Video to Normal in This Guide. Besides, Find the Best Desktop Solution to Adjust Video Speed Quickly and Easily</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ical-aspects-that-elevate-youtube-video-ranks-for-2024/"><u>Technical Aspects That Elevate YouTube Video Ranks for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformacion-gratuita-ogv-a-mp4-para-video-en-linea-facil-de-usar-por-parte-de-movavi-descubra-como-hacerlo-hoy/"><u>Transformación Gratuita OGV a MP4 Para Vídeo en Línea Fácil De Usar Por Parte De Movavi: Descubra Cómo Hacerlo Hoy</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-know-you-dont-need-a-pc-or-mac-to-apply-luts-on-your-media-you-can-use-many-smartphone-apps-to-apply-luts-such-as-3dlut-mobile-/"><u>Updated 2024 Approved Do You Know You Dont Need a PC or Mac to Apply LUTs on Your Media? You Can Use Many Smartphone Apps to Apply LUTs, Such as 3DLUT Mobile App</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-looking-forward-to-making-up-your-career-in-video-editing-land-in-here-to-learn-about-the-credibility-of-some-popular-video-editing-co/"><u>Updated 2024 Approved Looking Forward to Making up Your Career in Video Editing? Land in Here to Learn About the Credibility of some Popular Video Editing Courses</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-learn-how-to-change-aspect-ratio-in-imovie-on-mac-ipad-and-iphone-in-this-guide-and-you-can-also-use-imovie-alternatives-like-wondershare-fi/"><u>Updated In 2024, Learn How to Change Aspect Ratio in iMovie on Mac, iPad, and iPhone in This Guide. And You Can Also Use iMovie Alternatives Like Wondershare Filmora to Edit Your Videos</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-wmv-file-format-has-many-benefits-over-the-video-industry-if-you-are-excited-to-know-more-about-the-format-and-its-pros-and-cons-then-lets-s/"><u>Updated In 2024, WMV File Format Has Many Benefits over the Video Industry. If You Are Excited to Know More About the Format and Its Pros and Cons, Then Lets Start the Discussion</u></a></li>
 </ul></div>
 

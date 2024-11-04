@@ -1,7 +1,7 @@
 ---
 title: Updated How To Split Videos in Premier Pro for 2024
-date: 2024-10-28T00:24:23.427Z
-updated: 2024-10-29T08:10:06.435Z
+date: 2024-10-27T22:16:21.679Z
+updated: 2024-11-04T02:14:18.475Z
 tags: 
   - ai
   - animation videos
@@ -34,10 +34,10 @@ Step2Drag the clip onto the timeline if there is an existing sequence. If not, u
 ![new sequence from clip](https://images.wondershare.com/filmora/article-images/2022/08/how-to-split-in-premierpro-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3Choose the Razor tool from the panel next to the timeline to split the clip.
@@ -47,16 +47,10 @@ Step4To split a video clip, click on the section you want to split.
 Step5Now that you have two segments from the same video file, you can edit them separately.
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Current-Time Indicator
@@ -72,16 +66,10 @@ Step2Ensure that the video layer you want to split is highlighted on the timelin
 Step3Use the keyboard shortcuts Cmd+K or Ctrl+K to split the clip.
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Source Panel
@@ -99,10 +87,10 @@ Step2Wherever you want the In and Out indicators to appear, press the **I** or *
 Step3Select Insert from the Source panel's tools once your marks are in place.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. How to split audio from video in premiere pro?
@@ -116,21 +104,16 @@ Step3Select Insert from the Source panel's tools once your marks are in place.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-tips-and-tricks-for-streamlining-color-grading-with-luts-in-adobe/"><u>[New] 2024 Approved Tips and Tricks for Streamlining Color Grading with LUTs in Adobe</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-ultimate-mac-guide-to-saving-roblox-adventures/"><u>[New] 2024 Approved Ultimate Mac Guide to Saving Roblox Adventures</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-charting-a-course-to-riches-youtubes-monetary-milestones/"><u>[New] Charting a Course to Riches YouTube's Monetary Milestones</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-visualcapturew11-windows-11-simple-recording-app/"><u>[Updated] VisualCaptureW11 Windows 11 Simple Recording App</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-strategies-for-watching-multiple-youtube-videos/"><u>2024 Approved Strategies for Watching Multiple YouTube Videos</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/como-hacer-una-copia-de-seguridad-perfecta-de-su-correo-electronico-con-gmail-usando-un-disco-nas-qnap-tres-pasos-faciles/"><u>Cómo Hacer Una Copia De Seguridad Perfecta De Su Correo Electrónico Con Gmail Usando Un Disco NAS QNAP: Tres Pasos Fáciles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-online-converter-easily-transform-m4r-audio-files-into-aiff-format/"><u>Free Online Converter: Easily Transform M4R Audio Files Into AIFF Format</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-lava-blaze-2-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Lava Blaze 2 5G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-like-clouds-or-sky-and-want-to-use-them-as-a-video-background-explore-this-article-to-learn-about-the-sky-change-video-in-filmora.m/"><u>New 2024 Approved Do You Like Clouds or Sky and Want to Use Them as a Video Background? Explore This Article to Learn About the Sky Change Video in Filmora</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-davinci-resolve-scopes-have-undergone-significant-improvements-find-out-how-to-use-these-scopes-and-improve-your-video-editing-skills-for-2024/"><u>New DaVinci Resolve Scopes Have Undergone Significant Improvements. Find Out How to Use These Scopes and Improve Your Video Editing Skills for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-clearly-the-efectum-app-download-without-a-watermark-option-is-on-android-phones-thus-read-this-review-on-the-efectum-app-and-find-replacements-/"><u>New In 2024, Clearly, the Efectum App Download without a Watermark Option Is on Android Phones. Thus, Read This Review on the Efectum App and Find Replacements for Good</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713964810457-new-templates-increase-the-editing-possibilities-for-beginners-and-professionals-read-this-article-to-learn-about-some-customizable-slow-motion-capcut-templ/"><u>New Templates Increase the Editing Possibilities for Beginners and Professionals. Read This Article to Learn About some Customizable Slow-Motion CapCut Templates for 2024</u></a></li>
-<li><a href="https://win-docs.techidaily.com/the-essential-role-of-sitemaps-in-seo-success-discover-how/"><u>The Essential Role of Sitemaps in SEO Success - Discover How!</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-are-you-looking-for-the-best-app-to-prank-your-friends-here-is-a-complete-guide-on-the-funcall-app-how-to-use-it-to-change-your-voice-/"><u>Updated 2024 Approved Are You Looking for the Best App to Prank Your Friends? Here Is a Complete Guide on the Funcall App, How to Use It to Change Your Voice, and Its Best Alternatives</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-so-without-wasting-time-let-me-show-you-how-to-mask-a-video-in-wondershare-filmora-lets-get-started/"><u>Updated 2024 Approved So, without Wasting Time, Let Me Show You How to Mask a Video in Wondershare Filmora. Lets Get Started</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-understanding-the-dynamics-underlying-in-ai-slow-motion-editing/"><u>Updated 2024 Approved Understanding the Dynamics Underlying in AI Slow Motion Editing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-the-ultimate-12-camera-guide-for-effortless-screen-swivel-use/"><u>[New] In 2024, The Ultimate 12 Camera Guide for Effortless Screen Swivel Use</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-art-of-youtube-management-by-studio-techniques/"><u>[New] The Art of YouTube Management by Studio Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unlocking-the-secrets-to-effective-instagram-scheduling/"><u>[New] Unlocking the Secrets to Effective Instagram Scheduling</u></a></li>
+<li><a href="https://discover-best.techidaily.com/2023janifesdvdblu-ray/"><u>2023年のJANIFESにおけるディスク化決定！商品詳細、発売日、事前予約情報とDVD/Blu-Rayコピー方法</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/practices-in-selecting-youtube-video-extractor-apps-for-android/"><u>Best Practices in Selecting YouTube Video Extractor Apps for Android</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-realme-narzo-60-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Realme Narzo 60 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-are-you-looking-for-the-best-app-to-prank-your-friends-here-is-a-complete-guide-on-the-funcall-app-how-to-use-it-to-change-your-voice-and-/"><u>New 2024 Approved Are You Looking for the Best App to Prank Your Friends? Here Is a Complete Guide on the Funcall App, How to Use It to Change Your Voice, and Its Best Alternatives</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-create-slow-motion-videos-this-article-shows-methods-to-create-slow-mo-videos-without-changing-the-medias-quality/"><u>New 2024 Approved Do You Want to Create Slow-Motion Videos? This Article Shows Methods to Create Slow-Mo Videos without Changing the Medias Quality</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-if-youre-not-using-video-yet-now-is-the-time-to-start-in-this-post-well-discuss-the-benefits-of-using-video-for-social-media-marketing/"><u>Updated 2024 Approved If Youre Not Using Video yet, Now Is the Time to Start. In This Post, Well Discuss the Benefits of Using Video for Social Media Marketing and Provide Tips for Getting Started. Keep Reading to Learn More</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-davinci-resolve-scopes-have-undergone-significant-improvements-find-out-how-to-use-these-scopes-and-improve-your-video-editing-skills/"><u>Updated In 2024, DaVinci Resolve Scopes Have Undergone Significant Improvements. Find Out How to Use These Scopes and Improve Your Video Editing Skills</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-top-10-complimentary-ios-and-android-music-to-visual-applications/"><u>Updated In 2024, Top 10 Complimentary iOS & Android Music-to-Visual Applications</u></a></li>
 </ul></div>
 

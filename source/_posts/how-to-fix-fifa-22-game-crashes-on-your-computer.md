@@ -1,7 +1,7 @@
 ---
 title: How to Fix FIFA 22 Game Crashes on Your Computer
-date: 2024-10-28T08:48:11.462Z
-updated: 2024-10-29T05:34:18.914Z
+date: 2024-10-30T17:45:48.964Z
+updated: 2024-11-04T05:28:11.134Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
  Also make sure you have downloaded **[the latest Java version](https://java.com/en/download/manual.jsp)**  , which is important for your Minecraft to run smoothly. Note that you should download the Java file according to your operating system (32-bit or 64-bit).[How to check my computer specs?](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 6 fixes that proved very helpful for many users. You donâ€™t have to try them all; just work your way down the list until you find the one that works for you.
@@ -44,6 +51,13 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 4. **[Run Minecraft as administrator](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Disable Mods](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall your Minecraft](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Disable Discord Overlay
 
@@ -56,19 +70,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
  2) Select the**Overlay** tab, and turn off**Enable in-game overlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/discord-overlay.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Launch your Minecraft again.
 
@@ -115,6 +116,13 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-09-24_10-03-23-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to your graphics driver to download the correct version of its driver, then you can manually install it.
 
 **Or**
@@ -130,19 +138,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
  See if updating your video driver fixes your Minecraft not responding issue. If not, you can try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Run Minecraft as administrator
 
@@ -162,13 +157,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Disable Mods
 
  Mods enable you to have a better experience when playing Minecraft. However, mods can be the cause of your Minecraft not responding issue. If youâ€™ve added any mods to your Minecraft, you can disable them to fix the issue.
@@ -178,6 +166,13 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
  Donâ€™t forget to restart your computer before you play the game again.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall your Minecraft
 
@@ -189,19 +184,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/APP-uninstall.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click**Minecraft** and select**Uninstall** .
 
  4) Press the Windows logo key and R again to open the Run box again, then type**%appdata%** and press**Enter** .
@@ -209,10 +191,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/appdata.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Right-click the**.minecraft** folder and select**Delete** to make sure youâ€™ve deleted the related files.
@@ -247,24 +229,22 @@ Feel free to leave us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-coded-chronicles-top-10-roguelike-journeys-for-2024/"><u>[Updated] Coded Chronicles Top 10 Roguelike Journeys for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-best-10-mind-blowing-video-collage-maker-for-pc/"><u>2024 Approved Best 10 Mind-Blowing Video Collage Maker for PC</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-breathe-life-into-photos-using-blur-effects-in-illustrator/"><u>2024 Approved Breathe Life Into Photos Using Blur Effects in Illustrator</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-do-you-know-how-ai-is-helping-video-editors-and-enthusiasts-many-video-editing-software-allows-an-auto-reframe-option-to-use-that-can-help-man/"><u>2024 Approved Do You Know How AI Is Helping Video Editors and Enthusiasts? Many Video Editing Software Allows an Auto Reframe Option to Use that Can Help Manage Videos</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/5-tips-for-faster-editing-in-filmora-video-editor-for-2024/"><u>5 Tips for Faster Editing in Filmora Video Editor for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/brother-mfc-l27andwdw-windows-drivers-installation-guide-and-download-links/"><u>Brother MFC-L27^&WDW Windows Drivers Installation Guide and Download Links</u></a></li>
-<li><a href="https://techidaily.com/elevate-your-site-with-the-power-of-cookiebot-technology/"><u>Elevate Your Site with the Power of Cookiebot Technology</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-motorola-edge-40-pro-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Motorola Edge 40 Pro Without PUK Codes</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-do-censor-effects-with-filmora/"><u>In 2024, How to Do Censor Effects with Filmora</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-y78-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo Y78 5G Device</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-back-up-and-organize-your-files-to-protect-any-misfortune-befalling-them-the-article-will-guide-you-on-how-to-back-up-and-manage-your-foot/"><u>New 2024 Approved Back up and Organize Your Files to Protect Any Misfortune Befalling Them. The Article Will Guide You on How to Back up and Manage Your Footage</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-text-reveal-effect-easily-for-2024/"><u>New How to Make Text Reveal Effect Easily for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-11-tips-to-make-product-ad-videos/"><u>New In 2024, 11 Tips to Make Product Ad Videos</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/noncompliance-can-result-in-severe-penalties-including-business-closure/"><u>Noncompliance Can Result in Severe Penalties, Including Business Closure.</u></a></li>
-<li><a href="https://win-blog.techidaily.com/quick-solutions-for-the-vanguard-initialization-problem-on-valorant-gameplay/"><u>Quick Solutions for the Vanguard Initialization Problem on VALORANT Gameplay</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-here-we-are-going-to-show-you-the-best-effects-to-appear-on-camera-made-with-filmora/"><u>Updated 2024 Approved Here We Are Going to Show You the Best Effects to Appear on Camera Made with Filmora</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-make-a-tattoo-disappear-like-a-magic/"><u>Updated 2024 Approved Make A Tattoo Disappear Like A Magic</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-behind-the-scenes-access-to-user-vids-on-facebook/"><u>[New] 2024 Approved Behind-the-Scenes Access to User Vids on Facebook</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-accelerate-how-to-swiftly-broadcast-playlists/"><u>[Updated] In 2024, Accelerate How To Swiftly Broadcast Playlists</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-top-15-cinematic-tools-for-gopro-videos-and-films/"><u>2024 Approved Top 15 Cinematic Tools for GoPro Videos and Films</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-venture-into-virtuality-comprehensively-reviewing-top-10-vr-streamers/"><u>2024 Approved Venture Into Virtuality Comprehensively Reviewing Top 10 VR Streamers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-prompt-mastery-using-online-platforms-top-7-picks/"><u>Boost Your Prompt Mastery Using Online Platforms: Top 7 Picks</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/essential-key-finder-products-to-watch/"><u>Essential Key Finder Products to Watch</u></a></li>
+<li><a href="https://techidaily.com/1723808115620-how-to-get-help-in-windows-11-easily/"><u>How to Get Help in Windows 11. Easily</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-guide-to-using-luts-perfectly-in-final-cut-pro/"><u>In 2024, Guide To Using Luts Perfectly in Final Cut Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-looking-for-the-best-online-video-editors-to-add-filter-to-your-video-here-is-the-list-of-the-best-video-editors-to-add-filter-video-online-in-simpl/"><u>In 2024, Looking for the Best Online Video Editors to Add Filter to Your Video? Here Is the List of the Best Video Editors to Add Filter Video Online in Simple Steps</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/is-windows-movie-maker-still-available-for-2024/"><u>Is Windows Movie Maker Still Available for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-what-is-hdri-everything-you-need-to-know-about-hdri/"><u>New 2024 Approved What Is HDRI? Everything You Need to Know About HDRI</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-lenovos-ideapad-duet-masterfully-combines-top-notch-chromebook-functionality-with-robust-tablet-performance/"><u>Review: Lenovo's IdeaPad Duet Masterfully Combines Top-Notch Chromebook Functionality with Robust Tablet Performance</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-future-of-televising-social-media-for-2024/"><u>The Future of Televising Social Media for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-use-premiere-pro-and-want-to-learn-how-to-change-a-videos-frame-rate-using-the-tool-here-are-the-steps-that-you-need-to-follow./"><u>Updated 2024 Approved Do You Use Premiere Pro and Want to Learn How to Change a Videos Frame Rate Using the Tool? Here Are the Steps that You Need to Follow</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-best-online-youtube-video-trimmer/"><u>Updated Best Online YouTube Video Trimmer</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-add-font-effects-to-videos/"><u>Updated How to Add Font Effects to Videos</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713954225633-updated-whatre-the-best-alternatives-to-pexels-in-2024/"><u>Updated Whatre the Best Alternatives to Pexels, In 2024</u></a></li>
 </ul></div>
 
