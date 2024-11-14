@@ -1,7 +1,7 @@
 ---
 title: In-Depth Look at AmazonBasics' Affordable Flat Antenna for Catching Free Broadcasts
-date: 2024-10-28T05:49:50.366Z
-updated: 2024-11-04T05:49:33.151Z
+date: 2024-11-06T05:32:32.599Z
+updated: 2024-11-12T20:21:44.113Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Look at AmazonBasics' Affordable Flat Antenna for Catching Free Broadcasts
@@ -37,9 +37,29 @@ Lifewire / Zach Sweat
 
 4.2
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Nintendo Switch Lite
 
 ![Nintendo Switch Lite](https://www.lifewire.com/thmb/ral6yRtba1CN2dg2W4Log4OcjAg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Nintendo-Switch-Lite-1-66fc3642c4d448b18f4a0775c059247d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Zach Sweat
 
@@ -67,20 +87,13 @@ Lifewire / Zach Sweat
 
 ![Nintendo Switch Lite](https://www.lifewire.com/thmb/EUqklfDyxuB1ye8-DBboDrjzkUw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo-Switch-Lite-2-225f5107c7b74f159afecba8c3f6174a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Zach Sweat
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Design: Cute and compact**
@@ -109,14 +122,14 @@ Lifewire / Zach Sweat
 
 ![Nintendo Switch Lite](https://www.lifewire.com/thmb/7502vZ1Vh2D4nRux6hEnq4BL3Rk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo-Switch-Lite-5-2fb7aa309cc54dd79c07bd799ef7fe84.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Zach Sweat
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Setup Process: Hit the switch**
 
@@ -143,13 +156,6 @@ Lifewire / Zach Sweat
  For example, if you set the Switch Lite as your primary system, nobody can play games you've bought and downloaded on your home Switch unless they log into your account. You could always keep that other Switch as your primary, but then your Switch Lite will need Wi-Fi to access titles. It's easy to see the problem there, but apparently, Nintendo doesn't.
 
 ![Nintendo Switch Lite](https://www.lifewire.com/thmb/kQx9K3tATPBWAMgyJJymqBqYPao=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo-Switch-Lite-3-7349fa7d79f34dbaa50c25cb59aec820.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -191,13 +197,6 @@ Lifewire / Zach Sweat
 
  Lifewire / Zach Sweat
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Software: Still a bit drab, but smooth and snappy**
 
  If you’ve got an older Switch already or at least spent some time with one, the software found on the Switch Lite is exactly the same. Thankfully, that means it’s clean and snappy, but also a bit boring.
@@ -238,14 +237,14 @@ Lifewire / Zach Sweat
 
 ![Nintendo Switch Lite](https://www.lifewire.com/thmb/7XA6hgAK2B4hDSlWdmB8VQddrjw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo-Switch-Lite-7-Comparison-44dcf88ec51247a2b0756445a3c7884d.jpg)
 
- Lifewire / Zach Sweat
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Lifewire / Zach Sweat
 
 ## **Nintendo Switch Lite vs. Nintendo Switch**
 
@@ -276,6 +275,13 @@ Lifewire / Zach Sweat
 [Xbox Series S Review](https://www.lifewire.com/xbox-series-s-review-5085770)
 
 [Sony PlayStation 5 Review](https://www.lifewire.com/sony-playstation-5-review-5088394)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -309,16 +315,18 @@ Lifewire / Zach Sweat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-transform-your-iphone-into-a-content-powerhouse-with-best-fb-video-downloaders-for-ios/"><u>[Updated] 2024 Approved Transform Your iPhone Into a Content Powerhouse with Best FB Video Downloaders for iOS</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-effortlessly-enhance-your-photos-with-adobes-smooth-shutter-effect/"><u>2024 Approved Effortlessly Enhance Your Photos with Adobe's Smooth Shutter Effect</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mov3g-movi-avi/"><u>無料で速やかに動画MOVファイルを3G形式変換: Movi-Aviオンラインツール</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/debunking-5-language-learning-myths-with-facts-and-experience/"><u>Debunking 5 Language Learning Myths with Facts and Experience</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/language-tools-for-smooth-trips-essential-93-spanish-expressions/"><u>Language Tools for Smooth Trips: Essential 93 Spanish Expressions</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-unlocking-the-power-of-davinci-resolve-scopes-enhance-your-color-grad/"><u>New 2024 Approved Unlocking the Power of DaVinci Resolve Scopes Enhance Your Color Grad</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-vlog-a-beginners-guide-to-start-vlogging-for-2024/"><u>New How to Vlog? A Beginners Guide to Start Vlogging for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-top-ways-to-make-fast-motion-video-on-iphone-solved/"><u>New In 2024, Top Ways to Make Fast Motion Video on iPhone Solved</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-ways-to-merge-videos-in-handbrake-expectation-vs-reality/"><u>Updated 2024 Approved Ways to Merge Videos in HandBrake? Expectation Vs. Reality</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-looking-forward-to-making-up-your-career-in-video-editing-land-in-here-to-learn-about-the-credibility-of-some-popular-video-editing-courses-for-2024/"><u>Updated Looking Forward to Making up Your Career in Video Editing? Land in Here to Learn About the Credibility of some Popular Video Editing Courses for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/wirecast-strategies-for-successful-social-media-livestreams-for-2024/"><u>Wirecast Strategies for Successful Social Media Livestreams for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-expert-analysis-highest-quality-video-snappers/"><u>[New] Expert Analysis Highest Quality Video Snappers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-return-creator-toolkit-for-2024/"><u>[New] Return Creator Toolkit for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-premium-microphone-selection-for-your-podcast/"><u>[Updated] The Premium Microphone Selection for Your Podcast</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-top-7-inexpensive-pc-screen-recorders-ranked/"><u>2024 Approved Top 7 Inexpensive PC Screen Recorders Ranked</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-for-visuals-mastering-hd-content-postings/"><u>Facebook for Visuals: Mastering HD Content Postings</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1208898-9780759113138-hidden-circles-in-the-web/"><u>Hidden Circles in the Web | Free Book</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-se-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone SE</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategies-for-effective-b-roll-application-for-2024/"><u>Strategies for Effective B-Roll Application for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-asus-rog-gt-ac5300-analysis-crafted-exquisitely-for-gamers-and-tech-savvies/"><u>The Ultimate Asus ROG GT-AC5300 Analysis: Crafted Exquisitely for Gamers & Tech Savvies</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-are-you-wondering-how-to-slow-down-videos-or-speed-them-up-here-are-three-ways-to-do-it-speed-up-or-slow-down-your-videos-on-pc-online/"><u>Updated 2024 Approved Are You Wondering How to Slow Down Videos or Speed Them up, Here Are Three Ways to Do It. Speed up or Slow Down Your Videos on PC, Online, and Phone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-slow-mo-youtube-videos/"><u>Updated 2024 Approved How to Slow-Mo YouTube Videos</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-what-is-the-best-mp4-cutters-for-youtubers-on-mac/"><u>Updated 2024 Approved What Is the Best MP4 Cutters for YouTubers on Mac?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-learn-how-to-make-a-gaming-montage-guide-and-tips/"><u>Updated In 2024, Learn How to Make a Gaming Montage - Guide & Tips</u></a></li>
 </ul></div>
 

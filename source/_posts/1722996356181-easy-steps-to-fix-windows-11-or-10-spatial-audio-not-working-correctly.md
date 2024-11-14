@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Fix Windows 11 or 10 Spatial Audio Not Working Correctly.
-date: 2024-10-28T16:52:42.593Z
-updated: 2024-11-03T19:17:30.555Z
+date: 2024-11-06T19:52:51.154Z
+updated: 2024-11-13T07:46:27.553Z
 tags:
   - win11
   - win10
@@ -27,9 +27,29 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 4. **[Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Perform a system restore](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Download and install all Windows updates
 
  Before diving into any advanced tweaks, ensure you **restart both the Synapse software and the THX Spatial Audio app.** Then you would need to install the latest Windows updates. They usually come with bug fixes, and bring new features.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### On Windows 10
 
@@ -38,14 +58,14 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### On Windows 11
 
@@ -59,24 +79,24 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Upon reboot, play supported content to check if it works. If your THX Spatial Audio is still not working, move on to the next fix.
 
 ## 2\. Run the audio troubleshooter
 
  Whenever you’re faced with no sound or other audio-related issues, you can use a Windows troubleshooter. It helps you detect problems and attempts to resolve minor issues on Windows computers. To run the audio troubleshooter, follow the instructions below.
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### On Windows 10
 
@@ -87,10 +107,10 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 3. Select**Troubleshoot** from the left pane. Then highlight the**Playing Audio** troubleshooter and click**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/audio-run-the-troubleshooter.png)  
@@ -98,6 +118,20 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
  If there are no troubleshooters showing up here, click**Additional troubleshooters** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/troubleshoot-additional-troubleshooters.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### On Windows 11
 
@@ -124,27 +158,7 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/set-thx-spatial-audio-as-default-playback-device.png)
 3. Then in the APPLICATION MIXER section, select**Spatial Audio** as the output.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/application-mixer.png)
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After you’ve done these, you should be able to enjoy the THX Spatial feature on your audio device.
 
@@ -182,40 +196,32 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/perform-a-system-restore-step-1.png)
 2. Under the Protection Settings section, select your System driver and click on the**Configure…** button if the protection is not turned on.  
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/configure-protection.png)
 3. Tick**Turn on system protection** . Then click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/turn-on-system-protection.png)
 4. Now select your System drive and click**Create…** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/create-a-system-point-now.png)
 5. Type a description for your restore point that you can recognize. Then click**Create** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/type-a-descriptin.png)
 6. When it successfully created the restore point, click**Close** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/close-the-window.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  However, if none of the solutions listed above gives you any luck, you may need to check if there are any missing or corrupted system files. You can use the System File Checker tool (sfc /scannow) to look for any critical system issues, but most of the time it only scans major files and may miss minor issues.
 
@@ -248,24 +254,22 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-precise-color-correction-mastery-in-gopro-studio/"><u>[New] Precise Color Correction Mastery in GoPro Studio</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-subaquatic-spectacites-tips-to-enrich-underwater-videos-using-gopro/"><u>[New] Subaquatic Spectacites Tips to Enrich Underwater Videos Using GoPro</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-beats-in-pictures-the-insta-storytelling-wave/"><u>[Updated] 2024 Approved Beats in Pictures The Insta Storytelling Wave</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-best-mic-matches-for-video-editors/"><u>[Updated] 2024 Approved Best Mic Matches for Video Editors</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-screenflix-recorder-insider-report/"><u>[Updated] In 2024, ScreenFlix Recorder Insider Report</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dayz-survival-guide-rapid-and-simple-fixes-for-fps-drop-issues/"><u>DayZ Survival Guide: Rapid and Simple Fixes for FPS Drop Issues</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/fixing-silent-menace-solutions-for-evil-genius-2-audio-issues/"><u>Fixing Silent Menace: Solutions for 'Evil Genius 2' Audio Issues</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/inside-toms-hardware-realm-unveiling-top-gadgets/"><u>Inside Tom's Hardware Realm: Unveiling Top Gadgets</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-the-art-of-popular-network-sites-facebook-twitter-instagram-and-youtube-strategies/"><u>Mastering the Art of Popular Network Sites: Facebook, Twitter, Instagram & YouTube Strategies</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/revamped-gamers-choice-discover-the-latest-upgrades-to-maingears-north-desktop-lineup/"><u>Revamped Gamer's Choice: Discover the Latest Upgrades to Maingear's North Desktop Lineup</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/solution-found-overcoming-the-siths-blackout-glitch-in-star-wars-battlefront-2/"><u>Solution Found! Overcoming the Sith's Blackout Glitch in Star Wars Battlefront 2</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-best-cd-players-and-cd-changers-of-2024/"><u>The Best CD Players and CD Changers of 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/the-toms-tech-blog-pioneering-discoveries-in-the-world-of-hardware/"><u>The Tom's Tech Blog: Pioneering Discoveries in the World of Hardware</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-motorola-edgeplus-2023-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Motorola Edge+ (2023)</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/unlocking-the-secrets-with-toms-pc-hardware-insights/"><u>Unlocking the Secrets with Tom's PC Hardware Insights</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/unveiling-gadgets-with-toms-equipment-guides/"><u>Unveiling Gadgets with Tom's Equipment Guides</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/unveiling-the-latest-in-technology-with-toms-gear-insights/"><u>Unveiling the Latest in Technology with Tom's Gear Insights</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-how-to-recognize-songs-on-iphone-in-2024/"><u>Updated How to Recognize Songs on iPhone, In 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/upgrade-required-inadequate-cpu-power-for-optimal-vanguard-performance/"><u>Upgrade Required: Inadequate CPU Power for Optimal Vanguard Performance</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-detailed-explanation-of-youtubes-operation-after-a-video-goes-live/"><u>[New] In 2024, Detailed Explanation of YouTube's Operation After a Video Goes Live</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-inside-look-expert-techniques-with-vlc-playback/"><u>[New] Inside Look Expert Techniques with VLC Playback</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-simple-android-voice-capture-no-root-access/"><u>[New] Simple Android Voice Capture - No Root Access</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-designing-with-dirt-incorporating-natural-elements-into-urban-areas/"><u>[Updated] 2024 Approved Designing with Dirt Incorporating Natural Elements Into Urban Areas</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-achieving-profitability-at-half-a-million-viewers/"><u>[Updated] In 2024, Achieving Profitability at Half a Million Viewers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtube-studios-comprehensive-guide-to-video-post-production-for-2024/"><u>[Updated] YouTube Studio's Comprehensive Guide to Video Post Production for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-steps-for-modifying-sata-controller-to-support-ahci-mode/"><u>Effortless Steps for Modifying SATA Controller to Support AHCI Mode</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/effortlessly-retrieve-your-lost-iphone-photos-secure-and-effective-techniques/"><u>Effortlessly Retrieve Your Lost iPhone Photos - Secure and Effective Techniques</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-realme-gt-neo-5-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Realme GT Neo 5 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-are-you-searching-for-the-best-canon-lut-download-this-article-provides-the-best-recommendations-for-creating-the-best-professional-videos-for-2024/"><u>New Are You Searching for the Best Canon LUT Download? This Article Provides the Best Recommendations for Creating the Best Professional Videos for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-making-creative-and-engaging-youtube-videos-is-now-easy-with-several-tools-now-youtube-also-offers-you-its-own-built-in-video-editor-through-whi/"><u>New In 2024, Making Creative and Engaging Youtube Videos Is Now Easy with Several Tools. Now, YouTube Also Offers You Its Own Built-In Video Editor Through Which You Can Edit and Enhance the Video Quality</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-premiere-pro-slow-playback-issues-finding-the-best-solutions/"><u>New In 2024, Premiere Pro Slow Playback Issues Finding The Best Solutions</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-ways-to-merge-videos-in-handbrake-expectation-vs-reality-for-2024/"><u>New Ways to Merge Videos in HandBrake? Expectation Vs. Reality for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-do-you-want-to-record-videos-with-a-phantom-high-speed-camera-in-this-guide-you-can-get-a-detailed-note-on-the-phantom-camera-for-2024/"><u>Updated Do You Want to Record Videos with a Phantom High-Speed Camera? In This Guide, You Can Get a Detailed Note on the Phantom Camera for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-learning-how-to-slow-down-a-video-on-iphone-properly/"><u>Updated In 2024, Learning How to Slow Down a Video on iPhone Properly</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-recording-slow-motion-videos-is-not-more-difficult-using-a-smartphone-learn-everything-from-how-to-record-slow-motion-video-and-edit-a-video/"><u>Updated In 2024, Recording Slow-Motion Videos Is Not More Difficult Using a Smartphone. Learn Everything From How to Record Slow-Motion Video and Edit a Video to Slow Down It</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-steps-to-make-a-neon-dance-effect-with-filmora/"><u>Updated In 2024, Steps to Make a Neon Dance Effect With Filmora</u></a></li>
 </ul></div>
 

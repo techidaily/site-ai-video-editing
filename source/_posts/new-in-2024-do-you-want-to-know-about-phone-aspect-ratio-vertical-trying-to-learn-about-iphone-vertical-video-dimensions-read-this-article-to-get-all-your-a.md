@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Do You Want to Know About Phone Aspect Ratio Vertical? Trying to Learn About iPhone Vertical Video Dimensions? Read This Article to Get All Your Answers on Vertical Phone Aspect Ratio Definition, Types and Tips
-date: 2024-11-01T05:01:27.361Z
-updated: 2024-11-04T06:24:56.914Z
+date: 2024-11-07T21:31:42.004Z
+updated: 2024-11-13T02:15:48.195Z
 tags: 
   - ai
   - animation videos
@@ -84,13 +84,6 @@ The aspect ratio decides and changes the entire composition and how the audience
 
 ![image aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ● 1:1 Ratio
 
 ![1 to 1 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-1.png)
@@ -101,18 +94,18 @@ If you have seen a square-shaped image, it had probably a 1:1 aspect ratio. It s
 
 ![3 to 2 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Initially used for classic 35 mm film and still photography, aspect ratio 3:5 is still used on some laptops, tablets, and handheld game consoles. The famous example of this aspect ratio Images framed at 1080×720 pixels or 6″x4″.
 
 ● 5:4 Ratio
 
 ![5 to 4 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-14.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 It was commonly used for photography and art prints. For Images having dimensions, 8″x10″ and 16x20 have the 5:4 aspect ratios.
 
@@ -120,31 +113,24 @@ It was commonly used for photography and art prints. For Images having dimension
 
 ![video aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Like the image aspect ratios, video aspect ratios would also profoundly affect its composition and thus how your directed viewers perceive it. Some common mobile vertical video size or video aspect ratios are given below.
 
 ● 16:9 Ratio
 
 ![16 to 9 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you have seen presentation slides, computer monitors, or widescreee seen this slimmer and more elongated rectangular-shaped 16:9 Ratio. This is the standardized widescreen aspect ratio that you see everywhere on the web. In terms of pixel common dimension for 16:9 is 1920×1080 pixels and 1280×720 pixels.
 
 ● 9:16 Ratio (Vertical)
 
 ![9:16 Ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 When smartphones started coming with video capabilities, this Ratio became popular. Likewise, today this Ratio is trendy for social media platforms with video story capabilities.
 
@@ -157,19 +143,6 @@ Back in the day, taking aspect ratio vertical (portrait mode) footage was consid
 ![phone aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-7.png)
 
 Phone aspect ratio vertical simply means taller screen than wider. The most common type is 9:16 (1080x1920 pixels), a typical vertical videos aspect ratio. Although this phone aspect ratio vertical comes in a few more shapes and sizes such as 4:5, 2:3.
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3 Tips to Create Phone Vertical Videos
 
@@ -189,6 +162,13 @@ Cropping horizontal can be irritating and sometimes disappointing at the same ti
 
 If, for some reason, you still want first to shoot it horizontal and then change it back to mobile vertical video size. You may need to shoot in 4K horizontally to get extra pixels to work with. It can later be cropped in the sides to 9:16 (Vertical phone aspect ratio). Plus, you won't need to scale it anymore.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Direct your viewer's eyes
 
 For hooking social media viewers, you need to put your most interesting visual upfront. These include GIFs, colourful stop-motion or looping animation. Always try to match your first couple of shots with your overall brand personality.
@@ -198,6 +178,13 @@ For hooking social media viewers, you need to put your most interesting visual u
 ![screen splitting](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-11.png)
 
 A tall vertical screen can be styled with multiple horizontal clips on top of each other. These clips must relate to your relevant content and overall look. Natural lines or patterns can help display them in the most creative ways.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Be close to your subject
 
@@ -214,10 +201,10 @@ First, make sure that your subject is vertical-friendly. Then get closer and fil
 ● Bird’s-eye view from above.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Rule of Third
@@ -228,11 +215,25 @@ This photography rule says not to place the main subject directly in the center 
 
 You have to place your subject either on the lines or where the lines meet up. And guess what? You don't need to draw imaginary nowadays. Most cameras and smartphones provide you with this option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 6\. Avoid Shaking
 
 You do not want to distract your viewers with shaky camera moments. Normal pan and 360-degree rotation are acceptable or maybe even essential. But moving side to side too quickly will make it difficult for the camera to process that information. You better use a selfie stick or gimbal.
 
 Now, check out the best vertical video ratios for various social platforms.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best video aspect ratios for Facebook
 
@@ -250,13 +251,6 @@ Now, check out the best vertical video ratios for various social platforms.
 
 ● 2:3 (Vertical)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best video aspect ratios for Instagram
 
 ● 1:1 (Feed)
@@ -269,6 +263,13 @@ Now, check out the best vertical video ratios for various social platforms.
 
 ● 9:16 (ICTV)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best video aspect ratios for Twitter
 
 ![twitter aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-12.png)
@@ -280,13 +281,6 @@ Now, check out the best vertical video ratios for various social platforms.
 ● 16:9 (Live Videos)
 
 ● 1:11 or 16:9 (Video Posts)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best video aspect ratios for TikTok
 
@@ -339,18 +333,20 @@ If you are a professional video or image creator, you know what aspect ratio is 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/avigating-the-legal-landscape-of-youtube-guidelines-for-2024/"><u>[New] Navigating the Legal Landscape of YouTube Guidelines for 2024</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/5asw5ye66ieq57kb5lit44gr44gk44gg44gh44gn5acq6io9ieobnplusoboplusobtplusociumjnplusassuockuobneobneociplusocsplusodreodiuobruewoewnmoodrooctplusodlombhg/"><u>外出自粛中におうちで堪能!たっぷり食欲をそそるコロナの簡単レシピ集</u></a></li>
-<li><a href="https://extra-information.techidaily.com/click-inducing-headline-whiz/"><u>Click-Inducing Headline Whiz</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/convertissez-gratuitement-votre-fichier-arw-au-format-jpeg-avec-une-solution-en-ligne-movavi/"><u>Convertissez Gratuitement Votre Fichier ARW Au Format JPEG Avec Une Solution en Ligne - Movavi</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713949342922-do-you-want-to-add-an-adjustment-layer-to-your-video-for-easier-editing-read-this-article-to-find-out-how-to-efficiently-add-an-adjustment-layer-in-after-ef/"><u>Do You Want to Add an Adjustment Layer to Your Video for Easier Editing? Read This Article to Find Out How to Efficiently Add an Adjustment Layer in After Effects for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/elevate-your-videos-mastering-the-art-of-srt-in-mp4/"><u>Elevate Your Videos Mastering the Art of SRT in MP4</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-zoom-webcam-on-pc-for-2024/"><u>New How to Zoom Webcam on PC for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-quick-route-to-joy-embracing-the-ifunny-meme-app/"><u>The Quick Route to Joy Embracing the iFunny Meme App</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-guide-complete-steps-to-restore-your-iphoneipad/"><u>Ultimate Guide: Complete Steps to Restore Your iPhone/iPad</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-can-you-enhance-your-drone-footage-with-cinematic-drone-luts-this-article-discusses-top-drone-luts-recommendations-to-simplify-video-editing/"><u>Updated In 2024, Can You Enhance Your Drone Footage with Cinematic Drone LUTs? This Article Discusses Top Drone LUTs Recommendations to Simplify Video Editing</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-want-to-apply-professional-looking-color-grading-on-your-iphones-photos-and-videos-you-can-use-different-iphone-luts-for-your-picture/"><u>Updated In 2024, Do You Want to Apply Professional-Looking Color Grading on Your iPhones Photos and Videos? You Can Use Different iPhone LUTs for Your Pictures and Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-unravel-the-mystery-perfect-your-green-screen-skills-using-kinemaster/"><u>[New] 2024 Approved Unravel the Mystery Perfect Your Green Screen Skills Using Kinemaster</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-navigating-the-maze-of-multi-service-playlist-transfer/"><u>[New] Navigating the Maze of Multi-Service Playlist Transfer</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-techniques-to-boost-periscope-live-video-speed/"><u>[Updated] 2024 Approved Techniques to Boost Periscope Live Video Speed</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-itel-a60-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/alibaba-yitian-710-cpu-leads-the-race-as-top-arm-based-processor-for-cloud-servers-research-finds/"><u>Alibaba Yitian 710 CPU Leads the Race as Top Arm-Based Processor for Cloud Servers, Research Finds</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/critical-aspects-to-assess-when-looking-for-an-unbound-cellular-phone/"><u>Critical Aspects to Assess When Looking for an Unbound Cellular Phone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/global-launch-alert-lenovos-innovative-mini-pc-the-yoga-portal-ai-enhanced-by-powerful-intel-desktop-chips/"><u>Global Launch Alert: Lenovo's Innovative Mini PC - The Yoga Portal AI Enhanced by Powerful Intel Desktop Chips</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-the-epic-games-launcher-freezing-or-crashing-on-windows/"><u>How to Fix the Epic Games Launcher Freezing or Crashing on Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-strategy-unveiled-masterful-box-opening-tactics/"><u>In 2024, Strategy Unveiled Masterful Box-Opening Tactics</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-voice-of-action-crafting-moving-screenplay-conversations/"><u>In 2024, The Voice of Action Crafting Moving Screenplay Conversations</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-use-your-social-media-app-and-make-slow-motion-videos-by-reading-this-guide-besides-learning-slow-motion-snapchat-get-useful-apps-serving-the-sa/"><u>New In 2024, Use Your Social Media App and Make Slow-Motion Videos by Reading This Guide. Besides Learning Slow-Motion Snapchat, Get Useful Apps Serving the Same Purposes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-blaze-2-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Blaze 2 5G</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/top-5-solutions-how-to-stop-constant-wi-fi-drops-on-your-iphone/"><u>Top 5 Solutions: How to Stop Constant Wi-Fi Drops on Your iPhone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/unlock-efficient-digital-sanitization-how-to-effectively-use-stellar-file-eraser-5-on-your-windows-system/"><u>Unlock Efficient Digital Sanitization: How To Effectively Use Stellar File Eraser 5 on Your Windows System</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/upgrade-required-inadequate-cpu-power-for-optimal-vanguard-performance/"><u>Upgrade Required: Inadequate CPU Power for Optimal Vanguard Performance</u></a></li>
 </ul></div>
 

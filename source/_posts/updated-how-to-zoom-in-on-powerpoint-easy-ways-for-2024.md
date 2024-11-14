@@ -1,7 +1,7 @@
 ---
 title: Updated How to Zoom in on PowerPoint Easy Ways for 2024
-date: 2024-10-31T05:23:46.001Z
-updated: 2024-11-04T02:16:43.507Z
+date: 2024-11-09T00:33:26.929Z
+updated: 2024-11-13T03:39:15.701Z
 tags: 
   - ai
   - animation videos
@@ -33,37 +33,31 @@ Additionally, you may access the Zoom dialog box and choose a different zoom lev
 
 ![how to zoom in on powerpoint](https://images.wondershare.com/filmora/article-images/2022/07/select-view-zoom-in-powerpoint.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step2Click the Zoom Button
 
 Zoom in by going to the View tab attributes. Select Zoom in from the View menu after clicking. There will be a Zoom window where you may choose or input the zoom level. More options for adjusting the zoom level are available under the Zoom group on the View tab of the ribbon.
 
 ![how to zoom in on powerpoint](https://images.wondershare.com/filmora/article-images/2022/07/click-zoom-button-powerpoint.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step3Click Fit to Window
 
 Additionally, if you choose Fit, Presentation will resize the window to a proper size.
 
 ![how to zoom in on powerpoint](https://images.wondershare.com/filmora/article-images/2022/07/zoom-to-fit-powerpoint.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Use the Zoom Slider at The Bottom of the Screen
 
@@ -85,13 +79,6 @@ Click the "Fit slide to current window" button to the right of the Zoom slider t
 
 ![how to zoom in on powerpoint](https://images.wondershare.com/filmora/article-images/2022/07/fit-slide-to-current-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. The Ctrl + Mouse Spin Wheel Shortcut
 
 Ctrl + scroll wheel is a typical shortcut for zooming in Windows. Open the worksheet or presentation you wish to save with the desired zoom level, then complete the procedures listed below:
@@ -103,16 +90,10 @@ Step2To zoom in on a slide in PowerPoint, just hold the CTRL key on your keyboar
 ![how to zoom in on powerpoint](https://images.wondershare.com/filmora/article-images/2022/07/mouse-spin-wheel-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3In a similar manner, to zoom out on your presentation, hold down the CTRL key on your computer while dragging the mouse wheel downward as seen below.
@@ -120,6 +101,13 @@ Step3In a similar manner, to zoom out on your presentation, hold down the CTRL k
 ![how to zoom in on powerpoint](https://images.wondershare.com/filmora/article-images/2022/07/drag-mouse-wheel-downward.jpg)
 
 After that, you will be able to get the desired value to Zoom in or out on your PowerPoint presentation.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -138,22 +126,20 @@ You are giving a presentation at a meeting and have a number of possibilities. Z
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2023-12-methods-to-posted-facebook-videos-not-showing-up-for-2024/"><u>[New] 2023 | 12 Methods to Posted Facebook Videos Not Showing Up for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-screenmagic-pro-the-windows-10-companion/"><u>[New] 2024 Approved ScreenMagic Pro The Windows 10 Companion</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/iphone-luminance-mastering-dark-imagery/"><u>IPhone Luminance Mastering Dark Imagery</u></a></li>
-<li><a href="https://common-error.techidaily.com/keyboard-malfunctions-resolve-non-working-keys-in-windows-10-and-11-quickly/"><u>Keyboard Malfunctions? Resolve Non-Working Keys in Windows 10 and 11 Quickly!</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-understanding-the-best-tools-for-changing-sky-background/"><u>New 2024 Approved Understanding The Best Tools for Changing Sky Background</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-on-deploying-bots-in-your-discord-server-setup/"><u>Step-by-Step Tutorial on Deploying Bots in Your Discord Server Setup</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-definitive-walkthrough-to-activate-your-browsers-cookie-settings/"><u>The Definitive Walkthrough to Activate Your Browser's Cookie Settings</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-nights-reign-black-vs-the-dawns-duty-silver/"><u>The Night's Reign (Black) VS The Dawn’s Duty (Silver)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-of-personal-computing-deepcools-fresh-arsenal-of-coolers-psus-and-pc-parts-infused-with-eye-catching-pixel-silicone-customization/"><u>Unveiling the Future of Personal Computing: DeepCool's Fresh Arsenal of Coolers, PSUs, & PC Parts – Infused with Eye-Catching Pixel Silicone Customization</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-change-aspect-ratio-in-imovie/"><u>Updated 2024 Approved How to Change Aspect Ratio in iMovie</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-top-ways-to-make-fast-motion-video-on-iphone-solved/"><u>Updated 2024 Approved Top Ways to Make Fast Motion Video on iPhone Solved</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-unravel-the-creative-potential-of-adobe-after-effects-for-precise-motion-synchronization-learn-how-to-use-track-matte-and-tracking-wit/"><u>Updated 2024 Approved Unravel the Creative Potential of Adobe After Effects for Precise Motion Synchronization. Learn How to Use Track Matte and Tracking with a Simple Alternative</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-get-zoom-on-tv-easy-solutions-for-2024/"><u>Updated How to Get Zoom on TV Easy Solutions for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-find-a-solution-for-effortless-sky-replacement-photoshop-in-this-comprehensive-guide-also-use-the-easiest-video-editing-tool-to-make-your-me/"><u>Updated In 2024, Find a Solution for Effortless Sky Replacement Photoshop in This Comprehensive Guide. Also, Use the Easiest Video Editing Tool to Make Your Media Stunning</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713963870780-updated-in-this-article-you-will-learn-about-splitting-the-video-into-the-frames-in-ffmpeg-and-mentioning-the-easy-option-for-doing-the-same-task-in-a-few-s/"><u>Updated In This Article, You Will Learn About Splitting the Video Into the Frames in FFmpeg and Mentioning the Easy Option for Doing the Same Task in a Few Seconds by Wondershare Filmora for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-steps-to-make-a-neon-dance-effect-with-filmora-for-2024/"><u>Updated Steps to Make a Neon Dance Effect With Filmora for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-creating-classical-cinematography-a-modern-tutorial/"><u>[New] 2024 Approved Creating Classical Cinematography A Modern Tutorial</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/levate-your-content-game-with-these-powerful-youtube-shortcuts-for-2024/"><u>[New] Elevate Your Content Game with These Powerful YouTube Shortcuts for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-explore-the-ultimate-list-of-comedy-tears-on-instagram/"><u>[New] In 2024, Explore the Ultimate List of Comedy-Tears On Instagram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-sky-high-storages-expert-recommendations/"><u>2024 Approved Sky-High Storages Expert Recommendations</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-15-pro-max-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 15 Pro Max Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/examine-pimaxs-crystal-clarity-a-visual-treat-with-bugs/"><u>Examine Pimax's Crystal Clarity - A Visual Treat with Bugs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-6s-plus-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 6s Plus Lock Screen with Notifications?</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-a-comprehensive-guide-to-video-and-subtitle-translation-with-veedio/"><u>In 2024, A Comprehensive Guide to Video and Subtitle Translation with Veed.io</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-are-you-curious-about-finding-a-good-iphone-slow-motion-app-discover-the-top-rated-applications-in-the-market-that-will-help-you-create-th/"><u>New 2024 Approved Are You Curious About Finding a Good iPhone Slow-Motion App? Discover the Top-Rated Applications in the Market that Will Help You Create the Perfect Video</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-have-you-ever-used-premiere-pro-to-create-slow-motion-effects-this-article-will-provide-a-guide-on-producing-slow-motion-effects-by-using-/"><u>New 2024 Approved Have You Ever Used Premiere Pro to Create Slow-Motion Effects? This Article Will Provide a Guide on Producing Slow-Motion Effects by Using Adobe Premiere Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-perform-mask-tracking-discovering-the-best-methods/"><u>New 2024 Approved How to Perform Mask Tracking Discovering the Best Methods</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-use-deep-fried-meme-maker/"><u>New 2024 Approved How to Use Deep Fried Meme Maker</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-master-premiere-pro-custom-sequence-presets/"><u>New 2024 Approved Master Premiere Pro Custom Sequence Presets</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-are-you-a-video-editor-making-use-of-imovie-do-you-wish-to-read-how-to-change-orientation-in-imovie-youre-in-the-right-place-at-the-end-of-this-/"><u>New In 2024, Are You a Video Editor Making Use of iMovie? Do You Wish to Read How to Change Orientation in iMovie? Youre in the Right Place! At the End of This Guide, Youd Have Learned How to Change Video Orientation in iMovie</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-wish-to-learn-about-some-tools-to-slow-down-a-video-discover-how-to-slow-down-time-lapse-on-iphone-throughout-this-article/"><u>Updated 2024 Approved Do You Wish to Learn About some Tools to Slow Down a Video? Discover How to Slow Down Time Lapse on iPhone Throughout This Article</u></a></li>
 </ul></div>
 

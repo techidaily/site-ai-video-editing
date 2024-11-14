@@ -1,7 +1,7 @@
 ---
 title: "AI Companions Showdown: Who's Best for Your Day-to-Day – Claude or ChatGPT?"
-date: 2024-11-03T02:19:19.469Z
-updated: 2024-11-03T20:58:38.072Z
+date: 2024-11-05T16:14:01.772Z
+updated: 2024-11-13T03:09:58.174Z
 tags:
   - chatgpt
   - open-ai
@@ -58,25 +58,32 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
 ![Claude AI solves maths problem on productivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-maths-problem-on-productivity.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ChatGPT also cracked the problem as well.
 
 ![ChatGPT solves maths problem on productivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-maths-problem-on-productivity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Moving on, we asked both chatbots to solve**8/a-1 = 20/3a-1** , a fairly straightforward math problem with a surprisingly high failure rate among AI chatbots. ChatGPT was able to solve it, providing a correct answer of**\-3** at the first attempt.
 
 ![ChatGPT solves a math problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-a-math-problem.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Claude AI failed at the first attempt, but when we prompted it to solve the problem step by step (which forces it to think through every step of its logic) it was able to crack it.
@@ -84,6 +91,13 @@ ChatGPT also cracked the problem as well.
 ![Claude AI solves a math problem step-by-step](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-a-math-problem-step-by-step.jpg)
 
  We tried a few more math problems. While both chatbots got it right on the first try in some cases, in several instances, Claude AI needed a second or third attempt to provide the right response. In terms of math skills, we'll give the crown to ChatGPT.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT vs. Claude AI: Creativity
 
@@ -113,13 +127,6 @@ ChatGPT also cracked the problem as well.
 
 ![to-do list app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/to-do-list-app-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Moving on to Claude AI, the chatbot wrote clearly intelligible code. The structure and logic all seemed fine. Unfortunately, despite repeated attempts, Claude AI kept missing some critical logic to make the code actually run on a browser. It's a fail on this one.
 
  After Claude AI failed the last test, we tried a different kind of coding task, one that was more about analyzing code and less about writing new code. We uploaded five PHP files that represent the complete backend for a website and asked both Claude AI and ChatGPT where we would need to edit in all the uploaded files to ensure we get a mail once a new user registers on the site.
@@ -131,13 +138,6 @@ ChatGPT also cracked the problem as well.
  Of course, this was not an isolated case, we repeated it with several other code files, but ChatGPT stumbled and stalled on the majority of cases while Claude AI kept delivering impressive results. In terms of coding skills, the winner is not entirely straightforward.
 
  ChatGPT is clearly significantly better at writing new code and can manage complex code with impressive proficiency. However, Claude AI is significantly better at analyzing large code bases. So, if you're looking to write code for some new idea you have, ChatGPT is the tool to turn to. If you want to analyze or make sense of a code base with thousands of lines across several files, then we would definitely recommend Claude AI.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Claude AI Is a Potent Competitor on the Block
 
@@ -158,19 +158,20 @@ ChatGPT also cracked the problem as well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-leading-edge-selecting-9-superior-online-microphone-recorders/"><u>[New] Leading Edge Selecting 9 Superior Online Microphone Recorders</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-disrupted-beats-best-mobile-music-distortors/"><u>[Updated] 2024 Approved Disrupted Beats Best Mobile Music Distortors</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ppm-bmp-movavi/"><u>免費線上 PPM 轉換 BMP 的簡便方法 - Movavi轉換器指南</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-v27-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo V27 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-inconspicuous-footprint-of-social-media-engagements/"><u>In 2024, The Inconspicuous Footprint of Social Media Engagements</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-printer-laptop-connections-your-comprehensive-guide-to-wireless-and-direct-cable-methods/"><u>Mastering Printer-Laptop Connections: Your Comprehensive Guide to Wireless and Direct Cable Methods</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-the-way-to-quick-and-efficient-editing-keyboard-shortcuts-in-filmora/"><u>New 2024 Approved The Way to Quick and Efficient Editing | Keyboard Shortcuts in Filmora</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-applications-and-software-take-up-your-devices-storage-to-create-slow-mo-explore-this-piece-to-learn-about-some-slow-motion-video-online-makers./"><u>New In 2024, Applications and Software Take up Your Devices Storage to Create Slow-Mo. Explore This Piece to Learn About some Slow-Motion Video Online Makers</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-are-you-an-apple-user-interested-in-adding-a-slow-mo-to-their-videos-this-article-features-an-exceptional-procedure-for-creating-slow-mo-in-imov/"><u>New In 2024, Are You an Apple User Interested in Adding a Slow-Mo to Their Videos? This Article Features an Exceptional Procedure for Creating Slow-Mo in iMovie</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-looking-forward-to-complement-your-weekend-evenings-with-a-fantasy-tour-to-the-anime-world-stay-here-to-pick-the-most-appealing-alternative-from/"><u>New In 2024, Looking Forward to Complement Your Weekend Evenings with a Fantasy Tour to the Anime World? Stay Here to Pick the Most Appealing Alternative From the Best and Timeless Anime Creations</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-offering-the-best-understanding-of-performing-imovie-slow-motion-video-for-2024/"><u>New Offering The Best Understanding of Performing iMovie Slow Motion Video for 2024</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-repair-corrupt-pdf-v17-file-by-stellar-guide/"><u>Solutions to Repair Corrupt PDF v1.7 File</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-12-pro-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 12 Pro With Forgotten Passcode Different Methods You Can Try</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-making-slow-motion-videos-in-premiere-pro-a-review-on-the-best-method/"><u>Updated 2024 Approved Making Slow Motion Videos in Premiere Pro A Review on The Best Method</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-enhancing-video-discoverability-with-effective-titles-and-tags/"><u>[New] 2024 Approved Enhancing Video Discoverability with Effective Titles & Tags</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-conquering-the-art-of-snapchats-boomerang-creation/"><u>[New] Conquering the Art of Snapchat's Boomerang Creation</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-extracting-youtube-images-online-desktop-tools-and-terminal-tactics/"><u>[New] In 2024, Extracting YouTube Images Online, Desktop Tools & Terminal Tactics</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-speed-up-your-file-format-shift-from-srt-to-text-txt/"><u>[New] Speed-Up Your File Format Shift From SRT to Text (TXT)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-vivo-s18-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Vivo S18 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oneplus-open-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-11-pro-max-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 11 Pro Max</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-comparing-profit-potential-dailymovement-and-youtubes-earnings/"><u>In 2024, Comparing Profit Potential DailyMovement and Youtube's Earnings</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713963502155-new-how-to-create-fantastic-glitch-effects-with-filmora-read-this-guide-to-find-out-how-to-apply-glitch-effects-on-your-videos-and-make-custom-glitch-effect/"><u>New How to Create Fantastic Glitch Effects with Filmora? Read This Guide to Find Out How to Apply Glitch Effects on Your Videos and Make Custom Glitch Effects for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-loop-videos-on-android-phones-for-2024/"><u>New How to Loop Videos on Android Phones for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-this-article-aims-to-show-you-how-to-export-videos-in-filmora-for-2024/"><u>New This Article Aims to Show You How to Export Videos in Filmora for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-10-best-old-film-overlays-to-make-your-videos-look-vintage/"><u>Updated 10 Best Old Film Overlays to Make Your Videos Look Vintage</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-add-effects-on-tiktok-for-2024/"><u>Updated How to Add Effects on TikTok for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-first-impression-review-video/"><u>Updated How to Make First Impression Review Video</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-curveball-resolved-black-screen/"><u>Win11 Curveball: Resolved Black Screen</u></a></li>
 </ul></div>
 
