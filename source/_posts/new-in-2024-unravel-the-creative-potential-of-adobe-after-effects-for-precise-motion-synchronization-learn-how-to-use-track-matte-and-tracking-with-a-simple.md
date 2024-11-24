@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Unravel the Creative Potential of Adobe After Effects for Precise Motion Synchronization. Learn How to Use Track Matte and Tracking with a Simple Alternative
-date: 2024-11-10T23:56:52.434Z
-updated: 2024-11-13T23:52:00.923Z
+date: 2024-11-16T21:35:26.517Z
+updated: 2024-11-23T16:13:50.361Z
 tags: 
   - ai
   - animation videos
@@ -47,13 +47,6 @@ In Adobe After Effects, a track matte is a layer that defines the transparency o
 
 ![luma track matte](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You can use any of the **track mattes in After Effects** according to your requirements. Following is a step-by-step guide on how to use track mattes:
 
 ##### Step 1
@@ -66,18 +59,15 @@ Go to the "Modes" column and open the dropdown menu next to "Layer List." Here, 
 
 ![select track matte layer](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 3
 
 You will see two toggle switches once you select your layer. You can use these switches and the available options to set the transparency for the Track Matte. You can add **alpha matte in After Effects** or other types from here.
 
 ![use switches to add track matte](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: Performing Mask Tracking With Adobe After Effects: Reviewing the Steps
 
@@ -90,10 +80,7 @@ Import the footage you wish to edit in After Effects. Select the clip you wish t
 ![use pen tool to mark boundary](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step 2
@@ -101,13 +88,6 @@ Import the footage you wish to edit in After Effects. Select the clip you wish t
 Now, open the layer and right-click on the mask name to select "Track Mask." This will open the mask tracker in the tracker panel at the right. Open the dropdown menu next to the "Method" option. Here, you can find a range of options for tracking methods. Choose the one according to your requirements. If the object isn't moving much, you can choose a simple option such as "Position."
 
 ![set method for tracking](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 3
 
@@ -122,10 +102,7 @@ To fill in the details, go to the "Window" menu from the top and select "Content
 ![use content fill properties](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Make Masking Easy? Try Wondershare Filmora
@@ -137,6 +114,10 @@ Filmora is the complete solution when it comes to video editing. The multi-platf
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Main Highlights of Wondershare Filmora
 
@@ -151,15 +132,16 @@ Filmora offers a comprehensive toolset to help users make the most of their medi
 ![speed ramping filmora](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * [**Compound Clip**](https://tools.techidaily.com/wondershare/filmora/download/)**:** Filmora can help users merge multiple clips into a single footage. You can obtain complete control over the integrated clip for editing. This can help users manage and adjust multiple clips easily.
 
 ![compound clip filmora](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * [**AI Vocal Remover**](https://tools.techidaily.com/wondershare/filmora/download/)**:** The Vocal Remover tool of Filmora offers AI power to separate vocals and music from any audio. You can get separate acapella and vocals for various purposes. From karaoke to creative dubs, everything is now possible with Filmora.
 
@@ -175,18 +157,15 @@ Install and launch Wondershare Filmora on your device. From the homepage, tap �
 
 ![add video to timeline](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Step 2: Enable AI Mask
 
 Select your clip in the timeline and go to the “Video” tab from the right panel. Select the "Mask" option and tap the "AI Mask" icon. Under the section, you can choose from options such as "Select Character" or "Smart Brush." Select one according to your requirements and hit "Add Mask."
 
 ![apply ai masking](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 3: Adjust Mask Settings and Export File
 
@@ -207,16 +186,7 @@ Adobe After Effects is an industry-standard tool for video editing and manipulat
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -228,20 +198,18 @@ Adobe After Effects is an industry-standard tool for video editing and manipulat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-in-depth-review-and-step-by-step-tutorials-for-powerdirector/"><u>[New] In-Depth Review & Step-by-Step Tutorials for PowerDirector</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-live-stream-frontier-deciding-between-obs-and-twitch-space/"><u>[Updated] Live Stream Frontier Deciding Between OBS and Twitch Space</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/10-best-websites-to-discover-free-premiere-pro-video-templates-for-2024/"><u>10 Best Websites to Discover Free Premiere Pro Video Templates for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-achieving-cost-free-online-educational-streaming/"><u>2024 Approved Achieving Cost-Free Online Educational Streaming</u></a></li>
-<li><a href="https://article-tips.techidaily.com/hitbox-vs-twitch-which-is-better-for-2024/"><u>Hitbox Vs Twitch Which Is Better for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-overview-of-best-luts-for-vlog/"><u>New 2024 Approved Overview of Best LUTs for Vlog</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-slow-down-a-video-on-iphone-and-android-the-easy-way-for-2024/"><u>New How to Slow Down a Video on iPhone and Android The Easy Way for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-to-download-slow-motion-apps-that-can-edit-video-professionally-this-article-will-discuss-some-slomo-makers-for-both-ios-and-android/"><u>New In 2024, Do You Want to Download Slow-Motion Apps that Can Edit Video Professionally? This Article Will Discuss some Slomo Makers for Both iOS and Android</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-unleash-the-power-of-video-scopes-in-your-video-editing-projects-find-the-most-common-video-scopes-and-how-to-use-them-on-video-editing-software-for-202/"><u>New Unleash the Power of Video Scopes in Your Video Editing Projects. Find the Most Common Video Scopes and How to Use Them on Video Editing Software for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-how-to-fix-the-perpetual-loading-screen-in-among-us/"><u>Troubleshooting: How to Fix the Perpetual Loading Screen in Among Us</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-use-deep-fried-meme-maker/"><u>Updated 2024 Approved How to Use Deep Fried Meme Maker</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-free-avi-video-editor-rotate-flip-and-more-with-these-top-tools-for-2024/"><u>Updated Free AVI Video Editor Rotate, Flip, and More with These Top Tools for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-wondering-how-to-create-a-stunning-intro-video-with-kinemaster-here-are-the-simple-steps-to-use-kinemaster-to-design-your-intro-video-in-sim/"><u>Updated In 2024, Wondering How to Create a Stunning Intro Video with KineMaster? Here Are the Simple Steps to Use KineMaster to Design Your Intro Video in Simple Steps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-overwatch-no-start-on-xbox-directx-issue/"><u>[FIXED] Overwatch No Start on Xbox - DirectX Issue</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-hot-list-igs-favorite-after-effects-themes/"><u>[Updated] Hot List IG's Favorite After Effects Themes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-social-media-savvy-tips-and-tricks-for-captivating-storytelling/"><u>[Updated] Social Media Savvy Tips and Tricks for Captivating Storytelling</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-palettes-power-in-film-editing-techniques-for-2024/"><u>[Updated] The Palette's Power in Film Editing Techniques for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/beat-bugs-and-glitches-how-to-ensure-smooth-gaming-with-battlefield-5-on-your-desktop/"><u>Beat Bugs & Glitches: How To Ensure Smooth Gaming with Battlefield 5 on Your Desktop</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-for-developers-10-ways-to-supercharge-your-visual-studio-code-experience/"><u>ChatGPT for Developers: 10 Ways to Supercharge Your Visual Studio Code Experience</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-fix-fifa-22-game-crashes-on-your-computer/"><u>How to Fix FIFA 22 Game Crashes on Your Computer</u></a></li>
+<li><a href="https://win-forum.techidaily.com/introducing-enhanced-windows-11-security-patch-kb5040442/"><u>Introducing Enhanced Windows 11 Security Patch KB5040442</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-start-codegpt-with-visual-studio-code/"><u>Quick Start: CodeGPT with Visual Studio Code</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/solution-found-overcoming-the-siths-blackout-glitch-in-star-wars-battlefront-2/"><u>Solution Found! Overcoming the Sith's Blackout Glitch in Star Wars Battlefront 2</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/striking-14-text-animation-illustrations-for-2024/"><u>Striking 14 Text Animation Illustrations for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/unveiling-gadgets-with-toms-equipment-guides/"><u>Unveiling Gadgets with Tom's Equipment Guides</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/worlds-first-amd-advantage-mini-pc-introducing-the-atomman-g7-pt-with-r9-7945hx-and-rx-760e-xt-graphics/"><u>World's First AMD Advantage Mini PC: Introducing the AtomMan G7 Pt with R9 7945HX & RX 760E XT Graphics</u></a></li>
 </ul></div>
 

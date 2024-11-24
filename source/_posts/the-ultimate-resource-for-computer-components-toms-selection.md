@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Resource for Computer Components - Tom’s Selection
-date: 2024-11-10T18:12:13.067Z
-updated: 2024-11-14T00:07:06.638Z
+date: 2024-11-21T19:36:01.855Z
+updated: 2024-11-23T19:53:36.525Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -48,6 +52,10 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  There's also MSI AI Engine, which adjusts performance based on AI. Then there's AI Frozr, which does the same thing for cooling.
 
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -70,28 +78,18 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/rofessional-tricks-for-youtube-audio-amplification/"><u>[New] Professional Tricks for YouTube Audio Amplification</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-battlefield-bliss-exploring-the-7-best-massive-wars/"><u>2024 Approved Battlefield Bliss Exploring the 7 Best Massive Wars</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-fostering-fandoms-top-three-storytelling-techniques/"><u>2024 Approved Fostering Fandoms Top Three Storytelling Techniques</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-the-latest-dji-phantom-4-pro-v2-close-to-perfect-drone/"><u>Comprehensive Evaluation of the Latest DJI Phantom 4 Pro V2: Close to Perfect Drone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-magic-5-pro-phone-without-google-account-by-drfone-android/"><u>How to Unlock Honor Magic 5 Pro Phone without Google Account?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-7-pioneering-metaverse-projects-for-profound-understanding/"><u>In 2024, 7 Pioneering Metaverse Projects for Profound Understanding</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-guide-to-using-luts-perfectly-in-final-cut-pro/"><u>In 2024, Guide To Using Luts Perfectly in Final Cut Pro</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-xiaomi-13t-pro-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Xiaomi 13T Pro to PC? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-poco-x5-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Poco X5 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/is-windows-movie-maker-still-available-for-2024/"><u>Is Windows Movie Maker Still Available for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-this-article-aim-to-teach-you-how-to-make-a-night-to-day-effect-video-with-filmora-follow-the-steps-to-figure-it-out/"><u>New 2024 Approved This Article Aim to Teach You How to Make a Night to Day Effect Video with Filmora. Follow the Steps to Figure It Out</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-what-is-hdri-everything-you-need-to-know-about-hdri/"><u>New 2024 Approved What Is HDRI? Everything You Need to Know About HDRI</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-get-motion-blur-in-roblox/"><u>New In 2024, How to Get Motion Blur in Roblox?</u></a></li>
-<li><a href="https://windows11.techidaily.com/prioritize-prerequisites-to-boost-virtualbox-integration/"><u>Prioritize Prerequisites to Boost VirtualBox Integration</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-4-ways-to-loop-a-video-on-vimeo-for-2024/"><u>Updated 4 Ways to Loop a Video on Vimeo for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-add-font-effects-to-videos/"><u>Updated How to Add Font Effects to Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-prime-skills-for-quiet-visual-capture/"><u>[New] In 2024, Prime Skills for Quiet Visual Capture</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-visualize-your-workflow-top-free-screen-recorders-for-pc-and-mac-for-2024/"><u>[New] Visualize Your Workflow - Top Free Screen Recorders for PC & Mac for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-vital-6-social-media-channels-for-commercial-success/"><u>[New] Vital 6 Social Media Channels for Commercial Success</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-navigating-to-facebooks-story-archives-quickly/"><u>2024 Approved Navigating to Facebook's Story Archives Quickly</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/accelerated-learning-for-chromakey-artistry/"><u>Accelerated Learning for Chromakey Artistry</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/highlight-free-and-low-cost-attractions-including-public-parks-museums-with-free-entry-days-and-walking-or-biking-tours/"><u>Highlight Free and Low-Cost Attractions, Including Public Parks, Museums with 'Free Entry Days', And Walking or Biking Tours.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-black-ops-cold-war-overcome-the-challenge-of-error-code-887a0005-successfully/"><u>Mastering Black Ops Cold War: Overcome the Challenge of Error Code 887A0005 Successfully</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-looking-forward-to-complement-your-weekend-evenings-with-a-fantasy-tour-to-the-anime-world-stay-here-to-pick-the-most-appealing-alternativ/"><u>New 2024 Approved Looking Forward to Complement Your Weekend Evenings with a Fantasy Tour to the Anime World? Stay Here to Pick the Most Appealing Alternative From the Best and Timeless Anime Creations</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-embrace-creativity-in-your-media-by-replacing-backgrounds-learn-to-replace-the-sky-in-lightroom-through-the-steps-and-details-discussed-in-this-article-/"><u>New Embrace Creativity in Your Media by Replacing Backgrounds. Learn to Replace the Sky in Lightroom Through the Steps and Details Discussed in This Article for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/simplified-sound-adjustments-achieve-a-unique-voice-in-online-gaming/"><u>Simplified Sound Adjustments Achieve a Unique Voice in Online Gaming</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-timeline-template-is-a-visual-representation-showing-the-passage-of-time-it-includes-text-diagrams-images-and-icons-they-are-perfect-f/"><u>Updated 2024 Approved Timeline Template Is a Visual Representation Showing the Passage of Time. It Includes Text, Diagrams, Images and Icons. They Are Perfect for Telling Stories, Events Etc</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-eager-to-know-how-to-create-an-adjustment-layer-in-premiere-pro-this-article-will-highlight-the-significance-of-adding-an-adjustment/"><u>Updated In 2024, Are You Eager to Know How to Create an Adjustment Layer in Premiere Pro? This Article Will Highlight the Significance of Adding an Adjustment Layer in Premiere Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-top-list-the-best-slow-motion-video-editors-available/"><u>Updated In 2024, Top List The Best Slow Motion Video Editors Available</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

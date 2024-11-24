@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Zoom in Discord
-date: 2024-11-08T19:54:06.523Z
-updated: 2024-11-14T03:53:59.689Z
+date: 2024-11-20T17:14:26.801Z
+updated: 2024-11-23T22:13:19.302Z
 tags: 
   - ai
   - animation videos
@@ -38,10 +38,7 @@ Step4According to your requirements, you can move the slider to the right to zoo
 Step5Once you are satisfied with the level of zooming, press Esc key on your keyboard to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Zoom Discord Online
@@ -57,10 +54,7 @@ Step3From the drop-down menu, go to Zoom option. Click on “+” icon to zoom i
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/online-discord-zoom-icon.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Alternatively, you can simply launch Discord on any browser and press Ctrl and “+” or “-“ keys together for zooming in and out. You get to see by how much percentage the browser is zooming in and zooming out. If you want to reset, bring the percentage to 100%.
@@ -68,10 +62,7 @@ Alternatively, you can simply launch Discord on any browser and press Ctrl and �
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/zoom-discord-screen-online.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Zoom Discord on Mobile
@@ -82,20 +73,21 @@ Step1On your smartphone, open Discord app. Tap on your Profile icon located at t
 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/open-discord-on-smartphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2You must be on User Settings page where you need to find and tap on Appearance present under App Settings.
 
 Step3Scroll down and come to Chat Font Scaling and move the slider to the right for zooming in.
 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/discord-appearance-zoom.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 There is Reset option at the bottom to cancel out the changes made as far as zoom effect goes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -114,22 +106,17 @@ There could also be a scenario where you have excessive zoom in effect, and you 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-smooth-steam-gaming-recordings-guide-for-2024/"><u>[New] Smooth Steam Gaming Recordings Guide for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-ranking-9-premier-video-call-and-meeting-apps-ios-vs-android-reviewed/"><u>[Updated] 2024 Approved Ranking 9 Premier Video Call & Meeting Apps iOS vs Android Reviewed</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-essential-techniques-for-canon-timelapses/"><u>[Updated] Essential Techniques for Canon Timelapses</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-denoise-video-in-adobe-premiere-pro-audio-and-video-noise-removal/"><u>2024 Approved Denoise Video in Adobe Premiere Pro – Audio and Video Noise Removal</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-most-effective-soldering-irons-and-workstations-reviewed/"><u>2024'S Most Effective Soldering Irons and Workstations Reviewed</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/comment-compresser-efficacement-un-fichier-mp4-pour-une-meilleure-performance-et-qualite-visuelle/"><u>Comment Compresser Efficacement Un Fichier MP4 Pour Une Meilleure Performance Et Qualité Visuelle</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/how-to-create-an-eye-catching-intro-videos-with-invideo-for-2024/"><u>How to Create An Eye-Catching Intro Videos with InVideo for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-3d-ray-traced-settings-in-after-effects/"><u>In 2024, 3D Ray Traced Settings In After Effects</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-backup-and-organize-your-footage-in-minutes/"><u>In 2024, Backup and Organize Your Footage in Minutes</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-elevating-engagement-optimal-size-and-ratio-on-youtube/"><u>In 2024, Elevating Engagement Optimal Size & Ratio on YouTube</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/lenovo-webcam-driver-update-guide-for-optimal-performance-on-windows-7-computers/"><u>Lenovo Webcam Driver Update Guide for Optimal Performance on Windows 7 Computers</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-add-a-green-screen-to-zoom/"><u>New 2024 Approved How to Add a Green Screen to Zoom</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-create-intro-with-legend-intro-maker/"><u>New 2024 Approved How to Create Intro with Legend Intro Maker</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-detailed-steps-to-rotate-videos-using-kdenlive/"><u>New Detailed Steps to Rotate Videos Using Kdenlive</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleashing-chatbots-freedomgpt-edition-windows/"><u>Unleashing ChatBots: FreedomGPT Edition, Windows</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-keyframes-interval-everything-you-need-to-know-filmora/"><u>Updated In 2024, Keyframes Interval Everything You Need To Know | Filmora</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-high-capacity-sd-card-for-sony-a7s-series/"><u>[New] High-Capacity SD Card for Sony A7S Series</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-dissecting-the-financial-strategy-of-t-series-in-video-platforms/"><u>[Updated] In 2024, Dissecting the Financial Strategy of T-Series in Video Platforms</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-samsung-galaxy-a15-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Samsung Galaxy A15 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-server-connection-lost-glitches-within-escape-from-tarkov-gameplay/"><u>Fixing 'Server Connection Lost' Glitches Within Escape From Tarkov Gameplay</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-did-you-know-cameras-have-a-built-in-feature-to-shoot-slow-motion-clips-this-article-is-about-using-sony-sandq-to-capture-slow-motion-scen/"><u>New 2024 Approved Did You Know Cameras Have a Built-In Feature to Shoot Slow-Motion Clips? This Article Is About Using Sony S&Q to Capture Slow-Motion Scenes</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-let-us-talk-about-the-famous-photoshop-and-most-commonly-used-glitch-effect-the-article-understudy-will-discuss-in-detail-about-photo-glit/"><u>New 2024 Approved Let Us Talk About the Famous Photoshop and Most Commonly Used Glitch Effect. The Article Understudy Will Discuss in Detail About Photo Glitch Effect</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-the-ultimate-guide-for-the-10-leading-slow-motion-cameras-for-2024/"><u>New The Ultimate Guide for the 10 Leading Slow-Motion Cameras for 2024</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/section-3b-five-factfactors-or-influences-on-foreign-policy/"><u>Section 3B: Five Fact.factors or Influences on Foreign Policy.</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/toryline-secret-to-youtube-triumph-for-2024/"><u>The Storyline Secret to YouTube Triumph for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-want-to-use-luts-in-final-cut-pro-there-are-many-free-luts-for-fcpx-available-that-you-can-use-using-luts-you-can-create-profes/"><u>Updated 2024 Approved Do You Want to Use LUTs in Final Cut Pro? There Are Many Free LUTs for FCPX Available that You Can Use. Using LUTs, You Can Create Professional-Looking Content</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713963128418-updated-green-screen-is-a-widely-used-effect-in-after-effects-many-professional-photographers-use-it-to-make-creative-video-effects-this-guide-will-show-you/"><u>Updated Green Screen Is a Widely Used Effect in After Effects. Many Professional Photographers Use It to Make Creative Video Effects. This Guide Will Show You How to Use Green Screen to Videos in After Effects for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/what-sets-360-and-vr-media-apart/"><u>What Sets 360° and VR Media Apart?</u></a></li>
 </ul></div>
 

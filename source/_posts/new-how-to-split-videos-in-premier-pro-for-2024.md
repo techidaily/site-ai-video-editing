@@ -1,7 +1,7 @@
 ---
 title: New How To Split Videos in Premier Pro for 2024
-date: 2024-11-07T22:23:20.212Z
-updated: 2024-11-13T21:15:47.293Z
+date: 2024-11-22T20:12:21.336Z
+updated: 2024-11-23T18:46:17.828Z
 tags: 
   - ai
   - animation videos
@@ -22,10 +22,7 @@ Premiere Pro is the most popular video editing program for movies, television, a
 ## Part 1\. How to split a clip in premiere pro?
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. The Razor tool
@@ -40,6 +37,10 @@ Step2Drag the clip onto the timeline if there is an existing sequence. If not, u
 
 ![new sequence from clip](https://images.wondershare.com/filmora/article-images/2022/08/how-to-split-in-premierpro-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3Choose the Razor tool from the panel next to the timeline to split the clip.
 
 Step4To split a video clip, click on the section you want to split.
@@ -47,10 +48,7 @@ Step4To split a video clip, click on the section you want to split.
 Step5Now that you have two segments from the same video file, you can edit them separately.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Current-Time Indicator
@@ -66,10 +64,7 @@ Step2Ensure that the video layer you want to split is highlighted on the timelin
 Step3Use the keyboard shortcuts Cmd+K or Ctrl+K to split the clip.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Source Panel
@@ -87,10 +82,7 @@ Step2Wherever you want the In and Out indicators to appear, press the **I** or *
 Step3Select Insert from the Source panel's tools once your marks are in place.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to split audio from video in premiere pro?
@@ -104,22 +96,15 @@ Step3Select Insert from the Source panel's tools once your marks are in place.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-beauty-vlogs-from-basics-to-brilliance-launching-a-youtube-channel/"><u>[New] In 2024, Beauty Vlogs From Basics to Brilliance Launching a YouTube Channel</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-essential-guide-recording-google-meets-securely/"><u>[Updated] In 2024, Essential Guide Recording Google Meets Securely</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-artists-guide-to-vivid-vsco-imagery/"><u>[Updated] The Artist's Guide to Vivid VSCO Imagery</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-the-screen-youtube-journey-comparison-from-creator-to-competitor/"><u>Eye on the Screen YouTube Journey Comparison From Creator to Competitor</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-itel-a05s-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713942898556-how-to-livestream-zoom-on-facebook-for-2024/"><u>How to Livestream Zoom on Facebook for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-archive-powerpoint-into-video-repository/"><u>In 2024, Archive PowerPoint Into Video Repository</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-best-budget-friendly-high-fidelity-webm-players/"><u>In 2024, The Best Budget-Friendly, High-Fidelity WebM Players</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-exploring-tools-to-integrate-special-mask-effects-into-your-content-read-the-following-article-to-master-some-tools-experts-in-mask-tracki/"><u>New 2024 Approved Exploring Tools to Integrate Special Mask Effects Into Your Content. Read the Following Article to Master some Tools Experts in Mask Tracking</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713963240441-new-have-you-ever-used-premiere-pro-to-create-slow-motion-effects-this-article-will-provide-a-guide-on-producing-slow-motion-effects-by-using-adobe-premiere/"><u>New Have You Ever Used Premiere Pro to Create Slow-Motion Effects? This Article Will Provide a Guide on Producing Slow-Motion Effects by Using Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-split-videos-in-premier-pro/"><u>New In 2024, How To Split Videos in Premier Pro</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-tiktok-video-aspect-ratio/"><u>New In 2024, Tiktok Video Aspect Ratio</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-mask-tracking-with-adobe-premiere-pro-a-detailed-guide-for-2024/"><u>New Mask Tracking with Adobe Premiere Pro A Detailed Guide for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-x-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone X Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/transform-the-virtual-arena-engage-with-ease-during-live-streaming-for-2024/"><u>Transform the Virtual Arena Engage with Ease During Live Streaming for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-change-aspect-ratio-in-imovie-for-2024/"><u>Updated How to Change Aspect Ratio in iMovie for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-use-deep-fried-meme-maker-for-2024/"><u>Updated How to Use Deep Fried Meme Maker for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-unleash-your-creative-voice-on-tiktok-with-this-simple-step-by-step-guide/"><u>[New] 2024 Approved Unleash Your Creative Voice on TikTok with This Simple Step-By-Step Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-precious-chrome-companion-ringtones/"><u>[New] Precious Chrome Companion Ringtones</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-create-one-click-video-reverse-effect-in-filmora/"><u>2024 Approved How to Create One Click Video Reverse Effect in Filmora</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/best-hidden-instagram-tool-for-clandestine-stories-for-2024/"><u>Best Hidden Instagram Tool for Clandestine Stories for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-infinix-note-30-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Infinix Note 30 for Free? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-comment-on-youtube-live-chat/"><u>New 2024 Approved How to Comment on YouTube Live Chat</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210644825-9780349431758-tapping-in/"><u>Tapping In | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-path-to-dominance-apples-potential-game-changing-moves-over-openai-microsoft-and-google-at-wwdc-202/"><u>Unveiling the Path to Dominance: Apple's Potential Game-Changing Moves Over OpenAI, Microsoft & Google at WWDC 202#</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-what-are-the-stages-of-film-production/"><u>Updated In 2024, What Are The Stages Of Film Production</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-master-premiere-pro-custom-sequence-presets-for-2024/"><u>Updated Master Premiere Pro Custom Sequence Presets for 2024</u></a></li>
 </ul></div>
 

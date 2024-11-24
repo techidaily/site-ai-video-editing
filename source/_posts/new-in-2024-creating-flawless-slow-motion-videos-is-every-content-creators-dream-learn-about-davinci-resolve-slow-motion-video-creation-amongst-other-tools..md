@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Creating Flawless Slow-Motion Videos Is Every Content Creators Dream. Learn About DaVinci Resolve Slow-Motion Video Creation, Amongst Other Tools
-date: 2024-11-06T16:41:18.884Z
-updated: 2024-11-13T23:07:55.545Z
+date: 2024-11-16T17:24:35.344Z
+updated: 2024-11-23T16:36:15.865Z
 tags: 
   - ai
   - animation videos
@@ -31,6 +31,10 @@ Post-production editing is what adds value and perfection to your shots. [DaVinc
 
 With its custom settings options, you can create slow motions in DaVinci Resolve. It has multiple options for manipulating the speed of the entire video clip. With its speed ramping option, you can slow down a specific portion of the video. The Optical Flow feature in it brings precision to your slow-motion videos. If you want to get rid of switching between software, DaVinci slow motion is an option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Methods of Creating Slow Motion Videos in DaVinci Resolve 18
 
 There are multiple options and techniques for producing **slow-motion DaVinci Resolve**. The following section contains the step-by-step guide to doing that:
@@ -46,20 +50,21 @@ Are you looking for a speedy and straightforward method to slow down a video? In
 
 ![access remote controls](https://images.wondershare.com/filmora/article-images/2023/slow-motion-in-davinci-resolve-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Commencing this action will feature a speed change option on your clip. Click on the navigation icon adjacent to the speed percentage in the timeline clip. As this opens a dropdown menu, select the "Change Speed" option to continue. Further, select a slower percentage in the given panel to slow down your video.
 
 ![set speed to slow motion](https://images.wondershare.com/filmora/article-images/2023/slow-motion-in-davinci-resolve-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** There is a built-in option to bring smoothness to your slow-motion video. For this, select your clip and navigate towards the top-right panel. In the "Video" tab, scroll down and access the "Retime and Scaling" section. Here, expand the "Retime Process" option and select “Optical Flow.” This will add extra smoothness to your **DaVinci slow-motion** video.
 
 ![use optical flow for smoothness](https://images.wondershare.com/filmora/article-images/2023/slow-motion-in-davinci-resolve-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Method 2\. Using the Clip Attribution Settings
 
@@ -69,9 +74,17 @@ This method is suitable if you have shot a video at a higher frame rate. This me
 
 ![access clip attributes settings](https://images.wondershare.com/filmora/article-images/2023/slow-motion-in-davinci-resolve-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** From the Clip Attributes window, go to the "Video" tab and expand "Video Frame Rate." From the appearing frame rate options, select a lesser frame rate.
 
 ![change video frame rate](https://images.wondershare.com/filmora/article-images/2023/slow-motion-in-davinci-resolve-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** To sync the audio with your clip, navigate towards the timeline panel. Select the audio track and right-click on it to access settings. From the options menu, locate and uncheck the “Link Clips” option.
 
@@ -82,22 +95,12 @@ This method is suitable if you have shot a video at a higher frame rate. This me
 ![adjust audio with clip in fairlight](https://images.wondershare.com/filmora/article-images/2023/slow-motion-in-davinci-resolve-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Making Slow Motion Video Making Easy with Wondershare Filmora
 
 **Slow motion in DaVinci Resolve** gives accurate and precise results. However, the editing interface of this software can appear tricky to some users. If you are new to video editing or have beginner-level skills, using it can be difficult. To liberate you from such technicalities, we introduce you to [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). This is an AI-driven desktop tool offering slow-motion video functions.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Methods to Make a Slow Motion Video in Wondershare Filmora
 
@@ -121,10 +124,7 @@ After downloading Filmora on your device, launch it and create a new project. Up
 ![access uniform speed settings](https://images.wondershare.com/filmora/article-images/2023/slow-motion-in-davinci-resolve-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step 2Access the Settings Panel
@@ -134,10 +134,7 @@ Navigate towards the settings panel and access the “Uniform Speed” tab. Unde
 ![manage speed and duration manually](https://images.wondershare.com/filmora/article-images/2023/slow-motion-in-davinci-resolve-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Method 2\. Using the AI Frame Interpolation Option
@@ -149,13 +146,6 @@ If you want better results while slowing down video frames, you can opt for this
 After importing media and dropping it into the timeline, select the video in the timeline. Then, navigate towards the right-side panel and go to the "Speed" tab. Under this tab, select the "Speed Ramping" option and enable the "Optical Flow" option after selecting any particular speed ramping preset. You can access this option by expanding the "AI Frame Interpolation" options.
 
 ![change speed ramping settings](https://images.wondershare.com/filmora/article-images/2023/slow-motion-in-davinci-resolve-14.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 2Render Preview and Export
 
@@ -180,13 +170,6 @@ Have you just started using Filmora and feel confused while editing? There is no
 If you have an idea for a video but not the skill to create it, Filmora has got you covered. Using this feature, you can craft a proper video from text. You just need to add a script or textual direction in the prompt section. AI will handle and insert the AI voice, text, and graphics independently.
 
 ![ai text to video filmora](https://images.wondershare.com/filmora/article-images/2023/slow-motion-in-davinci-resolve-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### 3\. AI Copywriting
 
@@ -217,20 +200,24 @@ Upon conclusion, let’s rewind the complete knowledge of this article. At first
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-from-beat-to-buzz-creating-impact-in-10-seconds-on-youtube/"><u>[Updated] 2024 Approved From Beat to Buzz Creating Impact in 10 Seconds on YouTube</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-the-science-of-light-in-hdr-photography/"><u>[Updated] The Science of Light in HDR Photography</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-complete-process-recording-youtube-livestream-on-multiple-platforms/"><u>2024 Approved The Complete Process Recording YouTube Livestream on Multiple Platforms</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/advanced-audio-alliance-for-podcasters/"><u>Advanced Audio Alliance for Podcasters</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713948690843-are-you-looking-for-ways-to-add-background-to-green-screen-video-online-worry-not-as-in-this-article-we-shall-discuss-using-a-green-screen-background-adder-/"><u>Are You Looking for Ways to Add Background to Green Screen Video Online? Worry Not, as in This Article; We Shall Discuss Using a Green Screen Background Adder in Filmora for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-to-the-upcoming-tesla-robotaxi-insights-on-release-date-specs-and-more-rumors/"><u>Comprehensive Guide to the Upcoming Tesla Robotaxi: Insights on Release Date, Specs & More Rumors</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discovering-royal-match-layers-how-intricate-is-it-really/"><u>Discovering Royal Match Layers – How Intricate Is It Really?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-infinix-hot-40-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Infinix Hot 40 Pro Lock Screen Password?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/masterful-photo-experience-the-cloud-enabled-nixplay-iris/"><u>Masterful Photo Experience - The Cloud-Enabled Nixplay Iris</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-learning-how-to-slow-down-a-video-on-iphone-properly/"><u>New 2024 Approved Learning How to Slow Down a Video on iPhone Properly</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-lets-introduce-the-top-5-applications-to-add-a-song-to-a-video-for-free-with-some-amazing-sound-and-visual-effects/"><u>New 2024 Approved Lets Introduce the Top 5 Applications to Add a Song to a Video for Free with some Amazing Sound and Visual Effects</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-stunning-glitch-effect-and-its-creation-guideline-for-premiere-pro/"><u>New 2024 Approved Stunning Glitch Effect and Its Creation Guideline for Premiere Pro</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-what-is-the-best-voice-changer-for-whatsapp-discover-the-seven-7-best-voice-changers-for-whatsapp-here-in-this-post/"><u>New 2024 Approved What Is the Best Voice Changer for WhatsApp? Discover the Seven (7) Best Voice Changers for WhatsApp Here in This Post</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-creating-flawless-slow-motion-videos-is-every-content-creators-dream-learn-about-davinci-resolve-slow-motion-video-creation-amongst-other-to/"><u>Updated In 2024, Creating Flawless Slow-Motion Videos Is Every Content Creators Dream. Learn About DaVinci Resolve Slow-Motion Video Creation, Amongst Other Tools</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-ever-wondered-about-the-similarity-you-bear-with-an-anime-character-if-you-have-not-yet-looked-into-this-exciting-aspect-of-motion-graphic-d/"><u>Updated In 2024, Ever Wondered About the Similarity You Bear with an Anime Character? If You Have Not yet Looked Into This Exciting Aspect of Motion Graphic Design, You Can Very Well Break the Ice Here</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/levate-your-channelenas-expensive-check-out-our-11-free-name-generators-guide-for-2024/"><u>[New] Elevate Your Channel'enas Expensive? Check Out Our 11 Free Name Generators Guide for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-lone-listeners-conundrum-cure-method/"><u>[New] Lone Listener's Conundrum Cure Method</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-savor-on-screen-mastering-food-films-with-these-7-essentials-for-2024/"><u>[New] Savor on Screen - Mastering Food Films with These 7 Essentials for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-tech-tips-how-to-get-fcp-without-money/"><u>[Updated] 2024 Approved Tech Tips How to Get FCP Without Money</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-immediate-screenshot-recorder-chrome/"><u>[Updated] Immediate Screenshot Recorder (Chrome)</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-hdr-photography-how-to-use-hdr-mode-on-your-android-devices/"><u>2024 Approved HDR Photography How to Use HDR Mode on Your Android Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-xs-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone XS Max without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-adobe-premiere-pro-rec-709-luts-finding-the-best-choices/"><u>New 2024 Approved Adobe Premiere Pro Rec 709 LUTs Finding The Best Choices</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-make-a-video-loop-in-quicktime/"><u>New In 2024, How to Make a Video Loop in QuickTime</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-and-easy-ways-to-fix-world-of-warcraft-crashing-issues-for-uninterrupted-gaming/"><u>Quick and Easy Ways to Fix World of Warcraft Crashing Issues for Uninterrupted Gaming</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-effective-methods-for-restoring-functionality-to-a-broken-discord-cam/"><u>Solved! Effective Methods for Restoring Functionality to a Broken Discord Cam</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unified-video-ventures-selecting-an-mcn/"><u>Unified Video Ventures Selecting an MCN</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-powerhouse-designer-an-in-depth-review-of-the-dell-xps-laptop-model-9640/"><u>Unveiling the Powerhouse Designer – An In-Depth Review of the Dell XPS Laptop, Model 9640</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-8-best-sites-to-get-glitch-transition-for-premiere-pro/"><u>Updated 2024 Approved 8 Best Sites to Get Glitch Transition for Premiere Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-blur-background-in-adobe-premiere-pro-detailed-guide/"><u>Updated How To Blur Background in Adobe Premiere Pro Detailed Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-create-quiz-videos-detailed-guide/"><u>Updated How To Create Quiz Videos Detailed Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-also-a-fan-of-the-slow-mo-guys-well-who-isnt-learn-how-you-can-create-compelling-slow-mo-videos-like-the-slow-mo-guys-here/"><u>Updated In 2024, Are You Also a Fan of the Slow Mo Guys? Well! Who Isnt? Learn How You Can Create Compelling Slow-Mo Videos Like the Slow Mo Guys Here</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-working-on-editing-a-video-and-youd-like-to-add-text-to-it-learn-the-various-ways-that-you-can-add-text-to-a-video/"><u>Updated In 2024, Are You Working on Editing a Video and Youd Like to Add Text to It? Learn the Various Ways that You Can Add Text to a Video</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-want-to-add-freeze-frame-effect-to-your-video-on-your-device-here-are-the-steps-to-add-freeze-frame-on-pc-mac-smartphone-as-well-as-online-f/"><u>Updated In 2024, Want to Add Freeze Frame Effect to Your Video on Your Device? Here Are the Steps to Add Freeze Frame on PC, Mac, Smartphone as Well as Online From Any Device</u></a></li>
 </ul></div>
 

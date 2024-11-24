@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Discover How You Can Use Vectorscope to Adjust Luminance, Color Grading, and More in Your Video Editing Projects
-date: 2024-10-31T16:57:06.384Z
-updated: 2024-11-03T20:02:28.514Z
+date: 2024-11-18T16:04:14.984Z
+updated: 2024-11-23T16:16:13.025Z
 tags: 
   - ai
   - animation videos
@@ -31,20 +31,11 @@ The Vectorscope contains markings indicating the degree of saturation and hue in
 
 ![vectorscope](https://images.wondershare.com/filmora/article-images/2023/demystifying-the-vectorscope-a-comprehensive-guide-for-premiere-pro-color-correction-1.JPG)
 
-Vectorscopes are useful to filmmakers and editors to ensure greater conformity in a film as they transition from one shot to the next. When the camera captures an image with too much saturation, using a Vectorscope helps to reduce the said saturation. This makes Vectorscope a useful feature for color correction and color grading. Color correction involves altering the colors of an image within a film to provide consistency and tone for the film. On the other hand, color grading is more like a supercharged version of color correction. It refers to altering a film so that it matches a tone or theme. Since the two, grading and correction are important, more video editing will use a combination of both.
-
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Vectorscopes are useful to filmmakers and editors to ensure greater conformity in a film as they transition from one shot to the next. When the camera captures an image with too much saturation, using a Vectorscope helps to reduce the said saturation. This makes Vectorscope a useful feature for color correction and color grading. Color correction involves altering the colors of an image within a film to provide consistency and tone for the film. On the other hand, color grading is more like a supercharged version of color correction. It refers to altering a film so that it matches a tone or theme. Since the two, grading and correction are important, more video editing will use a combination of both.
 
 ### **How to Read a Vectorscope**
 
@@ -53,10 +44,7 @@ Learning how to read a Vectorscope will make your video editing fun and easier. 
 ![reading vectorscope](https://images.wondershare.com/filmora/article-images/2023/demystifying-the-vectorscope-a-comprehensive-guide-for-premiere-pro-color-correction-2.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The hue color is the direction to which the marketer points. For instance, a marker pointing toward the boxes labeled “R” indicates that the hue is predominantly red. On the other hand, the saturation correlates to the length of the marker. The image is more saturated when the marker is furthest from the center of the wheel.
@@ -64,6 +52,10 @@ The hue color is the direction to which the marketer points. For instance, a mar
 Keep note of the two boxes in each main color. The box that is close to the center indicates 75%, and you will normally avoid the marker extending beyond this first box. Any marketer that extends beyond this is known as non-broadcast safe or illegal colors. Although you may need to go beyond the first box in some projects for stylistic reasons, the general rule of thumb is to avoid that.
 
 Without proper calibration, your images may end up looking too red or too blue. They will not look natural at all and will affect the overall quality of your video. Therefore, using the features within the vectorsope will help you color-grade your images to perfection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 2\.** ** Vectorscope in Premiere Pro
 
@@ -77,16 +69,13 @@ A Vectorscope is similar to a color wheel. It displays colors in the same places
 
 ![color wheel](https://images.wondershare.com/filmora/article-images/2023/demystifying-the-vectorscope-a-comprehensive-guide-for-premiere-pro-color-correction-3.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As you examine the Vectorscope, you get to see how strong a particular color is by the length of the line from the center of the wheel. A longer line indicates that the color is more saturated. However, all Vectorscopes have small color targets. The Vectorscope points are lined with a drop-down used to read the scope. The default is set to 75%, which is a good limit for a typical broadcast system.
 
 ![drop-down](https://images.wondershare.com/filmora/article-images/2023/demystifying-the-vectorscope-a-comprehensive-guide-for-premiere-pro-color-correction-4.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **2\. Adjusting Skin Tones**
 
@@ -94,24 +83,15 @@ A commonly used feature of the Premier Pro Vectorscope is the Skin Tone Line. Wi
 
 ![skin tones](https://images.wondershare.com/filmora/article-images/2023/demystifying-the-vectorscope-a-comprehensive-guide-for-premiere-pro-color-correction-5.JPG)
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The Vectorscope skin tone line represents the color of blood flowing through the skin. You can use this line to check the accuracy of skin tone color representation regardless of the ethnicity of the person you’re filming. In particular, video images are more accurate
 
 The major problem is figuring out how to look at skin tones in a shot with many other colors. With the skin tons line in Premiere Pro, color correction becomes easy and quick. You only need to use a garbage matte, which is found under video effects then keying. Adjust the points so that they cover the skin of the person on the shot, then look at the Premiere Pro Vectorscope to see your end results.
 
 ![skin tone adjustments](https://images.wondershare.com/filmora/article-images/2023/demystifying-the-vectorscope-a-comprehensive-guide-for-premiere-pro-color-correction-6.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 3\.** **How to Use Vectorscope in Filmora
 
@@ -131,13 +111,6 @@ Once you have downloaded and installed the Filmora software on your desktop, lau
 
 ![create a new project](https://images.wondershare.com/filmora/article-images/2023/demystifying-the-vectorscope-a-comprehensive-guide-for-premiere-pro-color-correction-7.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 2Access Video Scopes
 
 After starting a new project, head to the top right corner of the main interface. Click on the Video Scope button to launch the video scope bar on the preview screen.
@@ -149,6 +122,10 @@ After starting a new project, head to the top right corner of the main interface
 Customizing the layout of the video scope bar allows you to have more freedom in using the feature. You have the option to choose from four layouts or expand the button to display the video scope’s name. The purpose of this step is to modify the display option of the video scopes, allowing you to have a clear view of what you are editing.
 
 ![customize video scopes bar](https://images.wondershare.com/filmora/article-images/2023/demystifying-the-vectorscope-a-comprehensive-guide-for-premiere-pro-color-correction-9.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 4Manage the Vectorscope as Desired
 
@@ -162,6 +139,10 @@ To achieve more accurate and better results, explore the other video scopes in t
 
 ![manage Vectorscope](https://images.wondershare.com/filmora/article-images/2023/demystifying-the-vectorscope-a-comprehensive-guide-for-premiere-pro-color-correction-11.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Conclusion**
 
 Vectorscopes are great for post-production color correction. Although lesser-known features to many people, they are widely used in video production. They ensure that the colors in your video are consistent across all clips or shots of your film. Since filming will often involve different shots and settings, we recommend using Wondershare Filmora for your video editing. It comes with an easy-to-use Vectorscope and other video scopes that help you achieve great results with color correction and grading.
@@ -169,13 +150,6 @@ Vectorscopes are great for post-production color correction. Although lesser-kno
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Use Vectorscope in Filmora](https://tools.techidaily.com/wondershare/filmora/download/) [Try Color Correction](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -186,22 +160,16 @@ Vectorscopes are great for post-production color correction. Although lesser-kno
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-demystifying-youtube-edits-an-in-depth-analysis-and-review-for-2024/"><u>[New] Demystifying YouTube Edits An In-Depth Analysis and Review for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-premium-planet-friendly-recording-software-for-2024/"><u>[New] Premium, Planet-Friendly Recording Software for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-instagrams-unpredictable-video-playback/"><u>[Updated] Exploring Instagram's Unpredictable Video Playback</u></a></li>
-<li><a href="https://article-posts.techidaily.com/ace-tools-review-6-superior-options-for-photo-backdrop-cleanup/"><u>Ace Tools Review - 6 Superior Options for Photo Backdrop Cleanup</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-locate-and-repair-a-lost-d3dx925dll-in-windows/"><u>How to Locate and Repair a Lost d3dx9_25.dll in Windows</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-optimizing-live-periscope-video-speed/"><u>In 2024, Optimizing Live Periscope Video Speed</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-11-enabling-startup-services/"><u>Mastering Windows 11: Enabling Startup Services</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-applications-and-software-take-up-your-devices-storage-to-create-slow-mo-explore-this-piece-to-learn-about-some-slow-motion-video-online-m/"><u>New 2024 Approved Applications and Software Take up Your Devices Storage to Create Slow-Mo. Explore This Piece to Learn About some Slow-Motion Video Online Makers</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-clearly-the-efectum-app-download-without-a-watermark-option-is-on-android-phones-thus-read-this-review-on-the-efectum-app-and-find-replace/"><u>New 2024 Approved Clearly, the Efectum App Download without a Watermark Option Is on Android Phones. Thus, Read This Review on the Efectum App and Find Replacements for Good</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-embrace-creativity-in-your-media-by-replacing-backgrounds-learn-to-replace-the-sky-in-lightroom-through-the-steps-and-details-discussed-in-this-article-/"><u>New Embrace Creativity in Your Media by Replacing Backgrounds. Learn to Replace the Sky in Lightroom Through the Steps and Details Discussed in This Article for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-unlocking-the-power-of-davinci-resolve-scopes-enhance-your-color-grad/"><u>New In 2024, Unlocking the Power of DaVinci Resolve Scopes Enhance Your Color Grad</u></a></li>
-<li><a href="https://video-capture.techidaily.com/streamlined-methods-for-converting-flv-videos-to-optimal-mp4-format/"><u>Streamlined Methods for Converting FLV Videos to Optimal MP4 Format</u></a></li>
-<li><a href="https://article-tips.techidaily.com/tech-triad-analysis-unraveling-the-vr-ar-mr-tapestry/"><u>Tech Triad Analysis Unraveling the VR-AR-MR Tapestry</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-vlog-a-beginners-guide-to-start-vlogging-for-2024/"><u>Updated How to Vlog? A Beginners Guide to Start Vlogging for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-eager-to-know-how-to-create-an-adjustment-layer-in-premiere-pro-this-article-will-highlight-the-significance-of-adding-an-adjustment/"><u>Updated In 2024, Are You Eager to Know How to Create an Adjustment Layer in Premiere Pro? This Article Will Highlight the Significance of Adding an Adjustment Layer in Premiere Pro</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-top-list-the-best-slow-motion-video-editors-available/"><u>Updated In 2024, Top List The Best Slow Motion Video Editors Available</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-leveraging-the-vectorscope-for-better-color-correction-in-premiere-pro-for-2024/"><u>Updated Leveraging the Vectorscope for Better Color Correction in Premiere Pro for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-high-definition-gameplay-capture-mastery/"><u>[New] High-Definition Gameplay Capture Mastery</u></a></li>
+<li><a href="https://games-able.techidaily.com/economical-motherboards-geared-towards-gaming/"><u>Economical Motherboards Geared Towards Gaming</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hero-session-evolution-four-to-five-for-2024/"><u>Hero Session Evolution Four to Five for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-explore-the-advanced-tools-to-help-you-reshape-the-art-of-sky-replacement-in-digital-imagery-discover-methods-to-enhance-your-visual-narratives-/"><u>New In 2024, Explore the Advanced Tools to Help You Reshape the Art of Sky Replacement in Digital Imagery. Discover Methods to Enhance Your Visual Narratives Through AI</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-using-vn-editor-to-add-luts-for-video-editing-for-2024/"><u>New Using VN Editor To Add Luts for Video Editing for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/realtimevid-recorder-overview-for-2024/"><u>RealTimeVid Recorder Overview for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-microphone-malfunctions-sony-wh-1xm3-and-wh-1xm4-on-computers/"><u>Resolving Microphone Malfunctions: Sony WH-1#XM3 and WH-1#XM4 on Computers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-hub-in-depth-gadget-analysis-and-advice/"><u>Tom's Hardware Hub: In-Depth Gadget Analysis & Advice</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-here-you-will-learn-how-to-add-a-realistic-fire-effect-using-wondershare-filmora-that-will-help-to-boost-your-channel-and-decorate-your-yout/"><u>Updated In 2024, Here, You Will Learn How to Add a Realistic Fire Effect Using Wondershare Filmora. That Will Help to Boost Your Channel and Decorate Your YouTube Channel with Creative and Unique Effects</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-if-youre-looking-to-create-a-brand-video-that-makes-your-business-pop-out-we-have-put-together-some-video-editing-tips-and-tricks-that-work./"><u>Updated In 2024, If Youre Looking to Create a Brand Video that Makes Your Business Pop Out, We Have Put Together some Video Editing Tips and Tricks that Work</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-making-creative-and-engaging-youtube-videos-is-now-easy-with-several-tools-now-youtube-also-offers-you-its-own-built-in-video-editor-through/"><u>Updated In 2024, Making Creative and Engaging Youtube Videos Is Now Easy with Several Tools. Now, YouTube Also Offers You Its Own Built-In Video Editor Through Which You Can Edit and Enhance the Video Quality</u></a></li>
 </ul></div>
 

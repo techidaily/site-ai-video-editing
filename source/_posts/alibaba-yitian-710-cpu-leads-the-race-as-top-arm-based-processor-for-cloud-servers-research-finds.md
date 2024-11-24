@@ -1,7 +1,7 @@
 ---
 title: Alibaba Yitian 710 CPU Leads the Race as Top Arm-Based Processor for Cloud Servers, Research Finds
-date: 2024-11-08T03:02:26.307Z
-updated: 2024-11-14T00:48:56.370Z
+date: 2024-11-20T20:48:49.102Z
+updated: 2024-11-23T23:31:00.870Z
 tags:
   - desktop
 categories:
@@ -29,6 +29,10 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -52,28 +56,19 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-mastering-windows-11-with-top-tips/"><u>[New] Mastering Windows 11 with Top Tips</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-becoming-a-master-of-instagrams-video-dialogue-dynamics-for-2024/"><u>[Updated] Becoming a Master of Instagram's Video Dialogue Dynamics for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-best-screen-recorder-for-everyday-users/"><u>[Updated] Best Screen Recorder for Everyday Users</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-motion-tracking-using-the-best-video-editors/"><u>2024 Approved Motion Tracking Using The Best Video Editors</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-demystifying-youtubes-keyword-power-play/"><u>In 2024, Demystifying YouTube's Keyword Power Play</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-13-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 13?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-top-5-free-online-video-filter-editors-improve-your-videos-with-filters/"><u>In 2024, Top 5 Free Online Video Filter Editors Improve Your Videos with Filters</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722975258806-install-your-hp-envy-5660-drivers-with-no-stress-download-and-tutorials-available-now/"><u>Install Your HP ENVY 5660 Drivers with No Stress - Download & Tutorials Available Now</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-best-4-love-video-maker-with-music-for-2024/"><u>New Best 4 Love Video Maker with Music for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-an-ultimate-guide-on-the-significance-of-music-in-videos-and-how-to-choose-the-right-music-for-your-videos-with-wondershare-filmora/"><u>New In 2024, An Ultimate Guide on the Significance of Music in Videos and How to Choose the Right Music for Your Videos with Wondershare Filmora</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-are-you-thinking-of-learning-video-editing-in-the-final-cut-pro-software-in-this-article-you-will-learn-different-ways-of-splitting-and-merging-/"><u>New In 2024, Are You Thinking of Learning Video Editing in the Final Cut Pro Software? In This Article, You Will Learn Different Ways of Splitting and Merging Multiple Videos at Once as a New Skill to Get Your Business to a New Level</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-easy-steps-to-create-intro-video-with-after-effects/"><u>New In 2024, Easy Steps to Create Intro Video with After Effects</u></a></li>
-<li><a href="https://win-online.techidaily.com/resolved-fixing-download-errors-overcoming-the-0x800f0806-issue-in-windows-update/"><u>Resolved: Fixing Download Errors - Overcoming the 0X800F0806 Issue in Windows Update</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/seamless-connectivity-with-logitech-g-pro-wireless-controller-free-download-guide/"><u>Seamless Connectivity with Logitech G PRO Wireless Controller – Free Download Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-online-free-video-editing-hacks/"><u>Top Online Free Video Editing Hacks</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-featuring-the-use-of-camera-shake-in-creating-the-best-videos/"><u>Updated Featuring The Use of Camera Shake in Creating the Best Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-complete-guide-to-masterful-lunapic-photography-for-2024/"><u>[New] The Complete Guide to Masterful LunaPic Photography for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mastering-hulu-capture-windows-mac-and-mobile-edition/"><u>[Updated] 2024 Approved Mastering Hulu Capture Windows, Mac & Mobile Edition</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-go-big-go-viral-channel-tiktok-trends-into-instagram-reels-for-2024/"><u>[Updated] Go Big, Go Viral Channel TikTok Trends Into Instagram Reels for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-mastering-free-translation-top-8-choices-revealed/"><u>2024 Approved Mastering Free Translation Top 8 Choices Revealed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-guide-initiating-and-managing-android-zoom-calls/"><u>2024 Approved Quick Guide Initiating & Managing Android Zoom Calls</u></a></li>
+<li><a href="https://win-answers.techidaily.com/best-360-degree-video-players-compatible-with-all-platforms-windows-mac-iphone-and-android/"><u>Best 360-Degree Video Players Compatible with All Platforms: Windows, Mac, iPhone & Android</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-put-a-background-on-a-green-screen/"><u>New 2024 Approved How to Put a Background on A Green Screen</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ai-lexicon-handbook-must-know-words-for-techies/"><u>The AI Lexicon Handbook: Must-Know Words for Techies</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-discover-how-you-can-use-vectorscope-to-adjust-luminance-color-grading-and-more-in-your-video-editing-projects/"><u>Updated 2024 Approved Discover How You Can Use Vectorscope to Adjust Luminance, Color Grading, and More in Your Video Editing Projects</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-have-a-desire-to-uplift-your-editing-creativity-with-trying-hands-at-working-with-storyboards-keep-reading-to-have-a-comprehensive-und/"><u>Updated 2024 Approved Have a Desire to Uplift Your Editing Creativity with Trying Hands at Working with Storyboards? Keep Reading to Have a Comprehensive Understating of the Workflow Through Stepwise User Guides</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-what-do-you-prefer-more-mkv-file-format-or-mov-increase-your-knowledge-and-learn-more-about-mkv-format-by-ready-the-detailed-article-below.m/"><u>Updated In 2024, What Do You Prefer More, MKV File Format or MOV? Increase Your Knowledge and Learn More About MKV Format by Ready the Detailed Article Below</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-wondering-how-to-replace-sky-in-after-effects-learn-how-for-2024/"><u>Updated Wondering How to Replace Sky in After Effects? Learn How for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/why-your-old-phone-wont-pair-with-android-auto-understanding-the-latest-restrictions/"><u>Why Your Old Phone Won't Pair with Android Auto – Understanding the Latest Restrictions</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-unregistered-class-in-windows-10-a-comprehensive-fix-guide/"><u>Winning the Battle Against Unregistered Class in Windows 10: A Comprehensive Fix Guide</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

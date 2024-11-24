@@ -1,7 +1,7 @@
 ---
 title: New How to Use Adjustment Layer in Photoshop, In 2024
-date: 2024-11-08T00:01:45.506Z
-updated: 2024-11-13T22:56:13.114Z
+date: 2024-11-21T17:20:55.728Z
+updated: 2024-11-23T18:26:15.229Z
 tags: 
   - ai
   - animation videos
@@ -42,10 +42,7 @@ Step2 Once done with selecting the layer, go to the “Edit” tab given at the 
 ![select the free transform option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-photoshop-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3 Now, you can drag and drop the layer according to your preferences. You can also change the height and width of the layer by holding the “Shift” key. Once done, fill in the checkmark at the top options bar. To finalize the resize of your layer, press “Enter” for Windows and “Return” for Mac.
@@ -53,29 +50,7 @@ Step3 Now, you can drag and drop the layer according to your preferences. You ca
 ![resize your photoshop layer](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-photoshop-5.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Change Layer Color in Photoshop?
@@ -94,23 +69,9 @@ Step3 Once you have chosen the color, make sure to adjust the saturation accordi
 
 ![change the hue value](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-photoshop-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: How to Use Adjustment Layers in Photoshop?
 
 If you are unaware of how to use adjustment layers in Photoshop, this section will provide you with all the details. Thus, continue reading to find out the significance of **adjustment layers in Photoshop**.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4.1 Why Do You Need to Add an Adjustment Layer?
 
@@ -119,10 +80,7 @@ Raw images always come with lots of imperfections. If you want to edit and enhan
 If your image has light problems, you can set the exposure by adding an adjustment layer. Furthermore, you can make the colors of the image pop out by adjusting the color balance. This is also possible with adjustment layers, as it makes the whole process of image editing efficient. Other components that you can modify using adjustment layers are brightness, curves, hue, photo filter, vibrance, etc.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4.2 What Kinds of Adjustment Layers Can You Try?
@@ -149,17 +107,33 @@ Now, in the properties panel, you can move the curves to adjust the specific ton
 
 ![curves layer in photoshop](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-photoshop-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4\. Make a Brightness and Contrast Layer in Photoshop**
 
 To make a brightness and contrast layer in Photoshop, go to the “Adjustments Panel” first. From there, tap on the “Brightness/Contrast” option that will instantly add a layer in the layers panel. Afterward, a properties panel will also open from which you can modify the settings. Here, you can drag the sliders of brightness and contrast to enhance them accordingly.
 
 ![add the blur effect](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-photoshop-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5\. Adjust Layer Opacity in Photoshop**
 
 To learn **how to adjust opacity in Photoshop**, select the desired layer and click on the drop-down menu of "Opacity" in the layers panel. Next, move the slider to adjust the opacity accordingly. If you set the opacity value to 0%, the layer will become invisible.
 
 ![adjust the layer opacity](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-photoshop-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -180,24 +154,20 @@ As Photoshop is a layer-based editing software, this article will focus on how t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-entry-level-mic-tips-for-youtube-voice-talents-for-2024/"><u>[New] Entry-Level Mic Tips for YouTube Voice Talents for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-detailed-tutorial-to-resize-your-video-in-vlc/"><u>2024 Approved Detailed Tutorial to Resize Your Video in VLC</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-make-a-tattoo-disappear-like-a-magic/"><u>2024 Approved How to Make A Tattoo Disappear Like A Magic</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-20-video-cameras-expert-reviews/"><u>2024 Approved Top 20 Video Cameras – Expert Reviews</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/are-sellers-involved-in-monetizing-review-content/"><u>Are Sellers Involved in Monetizing Review Content?</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/conquer-the-battlefield-in-style-the-inside-scoop-on-the-all-new-mavix-memail-protected/"><u>Conquer the Battlefield in Style: The Inside Scoop on the All-New Mavix M^[email Protected]</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-adobe-premiere-pro-rec-709-luts-finding-the-best-choices/"><u>In 2024, Adobe Premiere Pro Rec 709 LUTs Finding The Best Choices</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-honor-magic-5-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Honor Magic 5 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-step-by-step-fixes-for-youtube-short-failures/"><u>In 2024, Step-by-Step Fixes for YouTube Short Failures</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/navigating-through-post-production-color-nuances-for-2024/"><u>Navigating Through Post-Production Color Nuances for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-shotcut-video-editor-review/"><u>New 2024 Approved Shotcut Video Editor Review</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-do-you-want-to-add-a-motion-blur-effect-in-valorant-read-this-guide-to-find-out-how-to-create-a-motion-blur-effect-in-valorant-without-any-hassle/"><u>New Do You Want to Add a Motion Blur Effect in Valorant? Read This Guide to Find Out How to Create a Motion Blur Effect in Valorant without Any Hassle</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unparalleled-top-5-agile-camcorders-guide-for-2024/"><u>Unparalleled Top 5 Agile Camcorders Guide for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-steps-to-create-green-screen-videos-in-after-effects/"><u>Updated 2024 Approved Steps to Create Green Screen Videos in After Effects</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-have-you-ever-tried-to-remove-motion-blur-from-photos-this-article-will-address-how-to-remove-the-motion-blur-effect-using-photoshop-and-its-alterna/"><u>Updated Have You Ever Tried to Remove Motion Blur From Photos? This Article Will Address How to Remove the Motion Blur Effect Using Photoshop and Its Alternatives</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-4k-videos-are-the-in-thing-because-of-their-flexibility-and-high-resolution-stick-around-to-learn-how-to-choose-the-best-frame-rate-for-4k-v/"><u>Updated In 2024, 4K Videos Are the in Thing because of Their Flexibility and High Resolution. Stick Around to Learn How to Choose the Best Frame Rate for 4K Videos</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-aware-that-av1-has-the-potential-to-change-the-way-we-watch-videos-online-read-on-to-learn-more-about-av1-and-how-it-could-impact-yo/"><u>Updated In 2024, Are You Aware that AV1 Has the Potential to Change the Way We Watch Videos Online? Read on to Learn More About AV1 and How It Could Impact Your Life</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/winning-against-windows-11s-snipping-tool-glitches-discover-12-effective-workarounds-for-smooth-snip-scenes/"><u>Winning Against Windows 11'S Snipping Tool Glitches: Discover 12 Effective Workarounds for Smooth Snip Scenes!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unveiling-the-secrets-of-monetizing-instagram-successfully/"><u>[New] Unveiling the Secrets of Monetizing Instagram Successfully</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-smooth-streaming-selective-stabilizer-guidebook/"><u>[Updated] Smooth Streaming Selective Stabilizer Guidebook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-soundscape-sanctuary-free-high-resolution-dj-videos-available/"><u>[Updated] Soundscape Sanctuary Free High-Resolution DJ Videos Available</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-from-chaos-to-calm-quick-edits-for-your-overwhelming-tiktok-drafters/"><u>2024 Approved From Chaos to Calm Quick Edits for Your Overwhelming TikTok Drafters</u></a></li>
+<li><a href="https://win-latest.techidaily.com/differences-between-direct-attached-storage-das-and-network-attached-storage-nas-a-comprehensive-guide/"><u>Differences Between Direct-Attached Storage (DAS) and Network Attached Storage (NAS): A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-tecno-spark-20-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Tecno Spark 20 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-superior-slow-motion-quality-through-fps-selection/"><u>In 2024, Unlocking Superior Slow Motion Quality Through FPS Selection</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-based-on-preferences-you-can-adjust-the-speed-of-youtube-videos-learn-how-to-produce-a-youtube-slow-motion-video-in-this-article/"><u>New 2024 Approved Based on Preferences, You Can Adjust the Speed of YouTube Videos. Learn How to Produce a YouTube Slow-Motion Video in This Article</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-can-you-enhance-your-drone-footage-with-cinematic-drone-luts-this-article-discusses-top-drone-luts-recommendations-to-simplify-video-editi/"><u>New 2024 Approved Can You Enhance Your Drone Footage with Cinematic Drone LUTs? This Article Discusses Top Drone LUTs Recommendations to Simplify Video Editing</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-explore-a-variety-of-inexpensive-camera-models-suitable-for-making-slow-motion-footage-without-compromising-quality/"><u>New 2024 Approved Explore a Variety of Inexpensive Camera Models Suitable for Making Slow-Motion Footage without Compromising Quality</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-embrace-creativity-in-your-media-by-replacing-backgrounds-learn-to-replace-the-sky-in-lightroom-through-the-steps-and-details-discussed-in-this-/"><u>New In 2024, Embrace Creativity in Your Media by Replacing Backgrounds. Learn to Replace the Sky in Lightroom Through the Steps and Details Discussed in This Article</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-tackle-stop-the-buzz-with-these-quick-speaker-repairs/"><u>Troubleshoot & Tackle: Stop the Buzz with These Quick Speaker Repairs</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-if-you-want-an-app-to-make-videos-with-pictures-and-music-for-social-media-posts-we-are-with-the-best-apps-to-make-videos-with-music-a/"><u>Updated 2024 Approved If You Want an App to Make Videos with Pictures and Music for Social Media Posts, We Are with the Best Apps to Make Videos with Music and Pictures</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-overview-of-best-luts-for-vlog/"><u>Updated In 2024, Overview of Best LUTs for Vlog</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-top-15-slow-motion-capcut-templates-to-work-with/"><u>Updated In 2024, Top 15 Slow Motion CapCut Templates to Work With</u></a></li>
 </ul></div>
 

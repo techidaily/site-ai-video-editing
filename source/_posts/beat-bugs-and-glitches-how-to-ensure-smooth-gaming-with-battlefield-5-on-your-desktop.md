@@ -1,7 +1,7 @@
 ---
 title: "Beat Bugs & Glitches: How To Ensure Smooth Gaming with Battlefield 5 on Your Desktop"
-date: 2024-11-06T19:04:38.355Z
-updated: 2024-11-13T22:59:18.392Z
+date: 2024-11-17T18:28:29.642Z
+updated: 2024-11-23T19:35:30.197Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
 4. [**Change in-game graphics settings**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Cap the framerate to 60](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1:**Use a controller instead**
 
  Given that we all have different PC setups, the reasons for the stuttering could be different. Some players discover a temporary fix to the stuttering issue, which is to**use a controller** instead of a set of keyboard and mouse. If available, you can try the same and see how it goes.
@@ -45,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/xbox-controller.jpg)
 
  If you don’t have a controller at hand, or it doesn’t work for your case, simply move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -70,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
 
  If the latest drivers don’t seem to work for you, take a look at the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Check for system updates
 
  To make the most out of your hardware, it’s also important to keep your system up to date. Normally Windows updates automatically, but you can also check if you’re missing the latest feature update.
@@ -85,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -92,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
  Once you’ve updated your system, restart your PC and check the results in Deathloop.
 
  If this method doesn’t give you luck, simply check out the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Change in-game graphics settings
 
@@ -107,16 +105,13 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/deathloop-graphics-settings-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now you can start a game and test the performance.
 
  If these settings couldn’t help you, take a look at the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Cap the framerate to 60
 
@@ -128,20 +123,10 @@ Here’s how to do it with NVIDIA GPU:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nvidia-control-panel.jpg)
 2. In the left pane, select**Manage 3D** settings. In the Global Settings section, turn on**Max Frame Rate** and set the value to**60** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/nvidia-control-panel-cap-60.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now you can restart the game and check if the stuttering is gone.
@@ -165,22 +150,22 @@ Now you can restart the game and check if the stuttering is gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-20-youtube-time-savers-that-will-skyrocket-engagement-rates-for-2024/"><u>[New] 20 YouTube Time Savers That Will Skyrocket Engagement Rates for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-essential-shoppers-guide-to-modern-360cams/"><u>[New] In 2024, The Essential Shopper's Guide to Modern 360Cams</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/dvddvd-dvd/"><u>DVD化ツール「DVDフリック」の利用ガイド - 日本語ストリーミングをダウンロードし、ビデオからDVDへ変換方法</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/easy-guide-to-use-a-stabilization-tool-in-filmora-for-2024/"><u>Easy Guide to Use a Stabilization Tool in Filmora for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/free-download-complete-guide-to-installing-your-corsair-gaming-mouse/"><u>Free Download: Complete Guide to Installing Your Corsair Gaming Mouse</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-prevent-print-service-interruptions-on-w7w10w11/"><u>How to Prevent Print Service Interruptions on W7/W10/W11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-c67-4g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Realme C67 4G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Does find my friends work on Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-3-best-effects-to-appear-on-camera/"><u>New 3 Best Effects to Appear on Camera</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-best-ideas-on-using-green-screen-with-filmora/"><u>New Best Ideas on Using Green Screen with Filmora</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-remove-audio-from-videos-with-ffmpeg/"><u>New In 2024, How to Remove Audio From Videos with FFmpeg?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-tiktok-velocity-dance-tutorial-filmora-for-2024/"><u>New TikTok Velocity Dance Tutorial| Filmora for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/review-of-the-newly-enhanced-chromecast-with-google-tv-vs-amazons-firetv/"><u>Review of the Newly Enhanced Chromecast with Google TV Vs. Amazon's FireTV</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/the-ultimate-walkthrough-for-preparing-your-asus-m2-ssd-with-bios-configuration-instructions/"><u>The Ultimate Walkthrough for Preparing Your ASUS M.2 SSD with BIOS Configuration Instructions</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-having-gopro-accessories-is-easy-but-editing-on-gopro-quik-is-challenging-read-this-guide-and-stepwise-learn-to-use-gopro-slow-motion-/"><u>Updated 2024 Approved Having GoPro Accessories Is Easy, but Editing on GoPro Quik Is Challenging. Read This Guide and, Stepwise, Learn to Use GoPro Slow-Motion for Perfect Shots</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-clone-yourself-in-videos-with-filmora/"><u>Updated How to Clone Yourself in Videos with Filmora?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-the-complete-guide-to-making-fortnite-montage-for-2024/"><u>Updated The Complete Guide to Making Fortnite Montage for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-stream-wars-evaluation-who-comes-out-on-top-obs-or-twitch-studio-in-2024/"><u>[New] Stream Wars Evaluation Who Comes Out on Top, OBS or Twitch Studio, In 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-crafting-content-for-successful-instagram-story-segments-for-2024/"><u>[Updated] Crafting Content for Successful Instagram Story Segments for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-navigating-steam-with-your-switch-pro-controller/"><u>[Updated] In 2024, Navigating Steam With Your Switch Pro Controller</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-practical-steps-for-fixing-live-chatgpt-disruptions/"><u>7 Practical Steps for Fixing Live ChatGPT Disruptions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-the-wallpaper-engine-from-crashing-on-your-pc-windows-1110/"><u>How to Stop the Wallpaper Engine From Crashing on Your PC (Windows 11/10)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-yt-shorts-soundtrack-hits-top-10-trending-sounds/"><u>In 2024, YT Shorts Soundtrack Hits Top 10 Trending Sounds</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-making-creative-and-engaging-youtube-videos-is-now-easy-with-several-tools-now-youtube-also-offers-you-its-own-built-in-video-editor-throu/"><u>New 2024 Approved Making Creative and Engaging Youtube Videos Is Now Easy with Several Tools. Now, YouTube Also Offers You Its Own Built-In Video Editor Through Which You Can Edit and Enhance the Video Quality</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-use-deep-fried-meme-maker/"><u>New In 2024, How to Use Deep Fried Meme Maker</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-want-to-learn-how-to-make-gaming-montage-videos-you-have-come-to-the-right-place-this-guide-will-teach-you-all-you-need-to-know-to-create-montag/"><u>New In 2024, Want to Learn How to Make Gaming Montage Videos? You Have Come to the Right Place. This Guide Will Teach You All You Need to Know to Create Montages of Video Games and Share Them with Other Players</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-what-can-be-better-than-converting-apple-video-format-into-other-formats-so-that-you-can-use-the-files-easily-we-have-a-few-options-that-you-can/"><u>New In 2024, What Can Be Better than Converting Apple Video Format Into Other Formats so that You Can Use the Files Easily. We Have a Few Options that You Can Use for This Purpose</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-slow-down-videos-on-instagram-with-perfection-a-guide-for-2024/"><u>New Slow Down Videos on Instagram With Perfection A Guide for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-6-gaming-solid-state-drives-ultimate-guide-for-enhanced-performance-on-your-pc-xbox-and-playstation-5-zdnet/"><u>Top 6 Gaming Solid-State Drives: Ultimate Guide for Enhanced Performance on Your PC, Xbox & PlayStation 5 - ZDNet</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-make-videos-with-pictures-and-music-10-apps/"><u>Updated 2024 Approved Make Videos with Pictures and Music-10 Apps</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-top-shortcut-towards-timeline-template/"><u>Updated 2024 Approved Top Shortcut Towards Timeline Template</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-using-vn-editor-to-add-luts-for-video-editing/"><u>Updated 2024 Approved Using VN Editor To Add Luts for Video Editing</u></a></li>
 </ul></div>
 

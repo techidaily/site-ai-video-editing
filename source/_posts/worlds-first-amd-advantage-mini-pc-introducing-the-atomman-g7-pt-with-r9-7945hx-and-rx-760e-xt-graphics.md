@@ -1,7 +1,7 @@
 ---
 title: "World's First AMD Advantage Mini PC: Introducing the AtomMan G7 Pt with R9 7945HX & RX 760E XT Graphics"
-date: 2024-11-10T01:24:14.854Z
-updated: 2024-11-13T21:25:43.975Z
+date: 2024-11-19T21:37:44.775Z
+updated: 2024-11-23T22:54:19.745Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -58,31 +62,18 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-maintain-proper-aspect-ratio-for-tweeted-movies/"><u>[New] 2024 Approved Maintain Proper Aspect Ratio for Tweeted Movies</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-hololens-review-unleashing-virtual-potential-with-microsoft/"><u>[New] HoloLens Review – Unleashing Virtual Potential with Microsoft</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-brilliance-bunch-leading-gk-video-channels/"><u>[New] In 2024, Brilliance Bunch Leading GK Video Channels</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-ultimate-list-of-mac-screen-capture-software/"><u>[New] In 2024, The Ultimate List of Mac Screen Capture Software</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-top-zoom-sound-tweaks-boosting-clarity-and-fidelity/"><u>[New] Top Zoom Sound Tweaks Boosting Clarity and Fidelity</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/comprehensive-review-of-the-plugable-usb-c-dual-hdmi-dock-for-efficient-windows-setup/"><u>Comprehensive Review of the Plugable USB-C Dual HDMI Dock for Efficient Windows Setup</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/how-to-make-a-super-easy-rotating-video-effect/"><u>How to Make a Super Easy Rotating Video Effect</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-do-you-want-to-print-designs-onto-your-garments-or-other-fashion-accessories-find-out-how-to-create-a-screen-print-effect-in-photoshop-to-give-your-/"><u>In 2024, Do You Want to Print Designs Onto Your Garments or Other Fashion Accessories? Find Out How to Create a Screen Print Effect in Photoshop to Give Your Text or Graphics a Vintage or Retro Look</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-guide-to-using-free-luts-for-obs/"><u>In 2024, Guide To Using Free Luts for OBS</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-introduction-to-luts-their-overview-and-benefits/"><u>In 2024, Introduction to LUTs Their Overview and Benefits</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713950496574-in-this-guidepost-youll-learn-what-an-hdri-photo-is-and-how-to-use-the-best-free-hdri-program-to-edit-photos-youll-also-know-the-difference-between-hdr-and-/"><u>In This Guidepost, Youll Learn What an HDRI Photo Is and How to Use the Best Free HDRI Program to Edit Photos. Youll Also Know the Difference Between HDR and HDRI for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/introduction-to-luts-their-overview-and-benefits/"><u>Introduction to LUTs Their Overview and Benefits</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-tech-hurdle-a-step-by-step-guide-to-resolving-back-to-back-system-failures-in-pc-games/"><u>Master the Tech Hurdle: A Step-by-Step Guide to Resolving Back-to-Back System Failures in PC Games</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mov-to-motorola-converter-convert-mov-files-for-motorola-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Motorola converter-convert .mov files for Motorola</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-are-you-aware-that-you-can-create-your-own-lower-thirds-for-video-read-this-article-for-a-tutorial-on-how-to-customize-one/"><u>New Are You Aware that You Can Create Your Own Lower Thirds for Video? Read This Article for a Tutorial on How to Customize One</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713964496835-new-making-a-countdown-timer-video-like-a-pro-isnt-a-problem-anymore-follow-the-steps-mentioned-in-this-guide-and-create-an-impressive-countdown-timer-for-y/"><u>New Making a Countdown Timer Video Like a Pro Isnt a Problem Anymore. Follow the Steps Mentioned in This Guide and Create an Impressive Countdown Timer for Your Videos for 2024</u></a></li>
-<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-note-30-vip-racing-edition-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Note 30 VIP Racing Edition</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/unleash-creativity-with-the-best-online-screen-changers-for-2024/"><u>Unleash Creativity with the Best Online Screen Changers for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-through-speed-ramping-create-a-smooth-transition-in-slow-motion-videos-follow-this-guide-and-learn-about-premiere-pro-slow-motion-and-a-bett/"><u>Updated In 2024, Through Speed Ramping, Create a Smooth Transition in Slow-Motion Videos. Follow This Guide and Learn About Premiere Pro Slow Motion and a Better Alternative</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-discovering-high-definition-smarts-sony-xperia-xz-reviewed/"><u>[New] 2024 Approved Discovering High-Definition Smarts Sony Xperia XZ Reviewed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-discovering-top-5-fluids-in-virtual-playgrounds-for-2024/"><u>[New] Discovering Top 5 Fluids in Virtual Playgrounds for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-navigating-the-igtv-landscape-a-beginners-roadmap/"><u>[Updated] Navigating the IGTV Landscape A Beginner's Roadmap</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-tailoring-text-features-in-ae-compositions/"><u>[Updated] Tailoring Text Features in AE Compositions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtubes-golden-rule-for-profit-partnership/"><u>2024 Approved YouTube's Golden Rule for Profit Partnership</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-lava-yuva-2-pro-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Lava Yuva 2 Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/garantie-de-veiligheid-efficient-voeren-en-opslaan-van-je-data-met-raid-0-schijfbackup/"><u>Garantie De Veiligheid: Efficiënt Voeren en Opslaan Van Je Data Met RAID 0 Schijfbackup</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-are-you-looking-to-make-a-thumbnail-for-your-fortnite-video-this-article-features-a-guide-explaining-creating-a-fortnite-motion-blur-thumbnail-for-2024./"><u>New Are You Looking to Make a Thumbnail for Your Fortnite Video? This Article Features a Guide Explaining Creating a Fortnite Motion Blur Thumbnail for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-knowing-all-ways-to-slow-down-video-with-adobe-premiere-pro-for-2024/"><u>New Knowing All Ways To Slow Down Video With Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-are-you-looking-to-make-a-thumbnail-for-your-fortnite-video-this-article-features-a-guide-explaining-creating-a-fortnite-motion-blur-thumbnail-for-2/"><u>Updated Are You Looking to Make a Thumbnail for Your Fortnite Video? This Article Features a Guide Explaining Creating a Fortnite Motion Blur Thumbnail for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-want-to-create-slow-motion-videos-this-article-shows-methods-to-create-slow-mo-videos-without-changing-the-medias-quality/"><u>Updated In 2024, Do You Want to Create Slow-Motion Videos? This Article Shows Methods to Create Slow-Mo Videos without Changing the Medias Quality</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-use-your-social-media-app-and-make-slow-motion-videos-by-reading-this-guide-besides-learning-slow-motion-snapchat-get-useful-apps-serving-th/"><u>Updated In 2024, Use Your Social Media App and Make Slow-Motion Videos by Reading This Guide. Besides Learning Slow-Motion Snapchat, Get Useful Apps Serving the Same Purposes</u></a></li>
+<li><a href="https://common-error.techidaily.com/wwe-2k-battlegrounds-dx11-fixing-feature-level-100-compatibility-problems-step-by-step/"><u>WWE 2K Battlegrounds DX11: Fixing Feature Level 10.0 Compatibility Problems Step by Step</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

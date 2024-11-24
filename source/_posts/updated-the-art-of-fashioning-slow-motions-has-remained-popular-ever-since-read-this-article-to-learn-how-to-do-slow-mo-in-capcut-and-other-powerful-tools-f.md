@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Fashioning Slow Motions Has Remained Popular Ever Since. Read This Article to Learn How to Do Slow-Mo in CapCut and Other Powerful Tools for 2024
-date: 2024-11-07T19:37:03.701Z
-updated: 2024-11-13T16:32:45.656Z
+date: 2024-11-22T23:07:15.119Z
+updated: 2024-11-23T18:51:20.172Z
 tags: 
   - ai
   - animation videos
@@ -31,6 +31,10 @@ CapCut is an editing application that caters to the needs of both Android and iP
 
 ![capcut video editor](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The tool offers a sleek user interface with cutting-edge AI technology for automated editing. The interface looks artistic and organized for accessible editing. Along with video editing, users can perform audio, text, and image editing. You can access its Resource collection on its site, which is full of tips and tutorials. To give you a broader vision of [**CapCut slow-mo effect**](https://tools.techidaily.com/wondershare/filmora/download/), here are some of its features:
 
 * **Video Filters and Effects:** CapCut has a free collection of effects and filters to enhance your footage. The video effects and filters add uniqueness and hide any irregularities in videos. The collection keeps updating, and you can use Business, Ads, and other categories.
@@ -38,13 +42,6 @@ The tool offers a sleek user interface with cutting-edge AI technology for autom
 * **Keyframe Animation:** Although CapCut offers a range of stock animations, you can create one. With its keyframe functioning, users can create custom animations. It offers custom settings like scale, position, opacity, and more adjustments.
 * **Background Remover:** If you want to erase messy backgrounds and replace them, CapCut can assist. Its background remover eliminates video backgrounds with accuracy. Moreover, you can replace them with solid or gradient colors, images, and videos.
 * **Video Upscaler:** This tool is available online and enhances video resolution up to 4K. The tool is compatible with diverse video contexts and gives professional outcomes. The tool is backed by AI, and hence, you just need to upload the video for upscaling.
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Create a Slow Mo on CapCut? A Guide
 
@@ -55,13 +52,6 @@ There are two seamless methods of creating **slow-mo on CapCut** via “Normal�
 After downloading and launching CapCut on your device, access its main menu. From the main menu, click the “New Project” option and upload a video.
 
 ![create a new project on capcut](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 2
 
@@ -75,18 +65,15 @@ From the appearing options, select the “Speed” option for **the CapCut slow-
 
 ![access the speed settings](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 4
 
 In the speed display, adjust the position of the slider to add the slo-mo effect. Further, go to the "Normal" section to start speed manipulation.
 
 ![access the normal section](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 5
 
@@ -94,11 +81,19 @@ Drag the playback speed slider toward the left side of the screen. This will add
 
 ![adjust speed settings](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: CapCut Slow Mo Alternative: Wondershare Filmora for Smartphone Users
 
 After seeing **how to slow down videos on CapCut**, you must think that it is so easy. However, there is an alternative editor that offers a minimal interface with similar qualities. [Wondershare Filmora](https://play.google.com/store/apps/details?id=com.wondershare.filmorago&hl=en&gl=US) is a professional slow-motion creator catered to your needs. Whether you are skilled or just beginning your journey, it can assist you.
 
 Using this **CapCut slow-motion video** has its benefits, as it offers multiple speed change options. You can change video speed using Normal playback speed or speed “Curve” alteration. In this section, we’ll teach you how to create a slow motion in Filmora. We are going to use the Curve technique to manipulate speed professionally.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step-by-Step Guide to Slow Down Video in Filmora App
 
@@ -117,10 +112,7 @@ After importing the video, navigate towards the timeline panel and select the vi
 ![access the speed options](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step 3Adjust the Speed Curve Settings
@@ -150,10 +142,7 @@ After opening a project in Filmora, select the video in the timeline and access 
 ![set the uniform speed preferences](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-15.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step 2Add Optical Flow Effect
@@ -161,13 +150,6 @@ After opening a project in Filmora, select the video in the timeline and access 
 To add a layer of smoothness to your slow-motion video, access "AI Frame Interpolation." You can find this option at the bottom of the Uniform Speed tab. Expand this option and select the "Optical Flow" option.
 
 ![enable the optical flow option](https://images.wondershare.com/filmora/article-images/2023/slow-motion-video-creation-with-capcut-16.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 3Activate Rendering and Export Video
 
@@ -200,10 +182,7 @@ Why worry about finishing a project at once when you can edit it later with Film
 As discussed earlier, the AI algorithms allow you to edit with full efficiency. This feature of Filmora enhances productivity via text-to-speech function. It creates captions out of a video and allows you to seamlessly cut videos by removing text.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -223,22 +202,22 @@ In conclusion, this article considered **how to do slow-mo in CapCut**. In addit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-elevating-your-cinematic-expedition-through-border-techniques/"><u>[New] 2024 Approved Elevating Your Cinematic Expedition Through Border Techniques</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-effortless-time-lapse-cinematography-with-samsung-for-2024/"><u>[New] Effortless Time-Lapse Cinematography with Samsung for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-listensmart-beyond-dacast-choices/"><u>[New] In 2024, ListenSmart Beyond DaCast Choices</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-step-by-step-guide-to-creating-engaging-trendy-fb-reels-for-2024/"><u>[New] Step-by-Step Guide to Creating Engaging, Trendy FB Reels for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-turbocharge-your-photos-windows-11-edition/"><u>2024 Approved Turbocharge Your Photos Windows 11 Edition</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/experience-the-benefits-of-advanced-data-collection-with-cookiebot/"><u>Experience the Benefits of Advanced Data Collection with Cookiebot</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-infinix-gt-10-pro-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Infinix GT 10 Pro? Try These Fixes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-lava-agni-2-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Lava Agni 2 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-slow-mo-youtube-videos/"><u>New 2024 Approved How to Slow-Mo YouTube Videos</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-this-article-will-show-you-how-to-make-a-tattoo-disappear-on-your-body-magically/"><u>New 2024 Approved This Article Will Show You How to Make a Tattoo Disappear on Your Body Magically</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-fade-audio-with-movavi-editor-for-2024/"><u>New How To Fade Audio With Movavi Editor for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713942951266-new-ultimate-guide-on-how-to-plan-and-storyboard-a-music-video/"><u>New Ultimate Guide on How To Plan and Storyboard a Music Video</u></a></li>
-<li><a href="https://fox-info.techidaily.com/start-storytelling-through-film-windows-xp-moviemaker-prep/"><u>Start Storytelling Through Film Windows XP Moviemaker Prep</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-beginners-guide-to-green-screen-keying/"><u>Updated Beginners Guide to Green Screen Keying</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-a-movie-with-windows-movie-maker-for-2024/"><u>Updated How to Make a Movie with Windows Movie Maker for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-add-green-screen-effects-in-phhotoshop/"><u>Updated In 2024, How to Add Green Screen Effects In Phhotoshop</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713965801102-updated-we-all-know-very-well-that-a-1-second-video-has-several-images-in-a-single-row-even-with-imovie-time-lapse-you-can-create-this-so-without-any-furthe/"><u>Updated We All Know Very Well that a 1-Second-Video Has Several Images in a Single Row. Even with iMovie Time-Lapse, You Can Create This! So, without Any Further Ado, Lets Learn How to Make a Timelapse in iMovie for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-simplified-guide-to-movie-recording-on-diverse-systems/"><u>[New] In 2024, Simplified Guide to Movie Recording on Diverse Systems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-professional-insights-top-5-cloud-based-videographer-tools/"><u>[New] Professional Insights Top 5 Cloud-Based Videographer Tools</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-unlocking-obs-potential-strategies-involving-lut-filters-for-2024/"><u>[New] Unlocking OBS Potential Strategies Involving LUT Filters for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tial-video-promo-tips-for-startups-infographic-for-2024/"><u>Essential Video Promo Tips for Startups (Infographic) for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fastest-most-spacious-usb-thumb-drives-the-ultimate-pocketable-solutions/"><u>Fastest, Most Spacious USB Thumb Drives : The Ultimate Pocketable Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-effective-strategies-to-craft-influential-patient-stories-on-film/"><u>In 2024, Effective Strategies to Craft Influential Patient Stories on Film</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-are-you-trying-to-make-slow-mo-videos-on-instagram-in-this-article-we-will-discuss-top-rated-ways-to-produce-perfect-slow-motion-videos-for-instagram-fo/"><u>New Are You Trying to Make Slow-Mo Videos on Instagram? In This Article, We Will Discuss Top-Rated Ways to Produce Perfect Slow-Motion Videos for Instagram for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-do-you-want-to-create-slow-motion-videos-this-article-shows-methods-to-create-slow-mo-videos-without-changing-the-medias-quality-for-2024/"><u>New Do You Want to Create Slow-Motion Videos? This Article Shows Methods to Create Slow-Mo Videos without Changing the Medias Quality for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-did-you-know-cameras-have-a-built-in-feature-to-shoot-slow-motion-clips-this-article-is-about-using-sony-sandq-to-capture-slow-motion-scenes/"><u>New In 2024, Did You Know Cameras Have a Built-In Feature to Shoot Slow-Motion Clips? This Article Is About Using Sony S&Q to Capture Slow-Motion Scenes</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-so-without-wasting-time-let-me-show-you-how-to-mask-a-video-in-wondershare-filmora-lets-get-started/"><u>New In 2024, So, without Wasting Time, Let Me Show You How to Mask a Video in Wondershare Filmora. Lets Get Started</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-stunning-glitch-effect-and-its-creation-guideline-for-premiere-pro/"><u>New In 2024, Stunning Glitch Effect and Its Creation Guideline for Premiere Pro</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/secure-ways-to-resurrect-accidentally-deleted-iphone-photos-guaranteed-results/"><u>Secure Ways to Resurrect Accidentally Deleted iPhone Photos (Guaranteed Results)</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-ssd-performance-for-ps5/"><u>Superior SSD Performance for PS5</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-poco-c51-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Poco C51 Device</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-replace-sky-background-in-video-figuring-out-the-best-options/"><u>Updated 2024 Approved Replace Sky Background in Video Figuring Out the Best Options</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-exploring-tools-to-integrate-special-mask-effects-into-your-content-read-the-following-article-to-master-some-tools-experts-in-mask-tracking/"><u>Updated In 2024, Exploring Tools to Integrate Special Mask Effects Into Your Content. Read the Following Article to Master some Tools Experts in Mask Tracking</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-learn-how-to-make-a-gaming-montage-guide-and-tips-for-2024/"><u>Updated Learn How to Make a Gaming Montage - Guide & Tips for 2024</u></a></li>
 </ul></div>
 

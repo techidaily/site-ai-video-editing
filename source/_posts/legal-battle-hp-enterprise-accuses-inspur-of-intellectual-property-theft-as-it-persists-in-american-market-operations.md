@@ -1,7 +1,7 @@
 ---
 title: "Legal Battle: HP Enterprise Accuses Inspur of Intellectual Property Theft as It Persists in American Market Operations"
-date: 2024-11-07T18:00:24.445Z
-updated: 2024-11-14T02:17:23.042Z
+date: 2024-11-21T19:17:11.178Z
+updated: 2024-11-23T21:54:54.164Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,10 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -56,25 +60,18 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-best-value-for-money-selecting-the-leading-free-srt-services/"><u>[New] 2024 Approved Best Value for Money Selecting the Leading Free SRT Services</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-htc-vive-comfort-top-strategies-to-prevent-discomfort/"><u>[New] HTC Vive Comfort Top Strategies to Prevent Discomfort</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-become-a-youtube-star-top-fb-songs-and-vids-unlocked/"><u>[Updated] In 2024, Become a YouTube Star - Top FB Songs & Vids Unlocked</u></a></li>
-<li><a href="https://games-able.techidaily.com/ace-the-art-of-breathing-life-into-a-stuck-steam-program/"><u>Ace the Art of Breathing Life Into a Stuck Steam Program</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/customize-your-live-streams-creating-unique-manycam-facial-overlays-from-scratch/"><u>Customize Your Live Streams: Creating Unique ManyCam Facial Overlays From Scratch</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/decouvrez-le-guide-definitif-pour-acceder-aux-fichiers-swf-sur-windows-compatibilite-111087/"><u>Découvrez Le Guide Definitif Pour Accéder Aux Fichiers SWF Sur Windows : Compatibilité 11/10/8/7</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y27s-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y27s If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-slow-down-a-video-on-iphone-and-android-the-easy-way/"><u>New 2024 Approved How to Slow Down a Video on iPhone and Android The Easy Way</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-and-correcting-critical-system-failures-bsod-on-windows-11/"><u>Understanding and Correcting Critical System Failures (BSOD) on Windows 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-s18-pro-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Vivo S18 Pro Users</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-the-way-to-quick-and-efficient-editing-keyboard-shortcuts-in-filmora/"><u>Updated 2024 Approved The Way to Quick and Efficient Editing | Keyboard Shortcuts in Filmora</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-knowing-all-ways-to-slow-down-video-with-adobe-premiere-pro-for-2024/"><u>Updated Knowing All Ways To Slow Down Video With Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713964504024-updated-making-creative-and-engaging-youtube-videos-is-now-easy-with-several-tools-now-youtube-also-offers-you-its-own-built-in-video-editor-through-which-y/"><u>Updated Making Creative and Engaging Youtube Videos Is Now Easy with Several Tools. Now, YouTube Also Offers You Its Own Built-In Video Editor Through Which You Can Edit and Enhance the Video Quality for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-digital-domain-your-playground-for-1000-titles/"><u>[New] 2024 Approved Digital Domain Your Playground for 1,000 Titles</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-obs-not-recording-audio-solved/"><u>[New] 2024 Approved OBS Not Recording Audio [Solved]</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-sidestep-green-screen-gaffes-your-essential-mac-fix-guide/"><u>[Updated] Sidestep Green Screen Gaffes Your Essential Mac Fix Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-wintv-guide-effective-techniques-in-windows-based-live-recording/"><u>[Updated] WinTV Guide Effective Techniques in Windows-Based Live Recording</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1-ripristina-i-driver-eliminati-nel-tuo-sistema-operativo-windows-10-con-modi-3-un-tutorial-facile/"><u>1. Ripristina I Driver Eliminati Nel Tuo Sistema Operativo Windows 10 Con Modi 3 - Un Tutorial Facile!</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713942898556-how-to-livestream-zoom-on-facebook-for-2024/"><u>How to Livestream Zoom on Facebook for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-android-maintenve-a-complete-cache-clearing-tutorial/"><u>Mastering Android Maintenve: A Complete Cache Clearing Tutorial</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713963240441-new-have-you-ever-used-premiere-pro-to-create-slow-motion-effects-this-article-will-provide-a-guide-on-producing-slow-motion-effects-by-using-adobe-premiere/"><u>New Have You Ever Used Premiere Pro to Create Slow-Motion Effects? This Article Will Provide a Guide on Producing Slow-Motion Effects by Using Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-mask-tracking-with-adobe-premiere-pro-a-detailed-guide-for-2024/"><u>New Mask Tracking with Adobe Premiere Pro A Detailed Guide for 2024</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/unable-to-locate-content-internet-page-missing-error-code-404/"><u>Unable To Locate Content - Internet Page Missing (Error Code ^[4]04)</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-change-aspect-ratio-in-imovie-for-2024/"><u>Updated How to Change Aspect Ratio in iMovie for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-use-deep-fried-meme-maker-for-2024/"><u>Updated How to Use Deep Fried Meme Maker for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

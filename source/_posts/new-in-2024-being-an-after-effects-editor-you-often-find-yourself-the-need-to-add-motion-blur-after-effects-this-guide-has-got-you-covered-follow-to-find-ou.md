@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Being an After Effects Editor, You Often Find Yourself the Need to Add Motion Blur After Effects. This Guide Has Got You Covered. Follow to Find Out How to Add Motion Blur in After Effects
-date: 2024-11-09T00:04:37.059Z
-updated: 2024-11-14T03:44:34.708Z
+date: 2024-11-20T23:50:29.987Z
+updated: 2024-11-23T19:45:28.313Z
 tags: 
   - ai
   - animation videos
@@ -47,13 +47,6 @@ Step1 Download and install Adobe After Effects if it isn't already on your PC. S
 
 ![install adobe after effects](https://images.wondershare.com/filmora/article-images/2022/07/install-adobe-after-effects.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 You have a variety of settings in Adobe After Effects on the right side. Then, choose "Effects & Presets." A search bar will appear as a result. Enter "CC Force Motion Blur" in the search field if you wish to add motion blur to the video. You may apply this effect to whatever layer you choose since your movie is made up of layers.
 
 ![preview effects and presets after effects](https://images.wondershare.com/filmora/article-images/2022/07/preview-effects-and-presets-after-effects.jpg)
@@ -64,13 +57,6 @@ Step3 Next, drag the "CC Force Motion Blur" to the layers that represent your im
 
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** Before applying any speed effects, first trim your film to the proper length. Once the speed effects have been included, you need also make sure that your composition is lengthy enough for your clip. Once you're satisfied with the footage you want to slow down, choose one of the ways—Time warp or Time Stretch.
 
 Step4 Customize "Shutter Angle" and "Motion Blur Samples." Always be careful to preview the video after any modifications. Adjust to your needs and specifications. Additionally, if you wish, you may add any additional effect to the video. When finished, save the video by selecting "File" in the upper left corner.
@@ -78,6 +64,10 @@ Step4 Customize "Shutter Angle" and "Motion Blur Samples." Always be careful to 
 ![composition settings after effects](https://images.wondershare.com/filmora/article-images/2022/07/composition-settings-after-effects.jpg)
 
 Step5 Finally, hit the OK button and afterwards, export the project with the Motion Blur embedded inside the main video. Adobe AE also gives you flexibility to export to the desired format with the preset project settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. Other Video Editor to Add Effects to Videos
 
@@ -95,15 +85,16 @@ Media files may be easily added to the timeline in [Filmora](https://tools.techi
 
 ![import files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Utilize Filmstock
 
 On [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), there is a full-service shop called Filmstock that offers a ton of exciting media and after-effects for download. You may get free sound effects and short video clips to add to your videos on this website.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Edit Effect
@@ -112,15 +103,16 @@ Download films from the effect store or import them from your device and add the
 
 ![edit effect](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Apply filters
 
 Overlays and video filters are effects used to enhance the appeal of the video. Open the effects tab and select your desired filter to apply overlays and filters. To apply it, drag and drop it into the timeline's video. Additionally, filters may be adjusted to change the time scale and transparency.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Export
@@ -128,10 +120,7 @@ Overlays and video filters are effects used to enhance the appeal of the video. 
 Exporting a video to a variety of platforms comes after editing it. Filmora allows users to export video in a number of different file types, including mp4, Wmv, Mkv, ts, 3gp, f4v, Mkv, MOV, mpg, 3gp, GIF 4K, and mp3.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -149,17 +138,20 @@ Motion blur is crucial when animating characters to move. Your videos require so
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-accelerated-file-format-change-from-srt-to-simple-txt/"><u>[Updated] Accelerated File Format Change From SRT to Simple TXT</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-motion-tracking-using-the-best-video-editors/"><u>2024 Approved Motion Tracking Using The Best Video Editors</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/how-to-find-missing-files-or-partitions-on-windows-versions-11-10-8-and-7/"><u>How to Find Missing Files or Partitions on Windows Versions 11, 10, 8 & 7</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-v29-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on V29 Pro</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apps-on-iphone-12-pro-max-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apps on iPhone 12 Pro Max?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-top-5-free-online-video-filter-editors-improve-your-videos-with-filters/"><u>In 2024, Top 5 Free Online Video Filter Editors Improve Your Videos with Filters</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-10t-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Realme 10T 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-are-you-thinking-of-learning-video-editing-in-the-final-cut-pro-software-in-this-article-you-will-learn-different-ways-of-splitting-and-merging-/"><u>New In 2024, Are You Thinking of Learning Video Editing in the Final Cut Pro Software? In This Article, You Will Learn Different Ways of Splitting and Merging Multiple Videos at Once as a New Skill to Get Your Business to a New Level</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-easy-steps-to-create-intro-video-with-after-effects/"><u>New In 2024, Easy Steps to Create Intro Video with After Effects</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/propel-your-igtv-presence-techniques-to-skyrocket-subscriber-count/"><u>Propel Your IGTV Presence Techniques to Skyrocket Subscriber Count</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/the-ultimate-guide-to-top-rated-mac-file-reducers-that-preserve-perfect-clarity/"><u>The Ultimate Guide to Top-Rated Mac File Reducers That Preserve Perfect Clarity</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unleashing-potential-windows-10s-new-upgrades/"><u>Unleashing Potential Windows 10'S New Upgrades</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-how-to-add-videos-to-youtube-playlist-for-2024/"><u>[New] How to Add Videos to YouTube Playlist for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-future-scrutiny-alternate-viewpoints/"><u>[Updated] Future Scrutiny Alternate Viewpoints</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-reignite-drive-the-ultimate-inspiration-list/"><u>2024 Approved Reignite Drive The Ultimate Inspiration List</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024dvdtop10/"><u>2024年ベスト・無料DVDリッピングツールTOP10 - 安全かつ簡単ご利用！</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/explore-the-best-free-drawing-software-for-mac-users/"><u>Explore the Best FREE Drawing Software for Mac Users</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-know-capcut-has-some-amazing-slow-motion-templates-you-can-utilize-read-this-article-to-access-the-slow-motion-capcut-templates-lin/"><u>New 2024 Approved Do You Know CapCut Has some Amazing Slow-Motion Templates You Can Utilize? Read This Article to Access the Slow-Motion CapCut Templates Link</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-put-a-background-on-a-green-screen/"><u>New 2024 Approved How to Put a Background on A Green Screen</u></a></li>
+<li><a href="https://review-topics.techidaily.com/new-iphone-7-plus-restore-from-icloud-stuck-on-time-remaining-estimating-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>New iPhone 7 Plus Restore from iCloud Stuck on Time Remaining Estimating | Stellar</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-vloggers-guide-to-top-10-youtube-editing-techniques-for-2024/"><u>New Vloggers' Guide to Top 10 YouTube Editing Techniques for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-14-pro-max-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone 14 Pro Max Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-your-systems-graphics-with-windows-11-tips/"><u>Revive Your System's Graphics with Windows 11 Tips</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-discover-how-you-can-use-vectorscope-to-adjust-luminance-color-grading-and-more-in-your-video-editing-projects/"><u>Updated 2024 Approved Discover How You Can Use Vectorscope to Adjust Luminance, Color Grading, and More in Your Video Editing Projects</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-have-a-desire-to-uplift-your-editing-creativity-with-trying-hands-at-working-with-storyboards-keep-reading-to-have-a-comprehensive-und/"><u>Updated 2024 Approved Have a Desire to Uplift Your Editing Creativity with Trying Hands at Working with Storyboards? Keep Reading to Have a Comprehensive Understating of the Workflow Through Stepwise User Guides</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-unravel-the-creative-potential-of-adobe-after-effects-for-precise-motion-synchronization-learn-how-to-use-track-matte-and-tracking-with-a-si/"><u>Updated In 2024, Unravel the Creative Potential of Adobe After Effects for Precise Motion Synchronization. Learn How to Use Track Matte and Tracking with a Simple Alternative</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-what-do-you-prefer-more-mkv-file-format-or-mov-increase-your-knowledge-and-learn-more-about-mkv-format-by-ready-the-detailed-article-below.m/"><u>Updated In 2024, What Do You Prefer More, MKV File Format or MOV? Increase Your Knowledge and Learn More About MKV Format by Ready the Detailed Article Below</u></a></li>
 </ul></div>
 

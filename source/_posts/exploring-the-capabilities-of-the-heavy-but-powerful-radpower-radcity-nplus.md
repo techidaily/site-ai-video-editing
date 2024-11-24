@@ -1,7 +1,7 @@
 ---
 title: Exploring the Capabilities of the Heavy but Powerful RadPower RadCity N+
-date: 2024-11-09T20:26:29.573Z
-updated: 2024-11-13T21:34:28.107Z
+date: 2024-11-21T18:00:16.482Z
+updated: 2024-11-23T21:21:27.520Z
 categories:
   - BestProducts
 description: This Article Describes Exploring the Capabilities of the Heavy but Powerful RadPower RadCity N+
@@ -75,6 +75,10 @@ Lifewire / Jeff Dojillo
 
  Lifewire / Jeff Dojillo
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Classic action camera design**
 
  The GoPro HERO7 Black measures in at 2.4 x 1.3 x 1.8 inches, so it’s super compact and almost a cube. The device is all black with a very nice rubber casing around the unit that makes it feel soft to the touch.
@@ -86,16 +90,7 @@ Lifewire / Jeff Dojillo
  While testing the GoPro HERO7 Black we noticed that the body of the device becomes very hot when used for long periods of time. We tested it for a few hours nonstop and noticed it was still very warm even when it was not recording. This can be a big concern if the device is used for long recordings in hot temperatures.
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Display: Bright and visible**
@@ -103,13 +98,6 @@ Lifewire / Jeff Dojillo
  The back of the GoPro HERO7 Black has a two-inch touchscreen that is bright and easy to read. While testing the camera, we were able to navigate through the menus with the single touch of a finger, which are intuitive and easy to adjust. Simply tap to select.
 
  Lifewire / Jeff Dojillo
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Setup: Updates out of the box**
 
@@ -119,6 +107,10 @@ Lifewire / Jeff Dojillo
 
  Lifewire / Jeff Dojillo
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Sensor: Small but mighty**
 
  The GoPro HERO7 Black boasts a 1/2.3-inch 12-megapixel sensor that is built for action. The new and improved image processor now has the ability to stabilize footage through electronic image stabilization technology called HyperSmooth. This feature works by tracking unwanted motion in your videos and algorithmically correcting shake. It makes your footage impressively stable even when filming handheld or while riding on rough terrain.
@@ -126,13 +118,6 @@ Lifewire / Jeff Dojillo
  We took the GoPro out and recorded some handheld video as we walked around, which would normally have some shake to it. The footage from the HERO7 Black was smooth and it did not contain any camera shake, almost as if we’d been using a gimbal.
 
  It makes your footage impressively stable even when filming handheld or while riding on rough terrain.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Lens: Great for video**
 
@@ -153,10 +138,7 @@ Lifewire / Jeff Dojillo
  Lifewire / Jeff Dojillo
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Photo Quality: Nothing to brag about**
@@ -191,6 +173,10 @@ Lifewire / Jeff Dojillo
 
  Another option to extend shooting time would be to connect the GoPro HERO7 Black to an external battery pack via the[USB port.](https://www.lifewire.com/what-is-a-usb-port-818166)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: Fairly priced for what you get**
 
  Retailing for $400 but often selling for less, the GoPro HERO7 Black is reasonably priced for its amazing features. 4K recording, HyperSmooth image stabilization, high frame rates, Bluetooth connectivity, a waterproof body, and live streaming features make this camera well worth the asking price.
@@ -198,13 +184,6 @@ Lifewire / Jeff Dojillo
  Perfect for adventurers, filmmakers, and vloggers that need a rugged and compact camera to create content on the go.
 
  The portability of the GoPro HERO7 Black is perfect for adventurers, filmmakers, and vloggers that need a rugged and compact camera to create content on the go.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Competition: Less rugged, but better with still photography**
 
@@ -228,18 +207,15 @@ Lifewire / Jeff Dojillo
 
  Between the amazing video quality and the enhanced HyperSmooth electronic image stabilization, the GoPro HERO7 Black is perfect for adventurers who want to record or even live-stream their most rugged expeditions. It produces beautiful videos with enhanced color and sharpness and is small enough to wear or mount somewhere without it getting in the way.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [AKASO EK7000 Pro 4K Action Camera](https://www.lifewire.com/akaso-ek7000-pro-4k-action-camera-review-4770265)
 * [Canon PowerShot G7 X Mark II](https://www.lifewire.com/canon-powershot-g7-x-mark-ii-review-4706895)
 * [Sony DSC-W800](https://www.lifewire.com/sony-dsc-w800-review-4589510)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -272,18 +248,22 @@ Lifewire / Jeff Dojillo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-5-ways-to-record-league-of-legends-lol-games/"><u>[Updated] 5 Ways to Record League of Legends (LOL) Games</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-revolutionary-ideas-to-empower-your-webcam-for-2024/"><u>[Updated] Revolutionary Ideas to Empower Your Webcam for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-journey-through-colors-leading-tutorials-for-grading-and-correction/"><u>2024 Approved A Journey Through Colors Leading Tutorials for Grading & Correction</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-achieving-professional-audio-in-home-recording-studios/"><u>2024 Approved Achieving Professional Audio in Home Recording Studios</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/adobe-premiere-pro-guide-to-slow-down-video-for-2024/"><u>Adobe Premiere Pro Guide to Slow-Down Video for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/compact-powerhouse-the-echo-dot-3rd-generation-unveiled-experience-the-full-alexa-potential/"><u>Compact Powerhouse: The Echo Dot (3Rd Generation) Unveiled - Experience the Full Alexa Potential!</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/create-the-stranger-things-upside-down-effect-video/"><u>Create the Stranger Things Upside Down Effect Video</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-auditory-excellence-on-demand-the-top-6-mics-for-livestreams/"><u>In 2024, Auditory Excellence on Demand The Top 6 Mics for Livestreams</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-detailed-guide-to-crop-videos-in-sony-vegas-pro/"><u>New 2024 Approved Detailed Guide to Crop Videos in Sony Vegas Pro</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-make-a-diy-vlog-or-video/"><u>New 2024 Approved How to Make a DIY Vlog or Video</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-are-you-aware-that-av1-has-the-potential-to-change-the-way-we-watch-videos-online-read-on-to-learn-more-about-av1-and-how-it-could-impact-your-life./"><u>Updated Are You Aware that AV1 Has the Potential to Change the Way We Watch Videos Online? Read on to Learn More About AV1 and How It Could Impact Your Life</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-a-step-by-step-tutorial-for-recording-youtube-live-across-devices/"><u>[Updated] In 2024, A Step-by-Step Tutorial for Recording YouTube Live Across Devices</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-facebook-verification-how-to-verify-facebook-page-easily/"><u>[Updated] In 2024, Facebook Verification How to Verify Facebook Page Easily</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unearthing-the-potential-of-htc-vive-for-immersive-gaming/"><u>[Updated] Unearthing the Potential of HTC Vive for Immersive Gaming</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-incorporate-tunes-into-ppt-slides/"><u>2024 Approved Incorporate Tunes Into PPT Slides</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/breaking-down-the-benefits-of-the-samsung-galaxy-note20-ultra-groovy-a-detailed-user-experience-review/"><u>Breaking Down the Benefits of the Samsung Galaxy Note20 Ultra Groovy - A Detailed User Experience Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/connecting-with-shadows-deciphering-who-youre-actually-interacting-with-online-and-clarifying-ghostly-web-theories/"><u>Connecting with Shadows: Deciphering Who You're Actually Interacting With Online and Clarifying Ghostly Web Theories</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-twitch-platform-essentials-and-live-stream-techniques/"><u>Discover Twitch: Platform Essentials and Live Stream Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-secrets-to-flawless-ppt-video-transcriptions/"><u>In 2024, Secrets to Flawless PPT Video Transcriptions</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-do-you-wish-to-design-the-perfect-slow-motion-video-on-your-smartphone-learn-some-top-rated-free-slow-mo-apps-for-android-and-ios-users-in-this-article-/"><u>New Do You Wish to Design the Perfect Slow-Motion Video on Your Smartphone? Learn some Top-Rated Free Slow-Mo Apps for Android and iOS Users in This Article for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-zoom-webcam-on-pc/"><u>New In 2024, How to Zoom Webcam on PC</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-slow-down-the-gif-to-emphasize-details-better-to-do-so-read-this-guide-and-learn-to-use-the-best-platforms-for-slow-motion-gifs/"><u>New In 2024, Slow Down the GIF to Emphasize Details Better. To Do so, Read This Guide and Learn to Use the Best Platforms for Slow-Motion GIFs</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-definitive-guide-to-gamer-inputs/"><u>The Definitive Guide to Gamer Inputs</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-the-art-of-fashioning-slow-motions-has-remained-popular-ever-since-read-this-article-to-learn-how-to-do-slow-mo-in-capcut-and-other-po/"><u>Updated 2024 Approved The Art of Fashioning Slow Motions Has Remained Popular Ever Since. Read This Article to Learn How to Do Slow-Mo in CapCut and Other Powerful Tools</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-exploring-tools-to-integrate-special-mask-effects-into-your-content-read-the-following-article-to-master-some-tools-experts-in-mask-tracking-for-202/"><u>Updated Exploring Tools to Integrate Special Mask Effects Into Your Content. Read the Following Article to Master some Tools Experts in Mask Tracking for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-did-you-know-cameras-have-a-built-in-feature-to-shoot-slow-motion-clips-this-article-is-about-using-sony-sandq-to-capture-slow-motion-scenes/"><u>Updated In 2024, Did You Know Cameras Have a Built-In Feature to Shoot Slow-Motion Clips? This Article Is About Using Sony S&Q to Capture Slow-Motion Scenes</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-follow-the-trend-of-making-slow-motion-videos-with-a-camera-lenta-capcut-template-learn-everything-about-capcut-and-find-its-alternatives-in/"><u>Updated In 2024, Follow the Trend of Making Slow-Motion Videos with a Camera Lenta CapCut Template. Learn Everything About CapCut and Find Its Alternatives in This Article</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-edit-youtube-videos-in-easy-steps/"><u>Updated In 2024, How To Edit Youtube Videos In Easy Steps</u></a></li>
 </ul></div>
 
