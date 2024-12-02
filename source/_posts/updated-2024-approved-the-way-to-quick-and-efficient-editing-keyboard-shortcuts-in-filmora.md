@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Way to Quick and Efficient Editing | Keyboard Shortcuts in Filmora
-date: 2024-11-22T17:12:26.657Z
-updated: 2024-11-23T20:47:44.987Z
+date: 2024-11-26T17:00:06.553Z
+updated: 2024-12-01T23:35:13.140Z
 tags: 
   - ai
   - animation videos
@@ -26,7 +26,7 @@ The best tool that provides built-in keyboard shortcuts and can help you experie
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Major Checkpoints in Quick Video Editing
@@ -54,7 +54,7 @@ While editing the videos, you need to add the basic transitions to add consisten
 After editing the videos, you also have to preview them to check and fix the mistakes. Above all, always select the tool through which you can preview the videos and export them in the desired output format.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: An Introduction to Wondershare Filmora and Its Video Editing Intuition
@@ -68,7 +68,7 @@ In Filmora, you can find [diversified video editing tools](https://tools.techida
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Features of Wondershare Filmora
@@ -82,11 +82,7 @@ In Filmora, you can find [diversified video editing tools](https://tools.techida
 ![wondershare filmora interface](https://images.wondershare.com/filmora/article-images/2023/perfect-quick-efficient-video-editing-in-filmora-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Learning All Keyboard Shorts for Quick and Efficient Video Editing
@@ -199,6 +195,10 @@ To maximize productivity and workflow efficiency, you can take assistance from t
 | **Help**                                               | F                  |
 | **Export**                                             | Ctrl+ E            |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In the article, you have discovered crucial information about video editing in Filmora. There are some checkpoints that you need to keep in mind before getting into editing. Integrating these checkpoints, there is a consistent need to understand **keyboard shortcuts** in video editing. This procedure, in particular, helps much in effective video editing.
@@ -218,20 +218,17 @@ With the help of the Filmora **shortcut video editor**, you can make cinematic-l
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-essential-handbook-for-instagram-video-posting-from-pcmac/"><u>[New] 2024 Approved The Essential Handbook for Instagram Video Posting From PC/Mac</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-five-steps-to-enhance-your-screenplay-narration/"><u>[Updated] 2024 Approved Five Steps to Enhance Your Screenplay Narration</u></a></li>
-<li><a href="https://facebook.techidaily.com/eternal-rest-from-all-fb-alerts-and-notifications/"><u>Eternal Rest From All FB Alerts and Notifications</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/interactive-art-utilizing-chatgpt-for-ai-generated-images/"><u>Interactive Art: Utilizing ChatGPT for AI-Generated Images</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-overview-of-perfect-moody-luts-for-vn-editor/"><u>New 2024 Approved Overview of Perfect Moody LUTs for VN Editor</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-top-list-the-best-slow-motion-video-editors-available/"><u>New 2024 Approved Top List The Best Slow Motion Video Editors Available</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-are-you-searching-for-the-best-canon-lut-download-this-article-provides-the-best-recommendations-for-creating-the-best-professional-videos-for-2024/"><u>New Are You Searching for the Best Canon LUT Download? This Article Provides the Best Recommendations for Creating the Best Professional Videos for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-making-creative-and-engaging-youtube-videos-is-now-easy-with-several-tools-now-youtube-also-offers-you-its-own-built-in-video-editor-through-whi/"><u>New In 2024, Making Creative and Engaging Youtube Videos Is Now Easy with Several Tools. Now, YouTube Also Offers You Its Own Built-In Video Editor Through Which You Can Edit and Enhance the Video Quality</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-ways-to-merge-videos-in-handbrake-expectation-vs-reality-for-2024/"><u>New Ways to Merge Videos in HandBrake? Expectation Vs. Reality for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-ultraportable-laptops-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Ultraportable Laptops : Comprehensive Reviews by Tech Experts</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/ultimate-guide-mastering-animal-crossing-pocket-camp-on-your-computer/"><u>Ultimate Guide: Mastering Animal Crossing: Pocket Camp on Your Computer</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-lenovo-thinkpad-t420-drivers-on-your-pc-free-and-easy-download-process/"><u>Update Lenovo ThinkPad T420 Drivers on Your PC - Free and Easy Download Process</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-using-ai-to-replace-skies-finding-the-right-methods/"><u>Updated 2024 Approved Using AI to Replace Skies Finding the Right Methods</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-steps-to-make-a-neon-dance-effect-with-filmora/"><u>Updated In 2024, Steps to Make a Neon Dance Effect With Filmora</u></a></li>
-<li><a href="https://win-answers.techidaily.com/windows-11-and-10-troubleshooting-top-tips-for-solving-zoom-crashes/"><u>Windows 11 & 10 Troubleshooting: Top Tips for Solving Zoom Crashes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-gigglegenius-customize-memes-faster-than-you-think/"><u>[New] 2024 Approved GiggleGenius Customize Memes Faster Than You Think</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premium-4k-displays-top-ten-elite-selections/"><u>[New] Premium 4K Displays Top Ten Elite Selections</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-getting-the-most-out-of-google-meet-for-free/"><u>In 2024, Getting the Most Out of Google Meet (For Free)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On OnePlus Ace 2V? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-real-world-examples/"><u>In 2024, Real-World Examples</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-an-ultimate-guide-on-the-significance-of-music-in-videos-and-how-to-choose-the-right-music-for-your-videos-with-wondershare-filmora/"><u>New 2024 Approved An Ultimate Guide on the Significance of Music in Videos and How to Choose the Right Music for Your Videos with Wondershare Filmora</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-are-you-also-a-fan-of-the-slow-mo-guys-well-who-isnt-learn-how-you-can-create-compelling-slow-mo-videos-like-the-slow-mo-guys-here/"><u>New In 2024, Are You Also a Fan of the Slow Mo Guys? Well! Who Isnt? Learn How You Can Create Compelling Slow-Mo Videos Like the Slow Mo Guys Here</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713964797206-new-storyboards-are-amazing-way-if-you-want-to-present-your-story-in-a-visual-way-like-explaining-any-process-or-giving-any-information-it-is-a-graphic-layo/"><u>New Storyboards Are Amazing Way if You Want to Present Your Story in a Visual Way, Like Explaining Any Process or Giving Any Information. It Is a Graphic Layout to Tell You a Story for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/stepwise-strategy-editing-multi-snap-chats-with-ease-for-2024/"><u>Stepwise Strategy Editing Multi-Snap Chats with Ease for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-end-your-struggles-with-choppy-playback-on-davinci-resolve-read-this-guide-to-find-effective-fixes-and-reliable-davinci-resolve-slow-p/"><u>Updated 2024 Approved End Your Struggles with Choppy Playback on DaVinci Resolve. Read This Guide to Find Effective Fixes and Reliable DaVinci Resolve Slow Playback Alternatives</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-top-10-anime-movies-of-all-time/"><u>Updated 2024 Approved Top 10 Anime Movies of All Time</u></a></li>
 </ul></div>
 

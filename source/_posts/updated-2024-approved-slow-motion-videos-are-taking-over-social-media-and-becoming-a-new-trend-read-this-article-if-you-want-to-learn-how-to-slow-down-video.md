@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Slow Motion Videos Are Taking over Social Media and Becoming a New Trend. Read This Article if You Want to Learn How to Slow Down Video in After Effects
-date: 2024-11-18T19:20:59.062Z
-updated: 2024-11-23T23:36:15.854Z
+date: 2024-11-24T23:24:13.360Z
+updated: 2024-12-01T22:02:06.507Z
 tags: 
   - ai
   - animation videos
@@ -25,6 +25,10 @@ If you also want to experiment with this video aspect, then you're at the right 
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: A Complete Overview of Adobe After Effects
 
 Before learning **how to slow mo in After Effects**, we want to introduce you to the software. [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) is a professional software designed to assist in post-production. Those unrealistic scenes you see in a sci-fi movie are its creation. Users can work with multiple effects categories to create animated scenes and titles.
@@ -38,7 +42,7 @@ The software has undergone multiple updates since its creation. With each versio
 * **Timeline Editing:** To see how professional software is, see if it has a timeline panel. Timeline editing is one of the functions that bring accuracy and professionalism. You can cut, align, apply effects, transitions, and much more on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: A Guide to Slow Down Video in Adobe After Effects During Editing
@@ -53,13 +57,13 @@ Upon learning about After Effects and its functionalities, let’s move forward.
 
 ![change stretch factor](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** To bring precision to your slow-mo, you need to adjust the frame rate of the video. For this, right-click on the timeline and go to "Frame Blending > Pixel Motion" option. Afterward, play your video from start to end and observe the changes.
 
 ![look for pixel motion](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Alternative: Slowing Down Video in Wondershare Filmora with Clarity
 
@@ -88,19 +92,11 @@ Once you have downloaded Filmora, start it and click the “New Project” tab. 
 
 ![add videos to timeline](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 2Access Uniform Speed Option
 
 Once the media is in the timeline, select it and right-click on it. From the options panel, locate and click the "Uniform Speed" option. From
 
 ![look for uniform speed settings](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step 3Adjust the Speed and Preview
 
@@ -118,6 +114,10 @@ After importing media and bringing it to the timeline panel, select it. Then, na
 
 ![look for speed ramping section](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 2Access the AI Frame Interpolation
 
 Continue to select a specific preset for speed ramping. As you select one, locate and expand the “AI Frame Interpolation” section. From the appearing option, select the “Optical Flow” option.
@@ -131,7 +131,7 @@ Once you have enabled this option, navigate towards the timeline toolbar. Search
 ![render preview and export](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-13.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Edit Beyond Basic with AI Video Editing Features of Filmora
@@ -165,7 +165,7 @@ However, we recommend Wondershare Filmora as it is a more accessible alternative
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -177,22 +177,22 @@ However, we recommend Wondershare Filmora as it is a more accessible alternative
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-editorsuite-showcase-video-editor-features-and-reviews/"><u>[New] EditorSuite Showcase – Video Editor Features & Reviews</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-crafting-visual-stories-the-art-of-using-gopro-for-time-lapses/"><u>[Updated] 2024 Approved Crafting Visual Stories The Art of Using GoPro for Time-Lapses</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-creating-engaging-instagram-highlight-tags/"><u>[Updated] 2024 Approved Creating Engaging Instagram Highlight Tags</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-iphone-photo-angles-flip-and-tilt-with-skill/"><u>2024 Approved Mastering iPhone Photo Angles Flip & Tilt with Skill</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-skating-moments-from-22/"><u>2024 Approved Prime Skating Moments From '22</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/detailed-guide-to-rotate-videos-in-blender-for-2024/"><u>Detailed Guide to Rotate Videos in Blender for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/essential-techniques-for-screen-capturing-on-various-os-and-gadgets/"><u>Essential Techniques for Screen Capturing on Various OS & Gadgets</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/how-to-concatenate-videos-using-ffmpeg-for-2024/"><u>How to Concatenate Videos Using FFmpeg for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/how-to-create-an-eye-catching-intro-videos-with-invideo-for-2024/"><u>How to Create An Eye-Catching Intro Videos with InVideo for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-remove-background-from-a-video-in-premier-pro/"><u>In 2024, How to Remove Background From a Video in Premier Pro</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-ideal-drawing-programs-a-compreenasaurus-rex-guide-to-chromebooks-art-tools/"><u>In 2024, Ideal Drawing Programs A Compreenasaurus Rex Guide to Chromebook's Art Tools</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210385649-9781667414270-mindfulness-la-guia-completa-de-meditacion-para-principiantes/"><u>Mindfulness: La guía completa de meditación para principiantes | Free Book</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-blender-is-an-open-source-cross-platform-3d-graphics-program-but-this-doesnt-mean-its-a-low-rent-option-for-2024/"><u>New Blender Is an Open-Source Cross-Platform 3D Graphics Program, but This Doesnt Mean Its a Low-Rent Option for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-crop-a-video-in-windows-media-player/"><u>New How to Crop a Video in Windows Media Player</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-master-premiere-pro-custom-sequence-presets/"><u>New Master Premiere Pro Custom Sequence Presets</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-reactivating-your-msi-mystic-light-for-windows-pcs/"><u>Troubleshooting Guide: Reactivating Your MSI Mystic Light for Windows PCs</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-make-a-slow-motion-video-complete-guide/"><u>Updated In 2024, How to Make a Slow Motion Video Complete Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-audience-wow-factor-how-to-create-spectacular-live-streams/"><u>[New] Audience Wow Factor How to Create Spectacular Live Streams</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-improve-your-virtual-engagement-mastering-snap-photography-for-2024/"><u>[New] Improve Your Virtual Engagement Mastering Snap Photography for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-xstudio-mastery-reviewed-full-technical-study/"><u>[Updated] XStudio Mastery Reviewed Full Technical Study</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-benefits-of-live-streaming-on-youtube/"><u>2024 Approved Benefits of Live Streaming on YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-fast-and-efficient-snipping-on-a-pc-top-5-screen-grabber-reviews/"><u>2024 Approved Fast & Efficient Snipping on a PC Top 5 Screen Grabber Reviews</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-add-fade-to-black-on-premiere-pro/"><u>2024 Approved HOW to Add Fade to Black on Premiere Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-revisionfx-reelsmart-motion-blur-plugin-for-premiere-pro/"><u>2024 Approved ReVisionFX ReelSmart Motion Blur Plugin For Premiere Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-thor-vs-darth-vader-desktop-screen-by-china-dazzling-deal-at-just-139/"><u>Affordable 'Thor vs Darth Vader' Desktop Screen by China - Dazzling Deal at Just $139!</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/are-you-looking-for-dark-luts-premiere-pro-free-this-article-discusses-the-dark-moody-luts-with-top-recommendations-for-beginning-visual-editing/"><u>Are You Looking for Dark LUTs Premiere Pro Free? This Article Discusses the Dark Moody LUTs with Top Recommendations for Beginning Visual Editing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-wise-to-seek-financial-counsel-from-ai-platforms-like-chatgpt-and-bard/"><u>Is It Wise to Seek Financial Counsel From AI Platforms Like ChatGPT and Bard?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-easily-sync-audio-with-video-with-filmora/"><u>New 2024 Approved Easily Sync Audio With Video With Filmora</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-best-online-youtube-video-trimmer/"><u>New Best Online YouTube Video Trimmer</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/professional-animation-software-8-best-creator-for-macwindows/"><u>Professional Animation Software 8 Best Creator for Mac/Windows</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/swift-fixes-to-rectify-non-sending-videos-on-the-social-networking-platform-iphoneandroid-for-2024/"><u>Swift Fixes to Rectify Non-Sending Videos on the Social Networking Platform iPhone/Android for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/tips-to-skyrocket-likes-and-share-ratio-in-fb-groups/"><u>Tips to Skyrocket Likes and Share Ratio in FB Groups</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/unlock-the-power-of-shotcut-the-ultimate-guide-to-rotating-videos-for-2024/"><u>Unlock the Power of Shotcut The Ultimate Guide to Rotating Videos for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-create-glitch-text-effect-for-2024/"><u>Updated Create Glitch Text Effect for 2024</u></a></li>
 </ul></div>
 

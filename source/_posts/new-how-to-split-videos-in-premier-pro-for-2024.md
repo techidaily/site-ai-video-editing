@@ -1,7 +1,7 @@
 ---
 title: New How To Split Videos in Premier Pro for 2024
-date: 2024-11-22T20:12:21.336Z
-updated: 2024-11-23T18:46:17.828Z
+date: 2024-11-27T17:53:06.309Z
+updated: 2024-12-01T20:23:45.847Z
 tags: 
   - ai
   - animation videos
@@ -22,7 +22,7 @@ Premiere Pro is the most popular video editing program for movies, television, a
 ## Part 1\. How to split a clip in premiere pro?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. The Razor tool
@@ -38,7 +38,7 @@ Step2Drag the clip onto the timeline if there is an existing sequence. If not, u
 ![new sequence from clip](https://images.wondershare.com/filmora/article-images/2022/08/how-to-split-in-premierpro-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3Choose the Razor tool from the panel next to the timeline to split the clip.
@@ -48,7 +48,7 @@ Step4To split a video clip, click on the section you want to split.
 Step5Now that you have two segments from the same video file, you can edit them separately.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Current-Time Indicator
@@ -64,7 +64,7 @@ Step2Ensure that the video layer you want to split is highlighted on the timelin
 Step3Use the keyboard shortcuts Cmd+K or Ctrl+K to split the clip.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Source Panel
@@ -82,7 +82,7 @@ Step2Wherever you want the In and Out indicators to appear, press the **I** or *
 Step3Select Insert from the Source panel's tools once your marks are in place.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to split audio from video in premiere pro?
@@ -96,15 +96,15 @@ Step3Select Insert from the Source panel's tools once your marks are in place.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-unleash-your-creative-voice-on-tiktok-with-this-simple-step-by-step-guide/"><u>[New] 2024 Approved Unleash Your Creative Voice on TikTok with This Simple Step-By-Step Guide</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-precious-chrome-companion-ringtones/"><u>[New] Precious Chrome Companion Ringtones</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-create-one-click-video-reverse-effect-in-filmora/"><u>2024 Approved How to Create One Click Video Reverse Effect in Filmora</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/best-hidden-instagram-tool-for-clandestine-stories-for-2024/"><u>Best Hidden Instagram Tool for Clandestine Stories for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-infinix-note-30-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Infinix Note 30 for Free? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-comment-on-youtube-live-chat/"><u>New 2024 Approved How to Comment on YouTube Live Chat</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210644825-9780349431758-tapping-in/"><u>Tapping In | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-path-to-dominance-apples-potential-game-changing-moves-over-openai-microsoft-and-google-at-wwdc-202/"><u>Unveiling the Path to Dominance: Apple's Potential Game-Changing Moves Over OpenAI, Microsoft & Google at WWDC 202#</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-what-are-the-stages-of-film-production/"><u>Updated In 2024, What Are The Stages Of Film Production</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-master-premiere-pro-custom-sequence-presets-for-2024/"><u>Updated Master Premiere Pro Custom Sequence Presets for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamlined-social-integration-linktree-and-tiktok-profiles-united/"><u>[New] Streamlined Social Integration Linktree and TikTok Profiles United</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-investors-edge-tapping-into-youtube-creators-earnings/"><u>[Updated] The Investor’s Edge Tapping Into YouTube Creators' Earnings</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-explore-the-list-of-the-top-six-online-video-speed-controllers-for-chrome-safari-and-firefox/"><u>2024 Approved Explore the List of the Top Six Online Video Speed Controllers for Chrome, Safari, and Firefox</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/capturing-gaming-moments-look-beyond-xboxs-game-bar-for-2024/"><u>Capturing Gaming Moments Look Beyond Xbox's Game Bar for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-and-plan-like-a-pro-our-picks-for-the-best-travel-organizer-apps/"><u>Explore and Plan Like a Pro: Our Picks for the Best Travel Organizer Apps</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-guide-create-the-perfect-vhs-effect-look-in-premiere-pro/"><u>New 2024 Approved Guide Create The Perfect VHS Effect Look in Premiere Pro</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/quickcopy-consultants-thoughts/"><u>QuickCopy Consultants' Thoughts</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-enable-and-use-obs-zoom-camera-for-2024/"><u>Updated How to Enable and Use OBS Zoom Camera for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-so-without-further-dilly-dallying-lets-learn-how-to-create-a-retro-1950-style-video-with-this-simple-filmora-tutorial/"><u>Updated So, without Further Dilly-Dallying, Lets Learn How to Create a Retro 1950-Style Video with This Simple Filmora Tutorial</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-oppo-reno-10-pro-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Oppo Reno 10 Pro 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

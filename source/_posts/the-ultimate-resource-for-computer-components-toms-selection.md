@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Resource for Computer Components - Tom’s Selection
-date: 2024-11-21T19:36:01.855Z
-updated: 2024-11-23T19:53:36.525Z
+date: 2024-11-24T18:24:58.603Z
+updated: 2024-12-01T17:39:45.953Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,18 +78,21 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-prime-skills-for-quiet-visual-capture/"><u>[New] In 2024, Prime Skills for Quiet Visual Capture</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-visualize-your-workflow-top-free-screen-recorders-for-pc-and-mac-for-2024/"><u>[New] Visualize Your Workflow - Top Free Screen Recorders for PC & Mac for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-vital-6-social-media-channels-for-commercial-success/"><u>[New] Vital 6 Social Media Channels for Commercial Success</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-navigating-to-facebooks-story-archives-quickly/"><u>2024 Approved Navigating to Facebook's Story Archives Quickly</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/accelerated-learning-for-chromakey-artistry/"><u>Accelerated Learning for Chromakey Artistry</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/highlight-free-and-low-cost-attractions-including-public-parks-museums-with-free-entry-days-and-walking-or-biking-tours/"><u>Highlight Free and Low-Cost Attractions, Including Public Parks, Museums with 'Free Entry Days', And Walking or Biking Tours.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-black-ops-cold-war-overcome-the-challenge-of-error-code-887a0005-successfully/"><u>Mastering Black Ops Cold War: Overcome the Challenge of Error Code 887A0005 Successfully</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-looking-forward-to-complement-your-weekend-evenings-with-a-fantasy-tour-to-the-anime-world-stay-here-to-pick-the-most-appealing-alternativ/"><u>New 2024 Approved Looking Forward to Complement Your Weekend Evenings with a Fantasy Tour to the Anime World? Stay Here to Pick the Most Appealing Alternative From the Best and Timeless Anime Creations</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-embrace-creativity-in-your-media-by-replacing-backgrounds-learn-to-replace-the-sky-in-lightroom-through-the-steps-and-details-discussed-in-this-article-/"><u>New Embrace Creativity in Your Media by Replacing Backgrounds. Learn to Replace the Sky in Lightroom Through the Steps and Details Discussed in This Article for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/simplified-sound-adjustments-achieve-a-unique-voice-in-online-gaming/"><u>Simplified Sound Adjustments Achieve a Unique Voice in Online Gaming</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-timeline-template-is-a-visual-representation-showing-the-passage-of-time-it-includes-text-diagrams-images-and-icons-they-are-perfect-f/"><u>Updated 2024 Approved Timeline Template Is a Visual Representation Showing the Passage of Time. It Includes Text, Diagrams, Images and Icons. They Are Perfect for Telling Stories, Events Etc</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-eager-to-know-how-to-create-an-adjustment-layer-in-premiere-pro-this-article-will-highlight-the-significance-of-adding-an-adjustment/"><u>Updated In 2024, Are You Eager to Know How to Create an Adjustment Layer in Premiere Pro? This Article Will Highlight the Significance of Adding an Adjustment Layer in Premiere Pro</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-top-list-the-best-slow-motion-video-editors-available/"><u>Updated In 2024, Top List The Best Slow Motion Video Editors Available</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-your-ultimate-roadmap-for-optimal-youtube-video-resolution-width-and-height/"><u>[New] Your Ultimate Roadmap for Optimal YouTube Video Resolution, Width & Height</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-crafting-perfect-squares-imovie-guide-for-instagram-videos/"><u>[Updated] 2024 Approved Crafting Perfect Squares IMovie Guide for Instagram Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unveiling-the-top-6-head-mount-options-for-dynamic-camera-use/"><u>[Updated] In 2024, Unveiling the Top 6 Head Mount Options for Dynamic Camera Use</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-screen-recording-via-mobile-devices-a-guide/"><u>[Updated] Snapchat Screen Recording via Mobile Devices A Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-realme-c53-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Realme C53 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/how-to-make-your-lol-gaming-memories-last-3-tips-for-2024/"><u>How to Make Your LOL Gaming Memories Last (3 Tips) for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-the-way-to-quick-and-efficient-editing-keyboard-shortcuts-in-filmora/"><u>New 2024 Approved The Way to Quick and Efficient Editing | Keyboard Shortcuts in Filmora</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-through-speed-ramping-create-a-smooth-transition-in-slow-motion-videos-follow-this-guide-and-learn-about-premiere-pro-slow-motion-and-a-be/"><u>New 2024 Approved Through Speed Ramping, Create a Smooth Transition in Slow-Motion Videos. Follow This Guide and Learn About Premiere Pro Slow Motion and a Better Alternative</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-do-you-like-clouds-or-sky-and-want-to-use-them-as-a-video-background-explore-this-article-to-learn-about-the-sky-change-video-in-filmora-for-2024/"><u>New Do You Like Clouds or Sky and Want to Use Them as a Video Background? Explore This Article to Learn About the Sky Change Video in Filmora for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-use-adjustment-layer-in-photoshop-in-2024/"><u>New How to Use Adjustment Layer in Photoshop, In 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-are-you-an-apple-user-interested-in-adding-a-slow-mo-to-their-videos-this-article-features-an-exceptional-procedure-for-creating-slow-mo-in-imov/"><u>New In 2024, Are You an Apple User Interested in Adding a Slow-Mo to Their Videos? This Article Features an Exceptional Procedure for Creating Slow-Mo in iMovie</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-a05s-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy A05s Users</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-use-luts-perfectly-in-final-cut-pro/"><u>Updated 2024 Approved How to Use LUTs Perfectly in Final Cut Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-making-slow-motion-videos-in-premiere-pro-a-review-on-the-best-method/"><u>Updated 2024 Approved Making Slow Motion Videos in Premiere Pro A Review on The Best Method</u></a></li>
 </ul></div>
 

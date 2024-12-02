@@ -1,7 +1,7 @@
 ---
 title: Alibaba Yitian 710 CPU Leads the Race as Top Arm-Based Processor for Cloud Servers, Research Finds
-date: 2024-11-20T20:48:49.102Z
-updated: 2024-11-23T23:31:00.870Z
+date: 2024-11-28T00:19:36.284Z
+updated: 2024-12-02T02:20:45.736Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,19 +56,24 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-the-complete-guide-to-masterful-lunapic-photography-for-2024/"><u>[New] The Complete Guide to Masterful LunaPic Photography for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mastering-hulu-capture-windows-mac-and-mobile-edition/"><u>[Updated] 2024 Approved Mastering Hulu Capture Windows, Mac & Mobile Edition</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-go-big-go-viral-channel-tiktok-trends-into-instagram-reels-for-2024/"><u>[Updated] Go Big, Go Viral Channel TikTok Trends Into Instagram Reels for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-mastering-free-translation-top-8-choices-revealed/"><u>2024 Approved Mastering Free Translation Top 8 Choices Revealed</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-guide-initiating-and-managing-android-zoom-calls/"><u>2024 Approved Quick Guide Initiating & Managing Android Zoom Calls</u></a></li>
-<li><a href="https://win-answers.techidaily.com/best-360-degree-video-players-compatible-with-all-platforms-windows-mac-iphone-and-android/"><u>Best 360-Degree Video Players Compatible with All Platforms: Windows, Mac, iPhone & Android</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-put-a-background-on-a-green-screen/"><u>New 2024 Approved How to Put a Background on A Green Screen</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ai-lexicon-handbook-must-know-words-for-techies/"><u>The AI Lexicon Handbook: Must-Know Words for Techies</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-discover-how-you-can-use-vectorscope-to-adjust-luminance-color-grading-and-more-in-your-video-editing-projects/"><u>Updated 2024 Approved Discover How You Can Use Vectorscope to Adjust Luminance, Color Grading, and More in Your Video Editing Projects</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-have-a-desire-to-uplift-your-editing-creativity-with-trying-hands-at-working-with-storyboards-keep-reading-to-have-a-comprehensive-und/"><u>Updated 2024 Approved Have a Desire to Uplift Your Editing Creativity with Trying Hands at Working with Storyboards? Keep Reading to Have a Comprehensive Understating of the Workflow Through Stepwise User Guides</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-what-do-you-prefer-more-mkv-file-format-or-mov-increase-your-knowledge-and-learn-more-about-mkv-format-by-ready-the-detailed-article-below.m/"><u>Updated In 2024, What Do You Prefer More, MKV File Format or MOV? Increase Your Knowledge and Learn More About MKV Format by Ready the Detailed Article Below</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-wondering-how-to-replace-sky-in-after-effects-learn-how-for-2024/"><u>Updated Wondering How to Replace Sky in After Effects? Learn How for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/why-your-old-phone-wont-pair-with-android-auto-understanding-the-latest-restrictions/"><u>Why Your Old Phone Won't Pair with Android Auto – Understanding the Latest Restrictions</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-the-battle-against-unregistered-class-in-windows-10-a-comprehensive-fix-guide/"><u>Winning the Battle Against Unregistered Class in Windows 10: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-the-clone-game-amplifying-your-presence-on-tiktok-for-2024/"><u>[Updated] The Clone Game Amplifying Your Presence on TikTok for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-conveniently-connect-friends-across-os-platforms-using-skype-chats/"><u>2024 Approved Conveniently Connect Friends Across OS Platforms Using Skype Chats</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-uniting-brands-and-youtube-for-maximum-impact/"><u>2024 Approved Uniting Brands & YouTube for Maximum Impact</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/bridge-gaps-in-generations-of-viewers-6-interactive-tests-to-find-your-youtube-match/"><u>Bridge Gaps in Generations of Viewers 6 Interactive Tests to Find Your YouTube Match</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/expert-tips-retrieving-pdf-documents-after-drive-formatting-mishap/"><u>Expert Tips: Retrieving PDF Documents After Drive Formatting Mishap</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-honor-90-gt-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Honor 90 GT?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/master-the-art-of-console-game-recording-with-computer-assistance-for-2024/"><u>Master the Art of Console Game Recording with Computer Assistance for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-are-you-curious-about-finding-a-good-iphone-slow-motion-app-discover-the-top-rated-applications-in-the-market-that-will-help-you-create-th/"><u>New 2024 Approved Are You Curious About Finding a Good iPhone Slow-Motion App? Discover the Top-Rated Applications in the Market that Will Help You Create the Perfect Video</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-experiment-with-various-sky-backgrounds-for-your-footage-learn-about-sky-replacement-after-effects-in-this-article-with-a-s/"><u>New 2024 Approved Do You Want to Experiment with Various Sky Backgrounds for Your Footage? Learn About Sky Replacement After Effects in This Article with a Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-knowing-all-ways-to-slow-down-video-with-adobe-premiere-pro/"><u>New 2024 Approved Knowing All Ways To Slow Down Video With Adobe Premiere Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-learn-how-to-make-a-gaming-montage-guide-and-tips/"><u>New 2024 Approved Learn How to Make a Gaming Montage - Guide & Tips</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-discover-the-essential-steps-for-editing-a-music-video-in-this-guide-learn-about-aspect-ratio-and-the-first-cut-process-to-create-a-visually-cap/"><u>New In 2024, Discover the Essential Steps for Editing a Music Video in This Guide. Learn About Aspect Ratio and the First Cut Process to Create a Visually Captivating Video</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-put-a-background-on-a-green-screen/"><u>New In 2024, How to Put a Background on A Green Screen</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-mask-tracking-is-believed-to-be-a-helpful-procedure-for-marking-proper-areas-in-videos-learn-how-to-perform-premiere-pro-mask-tracking-in-this-g/"><u>New In 2024, Mask Tracking Is Believed to Be a Helpful Procedure for Marking Proper Areas in Videos. Learn How to Perform Premiere Pro Mask Tracking in This Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-the-art-of-fashioning-slow-motions-has-remained-popular-ever-since-read-this-article-to-learn-how-to-do-slow-mo-in-capcut-and-other-powerful-too/"><u>New In 2024, The Art of Fashioning Slow Motions Has Remained Popular Ever Since. Read This Article to Learn How to Do Slow-Mo in CapCut and Other Powerful Tools</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/top-ranking-cross-platform-video-grabber-apps-ideal-choice-for-windows-and-mac-enthusiasts/"><u>Top-Ranking Cross-Platform Video Grabber Apps: Ideal Choice for Windows & Mac Enthusiasts</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-want-to-add-a-slow-mo-effect-in-your-videos-in-this-guide-we-will-discuss-how-to-add-slow-motion-effects-in-the-videos-with-aft/"><u>Updated 2024 Approved Do You Want to Add a Slow-Mo Effect in Your Videos? In This Guide, We Will Discuss How to Add Slow-Motion Effects in the Videos with After Effects in an Efficient Way</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-list-top-free-online-video-merging-software/"><u>Updated The Ultimate List Top Free Online Video Merging Software</u></a></li>
 </ul></div>
 

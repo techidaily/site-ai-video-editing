@@ -1,7 +1,7 @@
 ---
 title: "Legal Battle: HP Enterprise Accuses Inspur of Intellectual Property Theft as It Persists in American Market Operations"
-date: 2024-11-21T19:17:11.178Z
-updated: 2024-11-23T21:54:54.164Z
+date: 2024-11-28T03:41:18.632Z
+updated: 2024-12-01T19:54:07.821Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,18 +60,20 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-digital-domain-your-playground-for-1000-titles/"><u>[New] 2024 Approved Digital Domain Your Playground for 1,000 Titles</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-obs-not-recording-audio-solved/"><u>[New] 2024 Approved OBS Not Recording Audio [Solved]</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-sidestep-green-screen-gaffes-your-essential-mac-fix-guide/"><u>[Updated] Sidestep Green Screen Gaffes Your Essential Mac Fix Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-wintv-guide-effective-techniques-in-windows-based-live-recording/"><u>[Updated] WinTV Guide Effective Techniques in Windows-Based Live Recording</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1-ripristina-i-driver-eliminati-nel-tuo-sistema-operativo-windows-10-con-modi-3-un-tutorial-facile/"><u>1. Ripristina I Driver Eliminati Nel Tuo Sistema Operativo Windows 10 Con Modi 3 - Un Tutorial Facile!</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713942898556-how-to-livestream-zoom-on-facebook-for-2024/"><u>How to Livestream Zoom on Facebook for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-android-maintenve-a-complete-cache-clearing-tutorial/"><u>Mastering Android Maintenve: A Complete Cache Clearing Tutorial</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713963240441-new-have-you-ever-used-premiere-pro-to-create-slow-motion-effects-this-article-will-provide-a-guide-on-producing-slow-motion-effects-by-using-adobe-premiere/"><u>New Have You Ever Used Premiere Pro to Create Slow-Motion Effects? This Article Will Provide a Guide on Producing Slow-Motion Effects by Using Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-mask-tracking-with-adobe-premiere-pro-a-detailed-guide-for-2024/"><u>New Mask Tracking with Adobe Premiere Pro A Detailed Guide for 2024</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/unable-to-locate-content-internet-page-missing-error-code-404/"><u>Unable To Locate Content - Internet Page Missing (Error Code ^[4]04)</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-change-aspect-ratio-in-imovie-for-2024/"><u>Updated How to Change Aspect Ratio in iMovie for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-use-deep-fried-meme-maker-for-2024/"><u>Updated How to Use Deep Fried Meme Maker for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-instructions-how-to-install-logitechs-g-pro-controller-on-your-pc-windows-111087/"><u>[Download Instructions] How to Install Logitech's G Pro Controller on Your PC (Windows 11/10/8/7)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-elevate-your-work-with-6-pinnacle-nft-maker-tools/"><u>[New] In 2024, Elevate Your Work with 6 Pinnacle NFT Maker Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-smooth-watchers-guide-to-pacing-down-videos-on-youtube-60-chars-minor-exception-due-to-title-length-but-provides-rich-context/"><u>[New] The Smooth Watcher's Guide to Pacing Down Videos on YouTube (60 Chars, Minor Exception Due to Title Length but Provides Rich Context)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-constructing-attention-grabbing-trailers-for-youtube/"><u>[Updated] 2024 Approved Constructing Attention-Grabbing Trailers for YouTube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/bring-out-the-vibes-using-radial-blurs-in-your-projects/"><u>Bring Out the Vibes Using Radial Blurs in Your Projects</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-oppo-a58-4g-lock-screen-password-by-drfone-android/"><u>How to Reset your Oppo A58 4G Lock Screen Password</u></a></li>
+<li><a href="https://facebook.techidaily.com/identifying-prime-moments-in-online-marketing/"><u>Identifying Prime Moments in Online Marketing</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-surging-channel-growth-with-optimal-video-hashes/"><u>In 2024, Surging Channel Growth with Optimal Video Hashes</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-are-you-looking-to-create-some-impressive-slow-motion-video-content-get-this-done-with-some-impressive-android-slow-motion-video-apps/"><u>New In 2024, Are You Looking to Create some Impressive Slow-Motion Video Content? Get This Done with some Impressive Android Slow Motion Video Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-power-off-challenges-tips-for-windows-11-users-to-restart-safely/"><u>Overcoming Power-Off Challenges: Tips for Windows 11 Users to Restart Safely</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-did-you-know-cameras-have-a-built-in-feature-to-shoot-slow-motion-clips-this-article-is-about-using-sony-sandq-to-capture-slow-motion-/"><u>Updated 2024 Approved Did You Know Cameras Have a Built-In Feature to Shoot Slow-Motion Clips? This Article Is About Using Sony S&Q to Capture Slow-Motion Scenes</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-do-you-know-you-dont-need-a-pc-or-mac-to-apply-luts-on-your-media-you-can-use-many-smartphone-apps-to-apply-luts-such-as-3dlut-mobile-app-for-2024.m/"><u>Updated Do You Know You Dont Need a PC or Mac to Apply LUTs on Your Media? You Can Use Many Smartphone Apps to Apply LUTs, Such as 3DLUT Mobile App for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713962802533-updated-do-you-wish-to-know-how-ffmpeg-can-remove-audio-from-a-video-if-yes-keep-scrolling-this-guide-to-remove-audio-from-video-with-ffmpeg-and-other-alter/"><u>Updated Do You Wish to Know How FFmpeg Can Remove Audio From a Video? If Yes, Keep Scrolling This Guide to Remove Audio From Video with FFmpeg and Other Alternative Software for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-want-to-add-a-slow-mo-effect-in-your-videos-in-this-guide-we-will-discuss-how-to-add-slow-motion-effects-in-the-videos-with-after-eff/"><u>Updated In 2024, Do You Want to Add a Slow-Mo Effect in Your Videos? In This Guide, We Will Discuss How to Add Slow-Motion Effects in the Videos with After Effects in an Efficient Way</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-the-art-of-fashioning-slow-motions-has-remained-popular-ever-since-read-this-article-to-learn-how-to-do-slow-mo-in-capcut-and-other-powerful-tools-f/"><u>Updated The Art of Fashioning Slow Motions Has Remained Popular Ever Since. Read This Article to Learn How to Do Slow-Mo in CapCut and Other Powerful Tools for 2024</u></a></li>
 </ul></div>
 

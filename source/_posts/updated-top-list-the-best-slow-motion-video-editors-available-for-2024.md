@@ -1,7 +1,7 @@
 ---
 title: Updated Top List The Best Slow Motion Video Editors Available for 2024
-date: 2024-11-20T20:17:27.974Z
-updated: 2024-11-23T22:17:02.221Z
+date: 2024-11-29T02:29:14.245Z
+updated: 2024-12-01T19:19:20.539Z
 tags: 
   - ai
   - animation videos
@@ -26,7 +26,7 @@ In this article, we are going to discuss some leading slow-motion video editors 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Top 5 Online Slow-Motion Video Editors to Use in 2024
@@ -40,7 +40,7 @@ This section of the article discusses some **slow** **\-motion video maker**s th
 * [Wave.video](#online5)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. CapCut
@@ -84,10 +84,6 @@ Say goodbye to the long hours of waiting with your **slow-mo editor** **’s** s
 | **Solo**         | $15                |
 | **Pro**          | $29                |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. InVideo.ai
 
 Editing with a multifeatured tool is fun as you can do more than just one thing. As the name indicates, this is an AI-driven tool with speed change integration. You can adjust the playback speed and set duration preferences for your video. With its minimal user interface, you can do further cutting and trimming afterward across this **slow-mo video editor.**
@@ -109,10 +105,6 @@ Editing with a multifeatured tool is fun as you can do more than just one thing.
 | ---------------- | ------------------ |
 | **Business**     | $15/month          |
 | **Unlimited**    | $30/month          |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Video Candy
 
@@ -142,6 +134,10 @@ If you are looking for a **slow-motion editor** without having to log in or go t
 This online platform facilitates the alteration of video playback speed effortlessly. It features three distinct playback options, 0.75x, 0.5x, and 0.25x, to ensure precise editing capabilities. Possessing an uncomplicated user interface, the tool extends beyond speed adjustments, offering comprehensive audio modifications. If you want to elevate your videography, use its time-lapse effect to enrich the aesthetics.
 
 ![wave video dashboard](https://images.wondershare.com/filmora/article-images/2023/tools-and-applications-for-slomo-creation-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Pros
 
@@ -182,10 +178,6 @@ Becoming the favorite of many, this **slow-motion video converter** offers an in
 * This application maintains the video quality and can convert video resolution to HD.
 * Never miss a chance to integrate good music in your videos with it, as it has built-in options.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Slow Motion Video Maker
 
 This **free slo-mo video editor** regulates its algorithm to introduce advanced features. It features a timeline editing interface, making it easy to apply slow-motion effects on a definite video section. It displays 3 slow motion speed options: 0.5x, 0.3x, and 0.25x to achieve precision in creating a slomo.
@@ -216,11 +208,19 @@ This is for you if you are looking for a **slow-motion video editor** that gener
 
 ![video editor & maker vidma](https://images.wondershare.com/filmora/article-images/2023/tools-and-applications-for-slomo-creation-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Key Features
 
 * Bids an automated “Keep Audio Pitch” option to maintain the audio quality during speed change.
 * Infuse your pictures and videos with its immersive collection of text and stickers.
 * Features multiple visual filters categorized according to contexts with custom intensities.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. VivaVideo – Video Editor&Maker
 
@@ -229,7 +229,7 @@ If you are looking for a **slow-motion video editor** with additional features t
 ![vivavideo video editor & maker](https://images.wondershare.com/filmora/article-images/2023/tools-and-applications-for-slomo-creation-10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Key Features
@@ -237,10 +237,6 @@ If you are looking for a **slow-motion video editor** with additional features t
 * An extensive timeline editing interface with multiple tracks option for smooth transitions.
 * The stock media has a wide array of texts, animations, themes, effects, and music.
 * This **slow-mo video maker** also has a “Voice Editor” to maintain the quality of audio tracks afterward.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Top 5 iOS Apps for Editing Slow Motion Videos
 
@@ -270,6 +266,10 @@ Vizmato is a versatile video editor providing slow-motion services along with ot
 
 ![vizmato video editor and filter](https://images.wondershare.com/filmora/article-images/2023/tools-and-applications-for-slomo-creation-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Key Features
 
 * This **slow video editor**’s asset collection includes 20+ themes and 40+ visual effects.
@@ -288,10 +288,6 @@ Customize your slow-motion sequences according to background music and context w
 * Add other graphical elements like stickers and emojis to express your video context or dialogues.
 * Resize your video within this application to fit the requirements of social platforms.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Slow Motion Video Editor
 
 Wondering about how to achieve a professional-level effect on your iPhone? This **slow-motion video converter** is full of speed custom setting options to help with that. It uses a timeline bar and velocity graph to adjust the speed settings. The downward slide dragging will slow down your video and vice versa. You can also adjust the video duration via timeline or reset it to set again.
@@ -309,10 +305,6 @@ Wondering about how to achieve a professional-level effect on your iPhone? This 
 Are you looking for an application just to create slow-mo with a creative user interface? This **slow-motion video editor** has been developed to help you with speed-alteration tasks. The interface is simple, and you can start creating a slomo just by importing a video. Designed to create professional and cinematic level slo-mos, it offers high video frame rates like 120 fps and 240 fps.
 
 ![slomo slow motion video editor](https://images.wondershare.com/filmora/article-images/2023/tools-and-applications-for-slomo-creation-15.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -339,10 +331,6 @@ In this section, we will discuss the Filmora Speed Ramping feature to create a s
 After opening Filmora and opening a project, select the clip in the timeline and go to the settings panel. From there, reach the "Speed" > "Speed Ramping" tabs and select a preset. If you don't like the featured presets, click on "Customize" for manual editing.
 
 ![adjust speed via speed ramping](https://images.wondershare.com/filmora/article-images/2023/tools-and-applications-for-slomo-creation-20.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step 2Add Video Frames
 
@@ -378,17 +366,29 @@ Dive into the realm of Filmora, where there is no limitation on graphics and vis
 
 ![ai text to video filmora](https://images.wondershare.com/filmora/article-images/2023/tools-and-applications-for-slomo-creation-17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 3\. Motion Tracking
 
 Create animations from mere graphics to insert in your videos using this AI. Just add any graphical emoji, text, or sticker and link it with a moving object. Once you enable the motion tracking option, you will see them come to life. You can also apply an effect or filter to a specific portion throughout the video using making and motion-tracking options.
 
 ![motion tracking filmora](https://images.wondershare.com/filmora/article-images/2023/tools-and-applications-for-slomo-creation-18.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 4\. Speech-to-Text
 
 Subtitles and captions have become an important part of cinema or videography. To ensure that your content reaches an international audience, use Filmora's STT feature. With its automated speech recognition and NLP systems, it transforms any speech into text. Moreover, it has multilingual support to make content accessible at international levels.
 
 ![speed to text filmora](https://images.wondershare.com/filmora/article-images/2023/tools-and-applications-for-slomo-creation-19.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -407,22 +407,20 @@ In this article, you have read about different **slow-motion video editor** **s*
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-androids-low-cost-video-communication-guide/"><u>[New] Android's Low-Cost Video Communication Guide</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-magix-vegas-pro-review-a-professional-video-editing-software/"><u>2024 Approved MAGIX Vegas Pro Review A Professional Video Editing Software</u></a></li>
-<li><a href="https://win-docs.techidaily.com/fast-track-audio-file-saver-app-compatible-with-windows-11/"><u>Fast-Track Audio File Saver App Compatible with Windows 11</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/guide-to-synchronizing-your-audio-and-videos-properly-in-2024/"><u>Guide to Synchronizing Your Audio And Videos Properly, In 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-applying-the-effect-of-camera-shake-in-video-creation/"><u>In 2024, Applying the Effect of Camera Shake in Video Creation</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-quick-realignment-youtube-on-mac-display-ratio/"><u>In 2024, Quick Realignment YouTube on Mac Display Ratio</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-motorola-moto-g14-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Motorola Moto G14 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-sony-xperia-5-v-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Sony Xperia 5 V Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/mastering-4k-movie-viewing-a-comprehensive-guide-to-watching-films-in-ultra-hd-on-your-apple-tv/"><u>Mastering 4K Movie Viewing: A Comprehensive Guide to Watching Films in Ultra HD on Your Apple TV</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-perfect-frame-a-guide-to-polishing-videos-with-instagram-edits-for-2024/"><u>The Perfect Frame A Guide to Polishing Videos with Instagram Edits for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/the-power-of-music-in-videos-plusfilmora-editing-tricks-for-2024/"><u>The Power of Music in Videos (+Filmora Editing Tricks) for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-make-tutorial-video-with-filmora/"><u>Updated 2024 Approved How to Make Tutorial Video with Filmora</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-to-help-you-perform-this-action-in-this-article-we-list-the-steps-you-will-need-for-cropping-into-video-clips-with-powerdirector-as-an/"><u>Updated 2024 Approved To Help You Perform This Action, in This Article, We List the Steps You Will Need for Cropping Into Video Clips with PowerDirector. As an Added Bonus, We Have Also Included the Method to Perform the Same Actions in WonderShare Filmora</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-add-font-effects-to-videos-for-2024/"><u>Updated How to Add Font Effects to Videos for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-clone-yourself-in-videos-with-filmora-for-2024/"><u>Updated How to Clone Yourself in Videos with Filmora for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-the-game-selecting-the-best-5-budget-friendly-software-boosters/"><u>Win the Game: Selecting the Best 5 Budget-Friendly Software Boosters</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-does-immediate-subscribing-affect-content-recommendations-for-2024/"><u>[New] Does Immediate Subscribing Affect Content Recommendations for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/dissecting-the-live-stream-realm-twitch-versus-youtube-for-2024/"><u>Dissecting the Live-Stream Realm Twitch Versus YouTube for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-make-a-super-easy-rotating-video-effect/"><u>How to Make a Super Easy Rotating Video Effect</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-do-you-want-to-print-designs-onto-your-garments-or-other-fashion-accessories-find-out-how-to-create-a-screen-print-effect-in-photoshop-to-give-your-/"><u>In 2024, Do You Want to Print Designs Onto Your Garments or Other Fashion Accessories? Find Out How to Create a Screen Print Effect in Photoshop to Give Your Text or Graphics a Vintage or Retro Look</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-introduction-to-luts-their-overview-and-benefits/"><u>In 2024, Introduction to LUTs Their Overview and Benefits</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leading-places-to-download-high-quality-free-digital-images/"><u>In 2024, Leading Places to Download High-Quality, Free Digital Images</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quickstart-to-flawless-nft-artistry-for-beginners/"><u>In 2024, Quickstart to Flawless NFT Artistry for Beginners</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713950496574-in-this-guidepost-youll-learn-what-an-hdri-photo-is-and-how-to-use-the-best-free-hdri-program-to-edit-photos-youll-also-know-the-difference-between-hdr-and-/"><u>In This Guidepost, Youll Learn What an HDRI Photo Is and How to Use the Best Free HDRI Program to Edit Photos. Youll Also Know the Difference Between HDR and HDRI for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-are-you-aware-that-you-can-create-your-own-lower-thirds-for-video-read-this-article-for-a-tutorial-on-how-to-customize-one/"><u>New Are You Aware that You Can Create Your Own Lower Thirds for Video? Read This Article for a Tutorial on How to Customize One</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713964496835-new-making-a-countdown-timer-video-like-a-pro-isnt-a-problem-anymore-follow-the-steps-mentioned-in-this-guide-and-create-an-impressive-countdown-timer-for-y/"><u>New Making a Countdown Timer Video Like a Pro Isnt a Problem Anymore. Follow the Steps Mentioned in This Guide and Create an Impressive Countdown Timer for Your Videos for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/simplifying-the-process-how-to-guide-for-booking-meets-for-2024/"><u>Simplifying the Process How-To Guide for Booking Meets for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-viewing-guide-watching-harry-potter-series-step-by-step/"><u>The Ultimate Viewing Guide: Watching Harry Potter Series Step by Step</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-clone-yourself-in-videos-with-filmora/"><u>Updated How to Clone Yourself in Videos with Filmora?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-how-to-reverse-audio-with-best-audio-reversers/"><u>Updated How to Reverse Audio with Best Audio Reversers</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600663304-windowsstellar-data-recovery/"><u>Windows上で失われたデータを簡単に取り戻すStellar Data Recovery: 信頼性の高いフリーソフト</u></a></li>
 </ul></div>
 
