@@ -1,7 +1,7 @@
 ---
 title: Updated How to Zoom in on PowerPoint Easy Ways for 2024
-date: 2024-11-24T18:27:01.004Z
-updated: 2024-12-01T16:36:15.490Z
+date: 2024-12-06T18:06:29.637Z
+updated: 2024-12-09T19:00:00.816Z
 tags: 
   - ai
   - animation videos
@@ -34,7 +34,7 @@ Additionally, you may access the Zoom dialog box and choose a different zoom lev
 ![how to zoom in on powerpoint](https://images.wondershare.com/filmora/article-images/2022/07/select-view-zoom-in-powerpoint.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step2Click the Zoom Button
@@ -43,10 +43,6 @@ Zoom in by going to the View tab attributes. Select Zoom in from the View menu a
 
 ![how to zoom in on powerpoint](https://images.wondershare.com/filmora/article-images/2022/07/click-zoom-button-powerpoint.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step3Click Fit to Window
 
 Additionally, if you choose Fit, Presentation will resize the window to a proper size.
@@ -54,7 +50,11 @@ Additionally, if you choose Fit, Presentation will resize the window to a proper
 ![how to zoom in on powerpoint](https://images.wondershare.com/filmora/article-images/2022/07/zoom-to-fit-powerpoint.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Use the Zoom Slider at The Bottom of the Screen
@@ -67,10 +67,6 @@ The horizontal scroll bar will then display underneath the slide if you zoom in 
 
 ![how to zoom in on powerpoint](https://images.wondershare.com/filmora/article-images/2022/07/adjust-zoom-status-bar.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step2Click the Zoom Out (-) button on the status bar
 
 Changing the magnification level is simple using PowerPoint's Zoom slider. Click and move the slider left, toward the minus sign, to reduce the magnification level. To the left of the zoom slider is a percentage that represents the magnification level.
@@ -82,7 +78,7 @@ Click the "Fit slide to current window" button to the right of the Zoom slider t
 ![how to zoom in on powerpoint](https://images.wondershare.com/filmora/article-images/2022/07/fit-slide-to-current-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. The Ctrl + Mouse Spin Wheel Shortcut
@@ -94,6 +90,10 @@ Step1Launch PowerPoint on your Windows computer and go to the slide of the prese
 Step2To zoom in on a slide in PowerPoint, just hold the CTRL key on your keyboard while spinning your mouse wheel in an upwards direction.
 
 ![how to zoom in on powerpoint](https://images.wondershare.com/filmora/article-images/2022/07/mouse-spin-wheel-shortcut.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3In a similar manner, to zoom out on your presentation, hold down the CTRL key on your computer while dragging the mouse wheel downward as seen below.
 
@@ -118,20 +118,24 @@ You are giving a presentation at a meeting and have a number of possibilities. Z
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-filming-made-simple-steps-for-pcs-iphones-and-macbooks/"><u>[New] 2024 Approved Filming Made Simple Steps for PCs, iPhones & MacBooks</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-switching-onoff-comment-functionality-on-youtube/"><u>[New] 2024 Approved Switching On/Off Comment Functionality on YouTube</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-framefraction-analysis/"><u>[Updated] 2024 Approved FrameFraction Analysis</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-what-is-color-finale/"><u>2024 Approved What Is Color Finale</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-common-rainmeter-issues-on-windows/"><u>How to Fix Common Rainmeter Issues on Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/laughlounge-beginner-friendly-content-creation/"><u>LaughLounge Beginner-Friendly Content Creation</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-create-a-bokeh-effect-for-2024/"><u>New How to Create a Bokeh Effect for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-boost-the-pace-of-your-instagram-reels-videos-with-these-simple-tricks/"><u>New In 2024, Boost the Pace of Your Instagram Reels Videos with These Simple Tricks</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-power-of-politeness-in-growing-your-audience/"><u>The Power of Politeness in Growing Your Audience</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-motorola-edge-40-by-fonelab-android-recover-music/"><u>Undelete lost music from Motorola Edge 40</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722877845236-unveiling-the-future-of-smartphones-whats-coming-with-the-next-gen-oneplus-n-price-drops-and-feature-speculations-ahead/"><u>Unveiling the Future of Smartphones – What's Coming with the Next Gen OnePlus N: Price Drops & Feature Speculations Ahead!</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-best-ways-to-add-meme-text-to-videos-for-2024/"><u>Updated Best Ways to Add Meme Text to Videos for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-create-freeze-frame-clone-effect-for-2024/"><u>Updated How to Create Freeze Frame Clone Effect for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-use-motion-blur-on-video-star-for-2024/"><u>Updated How To Use Motion Blur On Video Star for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-here-is-a-step-by-step-guide-to-color-correct-and-color-grade-a-video-professionally-with-wondershare-filmora-lets-get-going/"><u>Updated In 2024, Here Is a Step-by-Step Guide to Color Correct and Color Grade a Video Professionally with Wondershare Filmora. Lets Get Going</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-denoise-video-in-adobe-premiere-pro-audio-and-video-noise-removal/"><u>2024 Approved Denoise Video in Adobe Premiere Pro – Audio and Video Noise Removal</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-make-a-memorable-impact-with-youtubes-minis/"><u>2024 Approved How to Make a Memorable Impact with Youtube's Minis</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-the-ultimate-game-machine-must-have-parts/"><u>Crafting the Ultimate Game Machine - Must-Have Parts</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/detailed-guide-to-rotate-videos-in-blender-for-2024/"><u>Detailed Guide to Rotate Videos in Blender for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/guide-transferring-your-favorite-videos-from-youtube-to-your-samsung-mobile-device/"><u>Guide: Transferring Your Favorite Videos From YouTube to Your Samsung Mobile Device</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-cookiebot-elevates-your-websites-experience-and-seo-ranking-success/"><u>How Cookiebot Elevates Your Website's Experience and SEO Ranking Success</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-create-an-eye-catching-intro-videos-with-invideo-for-2024/"><u>How to Create An Eye-Catching Intro Videos with InVideo for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-7-plus-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone 7 Plus with a Mask On</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-3d-ray-traced-settings-in-after-effects/"><u>In 2024, 3D Ray Traced Settings In After Effects</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-remove-background-from-a-video-in-premier-pro/"><u>In 2024, How to Remove Background From a Video in Premier Pro</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-nubia-red-magic-9-pro-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Nubia Red Magic 9 Pro FRP Without Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigate-languages-with-ease-our-selection-of-top-6-no-internet-required-translators/"><u>Navigate Languages with Ease: Our Selection of Top 6 No Internet Required Translators</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-the-world-of-cost-free-graphic-designs/"><u>Navigating the World of Cost-Free Graphic Designs</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-add-a-green-screen-to-zoom/"><u>New 2024 Approved How to Add a Green Screen to Zoom</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-blender-is-an-open-source-cross-platform-3d-graphics-program-but-this-doesnt-mean-its-a-low-rent-option-for-2024/"><u>New Blender Is an Open-Source Cross-Platform 3D Graphics Program, but This Doesnt Mean Its a Low-Rent Option for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-crop-a-video-in-windows-media-player/"><u>New How to Crop a Video in Windows Media Player</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-master-premiere-pro-custom-sequence-presets/"><u>New Master Premiere Pro Custom Sequence Presets</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/voice-customization-made-simple-with-these-top-apps-for-2024/"><u>Voice Customization Made Simple with These Top Apps for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Looking Into How Slow Mo Guys Have Changed the Dynamics of Slow-Motion
-date: 2024-11-02T19:26:48.630Z
-updated: 2024-11-04T02:55:07.006Z
+date: 2024-12-07T18:54:25.636Z
+updated: 2024-12-09T18:30:46.920Z
 tags: 
   - ai
   - animation videos
@@ -25,6 +25,10 @@ One of the greatest inspirations in the realm of slow-motion videos is [The Slow
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: The Slow Mo Guys: A Real-Life Sensation in Creating Slow Motion Videos
 
 [**The Slow Mo Guys**](https://www.youtube.com/@theslowmoguys) is a YouTube channel with over 14.8M subscribers and is determined to deliver high-quality content. The channel appeared as a collaboration between Gavin Free and Daniel Gruchy. Both had a history of using high-speed slow-motion cameras and set their channel in 2010\. The channel began to gain recognition in 2012 and became a living sensation in the slo-mo world.
@@ -33,16 +37,13 @@ One of the greatest inspirations in the realm of slow-motion videos is [The Slow
 
 In this era, if you are looking for a start to create slomos, **Slow Motion Guys** come to mind. One of the many things that took the channel to heights is their ability to explain everything. The normal slow-mo speed by most editors is either 120 or 240 fps. However, **The Slow Mo Guys** shoot videos at 1000 fps, which is ultra-slow motion. The channel usually features natural phenomena, pranks, and relevant content.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Want to Make Such Slow-Motion Videos on Your Smartphone? Learn How
 
 The most used and dear gadget to all of us in this era is our smartphones. It has also become a requirement to stay connected, and so we often shoot on them. To retain the video quality, we try to edit it through built-in features. This section highlights creating slow-motion videos using iPhone or Android. Learn to create professional slo-mos like **Gave Slow Mo Guys** here:
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step-by-Step Guide to Create a Slow Motion in iPhone
 
@@ -51,6 +52,10 @@ Apple offers a pre-developed feature to create slomos using a simple method. In 
 **Instruction:** Once you launch the "Camera" application, open the recorder and select "SLO-MO." Now, redirect to your camera and hit the recorder button to start recording a solo.
 
 ![select the slo mo mode](https://images.wondershare.com/filmora/article-images/2023/secret-to-slomo-videos-with-the-slow-mo-guys-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step-by-Step Guide to Creating a Slow Motion in Android
 
@@ -61,13 +66,6 @@ The Android has also introduced a slo-mo feature to record content in slow motio
 Locate and launch the "Camera" application on your Android. In the bottom bar, you'll find multiple camera modes and settings. Drag and find the "More" option in this settings bar.
 
 ![select the more settings](https://images.wondershare.com/filmora/article-images/2023/secret-to-slomo-videos-with-the-slow-mo-guys-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 2
 
@@ -85,13 +83,6 @@ In addition, you can infuse your slomo with multiple visual effects, transitions
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Using Uniform Speed to Create a Slow-Motion Video in Filmora
 
 Uniform Speed is the basic method of creating slow motion in Filmora. It simply modifies the playback speed of video with the help of a slider. The procedure of slomo creation, like **The Slow Mo Guys** in Filmora, is given below:
@@ -101,6 +92,10 @@ Uniform Speed is the basic method of creating slow motion in Filmora. It simply 
 After downloading Filmora on your device, click the "New Project" button to start. From the editing interface, click the "Ctrl + I" keys, choose the video, and bring it to the timeline after import. Select the clip in the timeline and use your cursor to reach the settings panel. Go to the "Uniform Speed" section under the "Speed" tab and change the speed slider settings.
 
 ![drag the slider to adjust speed](https://images.wondershare.com/filmora/article-images/2023/secret-to-slomo-videos-with-the-slow-mo-guys-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 2Start AI Frame Interpolation Settings
 
@@ -114,13 +109,6 @@ Once all is set and done, navigate towards the timeline panel to select this vid
 
 ![access and start render preview](https://images.wondershare.com/filmora/article-images/2023/secret-to-slomo-videos-with-the-slow-mo-guys-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Using Speed Ramping to Create a Slow-Motion Video in Filmora
 
 The second method is also simple, but it has more precise options to create a slow-mo. It uses the velocity graph to rise or decline video speed at certain intervals. Gather the knowledge about how **The Slow Mo Guys** **YouTube** creates slow-mo here:
@@ -130,6 +118,10 @@ The second method is also simple, but it has more precise options to create a sl
 After importing and bringing media to the timeline, select it and reach the settings panel. Access the "Speed" > "Speed Ramping" option to start editing. There, you can find many custom speed presets for automated editing. However, you can also use the "Customize" preset to create from scratch. Then, reach the speed graph and move the slider downward to bring the slo-mo effect.
 
 ![start speed ramping](https://images.wondershare.com/filmora/article-images/2023/secret-to-slomo-videos-with-the-slow-mo-guys-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 2Enable the Optical Flow Option
 
@@ -144,17 +136,7 @@ After configuring your settings, return to the timeline panel and reselect the v
 ![start render preview](https://images.wondershare.com/filmora/article-images/2023/secret-to-slomo-videos-with-the-slow-mo-guys-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -167,6 +149,10 @@ It's a proficient way of creating slo-mo with AI assistance and custom settings.
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -176,16 +162,21 @@ It's a proficient way of creating slo-mo with AI assistance and custom settings.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-beginners-guide-to-youtube-seo-keywords/"><u>[Updated] 2024 Approved A Beginner's Guide to YouTube SEO Keywords</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-eyes-on-the-digital-winners-top-channels/"><u>[Updated] Eyes on the Digital Winners Top Channels</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-discover-these-10-quickly-rising-youtube-inspirations/"><u>[Updated] In 2024, Discover These 10 Quickly Rising YouTube Inspirations</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-canon-mx-series-printing-software-for-windows-free-download-and-update-tips/"><u>Get the Latest Canon MX Series Printing Software for Windows - Free Download & Update Tips</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-are-you-an-apple-user-interested-in-adding-a-slow-mo-to-their-videos-this-article-features-an-exceptional-procedure-for-creating-slow-mo-i/"><u>New 2024 Approved Are You an Apple User Interested in Adding a Slow-Mo to Their Videos? This Article Features an Exceptional Procedure for Creating Slow-Mo in iMovie</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-slow-down-a-video-on-iphone-and-android-the-easy-way/"><u>New 2024 Approved How to Slow Down a Video on iPhone and Android The Easy Way</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/ranking-royales-the-ultimate-10-royale-battles-for-2024/"><u>Ranking Royales The Ultimate 10 Royale Battles for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-the-way-to-quick-and-efficient-editing-keyboard-shortcuts-in-filmora/"><u>Updated 2024 Approved The Way to Quick and Efficient Editing | Keyboard Shortcuts in Filmora</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-knowing-all-ways-to-slow-down-video-with-adobe-premiere-pro-for-2024/"><u>Updated Knowing All Ways To Slow Down Video With Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713964504024-updated-making-creative-and-engaging-youtube-videos-is-now-easy-with-several-tools-now-youtube-also-offers-you-its-own-built-in-video-editor-through-which-y/"><u>Updated Making Creative and Engaging Youtube Videos Is Now Easy with Several Tools. Now, YouTube Also Offers You Its Own Built-In Video Editor Through Which You Can Edit and Enhance the Video Quality for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/your-blueprint-to-windows-11-mastery/"><u>Your Blueprint to Windows 11 Mastery</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-navigating-the-world-of-instagram-reel-downloads-for-2024/"><u>[New] Navigating the World of Instagram Reel Downloads for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-easing-into-frame-focus-for-2024/"><u>[Updated] Easing Into Frame Focus for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unveiling-the-ultimate-farming-tactics-in-valheim/"><u>[Updated] Unveiling the Ultimate Farming Tactics in Valheim</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-truth-about-magix-video-pro-xs-performance/"><u>2024 Approved The Truth About Magix Video Pro X's Performance</u></a></li>
+<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209569820-9781547563586-der-besuch-von-megans-grosseltern/"><u>Der Besuch von Megans Großeltern | Free Book</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-unlisting-youtube-videos-a-guide-to-non-indexable-content/"><u>In 2024, Unlisting YouTube Videos A Guide to Non-Indexable Content</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-mask-tracking-with-adobe-premiere-pro-a-detailed-guide/"><u>New 2024 Approved Mask Tracking with Adobe Premiere Pro A Detailed Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-use-kahoot-on-zoom-for-2024/"><u>New How to Use Kahoot! On Zoom for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/playing-dvd-movies-smoothly-on-toshiba-laptops-a-comprehensive-walkthrough/"><u>Playing DVD Movies Smoothly on Toshiba Laptops - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prior-upgrades-key-points-revisited-for-2024/"><u>Prior Upgrades? Key Points Revisited for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-what-should-be-considered-to-choose-a-nice-gopro-for-vlogging/"><u>Updated 2024 Approved What Should Be Considered to Choose A Nice GoPro for Vlogging?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-want-to-explore-some-available-opportunities-to-create-slow-motion-discover-the-best-slow-motion-video-editors-for-desktop-android-an/"><u>Updated In 2024, Do You Want to Explore some Available Opportunities to Create Slow Motion? Discover the Best Slow-Motion Video Editors for Desktop, Android, and iPhone Here</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-looking-into-how-slow-mo-guys-have-changed-the-dynamics-of-slow-motion/"><u>Updated In 2024, Looking Into How Slow Mo Guys Have Changed the Dynamics of Slow-Motion</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713964149338-updated-learn-how-to-feather-shapes-in-after-effects-and-add-a-professional-touch-to-your-designs-this-comprehensive-guide-covers-everything-from-the-basics/"><u>Updated Learn How to Feather Shapes in After Effects and Add a Professional Touch to Your Designs. This Comprehensive Guide Covers Everything From the Basics to Advanced Techniques. Perfect for Beginners and Experts Alike for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713965282074-updated-through-speed-ramping-create-a-smooth-transition-in-slow-motion-videos-follow-this-guide-and-learn-about-premiere-pro-slow-motion-and-a-better-alter/"><u>Updated Through Speed Ramping, Create a Smooth Transition in Slow-Motion Videos. Follow This Guide and Learn About Premiere Pro Slow Motion and a Better Alternative for 2024</u></a></li>
 </ul></div>
 

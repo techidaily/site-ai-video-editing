@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved So, without Wasting Time, Let Me Show You How to Mask a Video in Wondershare Filmora. Lets Get Started
-date: 2024-10-25T23:32:45.605Z
-updated: 2024-10-29T13:12:07.809Z
+date: 2024-12-02T18:02:11.957Z
+updated: 2024-12-09T16:50:06.296Z
 tags: 
   - ai
   - animation videos
@@ -31,6 +31,10 @@ With the tripod set up, film yourself walking behind the door toward the camera.
 
 ![walk backwards](https://images.wondershare.com/filmora/article-images/2023/01/walk-backwards.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 1 Fire up Wondershare Filmora, then import the clip on the video editor. After that, move the clip to the timeline by merely dragging it. Add two clips on the first and second tracks.
 
 ![fire up wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-1.jpg)
@@ -51,18 +55,15 @@ Step 5 Up to this point, unhide the first track, then find the scene where the s
 
 ![unhide the first track](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### _Masking Trick: 2_
 
 In the second masking effect, we want to create a subject walking in and outside a tree. To do that, find a tree with a clear background, then place your camera to film the center of the tree trunk where the subject will be walking.
 
 ![create a subject walking in and outside a tree](https://images.wondershare.com/filmora/article-images/2023/01/tree-with-clear-background.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now film the subject walking from one side of the tree, stop for a second, and then turn back. They should repeat the same action, but this time they'll walk forward outside the frame after the one-second stop. That's all!
 
@@ -71,6 +72,10 @@ Now film the subject walking from one side of the tree, stop for a second, and t
 Step 1 Import the clip on Filmora, then add the footage on the first and second timelines. After that, hide the first track, then find the scene where the subject walks forward away from the tree in the second track. Cut off the area before that action.
 
 ![import the clip on filmora](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2 Next, click **Effects**, choose **Utility**, then drag the **Image Mask** effect on the second video track. Then, double-click the second clip, select **Video Effects**, and choose a rectangular option that masks the right side of the frame.
 
@@ -83,10 +88,7 @@ Step 3 Play the video to see your subject walking in both directions of the tree
 ![play the video to see your subject walking in both directions of the tree](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Masking Trick 3:_
@@ -94,13 +96,6 @@ Step 3 Play the video to see your subject walking in both directions of the tree
 For this masking illusion, we'll create a video with a subject jumping over a house. So, set up your camera tripod on a low level in front of the building. You can also add a mark on the ground for your subject to know where to jump.
 
 ![create a video with a subject jumping over a house](https://images.wondershare.com/filmora/article-images/2023/01/set-the-camera-low.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now tell your subject to walk to the marker before jumping and walking out of the scene.
 
@@ -114,30 +109,32 @@ Step 2 Now, it's time to customize the clip with a mask. To do that, head to the
 
 ![customize the clip with a mask](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3 Double-click the video track and choose an image mask under **Video Effects**. Note that you may need several combinations of masks to mask out the sky and leave the building. So, play around with different masking shapes until the sky is covered.
 
 ![double-click the video track](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4 After masking, unhide the first track on the timeline before playing the video to find the scene where the subject appears and cut off everything before that scene. Also, find the scene where the subject jumps in the air and cut the clip in the second track. Then, delete everything after that scene.
 
 ![unhide the first track on the timeline](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 5 Play the video to see your subject jumping over the building and walking away from the scene.
 
 ![play the video to see your subject](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -155,18 +152,19 @@ That was easy, right? Playing around with Filmora's masking tools can create inc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-unveil-the-secrets-to-excellent-youtube-thumbnails/"><u>[New] 2024 Approved Unveil the Secrets to Excellent YouTube Thumbnails</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-secrets-in-watching-the-instagram-story-narrative/"><u>[Updated] 2024 Approved Secrets in Watching The Instagram Story Narrative</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-uncompromised-zoom-audio-two-key-techniques-revealed-for-2024/"><u>[Updated] Uncompromised Zoom Audio Two Key Techniques Revealed for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-application-was-unable-to-start-correctly-in-adobe-troubleshooting-guide/"><u>Fixing 'The Application Was Unable To Start Correctly' In Adobe - Troubleshooting Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-oneplus-nord-ce-3-lite-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for OnePlus Nord CE 3 Lite 5G</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-know-which-are-the-best-wondershare-filmora-luts-to-use-there-are-many-luts-that-you-can-download-each-with-a-different-ton/"><u>New 2024 Approved Do You Want to Know Which Are the Best Wondershare Filmora LUTs to Use? There Are Many LUTs that You Can Download, Each with a Different Tone and Style</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-make-stunning-glitch-effect-in-photoshop/"><u>New In 2024, How to Make Stunning Glitch Effect in Photoshop?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713964502969-new-making-creative-and-engaging-youtube-videos-is-now-easy-with-several-tools-now-youtube-also-offers-you-its-own-built-in-video-editor-through-which-you-c/"><u>New Making Creative and Engaging Youtube Videos Is Now Easy with Several Tools. Now, YouTube Also Offers You Its Own Built-In Video Editor Through Which You Can Edit and Enhance the Video Quality for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-the-benefits-of-using-video-for-social-media-marketing-for-2024/"><u>New The Benefits Of Using Video For Social Media Marketing for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-efficient-use-of-windows-with-external-screen-support/"><u>Tips for Efficient Use of Windows with External Screen Support</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-are-you-also-a-fan-of-the-slow-mo-guys-well-who-isnt-learn-how-you-can-create-compelling-slow-mo-videos-like-the-slow-mo-guys-here-for-2024/"><u>Updated Are You Also a Fan of the Slow Mo Guys? Well! Who Isnt? Learn How You Can Create Compelling Slow-Mo Videos Like the Slow Mo Guys Here for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-know-how-to-create-ai-thumbnails-for-videos-this-article-will-mention-some-of-the-best-tools-to-generate-attractive-thumbnails-for-vi/"><u>Updated In 2024, Do You Know How to Create AI Thumbnails for Videos? This Article Will Mention some of the Best Tools to Generate Attractive Thumbnails for Videos with AI</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/wma-online-wma-converter/"><u>WMA파일을 원격 연결으로 제공하는 무료 바이트맵 변환기 - Online WMA Converter</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-hp-deskjet-2755e-driver-on-windows/"><u>[Download] HP DeskJet 2755E Driver on Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-savvy-seekers-guide-to-spotting-superb-photos-on-pexels/"><u>[New] The Savvy Seeker's Guide to Spotting Superb Photos on Pexels</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-ranking-top-9-puzzle-games-for-offline-play-for-2024/"><u>[New] The Ultimate Ranking Top 9 Puzzle Games for Offline Play for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-cinematic-basics-unveiled-fundamental-shots-explained-clearly/"><u>2024 Approved Cinematic Basics Unveiled Fundamental Shots Explained Clearly</u></a></li>
+<li><a href="https://fox-where.techidaily.com/erreur-dacces-refusee-sur-windows-10-comment-resoudre-le-probleme/"><u>Erreur D’Accès Refusée Sur Windows 10 - Comment Résoudre Le Problème?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-capturing-facebook-hd-videos-for-later-use/"><u>In 2024, Capturing Facebook HD Videos for Later Use</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-guide-to-using-luts-perfectly-in-final-cut-pro/"><u>In 2024, Guide To Using Luts Perfectly in Final Cut Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/is-windows-movie-maker-still-available-for-2024/"><u>Is Windows Movie Maker Still Available for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-this-article-aim-to-teach-you-how-to-make-a-night-to-day-effect-video-with-filmora-follow-the-steps-to-figure-it-out/"><u>New 2024 Approved This Article Aim to Teach You How to Make a Night to Day Effect Video with Filmora. Follow the Steps to Figure It Out</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-get-motion-blur-in-roblox/"><u>New In 2024, How to Get Motion Blur in Roblox?</u></a></li>
+<li><a href="https://facebook.techidaily.com/reminisce-connections-a-dive-into-facebooks-past/"><u>Reminisce Connections: A Dive Into Facebook's Past</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streaming-showdown-the-podcast-challenge-to-youtubes-dominance/"><u>Streaming Showdown The Podcast Challenge to YouTube’s Dominance</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-4-ways-to-loop-a-video-on-vimeo-for-2024/"><u>Updated 4 Ways to Loop a Video on Vimeo for 2024</u></a></li>
 </ul></div>
 
