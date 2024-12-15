@@ -1,7 +1,7 @@
 ---
 title: New Understanding the Dynamics Underlying in AI Slow Motion Editing for 2024
-date: 2024-12-03T18:20:15.089Z
-updated: 2024-12-09T17:08:42.090Z
+date: 2024-12-11T19:49:06.734Z
+updated: 2024-12-15T19:07:34.892Z
 tags: 
   - ai
   - animation videos
@@ -29,24 +29,16 @@ Specifically, we will dive into understanding **AI slow motion** in depth. We wi
 
 AI can enhance the quality of content and the mechanism of crafting **slow-mo AI** video. It not only contributes to task achievement but also improves various aspects. Find out about the influence that AI has in achieving a perfect slow-mo effect below:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Frame Interpolation
 
 If you create an **AI slow-motion** video, the slow motion is often abrupt. To resolve this problem and bring smoothness to slow-mo, AI frame interpolation can help. Users must activate this function, and AI will handle all the technicalities. The AI adds extra frames to your video to ensure a smooth, slow motion.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Minimizing Artifacts
 
 When you convert a video into slow motion, certain changes take place. It introduces artifacts such as motion blur or unwanted distortions. They decline the quality of content, and the view becomes distorted. Reducing these factors magnifies the slow-motion effect and brings perfection to it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. AI Auto Enhancement
@@ -60,6 +52,10 @@ In **slow-motion AI** video editors, users have the option to manipulate time at
 ### 5\. Automated Noise Cancellation
 
 Just when you think the AI is done for the day, it comes up with another feature. Another significance of AI in slow-motion video creation is reducing noise. Advanced AI algorithms are designed to assist in providing high-quality audio. It is because the audio track quality often declines during a slow-mo.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Top Tools Available Online for AI Slow Motion Editing
 
@@ -76,6 +72,10 @@ Do you have a short video frame rate clip and want to convert it into a slow-mo?
 
 ![runway ml slow motion video](https://images.wondershare.com/filmora/article-images/2023/filmora-ai-slow-motion-video-creation-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Key Features
 
 * It is a multifunctional video editor with unlimited features, so you don't need a plugin.
@@ -90,6 +90,10 @@ Do you have a short video frame rate clip and want to convert it into a slow-mo?
 | **Pro**           | $28                      |
 | **Unlimited**     | $76                      |
 | **Enterprise**    | Contact Sales            |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Neural Love
 
@@ -110,19 +114,11 @@ Are you looking for an **AI slow-motion** tool with multiple customization optio
 | **Subscription**  | $10                       |
 | **Pay As You Go** | $19                       |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. VEED.io
 
 Creating a slow-motion video without any prior experience can be confusing. There are so many terms to learn, but with this **slow-mo AI** tool, anyone can do it. Whether a video clip or a GIF, it can transform both into a slow-mo. Once you upload a video, select a speed option to slow down the clip. You can start editing with this tool without any sign-up or sign-in before.
 
 ![veed io slow motion video](https://images.wondershare.com/filmora/article-images/2023/filmora-ai-slow-motion-video-creation-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -155,10 +151,6 @@ With the help of this powerful **AI slow-motion** video generator, sit back and 
 
 Free
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: How to Use AI Slow Motion Videos for High-Quality Edits?
 
 Now that you have been made aware of plenty of the **slow-motion AI** tools, let's move forward. Although operating all these tools is easy for proficient results, you must master them. Here is a detailed guide to two of the above **AI slow-motion** tools:
@@ -175,12 +167,16 @@ Editing a video from simple to slow motion is very laidback with this tool. The 
 
 ![upload a media file](https://images.wondershare.com/filmora/article-images/2023/filmora-ai-slow-motion-video-creation-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Once the video has been uploaded, modify the speed of the video. You can do this by accessing the “Speed” slider at the right. After editing, click the “Process” button to finalize the slow-motion settings. The edited video will appear on the screen; play it to see if the results are satisfactory. Then, click the "Export" button at the right to download the video.
 
 ![click process to start the slomo](https://images.wondershare.com/filmora/article-images/2023/filmora-ai-slow-motion-video-creation-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Neural Love
@@ -192,22 +188,14 @@ This is another **slow-motion AI** tool for those with little knowledge of creat
 ![upload video from device](https://images.wondershare.com/filmora/article-images/2023/filmora-ai-slow-motion-video-creation-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2:** Scroll down and set the percentage slider for slowing down the video. You can also select to upscale your video or change its frame rate. Moreover, you can select to colorize the video as well.
 
 ![adjust the speed slider value](https://images.wondershare.com/filmora/article-images/2023/filmora-ai-slow-motion-video-creation-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** Click the "Start Full Video Processing" button after setting preferences. Once you have subscribed to a plan, the video slow motion will be ready.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: Desktop Alternative: Slowing Down Videos Using AI With Wondershare Filmora
 
@@ -216,6 +204,10 @@ Indeed, all these tools are experts in what they do. However, they all have some
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Speed Ramping for Creating Slow Motion in Wondershare Filmora
 
@@ -245,6 +237,14 @@ Once you have enabled the Optical Flow option, go to the timeline panel and loca
 
 ![enable the render preview option](https://images.wondershare.com/filmora/article-images/2023/filmora-ai-slow-motion-video-creation-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Upon reaching the end, you must have gained a brief knowledge of **slow-motion AI**. The article discussed the advantages of AI integration in slow-motion video generators. In addition, there was a brief knowledge about some of the effective slow-mo makers. Wondershare Filmora is an AI-driven desktop tool for making such videos. If you haven't already used it, we suggest this user-friendly tool for creation.
@@ -262,24 +262,22 @@ Upon reaching the end, you must have gained a brief knowledge of **slow-motion A
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-gaming-evolved-streaming-xbox-content-on-facebook-for-2024/"><u>[New] Gaming Evolved Streaming Xbox Content on Facebook for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-pros-picks-elevating-gaming-broadcast-with-top-5-cam-tech/"><u>[New] In 2024, Pro's Picks Elevating Gaming Broadcast with Top 5 Cam Tech</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/5-proven-strategies-for-advancing-your-career-and-achieving-promotions-zdnet-insights/"><u>5 Proven Strategies for Advancing Your Career & Achieving Promotions | ZDNet Insights</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/capture-todays-moments-affordable-cameras-of-2024/"><u>Capture Today's Moments: Affordable Cameras of 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-how-to-change-the-privacy-setting-on-your-youtube-videos/"><u>In 2024, How to Change the Privacy Setting on Your YouTube Videos</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-motorola-edge-2023-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Motorola Edge 2023 Phone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-slow-mo-youtube-videos/"><u>New 2024 Approved How to Slow-Mo YouTube Videos</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-this-article-will-show-you-how-to-make-a-tattoo-disappear-on-your-body-magically/"><u>New 2024 Approved This Article Will Show You How to Make a Tattoo Disappear on Your Body Magically</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-diy-vhs-overlay-in-after-effects/"><u>New How to DIY VHS Overlay in After Effects?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713942951266-new-ultimate-guide-on-how-to-plan-and-storyboard-a-music-video/"><u>New Ultimate Guide on How To Plan and Storyboard a Music Video</u></a></li>
-<li><a href="https://win-premium.techidaily.com/recover-verlorene-informationen-auf-ihrem-pc-top-5-strategien-fur-windows-11/"><u>Recover Verlorene Informationen Auf Ihrem PC: Top-5 Strategien Für Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/rejuvenate-your-listening-experience-a-comprehensive-guide-to-sanitizing-and-refreshing-stereo-room-speakers/"><u>Rejuvenate Your Listening Experience: A Comprehensive Guide to Sanitizing and Refreshing Stereo Room Speakers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-leading-25-icons-setting-social-trends-on-insta-for-2024/"><u>The Leading 25 Icons Setting Social Trends on Insta for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-beginners-guide-to-green-screen-keying/"><u>Updated Beginners Guide to Green Screen Keying</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-a-movie-with-windows-movie-maker-for-2024/"><u>Updated How to Make a Movie with Windows Movie Maker for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-use-motion-blur-on-video-star/"><u>Updated How To Use Motion Blur On Video Star?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-add-green-screen-effects-in-phhotoshop/"><u>Updated In 2024, How to Add Green Screen Effects In Phhotoshop</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-mastering-video-speed-control-slow-down-speed-up-and-edit-with-ease/"><u>Updated Mastering Video Speed Control Slow Down, Speed Up, and Edit with Ease</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-screencast-excellence-the-ultimate-guide-to-best-obs-tools/"><u>[New] 2024 Approved Screencast Excellence The Ultimate Guide to Best OBS Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-newly-eligible-users-see-revenue-uplift/"><u>[New] Newly Eligible Users See Revenue Uplift</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-pro-audio-insight-expertly-selected-9-mic-recorder-devices/"><u>[Updated] 2024 Approved Pro Audio Insight Expertly Selected 9 Mic Recorder Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-basic-to-breakthrough-a-youtube-live-thumbnail-journey/"><u>[Updated] In 2024, From Basic to Breakthrough A YouTube Live Thumbnail Journey</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-12-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone 12 After Forgetting the Passcode?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/from-video-views-to-vault-closure-income-insights-for-youtubers/"><u>From Video Views to Vault Closure Income Insights for Youtubers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-unleash-the-potential-of-video-marketing-on-facebook/"><u>In 2024, Unleash the Potential of Video Marketing on Facebook</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-explore-some-available-opportunities-to-create-slow-motion-discover-the-best-slow-motion-video-editors-for-desktop-android-/"><u>New 2024 Approved Do You Want to Explore some Available Opportunities to Create Slow Motion? Discover the Best Slow-Motion Video Editors for Desktop, Android, and iPhone Here</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-unlocking-the-power-of-davinci-resolve-scopes-enhance-your-color-grad/"><u>New 2024 Approved Unlocking the Power of DaVinci Resolve Scopes Enhance Your Color Grad</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-if-youre-not-using-video-yet-now-is-the-time-to-start-in-this-post-well-discuss-the-benefits-of-using-video-for-social-media-marketing-and-provi/"><u>New In 2024, If Youre Not Using Video yet, Now Is the Time to Start. In This Post, Well Discuss the Benefits of Using Video for Social Media Marketing and Provide Tips for Getting Started. Keep Reading to Learn More</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-top-ways-to-make-fast-motion-video-on-iphone-solved/"><u>New In 2024, Top Ways to Make Fast Motion Video on iPhone Solved</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-unlocking-stills-from-videos-a-comprehensive-guide-with-10-converter-options/"><u>New Unlocking Stills From Videos A Comprehensive Guide with 10 Converter Options</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-zte-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your ZTE</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-are-you-looking-to-make-a-thumbnail-for-your-fortnite-video-this-article-features-a-guide-explaining-creating-a-fortnite-motion-blur-t/"><u>Updated 2024 Approved Are You Looking to Make a Thumbnail for Your Fortnite Video? This Article Features a Guide Explaining Creating a Fortnite Motion Blur Thumbnail</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-ways-to-merge-videos-in-handbrake-expectation-vs-reality/"><u>Updated 2024 Approved Ways to Merge Videos in HandBrake? Expectation Vs. Reality</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-if-you-want-an-app-to-make-videos-with-pictures-and-music-for-social-media-posts-we-are-with-the-best-apps-to-make-videos-with-music-and-pictures-fo/"><u>Updated If You Want an App to Make Videos with Pictures and Music for Social Media Posts, We Are with the Best Apps to Make Videos with Music and Pictures for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-looking-forward-to-making-up-your-career-in-video-editing-land-in-here-to-learn-about-the-credibility-of-some-popular-video-editing-courses-for-2024/"><u>Updated Looking Forward to Making up Your Career in Video Editing? Land in Here to Learn About the Credibility of some Popular Video Editing Courses for 2024</u></a></li>
 </ul></div>
 
