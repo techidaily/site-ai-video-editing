@@ -1,7 +1,7 @@
 ---
 title: "Legal Battle: HP Enterprise Accuses Inspur of Intellectual Property Theft as It Persists in American Market Operations"
-date: 2024-12-13T16:59:21.035Z
-updated: 2024-12-15T21:39:22.156Z
+date: 2024-12-21T17:35:04.125Z
+updated: 2024-12-24T16:17:00.628Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,16 +60,24 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-time-saving-tactics-for-saving-google-voice-speeches-for-2024/"><u>[Updated] Time-Saving Tactics for Saving Google Voice Speeches for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-benefits-of-live-streaming-on-youtube/"><u>2024 Approved Benefits of Live Streaming on YouTube</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-smooth-transitions-with-illustrators-blur-effects/"><u>2024 Approved Smooth Transitions with Illustrator's Blur Effects</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-xiaomi-redmi-note-13-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Xiaomi Redmi Note 13 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/dive-into-speed-and-sophistication-with-our-in-depth-review-on-the-glion-dolly-e-scooter/"><u>Dive Into Speed and Sophistication with Our In-Depth Review on the Glion Dolly E-Scooter</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/how-to-create-a-green-screen-video-in-after-effects/"><u>How To Create A Green Screen Video In After Effects</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-honor-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Honor Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-best-online-youtube-video-trimmer/"><u>New Best Online YouTube Video Trimmer</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-3-in-camera-transitions-tricks-to-make-videos/"><u>Updated 2024 Approved 3 In-Camera Transitions Tricks To Make Videos</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-11-tips-to-make-product-ad-videos/"><u>Updated In 2024, 11 Tips to Make Product Ad Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-the-paperclip-maximizer-problem-and-how-does-it-relate-to-ai/"><u>What Is the Paperclip Maximizer Problem and How Does It Relate to AI?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-diminutive-directors-script/"><u>[Updated] Diminutive Director's Script</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-quicktakes-why-videos-thrive-on-twitter-writes/"><u>[Updated] In 2024, QuickTakes Why Videos Thrive on Twitter' Writes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-overcoming-the-challenge-of-hidden-youtube-shorts-thumbnails/"><u>[Updated] Overcoming the Challenge of Hidden YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/a-step-by-step-guide-to-using-polarr-for-stunning-images/"><u>A Step-by-Step Guide to Using Polarr for Stunning Images</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/asia-spearheads-the-surge-to-16-trillion-in-non-monetary-exchanges-insights-for-future-markets/"><u>Asia Spearheads the Surge to $1.6 Trillion in Non-Monetary Exchanges: Insights for Future Markets</u></a></li>
+<li><a href="https://win-hot.techidaily.com/common-challenges-when-trying-to-download-the-f4f-file/"><u>Common Challenges When Trying to Download the F4F File</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-wish-to-learn-about-some-tools-to-slow-down-a-video-discover-how-to-slow-down-time-lapse-on-iphone-throughout-this-article/"><u>New 2024 Approved Do You Wish to Learn About some Tools to Slow Down a Video? Discover How to Slow Down Time Lapse on iPhone Throughout This Article</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-list-of-supported-iphone-video-formats-and-best-iphone-video-editor/"><u>New 2024 Approved List of Supported iPhone Video Formats and Best iPhone Video Editor</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-want-to-find-a-good-camera-for-youtube-this-article-brings-you-some-of-the-best-options-of-different-varieties-for-your-channel/"><u>New 2024 Approved Want to Find a Good Camera for YouTube? This Article Brings You some of the Best Options of Different Varieties for Your Channel</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-zoom-in-discord-for-2024/"><u>New How to Zoom in Discord for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-to-use-luts-in-final-cut-pro-there-are-many-free-luts-for-fcpx-available-that-you-can-use-using-luts-you-can-create-professional-loo/"><u>New In 2024, Do You Want to Use LUTs in Final Cut Pro? There Are Many Free LUTs for FCPX Available that You Can Use. Using LUTs, You Can Create Professional-Looking Content</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-what-is-the-best-voice-changer-for-whatsapp-discover-the-seven-7-best-voice-changers-for-whatsapp-here-in-this-post/"><u>New In 2024, What Is the Best Voice Changer for WhatsApp? Discover the Seven (7) Best Voice Changers for WhatsApp Here in This Post</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-top-shortcut-towards-timeline-template-for-2024/"><u>New Top Shortcut Towards Timeline Template for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/parroting-the-pirates-speech-patterns/"><u>Parroting the Pirate's Speech Patterns</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/resolved-implementing-security-protocols-causes-system-freeze-in-windows-server-2012-r2/"><u>Resolved: Implementing Security Protocols Causes System Freeze in Windows Server 2012 R2</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-ultimate-word-lengthiest-language-entity/"><u>The Ultimate Word: Lengthiest Language Entity</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-are-you-a-newbie-across-youtube-want-to-know-who-the-best-vloggers-are-this-article-provides-you-with-the-best-vloggers-on-youtube-for-2024/"><u>Updated Are You a Newbie Across YouTube? Want to Know Who the Best Vloggers Are? This Article Provides You with the Best Vloggers on YouTube for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-the-way-to-quick-and-efficient-editing-keyboard-shortcuts-in-filmora-for-2024/"><u>Updated The Way to Quick and Efficient Editing | Keyboard Shortcuts in Filmora for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New How to Use Zoom in Google for 2024
-date: 2024-12-10T19:03:04.682Z
-updated: 2024-12-15T17:35:41.309Z
+date: 2024-12-22T19:08:05.898Z
+updated: 2024-12-24T19:18:03.034Z
 tags: 
   - ai
   - animation videos
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45
 Zoom in and out is a feature in every presentation/editing tool, but we generally forget its importance until it is unavailable, and you will need alternatives. You imagine a situation where you will have to zoom in on the sheet in the presentation because your client is sitting far from the projector. After the presentation, you will have to zoom out, so the sheet becomes normal. **Zoom in google** is our daily activity on a computer.
 
 Previously there were no such options in Google sheet to zoom or out. But, now Google has come up with this new feature. This article will explore the steps to zoom in and out of the whole page and the elements of Google Chrome. Now we will know about several ways of using the Zoom control. Let's start.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: 6 Steps for using Zoom control in Google
 
@@ -40,7 +36,7 @@ In **the zoom-in Google** section, you will have to tap or click on the "+" opti
 ![how to use zoom in google](https://images.wondershare.com/filmora/article-images/2022/07/zoom-control-google.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step4Making Zoom adjustments
@@ -55,10 +51,6 @@ You can even set the custom zoom level so that each web page opens up with the t
 
 ![how to use zoom in google](https://images.wondershare.com/filmora/article-images/2022/07/change-zoom-level-google.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step6Set zoom level
 
 You can type "Page Zoom" in the search box. You can even click on the appearance on the left side. Click on the drop-down menu and tap on default zoom.
@@ -66,7 +58,7 @@ You can type "Page Zoom" in the search box. You can even click on the appearance
 ![how to use zoom in google](https://images.wondershare.com/filmora/article-images/2022/07/set-page-zoom-level.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Use the Zoom Control on Google Docs
@@ -89,6 +81,10 @@ Step1Sign in to Google Drive and open your documents where you want to zoom in o
 
 Step2Click or Tap on the zoom button in the toolbar above the document and then choose the predefined zoom levels, or you can manually enter the preferred zoom level in the space.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Use the zoom controller in Google sheets with Built-in Functionality?
 
 It is a functionality of Google sheets that allows using the zoom controller. Here are the steps of using the Zoom feature in Google sheets:
@@ -98,10 +94,6 @@ Step1Tap on the Zoom option in the toolbar. It will show a drop-down option with
 Step2Choose the level you wish. You can choose from the existing one or manually enter the value. You must know that if you prefer more petite than a hundred percent, it will get smaller, and if you choose more than a hundred, it will get bigger.
 
 Step3You can even veg the same options while you click File Tab and linger the cursor on zoom options.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use the zoom controller manually in Google Sheets by using the browser?
 
@@ -117,6 +109,10 @@ Step3You can even find a similar option to zoom in on other browsers.
 
 When you are using an iOS or Android device, you can pinch the screen to zoom in and slide two fingers apart to zoom out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. How to make Google earth zoom-in video
 
 Do you also want to make a fantastic **Google earth zoom-in video?** Then let's see the steps for making this:
@@ -131,6 +127,10 @@ Do you also want to make a fantastic **Google earth zoom-in video?** Then let's 
 8. Zoom out the earth, open the "Movie maker" box, and click on "Create Movie."
 9. Click on the city name to see the **Google earth zoom-in video.**
 10. After the video is done, you can click on "Stop Recording."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,18 +149,20 @@ Previously there were no such options in Google sheet to zoom or out. But, now G
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ideo-selfie-mastery-tips-from-top-youtubers/"><u>[New] Video Selfie Mastery Tips From Top YouTubers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-how-to-fix-no-video-on-sony-a6400-camera/"><u>[Updated] 2024 Approved How to Fix No Video On Sony A6400 Camera</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigate-the-world-of-video-conferencing/"><u>2024 Approved Navigate the World of Video Conferencing</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-unveiling-advanced-methods-to-harness-screencapture-tools/"><u>2024 Approved Unveiling Advanced Methods to Harness ScreenCapture Tools</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-oppo-a38-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-are-you-looking-for-a-voice-changer-to-make-your-gaming-experience-more-fun-here-is-a-list-of-the-top-6-best-alternatives-of-clownfish-voice-cha/"><u>New In 2024, Are You Looking for a Voice Changer to Make Your Gaming Experience More Fun? Here Is a List of the Top 6 Best Alternatives of Clownfish Voice Changers to Use</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-zoom-in-discord/"><u>New In 2024, How to Zoom in Discord</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-overview-of-best-luts-for-vlog-for-2024/"><u>New Overview of Best LUTs for Vlog for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/producing-channel-trailer-synopses-a-guide-for-2024/"><u>Producing Channel Trailer Synopses A Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/strategies-for-success-in-online-content-creation-for-2024/"><u>Strategies for Success in Online Content Creation for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/troubleshooting-print-issues-with-ease-yl-computing-offers-essential-steps-for-resolution/"><u>Troubleshooting Print Issues with Ease: YL Computing Offers Essential Steps for Resolution</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/tutoriel-etape-par-etape-demarrage-de-laissepc-lenovo-a-laide-dune-cle-usb-sur-windows-11/"><u>Tutoriel Étape Par Étape : Démarrage De Laissepc Lenovo À L'aide D'une Clé USB Sur Windows 11</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-ai-has-influenced-all-video-editors-to-speed-up-editing-this-article-discusses-the-significance-of-ai-slow-motion-and-the-tools-that-o/"><u>Updated 2024 Approved AI Has Influenced All Video Editors to Speed up Editing. This Article Discusses the Significance of AI Slow Motion and the Tools that Offer It</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-5-top-tier-gaming-displays-in-4k-quality/"><u>[New] 5 Top-Tier Gaming Displays in 4K Quality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-dimensions-and-edits-the-imovie-crop-enigma/"><u>[Updated] Dimensions and Edits The iMovie Crop Enigma</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-efficient-zooming-strategies-for-youtube-videos/"><u>[Updated] Efficient Zooming Strategies for YouTube Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-image-intensifiers-ranking-the-best-10-photography-lenses/"><u>[Updated] In 2024, Image Intensifiers Ranking the Best 10 Photography Lenses</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-photo-capture-file-creation-failed-camera-app-error-on-windows-11-and-11/"><u>How to Fix the “Photo Capture File Creation Failed” Camera App Error on Windows 11 & 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-realme-12-pro-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Realme 12 Pro 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovative-script-visionaries-corner/"><u>Innovative Script Visionaries Corner</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-want-to-find-a-good-camera-for-youtube-this-article-brings-you-some-of-the-best-options-of-different-varieties-for-your-channel/"><u>New In 2024, Want to Find a Good Camera for YouTube? This Article Brings You some of the Best Options of Different Varieties for Your Channel</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revive-your-gaming-experience-top-7-fixes-for-the-persistent-steam-black-screen-issue/"><u>Revive Your Gaming Experience: Top 7 Fixes for the Persistent Steam Black Screen Issue!</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-creating-flawless-slow-motion-videos-is-every-content-creators-dream-learn-about-davinci-resolve-slow-motion-video-creation-amongst-ot/"><u>Updated 2024 Approved Creating Flawless Slow-Motion Videos Is Every Content Creators Dream. Learn About DaVinci Resolve Slow-Motion Video Creation, Amongst Other Tools</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-learning-unique-ways-to-slow-down-time-lapse-on-iphone/"><u>Updated 2024 Approved Learning Unique Ways to Slow Down Time Lapse on iPhone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-youtube-algorithm-hacks/"><u>Updated 2024 Approved YouTube Algorithm Hacks</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-make-stunning-glitch-effect-in-photoshop/"><u>Updated In 2024, How to Make Stunning Glitch Effect in Photoshop?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-templates-increase-the-editing-possibilities-for-beginners-and-professionals-read-this-article-to-learn-about-some-customizable-slow-motion-/"><u>Updated In 2024, Templates Increase the Editing Possibilities for Beginners and Professionals. Read This Article to Learn About some Customizable Slow-Motion CapCut Templates</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-what-anime-character-are-you-look-like/"><u>Updated In 2024, What Anime Character Are You Look Like?</u></a></li>
 </ul></div>
 

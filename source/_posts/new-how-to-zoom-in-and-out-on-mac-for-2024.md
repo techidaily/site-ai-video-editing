@@ -1,7 +1,7 @@
 ---
 title: New How to Zoom In and Out on Mac for 2024
-date: 2024-12-08T17:06:29.046Z
-updated: 2024-12-15T21:35:21.268Z
+date: 2024-12-22T16:16:54.676Z
+updated: 2024-12-24T17:53:35.440Z
 tags: 
   - ai
   - animation videos
@@ -23,19 +23,23 @@ In any case, you have our support. There are various ways to zoom in and out on 
 
 When using an app, holding down Command key while using the plus (+) or minus (-) keys will allow you to zoom in or out as needed. Using the keyboard on your Mac, you may zoom in and out at intervals of 10%; when you do, a pop-up menu with the option to reset (i.e., return to the default, or 100%, zoom level) will display at the top of the screen. Instead of touching or repeating the shortcut, just keep holding the plus or minus key to zoom farther. Accessibility Zoom, which was created as a tool for the blind and enables you to zoom in on a Mac to see tiny text and precisely change settings with checkboxes, must be enabled if you wish to zoom in on the whole screen rather than just an app window (such as Utilities).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps to Use Keyboard Shortcut to Zoom in MacBook
 
 Step1Go to Accessibility > System Preferences > Zoom, then click Zoom in the sidebar. Check the check next to "Use keyboard shortcuts to zoom" after that. Click the command key (located on either side of the space bar).
 
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/open-zoom-from-accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2Press the plus/equal sign ("+ =") button, which is adjacent to the delete button on the top right side of the keyboard, while continuing to hold down the command button to zoom in.
 
 Step3Press the dash/underscore button ("- \_"), which is situated next to the "+ =" button on the top right side of the keyboard, while still holding down the command button, to zoom out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 2: Use Trackpad Gestures
 
@@ -51,13 +55,13 @@ Step2You can zoom in or out on Mac by placing two fingers on the touchpad and mo
 
 Step3Another option is to simply zoom in and out by double-tapping the touchpad with two fingers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 3: Use Scroll Gesture
 
 If you'd like to use your mouse, you may utilize the screen zoom option, which enlarges everything on your screen rather than just the app window you're now viewing. This would need holding down one of the designated modifier keys while scrolling in order to zoom in on a Mac. Just like on an iPhone or iPad, you can zoom in and out by pinching and un-pinching. The smart zoom motion, on the other hand, is executed by double-tapping with two fingers. This immediately zooms into or immediately zooms out of a web page or pdf.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Steps to Enable Scroll Gesture
 
@@ -70,7 +74,7 @@ Step2Select "Use scroll motion with modifier keys to zoom" from the drop-down me
 Step3Select the desired modifier key from the dropdown menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 4: Enable Hover Text to Zoom
@@ -88,20 +92,12 @@ Step2Additional customization options are available in the Options menu, includi
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/customize-text-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 5: Enable Touch Bar
 
 This substitute is only accessible on Macs equipped with Touch Bars. A handy feature is the Touch Bar. The Touch Bar is a feature on every current MacBook Pro model, including the 13-inch and 16-inch versions. On the Touch Bar, there is a mix of App Controls and a Control Strip. To use with your compatible MacBook Pro, the Touch Bar has additional features. Although it is helpful right out of the box, some customization may be required for your advantage. Fortunately, Apple makes modifications rather straightforward. You may change your default by following the instructions below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Steps to Enable Touch Bar on MacBook
 
@@ -112,6 +108,10 @@ Step2Click the Apple symbol in the upper left corner of your screen and choose "
 Step3Select "Keyboard" > "Keyboard" and then select "Touch Bar shows" under the Touch Bar settings. Then choose an option from the menu, which also includes the larger Control Strip and app buttons.
 
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/enable-touch-bar-on-mac.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -130,22 +130,22 @@ In any case, you have our support. There are various ways to zoom in and out on 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-a-guide-to-effective-hashtag-integration-on-facebook-platforms-for-2024/"><u>[Updated] A Guide to Effective Hashtag Integration on Facebook Platforms for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-revamp-your-channels-smart-tips-for-yt-profiles/"><u>[Updated] Revamp Your Channels Smart Tips for YT Profiles</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-unlock-your-phones-full-potential-with-these-ios-vr-titles-for-2024/"><u>[Updated] Unlock Your Phone's Full Potential with These iOS VR Titles for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-windows-activation-problem-0x803f700f/"><u>Eliminating Windows Activation Problem: 0X803F700F</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-samsung-galaxy-f04-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Samsung Galaxy F04 to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-microvid-recorder-critique-with-alternatives/"><u>In 2024, MicroVid Recorder Critique with Alternatives</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/is-windows-movie-maker-still-available-for-2024/"><u>Is Windows Movie Maker Still Available for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713950530912-its-always-a-cool-thing-to-use-a-3d-intro-maker-to-create-intro-videos-for-your-clips-this-post-will-introduce-you-4-of-the-best-intro-video-makers-to-help-/"><u>Its Always a Cool Thing to Use a 3D Intro Maker to Create Intro Videos for Your Clips. This Post Will Introduce You 4 of the Best Intro Video Makers to Help You Improve Your Video for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/master-kinemasters-features-with-ease-ranked-by-best-opponent-games/"><u>Master KineMaster's Features with Ease, Ranked by Best Opponent Games</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-this-article-aim-to-teach-you-how-to-make-a-night-to-day-effect-video-with-filmora-follow-the-steps-to-figure-it-out/"><u>New 2024 Approved This Article Aim to Teach You How to Make a Night to Day Effect Video with Filmora. Follow the Steps to Figure It Out</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-create-a-green-screen-video-in-after-effects/"><u>New In 2024, How To Create A Green Screen Video In After Effects</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-get-motion-blur-in-roblox/"><u>New In 2024, How to Get Motion Blur in Roblox?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-inexpensive-apple-watch-series-se-gets-a-fresh-look-discover-the-latest-enhancements-digitaltrends/"><u>The Inexpensive Apple Watch Series SE Gets a Fresh Look - Discover the Latest Enhancements | DigitalTrends</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-4-ways-to-loop-a-video-on-vimeo-for-2024/"><u>Updated 4 Ways to Loop a Video on Vimeo for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-8-best-sites-to-get-glitch-transition-for-premiere-pro/"><u>Updated 8 Best Sites to Get Glitch Transition for Premiere Pro</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-create-your-own-lol-montage-video/"><u>Updated In 2024, How to Create Your Own LOL Montage Video</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725289936974-windows-11dvd/"><u>Windows 11でDVDをバックアップするための最適な方法：使いやすさとエラー対策</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-elevate-your-account-25-top-instagram-tags-for-maximum-engagement-for-2024/"><u>[New] Elevate Your Account 25 Top Instagram Tags for Maximum Engagement for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-a-newbies-blueprint-to-mastering-av1-for-2024/"><u>[Updated] A Newbie's Blueprint to Mastering AV1 for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-best-platforms-maximizing-your-youtube-reach-for-2024/"><u>[Updated] Best Platforms Maximizing Your YouTube Reach for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/aomei-backupper-la-herramienta-ideal-para-la-copia-de-seguridad-de-discos-en-duplicado/"><u>AOMEI Backupper: La Herramienta Ideal Para La Copia De Seguridad De Discos en Duplicado</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-6s-plus-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 6s Plus</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-red-magic-9-proplus-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Nubia Red Magic 9 Pro+ Phone without Any Data Loss</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-if-youre-not-using-video-yet-now-is-the-time-to-start-in-this-post-well-discuss-the-benefits-of-using-video-for-social-media-marketing-and/"><u>New 2024 Approved If Youre Not Using Video yet, Now Is the Time to Start. In This Post, Well Discuss the Benefits of Using Video for Social Media Marketing and Provide Tips for Getting Started. Keep Reading to Learn More</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-top-10-anime-movies-of-all-time/"><u>New 2024 Approved Top 10 Anime Movies of All Time</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-having-gopro-accessories-is-easy-but-editing-on-gopro-quik-is-challenging-read-this-guide-and-stepwise-learn-to-use-gopro-slow-motion-for-perfec/"><u>New In 2024, Having GoPro Accessories Is Easy, but Editing on GoPro Quik Is Challenging. Read This Guide and, Stepwise, Learn to Use GoPro Slow-Motion for Perfect Shots</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-making-slow-motion-videos-in-premiere-pro-a-review-on-the-best-method/"><u>New In 2024, Making Slow Motion Videos in Premiere Pro A Review on The Best Method</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713964442414-new-looking-forward-to-complement-your-weekend-evenings-with-a-fantasy-tour-to-the-anime-world-stay-here-to-pick-the-most-appealing-alternative-from-the-bes/"><u>New Looking Forward to Complement Your Weekend Evenings with a Fantasy Tour to the Anime World? Stay Here to Pick the Most Appealing Alternative From the Best and Timeless Anime Creations for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/non-sport-spectacles-in-the-top-ten-front-rows/"><u>Non-Sport Spectacles in the Top Ten Front Rows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/revolutionizing-video-production-with-skillful-audio-crafting/"><u>Revolutionizing Video Production with Skillful Audio Crafting</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-wish-to-create-high-quality-videos-and-experience-effective-videos-with-editing-no-problem-at-all-because-the-keyboard-shortcut/"><u>Updated 2024 Approved Do You Wish to Create High-Quality Videos and Experience Effective Videos with Editing? No Problem at All because the Keyboard Shortcuts Listed Here Will Assist You</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-put-a-background-on-a-green-screen/"><u>Updated 2024 Approved How to Put a Background on A Green Screen</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-make-fortnite-thumbnail-with-motion-blur/"><u>Updated In 2024, How to Make Fortnite Thumbnail with Motion Blur?</u></a></li>
 </ul></div>
 

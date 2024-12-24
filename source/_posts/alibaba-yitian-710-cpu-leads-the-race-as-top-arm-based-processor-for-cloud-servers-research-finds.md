@@ -1,7 +1,7 @@
 ---
 title: Alibaba Yitian 710 CPU Leads the Race as Top Arm-Based Processor for Cloud Servers, Research Finds
-date: 2024-12-12T18:25:09.123Z
-updated: 2024-12-15T21:58:55.638Z
+date: 2024-12-22T18:53:58.252Z
+updated: 2024-12-24T19:05:53.212Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ For just $59, musicians now have a new option for a purpose-built musical comput
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -56,18 +56,24 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/budget-friendly-edits-made-easy-with-vimeos-free-tools/"><u>Budget-Friendly Edits Made Easy with Vimeo's Free Tools</u></a></li>
-<li><a href="https://techtrends.techidaily.com/captioning-made-easy-enhancing-your-instagram-narratives/"><u>Captioning Made Easy: Enhancing Your Instagram Narratives</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/comment-transformer-un-fichier-pcx-en-gif-gratuitement-en-ligne-astuces-et-conseils-avec-movavi/"><u>Comment Transformer Un Fichier PCX en GIF Gratuitement en Ligne, Astuces Et Conseils Avec Movavi</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210966074-9781088228845-hechizo-infernal/"><u>Hechizo Infernal | Free Book</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-from-studio-to-screen-uploading-melodies-online/"><u>In 2024, From Studio to Screen Uploading Melodies Online</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-new-horizons-in-graphic-design-post-acid/"><u>In 2024, New Horizons in Graphic Design Post-ACID</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-xr-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On Apple iPhone XR</u></a></li>
-<li><a href="https://common-error.techidaily.com/missing-microsoft-c-runtime-library/"><u>Missing Microsoft C Runtime Library</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-being-an-after-effects-editor-you-often-find-yourself-the-need-to-add-motion-blur-after-effects-this-guide-has-got-you-covered-follow-to-find-ou/"><u>New In 2024, Being an After Effects Editor, You Often Find Yourself the Need to Add Motion Blur After Effects. This Guide Has Got You Covered. Follow to Find Out How to Add Motion Blur in After Effects</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-to-know-about-phone-aspect-ratio-vertical-trying-to-learn-about-iphone-vertical-video-dimensions-read-this-article-to-get-all-your-a/"><u>New In 2024, Do You Want to Know About Phone Aspect Ratio Vertical? Trying to Learn About iPhone Vertical Video Dimensions? Read This Article to Get All Your Answers on Vertical Phone Aspect Ratio Definition, Types and Tips</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/space-shooter-and-smiles-exploring-the-entertaining-storyline-and-mechanics-of-the-outer-worlds/"><u>Space, Shooter and Smiles: Exploring the Entertaining Storyline & Mechanics of The Outer Worlds</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-wish-to-create-high-quality-videos-and-experience-effective-videos-with-editing-no-problem-at-all-because-the-keyboard-shortcuts-list/"><u>Updated In 2024, Do You Wish to Create High-Quality Videos and Experience Effective Videos with Editing? No Problem at All because the Keyboard Shortcuts Listed Here Will Assist You</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713964138345-updated-learn-how-to-effortlessly-mirror-video-clips-in-adobe-premiere-pro-with-this-step-by-step-guide-perfect-for-creating-a-symmetrical-look-in-your-vide/"><u>Updated Learn How to Effortlessly Mirror Video Clips in Adobe Premiere Pro with This Step-by-Step Guide. Perfect for Creating a Symmetrical Look in Your Videos for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/apping-memorable-media-metaphors-for-2024/"><u>[New] Mapping Memorable Media Metaphors for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-empowering-healing-with-vr-technology-for-2024/"><u>[Updated] Empowering Healing with VR Technology for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/11-tools-to-create-radial-blur-photo-mobile-and-desktop/"><u>11 Tools To Create Radial Blur Photo Mobile And Desktop</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-discovering-6-premium-apps-master-linkedin-video-downloads/"><u>2024 Approved Discovering 6 Premium Apps Master LinkedIn Video Downloads</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/has-facebook-hit-its-share-of-market-saturation/"><u>Has Facebook Hit Its Share of Market Saturation?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Identify malfunctioning your hardware drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-venmo-photo-frame-guidelines/"><u>In 2024, Venmo Photo Frame Guidelines</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-learning-unique-ways-to-slow-down-time-lapse-on-iphone/"><u>New 2024 Approved Learning Unique Ways to Slow Down Time Lapse on iPhone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-templates-increase-the-editing-possibilities-for-beginners-and-professionals-read-this-article-to-learn-about-some-customizable-slow-motio/"><u>New 2024 Approved Templates Increase the Editing Possibilities for Beginners and Professionals. Read This Article to Learn About some Customizable Slow-Motion CapCut Templates</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-exploring-tools-to-integrate-special-mask-effects-into-your-content-read-the-following-article-to-master-some-tools-experts-in-mask-tracking/"><u>New In 2024, Exploring Tools to Integrate Special Mask Effects Into Your Content. Read the Following Article to Master some Tools Experts in Mask Tracking</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-most-significant-technological-innovations-after-1844/"><u>The Most Significant Technological Innovations After 1844</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/universal-data-rescue-expert-tool-retrieves-any-kind-of-lost-information/"><u>Universal Data Rescue Expert Tool - Retrieves Any Kind of Lost Information</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-if-you-want-to-replace-or-delete-the-sky-pictures-or-background-media-then-give-a-quick-read-to-this-article-for-effective-solutions.m/"><u>Updated 2024 Approved If You Want to Replace or Delete the Sky Pictures or Background Media, Then Give a Quick Read to This Article for Effective Solutions</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-do-you-want-to-create-slow-motion-videos-this-article-shows-methods-to-create-slow-mo-videos-without-changing-the-medias-quality-for-2024/"><u>Updated Do You Want to Create Slow-Motion Videos? This Article Shows Methods to Create Slow-Mo Videos without Changing the Medias Quality for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-fortnite-thumbnail-with-motion-blur-in-2024/"><u>Updated How to Make Fortnite Thumbnail with Motion Blur, In 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-davinci-resolve-scopes-have-undergone-significant-improvements-find-out-how-to-use-these-scopes-and-improve-your-video-editing-skills/"><u>Updated In 2024, DaVinci Resolve Scopes Have Undergone Significant Improvements. Find Out How to Use These Scopes and Improve Your Video Editing Skills</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713964791283-updated-stop-worrying-if-your-adobe-premiere-playback-slows-down-this-guide-will-show-you-the-best-solutions-to-resolve-this-issue-and-a-perfect-alternative/"><u>Updated Stop Worrying if Your Adobe Premiere Playback Slows Down. This Guide Will Show You the Best Solutions to Resolve This Issue and a Perfect Alternative for 2024</u></a></li>
 </ul></div>
 

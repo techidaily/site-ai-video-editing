@@ -1,7 +1,7 @@
 ---
 title: How to Fix FIFA 22 Game Crashes on Your Computer
-date: 2024-12-10T16:11:34.116Z
-updated: 2024-12-15T21:02:00.853Z
+date: 2024-12-21T17:04:44.387Z
+updated: 2024-12-24T18:34:31.974Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/fe074f06665304f02bb44d59a2cf2f7a7e742cf6a
 The infinite world in Minecraft is waiting for you to explore, but you just canâ€™t get in. It keeps not responding forever. How annoying it is! Donâ€™t worry, Minecraft not responding is nothing new. Thousands of players are reporting the same issue. The good news is that you can solve it easily.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why is Minecraft not responding?
@@ -48,10 +48,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 4. **[Run Minecraft as administrator](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Disable Mods](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall your Minecraft](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Disable Discord Overlay
 
@@ -110,10 +106,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-09-24_10-03-23-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to your graphics driver to download the correct version of its driver, then you can manually install it.
 
 **Or**
@@ -121,6 +113,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
  Click the**Update All** button at the bottom right to automatically update all the drivers. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  â€” you will be prompted to upgrade when you click Update All. You get**full support** and a**30-day money back guarantee** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/update-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easyâ€™s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -140,21 +136,21 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select the**Compatibility** tab and check the box next to**Run this program as an administrator** . Click**Apply** and then**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/admin-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Run Minecraft again to see if this works.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable Mods
 
@@ -176,19 +172,23 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/APP-uninstall.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click**Minecraft** and select**Uninstall** .
 
  4) Press the Windows logo key and R again to open the Run box again, then type**%appdata%** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/appdata.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Right-click the**.minecraft** folder and select**Delete** to make sure youâ€™ve deleted the related files.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/remove-minecraft-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) After uninstalling, restart your computer. Go to the[**official Minecraft website**](https://www.minecraft.net/en-us/) to download and install Minecraft again.
 
@@ -218,22 +218,14 @@ Feel free to leave us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-comparative-analysis-the-leading-edge-with-active-for-2024/"><u>[New] Comparative Analysis The Leading Edge with Active for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-realizing-dreamscapes-picks-of-the-best-tools-for-animation-artists/"><u>[New] In 2024, Realizing Dreamscapes Picks of the Best Tools for Animation Artists</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-boosting-your-drone-experience-with-these-11-items/"><u>[Updated] Boosting Your Drone Experience with These 11 Items</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-playbook-for-crafting-engaging-podcast-titles/"><u>[Updated] The Ultimate Playbook for Crafting Engaging Podcast Titles</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-the-best-wedding-stories-online-youtube-plus-vimeos-selection-8/"><u>In 2024, The Best Wedding Stories Online YouTube + Vimeo's Selection (8)</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-know-that-you-can-apply-different-luts-and-create-your-own-there-are-many-lut-online-and-offline-generators-that-you-can-use-to-cre/"><u>New 2024 Approved Do You Know that You Can Apply Different LUTs and Create Your Own? There Are Many LUT Online and Offline Generators that You Can Use to Create Your LUT</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-have-a-desire-to-uplift-your-editing-creativity-with-trying-hands-at-working-with-storyboards-keep-reading-to-have-a-comprehensive-underst/"><u>New 2024 Approved Have a Desire to Uplift Your Editing Creativity with Trying Hands at Working with Storyboards? Keep Reading to Have a Comprehensive Understating of the Workflow Through Stepwise User Guides</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-looking-into-how-slow-mo-guys-have-changed-the-dynamics-of-slow-motion/"><u>New 2024 Approved Looking Into How Slow Mo Guys Have Changed the Dynamics of Slow-Motion</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-edit-youtube-videos-in-easy-steps/"><u>New In 2024, How To Edit Youtube Videos In Easy Steps</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-top-10-video-editing-online-makers-is-worth-your-attention/"><u>New In 2024, Top 10 Video Editing Online Makers Is Worth Your Attention</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-use-the-best-luts-for-lightroom-for-2024/"><u>New Use The Best LUTs for Lightroom for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-troubleshooting-windows-system-error-resolved/"><u>Nvidia Troubleshooting - Window's System Error Resolved</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/cketing-traffic-the-power-of-collaborative-youtube-outros-for-2024/"><u>Skyrocketing Traffic The Power of Collaborative YouTube Outros for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/top-mac-gif-saving-best-10-gif-apps-for-2024/"><u>Top Mac GIF Saving Best 10 Gif Apps for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-let-us-talk-about-the-famous-photoshop-and-most-commonly-used-glitch-effect-the-article-understudy-will-discuss-in-detail-about-photo-/"><u>Updated 2024 Approved Let Us Talk About the Famous Photoshop and Most Commonly Used Glitch Effect. The Article Understudy Will Discuss in Detail About Photo Glitch Effect</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-an-apple-user-interested-in-adding-a-slow-mo-to-their-videos-this-article-features-an-exceptional-procedure-for-creating-slow-mo-in-/"><u>Updated In 2024, Are You an Apple User Interested in Adding a Slow-Mo to Their Videos? This Article Features an Exceptional Procedure for Creating Slow-Mo in iMovie</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-lava-blaze-2-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Lava Blaze 2 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-ipad-audio-excellence-top-3-techniques/"><u>[Updated] In 2024, IPad Audio Excellence Top 3 Techniques</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-zero-to-hero-boosting-youtube-view-count-quickly/"><u>2024 Approved From Zero to Hero Boosting YouTube View Count Quickly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/content-cash-cow-how-much-does-the-meme-king-make/"><u>Content Cash Cow How Much Does the Meme King Make?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-how-to-counter-facebooks-instantaneous-deletion-of-videos/"><u>In 2024, How to Counter Facebook's Instantaneous Deletion of Videos</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-looking-forward-to-complement-your-weekend-evenings-with-a-fantasy-tour-to-the-anime-world-stay-here-to-pick-the-most-appealing-alternativ/"><u>New 2024 Approved Looking Forward to Complement Your Weekend Evenings with a Fantasy Tour to the Anime World? Stay Here to Pick the Most Appealing Alternative From the Best and Timeless Anime Creations</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-wondering-how-to-create-a-stunning-intro-video-with-kinemaster-here-are-the-simple-steps-to-use-kinemaster-to-design-your-intro-video-in-simple-steps-fo/"><u>New Wondering How to Create a Stunning Intro Video with KineMaster? Here Are the Simple Steps to Use KineMaster to Design Your Intro Video in Simple Steps for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfect-gopro-4k-cinematography-through-editing/"><u>Perfect GoPro 4K Cinematography Through Editing</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-timeline-template-is-a-visual-representation-showing-the-passage-of-time-it-includes-text-diagrams-images-and-icons-they-are-perfect-f/"><u>Updated 2024 Approved Timeline Template Is a Visual Representation Showing the Passage of Time. It Includes Text, Diagrams, Images and Icons. They Are Perfect for Telling Stories, Events Etc</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-eager-to-know-how-to-create-an-adjustment-layer-in-premiere-pro-this-article-will-highlight-the-significance-of-adding-an-adjustment/"><u>Updated In 2024, Are You Eager to Know How to Create an Adjustment Layer in Premiere Pro? This Article Will Highlight the Significance of Adding an Adjustment Layer in Premiere Pro</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Want to Add a Motion Blur Effect to Your Photos? This Step-by-Step Tutorial Will Show You How to Use GIMP Software to Get the Effect You Want
-date: 2024-12-07T19:06:27.082Z
-updated: 2024-12-09T17:07:38.151Z
+date: 2024-12-19T18:06:20.960Z
+updated: 2024-12-24T16:53:01.537Z
 tags: 
   - ai
   - animation videos
@@ -19,6 +19,10 @@ GIMP is a cross-platform image editing software that you can use to edit photos 
 
 So to help you tone your skills, we've written a comprehensive guide on how to apply the **GIMP motion blur effect** to your photos!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part I. What Is GIMP?
 
 [GIMP](https://www.gimp.org/) software, a GNU Image Manipulation Program, is an open-source raster graphics editor used for image editing and retouching, converting between different image formats, free-form drawing, and more.
@@ -26,7 +30,7 @@ So to help you tone your skills, we've written a comprehensive guide on how to a
 GIMP is frequently used as a Photoshop alternative. The software boasts a wide range of features, including support for layers, masks, color management, and third-party plugins.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Features
@@ -49,10 +53,6 @@ Below we’ve provided the step-by-step tutorial to add a **motion blur effect**
 Step1 In the first step, launch a browser on your device, head to the [GIMP website](https://www.gimp.org/downloads/), and download the installation file according to your operating system. Now, click the downloaded installer, install the software on your system and launch it.
 
 ![downloading the gimp software to add motion blur to photos](https://images.wondershare.com/filmora/article-images/2023/02/downloading-the-gimp-software-to-add-motion-blur-to-photos.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 In the next step, click **“File”** on the GIMP dashboard, and select **“Open”** to access the Open Image window. Select your image file from your system and click **“Open”** to import the file.
 
@@ -88,13 +88,13 @@ Step1 Download the Filmora software on your PC, launch it, and click **“Create
 
 ![importing file to filmora to add motion blur](https://images.wondershare.com/filmora/article-images/2023/02/importing-file-to-filmora-to-add-motion-blur.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Now, head to the **“Effects”** tab from the taskbar. Use the search option to find the **Blur** effect. Afterward, drag & drop it in the timeline and adjust it on your selected clip.
 
 ![adding motion blur effect using filmora](https://images.wondershare.com/filmora/article-images/2023/02/adding-motion-blur-effect-using-filmora.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 Please note that motion blur is now a dynamic effect on the image. That means you can add multiple photos and make them into a slideshow with a blur effect transition. Or, press the **“Play”**  icon to preview your photo and pause the clip where you think motion blur works best.
 
@@ -130,10 +130,6 @@ Step1 Download the Filmora software on your PC, launch it, and click **“Create
 
 ![importing file to filmora to add motion blur](https://images.wondershare.com/filmora/article-images/2023/02/importing-file-to-filmora-to-add-motion-blur.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Now, head to the **“Effects”** tab from the taskbar. Use the search option to find the **Blur** effect. Afterward, drag & drop it in the timeline and adjust it on your selected clip.
 
 ![adding motion blur effect using filmora](https://images.wondershare.com/filmora/article-images/2023/02/adding-motion-blur-effect-using-filmora.png)
@@ -149,7 +145,7 @@ Step5 Once satisfied with the outcome, click the "Export" option, go to the **"L
 Filmora offers many export options, such as your device, YouTube, Vimeo, and DVD, with just a few clicks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Last Words
@@ -191,6 +187,10 @@ Step 2After successful uploading, TwistedWave will separate the audio portion fr
 
 ![separate audio twisted wave](https://images.wondershare.com/filmora/article-images/2022/08/separate-audio-twisted-wave.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3On the new editor window, go to Effects> VST Effects and click on mdaDelay.so.
 
 ![vst effects mdadelay so](https://images.wondershare.com/filmora/article-images/2022/08/vst-effects-mdadelay-so.jpg)
@@ -199,17 +199,13 @@ Step 4From the pop-up window, you can adjust different parameters as per your pr
 
 ![apply enhanced echo effect](https://images.wondershare.com/filmora/article-images/2022/08/apply-enhanced-echo-effect.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5Play the audio to check the echo effect and go to File and click on Download option. You can save the modified audio file on your device.
 
 ![download audio twisted wave](https://images.wondershare.com/filmora/article-images/2022/08/download-audio-twisted-wave.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. How to Add Echo to Video on Windows PC
 
@@ -228,6 +224,10 @@ Step 1Download and install Filmora. Launch the application and click on New Proj
 Step 2Go to File> Import Media and click on Import Media Files option. Select your video file from your storage device. Otherwise, you can drag and drop the video on Project Media and drop the video on Timeline.
 
 ![import media files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3Click on Effects option located at the top and search for “echo”. Drag and drop the Echo effect on your video located on Timeline.
 
@@ -287,10 +287,6 @@ Step 4Double-click on the video file and click on Audio option at the top. Scrol
 
 ![click on ok button](https://images.wondershare.com/filmora/guide/audio-effects-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 5Play the video and if you are satisfied, click on Export button to save the video in your desired file format.
 
 ## Part 3\. How to Add Echo to Video on Mac
@@ -307,6 +303,10 @@ Step 3Click on the video clip on the Timeline and click on “Clip Filter and Au
 
 ![clip filter audio effects imovie](https://images.wondershare.com/filmora/article-images/2022/08/clip-filter-audio-effects-imovie.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4Click on Audio Effect – None option and “Choose Audio Effect” pop-up window will open. Click on Echo Delay option.
 
 ![echo delay effect imovie](https://images.wondershare.com/filmora/article-images/2022/08/echo-delay-effect-imovie.jpg)
@@ -314,6 +314,10 @@ Step 4Click on Audio Effect – None option and “Choose Audio Effect” pop-up
 Step 5Play the video and go to File> Share> File option to export the edited video.
 
 ![share files imovie](https://images.wondershare.com/filmora/article-images/2022/08/share-files-imovie.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The Bottom Line
 
@@ -335,13 +339,13 @@ Video editing is one of the most essential tasks in a video project. It plays a 
 
 The editing process changes the whole narrative of a video by adding more depth and feel to it. Through editing, you can remove unwanted segments, rearrange clips, and much more. Capturing and recording video is one thing, but bringing the best out of the raw files is another. To make your raw footage somewhat stunning, you have to sit in the editing room.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How Does Trimming or Merging Videos Help Users?
 
 Merging and trimming videos is an editing technique that offers many benefits. Here's how these actions can help you in so many ways. Find out how it helps the users when they merge or **trim a video:**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Trimming Videos
 
@@ -367,27 +371,24 @@ Merging and trimming videos is an editing technique that offers many benefits. H
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Besides all this, the tool offers more than you're expectations. It exists for professionals, enthusiasts, and even those who have started learning how to edit. Moreover, you can import and export videos up to 4K resolution using Wondershare Filmora. Choose a suitable template, import your media files, and start editing your videos with this tool.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-brand-alliances-elevating-youtube-content/"><u>[New] Brand Alliances Elevating YouTube Content</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-ps1-gaming-delighted-top-5-emulators-for-2024/"><u>[New] PS1 Gaming Delighted? Top 5 Emulators for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-greatest-sports-dramas-to-enjoy-immediately-and-beyond/"><u>Discover the Greatest Sports Dramas to Enjoy Immediately and Beyond</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essential-gif-tools-for-x876-owners/"><u>Essential GIF Tools for X/8/7/6 Owners</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-realme-narzo-60-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/guide-enhancing-your-windows-11-experience-with-the-newest-intel-iris-gpu-drivers/"><u>Guide: Enhancing Your Windows 11 Experience with the Newest Intel Iris GPU Drivers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-crafting-your-weekly-schedule-with-google-meet/"><u>In 2024, Crafting Your Weekly Schedule with Google Meet</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-what-is-hdri-everything-you-need-to-know-about-hdri/"><u>New 2024 Approved What Is HDRI? Everything You Need to Know About HDRI</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-itel-s23plus-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Itel S23+ to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-pick-for-gamers-in-depth-look-at-the-features-of-nvidia-shield-tv-pro/"><u>Top Pick for Gamers - In-Depth Look at the Features of Nvidia Shield TV Pro</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-use-premiere-pro-and-want-to-learn-how-to-change-a-videos-frame-rate-using-the-tool-here-are-the-steps-that-you-need-to-follow./"><u>Updated 2024 Approved Do You Use Premiere Pro and Want to Learn How to Change a Videos Frame Rate Using the Tool? Here Are the Steps that You Need to Follow</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-best-online-youtube-video-trimmer/"><u>Updated Best Online YouTube Video Trimmer</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-add-font-effects-to-videos/"><u>Updated How to Add Font Effects to Videos</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713954225633-updated-whatre-the-best-alternatives-to-pexels-in-2024/"><u>Updated Whatre the Best Alternatives to Pexels, In 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-immediate-flagging-of-insta-de-following-events/"><u>[New] In 2024, Immediate Flagging of Insta De-Following Events</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>3 Ways to Fake GPS Without Root On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-edit-facebook-ecommerce-video-ads/"><u>How to Edit Facebook eCommerce Video Ads</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-slow-down-gif-building-an-understanding/"><u>How To Slow Down GIF Building an Understanding</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-note-30-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Infinix Note 30 Pro Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-rhythmic-resonance-the-ultimate-site-list-for-downloads/"><u>In 2024, Rhythmic Resonance The Ultimate Site List for Downloads</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-google-pixel-8-pro-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Google Pixel 8 Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-save-as-mp4-file-on-windows-movie-maker/"><u>New 2024 Approved How to Save As MP4 File on Windows Movie Maker?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-7-tips-to-create-teaching-videos/"><u>New 7 Tips to Create Teaching Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-x-by-drfone-ios/"><u>Remove Device Supervision From your iPhone X</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-ultimate-guide-to-shielded-posts-in-fb-communities/"><u>The Ultimate Guide to Shielded Posts in FB Communities</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-rated-ups-power-solutions-the-ultimate-guide/"><u>Top-Rated UPS Power Solutions: The Ultimate Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722875027608-understanding-the-503-service-unavailable-error-causes-and-solutions/"><u>Understanding the 503 Service Unavailable Error: Causes and Solutions</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-create-vintage-film-effect-1990s/"><u>Updated How to Create Vintage Film Effect 1990S</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-a-video-by-mouse-in-filmora/"><u>Updated How To Make a Video by Mouse in Filmora?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New Using Slow Motion in Adobe After Effects A Step-by-Step Procession for 2024
-date: 2024-12-13T18:28:56.031Z
-updated: 2024-12-15T20:52:48.982Z
+date: 2024-12-19T17:10:38.842Z
+updated: 2024-12-24T16:43:35.682Z
 tags: 
   - ai
   - animation videos
@@ -35,6 +35,10 @@ To create a perfect slow-motion video, you must consider several factors. In thi
 * **Sound Selection:** A slow-mo effect will look more convincing with a relevant sound design. You should search for slow-mo sound effects to generate attractive results. Also, ensure that the speed of sound effects with the video is managed smartly.
 * **Frame Rate:** A frame rate plays a vital role in creating slow-motion effect. Higher frame rates influence a smooth, **slow-motion effect**. Thus, use 240fps or higher to create a seamless slow-mo effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Creating Slow Motion Effect in Adobe After Effects
 
 [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) is a famous program used in post-production of video making. It contains many motion graphics effects to enhance a video. You can add animated shapes and text to the video with this tool. Many people use this platform to create VFX in their videos to create stunning videos. It also supports 2D and 3D elements to produce realistic effects.
@@ -50,7 +54,7 @@ Start by uploading a video on After Effects. Drag it to the timeline and edit it
 ![open time stretch feature](https://images.wondershare.com/filmora/article-images/2023/guide-to-use-slow-motion-after-effects-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step 2
@@ -60,7 +64,7 @@ On the Time Stretch window, make the “Stretch Factor” value to 250\. Once do
 ![change stretch factor](https://images.wondershare.com/filmora/article-images/2023/guide-to-use-slow-motion-after-effects-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step 3
@@ -68,6 +72,10 @@ On the Time Stretch window, make the “Stretch Factor” value to 250\. Once do
 For high-quality results, enable the “Frame Blending” option. Right-click on the layer and select “Frame Blending” from the pop-up menu. Here, you can select two options: Frame Mix and Pixel Motion. After the frame blending, you can render the final output. Select a suitable format and then export the video.
 
 ![introduce frame blending](https://images.wondershare.com/filmora/article-images/2023/guide-to-use-slow-motion-after-effects-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Quick and Unique Alternative: Making Slow Motion Effect with Wondershare Filmora
 
@@ -78,10 +86,6 @@ It contains a wide range of filters and overlays. It also allows you to apply tr
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Add Slow-Motion Effect With Filmora
 
@@ -94,7 +98,7 @@ Begin by launching this desktop tool on your PC. Choose the “Profile” icon f
 ![open new filmora project](https://images.wondershare.com/filmora/article-images/2023/guide-to-use-slow-motion-after-effects-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 2: Import Video to Filmora
@@ -108,10 +112,6 @@ On the main interface, press “Ctrl + I” from your keyboard. By doing so, you
 Now, select the video you have dragged to the timeline. Go to the right panel and choose the “Speed” tab. Look through the “Uniform Speed” tab and look for the “AI Frame Interpolation” option. By expanding this option, choose “Optical Flow.”
 
 ![access speed ramping open optical flow](https://images.wondershare.com/filmora/article-images/2023/guide-to-use-slow-motion-after-effects-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Step 4: Render and Export the Video
 
@@ -148,24 +148,17 @@ A **slow-motion effect** can highlight an action in a video clip. It can engage 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-craft-your-ideal-video-experience-on-vimeo-through-plan-selection/"><u>[New] Craft Your Ideal Video Experience on Vimeo Through Plan Selection</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-best-ios-video-editing-cameo-vs-filmorago/"><u>[Updated] In 2024, Best iOS Video Editing Cameo Vs. FilmoraGo</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-earning-strategies-for-successful-youtube-shorts-must-haves-earnings-prospects/"><u>2024 Approved Earning Strategies for Successful Youtube Shorts Must-Haves, Earnings Prospects</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-navigating-netizen-networks-examining-your-and-competing-channels/"><u>2024 Approved Navigating Netizen Networks Examining Your and Competing Channels</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-hps-affordable-amd-powered-notebook-does-it-meet-your-needs/"><u>Comprehensive Analysis of HP's Affordable AMD-Powered Notebook - Does It Meet Your Needs?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experience-high-quality-augmented-reality-on-a-budget-with-arcshells-ar-5-glasses-user-insights-and-evaluation/"><u>Experience High-Quality Augmented Reality on a Budget with ArcShell's AR- 5 Glasses – User Insights & Evaluation</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-if-you-want-an-app-to-make-videos-with-pictures-and-music-for-social-media-posts-we-are-with-the-best-apps-to-make-videos-with-music-and-pictures-for-20/"><u>New If You Want an App to Make Videos with Pictures and Music for Social Media Posts, We Are with the Best Apps to Make Videos with Music and Pictures for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-are-you-looking-for-a-video-format-converter-free-we-will-introduce-the-5-best-online-converters-and-also-the-5-best-video-format-converters-for/"><u>New In 2024, Are You Looking for a Video Format Converter Free? We Will Introduce the 5 Best Online Converters and Also the 5 Best Video Format Converters for PC</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-to-excel-at-using-adobe-premiere-pro-software-for-splitting-videos-and-audio-learn-about-splitting-a-video-and-audio-using-different/"><u>New In 2024, Do You Want to Excel at Using Adobe Premiere Pro Software for Splitting Videos and Audio? Learn About Splitting a Video and Audio Using Different Tools and Add a New Skill to Your Skillset with a Step-by-Step Guide in This Article</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-wondering-how-to-create-a-stunning-intro-video-with-kinemaster-here-are-the-simple-steps-to-use-kinemaster-to-design-your-intro-video-in-simple-/"><u>New In 2024, Wondering How to Create a Stunning Intro Video with KineMaster? Here Are the Simple Steps to Use KineMaster to Design Your Intro Video in Simple Steps</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-this-article-aims-to-show-you-how-to-improve-your-lighting-in-the-sun-for-2024/"><u>New This Article Aims to Show You How to Improve Your Lighting in the Sun for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-motorola-moto-g14-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Motorola Moto G14</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/transformative-techniques-mastering-lut-application-in-post-production/"><u>Transformative Techniques Mastering LUT Application in Post-Production</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-explore-the-potential-of-slow-motion-video-for-different-industries-read-this-guide-and-choose-the-best-slow-motion-camera-app-to-crea/"><u>Updated 2024 Approved Explore the Potential of Slow-Motion Video for Different Industries. Read This Guide and Choose the Best Slow-Motion Camera App to Create Stunning Videos</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-zoom-in-and-out-on-mac/"><u>Updated In 2024, How to Zoom In and Out on Mac</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-the-ultimate-guide-for-the-10-leading-slow-motion-cameras/"><u>Updated In 2024, The Ultimate Guide for the 10 Leading Slow-Motion Cameras</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-the-benefits-of-using-video-for-social-media-marketing-for-2024/"><u>Updated The Benefits Of Using Video For Social Media Marketing for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-2023-top-8-facebook-movie-downloaders/"><u>[New] In 2024, 2023 | Top 8 Facebook Movie Downloaders</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-yogo-profile-picture-guide-dimensions-in-mm-aspect-ratio-minutes/"><u>[New] In 2024, YoGo Profile Picture Guide Dimensions in Mm², Aspect Ratio, Minutes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-no-cost-windowsmac-solutions-for-movie-lovers/"><u>[Updated] 2024 Approved No-Cost Windows/Mac Solutions for Movie Lovers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-easy-way-to-edit-youtube-videos-in-imovie/"><u>[Updated] Easy Way to Edit YouTube Videos in iMovie</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Vivo X100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-if-you-want-to-replace-or-delete-the-sky-pictures-or-background-media-then-give-a-quick-read-to-this-article-for-effective-solutions/"><u>New In 2024, If You Want to Replace or Delete the Sky Pictures or Background Media, Then Give a Quick Read to This Article for Effective Solutions</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/top-strategies-for-efficiently-transferring-dvds-to-your-synology-or-qnap-network-attached-storage/"><u>Top Strategies for Efficiently Transferring DVDs to Your Synology or QNAP Network Attached Storage</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-confused-about-which-gopro-should-you-use-this-article-introduces-and-provides-a-detailed-overview-of-the-best-gopro-for-youtubers-you/"><u>Updated 2024 Approved Confused About Which GoPro Should You Use? This Article Introduces and Provides a Detailed Overview of the Best GoPro for YouTubers You Can Find in the Market for Vlogging</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-mask-tracking-with-adobe-premiere-pro-a-detailed-guide/"><u>Updated 2024 Approved Mask Tracking with Adobe Premiere Pro A Detailed Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-adobe-premiere-pro-power-user-master-these-20-shortcuts-for-2024/"><u>Updated Adobe Premiere Pro Power User Master These 20 Shortcuts for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713965405555-updated-unravel-the-creative-potential-of-adobe-after-effects-for-precise-motion-synchronization-learn-how-to-use-track-matte-and-tracking-with-a-simple-alt/"><u>Updated Unravel the Creative Potential of Adobe After Effects for Precise Motion Synchronization. Learn How to Use Track Matte and Tracking with a Simple Alternative for 2024</u></a></li>
 </ul></div>
 

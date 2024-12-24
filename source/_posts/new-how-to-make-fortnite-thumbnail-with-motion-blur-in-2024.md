@@ -1,7 +1,7 @@
 ---
 title: New How to Make Fortnite Thumbnail with Motion Blur, In 2024
-date: 2024-12-11T22:04:44.653Z
-updated: 2024-12-15T16:53:55.832Z
+date: 2024-12-22T16:10:24.942Z
+updated: 2024-12-24T18:23:59.226Z
 tags: 
   - ai
   - animation videos
@@ -21,17 +21,9 @@ In this article, we will work on the best methods to make a **Fortnite motion bl
 
 ![fortnite thumbnail with motion blur](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Add Motion Blur to Fortnite Thumbnail?
 
 There are many ways to add motion blur to Fortnite thumbnails, as stated above. In this article, we will be providing appropriate methods for users of all types. From smartphone to online and desktop solutions, this article has it all.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Way 1: Make Motion Blur Fortnite Thumbnail with Picsart (Smartphone)
 
@@ -47,15 +39,15 @@ Download and install Picsart on your phone and proceed to launch it. As it opens
 
 ![create a picsart account if needed](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step2 Proceed to Effects Tab After Importing Thumbnail
 
 You will have to import the created Fortnite thumbnail that is to be edited. After importing the thumbnail, select “Effects” from the bottom panel of the application.
 
 ![choose the effects tool](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step3 Add Motion Blur and Export
 
@@ -64,7 +56,7 @@ On the next screen, look for the "Blur" section from the bottom and find the "Mo
 ![apply the motion blur](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 2: Make Motion Blur Fortnite Thumbnail with Fotor (Online)
@@ -81,6 +73,10 @@ You must open the Fotor Photo Editor on your web browser. Then, proceed to impor
 
 ![upload the fortnite thumbnail](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2 Add Motion Blur on Photo
 
 In the “Adjust” tab, look for the “Blur” option for including motion blur within the photo. You can select “Circular” or “Linear” blur, per the requirements.
@@ -92,6 +88,10 @@ In the “Adjust” tab, look for the “Blur” option for including motion blu
 Continue to set the “Blur Intensity” and make changes by clicking “Apply.” If you wish to blur your background, consider using the “Background Blur” option in the list. Once the editing completes, click “Download” to export the Fortnite thumbnail.
 
 ![adjust the blur intensity](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Way 3: Make Motion Blur Fortnite Thumbnail with Photoshop (Desktop)
 
@@ -106,10 +106,6 @@ You might have come to know much about Photoshop. We will now see a guide explai
 You must start Adobe Photoshop on your desktop after downloading and installing it. Proceed to import the thumbnail that you wish to edit. Make the initial adjustments on the photo to continue adding motion blur.
 
 ![import the fortnite thumbnail](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step2 Create a Separate Object Layer
 
@@ -135,6 +131,10 @@ In this article, we will work on the best methods to make a **Fortnite motion bl
 
 ![fortnite thumbnail with motion blur](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -144,22 +144,21 @@ In this article, we will work on the best methods to make a **Fortnite motion bl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-leading-the-vr-charge-top-10-pc-headsets/"><u>[Updated] 2024 Approved Leading The VR Charge Top 10 PC Headsets</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-filmoras-quick-start-approach-for-youtube-trailers/"><u>[Updated] Filmora's Quick-Start Approach for YouTube Trailers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-get-verified-on-instagram-6-tips-to-grow-followers-for-2024/"><u>[Updated] How to Get Verified on Instagram 6 Tips to Grow Followers for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-tailor-made-tunes-for-chrome-companions/"><u>[Updated] Tailor-Made Tunes for Chrome Companions</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-exclusive-insights-into-making-memorable-instagram-movies/"><u>2024 Approved Exclusive Insights Into Making Memorable Instagram Movies</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-kid-safe-toy-quadcopters-unveiled/"><u>2024 Approved Top Kid-Safe Toy Quadcopters Unveiled</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-apple-iphone-12-pro-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile Apple iPhone 12 Pro online without SIM Card?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/is-your-local-rank-tracker-free-by-link-assistant-rank-tracker-local-rankings-local-rankings/"><u>Is your local Rank Tracker free?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-slow-motion-videos-are-taking-over-social-media-and-becoming-a-new-trend-read-this-article-if-you-want-to-learn-how-to-slow-down-video-in-/"><u>New 2024 Approved Slow Motion Videos Are Taking over Social Media and Becoming a New Trend. Read This Article if You Want to Learn How to Slow Down Video in After Effects</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-stunning-glitch-effect-in-photoshop-in-2024/"><u>New How to Make Stunning Glitch Effect in Photoshop, In 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-use-zoom-in-google-for-2024/"><u>New How to Use Zoom in Google for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-using-slow-motion-in-adobe-after-effects-a-step-by-step-procession/"><u>New In 2024, Using Slow Motion in Adobe After Effects A Step-by-Step Procession</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-silent-streams-on-twitch-solutions-included/"><u>Resolved: Fixes for Silent Streams on Twitch - Solutions Included</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-davinci-resolve-scopes-have-undergone-significant-improvements-find-out-how-to-use-these-scopes-and-improve-your-video-editing-skills-for-2024/"><u>Updated DaVinci Resolve Scopes Have Undergone Significant Improvements. Find Out How to Use These Scopes and Improve Your Video Editing Skills for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-stunning-glitch-effect-in-photoshop-for-2024/"><u>Updated How to Make Stunning Glitch Effect in Photoshop for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-use-zoom-in-google-for-2024/"><u>Updated How to Use Zoom in Google for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-the-availability-of-the-slow-motion-feature-on-the-iphone-is-often-debated-this-article-will-guide-you-on-how-to-slow-down-a-video-on-iphone-for-202/"><u>Updated The Availability of the Slow-Motion Feature on the iPhone Is Often Debated. This Article Will Guide You on How to Slow Down a Video on iPhone for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-top-screen-recording-software-showdown-obs-or-fraps-battle/"><u>[Updated] 2024 Approved Top Screen Recording Software Showdown OBS or Fraps Battle</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-playbook-to-create-compelling-youtube-educational-videos/"><u>[Updated] The Ultimate Playbook to Create Compelling YouTube Educational Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-art-of-subdivision-how-to-efficiently-incorporate-chapters-in-your-youtube-vids/"><u>2024 Approved The Art of Subdivision How to Efficiently Incorporate Chapters in Your YouTube Vids</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/americas-premier-pickleball-destinations-unveiled-meet-the-top-3-states-dominating-the-game/"><u>America's Premier Pickleball Destinations Unveiled - Meet the TOP 3 States Dominating the Game!</u></a></li>
+<li><a href="https://win-special.techidaily.com/entendiendo-el-formato-de-archivos-wav-una-guia-completa/"><u>Entendiendo El Formato De Archivos WAV: Una Guía Completa</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/exceptional-programs-for-professional-4k-video-capture-for-2024/"><u>Exceptional Programs for Professional 4K Video Capture for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Infinix GT 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-unlock-creative-potential-with-kinemaster-skills-plus-10-superior-alternatives/"><u>In 2024, Unlock Creative Potential with KineMaster Skills + 10 Superior Alternatives</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-like-clouds-or-sky-and-want-to-use-them-as-a-video-background-explore-this-article-to-learn-about-the-sky-change-video-in-filmora/"><u>New In 2024, Do You Like Clouds or Sky and Want to Use Them as a Video Background? Explore This Article to Learn About the Sky Change Video in Filmora</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-have-you-ever-used-premiere-pro-to-create-slow-motion-effects-this-article-will-provide-a-guide-on-producing-slow-motion-effects-by-using-adobe-/"><u>New In 2024, Have You Ever Used Premiere Pro to Create Slow-Motion Effects? This Article Will Provide a Guide on Producing Slow-Motion Effects by Using Adobe Premiere Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713965398886-new-unleash-the-power-of-video-slow-motion-with-wondershare-filmora-find-out-how-to-create-slow-motion-video-with-the-effective-speed-ramping-feature-on-fil/"><u>New Unleash the Power of Video Slow Motion with Wondershare Filmora. Find Out How to Create Slow Motion Video with the Effective Speed Ramping Feature on Filmora for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pairing-perfection-how-to-wirelessly-connect-your-samsung-soundbar-to-a-smart-tv/"><u>Pairing Perfection: How to Wirelessly Connect Your Samsung Soundbar to a Smart TV</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-want-to-excel-at-using-adobe-premiere-pro-software-for-splitting-videos-and-audio-learn-about-splitting-a-video-and-audio-using/"><u>Updated 2024 Approved Do You Want to Excel at Using Adobe Premiere Pro Software for Splitting Videos and Audio? Learn About Splitting a Video and Audio Using Different Tools and Add a New Skill to Your Skillset with a Step-by-Step Guide in This Article</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-explore-a-variety-of-inexpensive-camera-models-suitable-for-making-slow-motion-footage-without-compromising-quality/"><u>Updated In 2024, Explore a Variety of Inexpensive Camera Models Suitable for Making Slow-Motion Footage without Compromising Quality</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-stunning-glitch-effect-and-its-creation-guideline-for-premiere-pro-for-2024/"><u>Updated Stunning Glitch Effect and Its Creation Guideline for Premiere Pro for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713965669511-updated-want-to-learn-how-to-make-gaming-montage-videos-you-have-come-to-the-right-place-this-guide-will-teach-you-all-you-need-to-know-to-create-montages-o/"><u>Updated Want to Learn How to Make Gaming Montage Videos? You Have Come to the Right Place. This Guide Will Teach You All You Need to Know to Create Montages of Video Games and Share Them with Other Players for 2024</u></a></li>
 </ul></div>
 

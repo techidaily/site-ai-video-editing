@@ -1,7 +1,7 @@
 ---
 title: "The Tom's Tech Blog: Pioneering Discoveries in the World of Hardware"
-date: 2024-12-14T21:46:54.779Z
-updated: 2024-12-15T19:28:57.892Z
+date: 2024-12-19T17:04:56.745Z
+updated: 2024-12-24T16:09:04.999Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,21 +76,24 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-what-to-expect-from-an-investment-in-youtube-premium/"><u>[New] 2024 Approved What to Expect From an Investment in YouTube Premium</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-comprehensive-guide-to-top-hashtag-analysis-tools-fbtwitterinsta-for-2024/"><u>[Updated] Comprehensive Guide to Top Hashtag Analysis Tools (FB/Twitter/Insta) for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-artisans-realm-inside-youtubes-studio-space/"><u>[Updated] The Artisan’s Realm Inside YouTube's Studio Space</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/2024-approved-windows-10-webcam-recording-top-10-software-options/"><u>2024 Approved Windows 10 Webcam Recording Top 10 Software Options</u></a></li>
-<li><a href="https://win-blog.techidaily.com/connecting-and-controlling-your-playstation-5-dualsense-controller-with-windows-10/"><u>Connecting and Controlling Your PlayStation 5 DualSense Controller with Windows 10</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/instagram-tips-how-to-get-rid-of-the-suggestions-for-you-feature/"><u>Instagram Tips: How To Get Rid Of The 'Suggestions For You' Feature</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-macos-security-expert-tips-on-retrieving-lost-passwords-with-the-help-of-zdnet/"><u>Navigating macOS Security: Expert Tips on Retrieving Lost Passwords with the Help of ZDNet</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-are-you-searching-for-the-best-canon-lut-download-this-article-provides-the-best-recommendations-for-creating-the-best-professional-videos-for-2024/"><u>New Are You Searching for the Best Canon LUT Download? This Article Provides the Best Recommendations for Creating the Best Professional Videos for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-making-creative-and-engaging-youtube-videos-is-now-easy-with-several-tools-now-youtube-also-offers-you-its-own-built-in-video-editor-through-whi/"><u>New In 2024, Making Creative and Engaging Youtube Videos Is Now Easy with Several Tools. Now, YouTube Also Offers You Its Own Built-In Video Editor Through Which You Can Edit and Enhance the Video Quality</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-premiere-pro-slow-playback-issues-finding-the-best-solutions/"><u>New In 2024, Premiere Pro Slow Playback Issues Finding The Best Solutions</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-ways-to-merge-videos-in-handbrake-expectation-vs-reality-for-2024/"><u>New Ways to Merge Videos in HandBrake? Expectation Vs. Reality for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-0x0000011b-windows-crash-issue/"><u>Resolving 0X0000011B Windows Crash Issue</u></a></li>
-<li><a href="https://solve-news.techidaily.com/troubleshooting-common-issues-flawless-mp4-file-playback-on-your-samsung-lg-sony-or-other-smart-tvs/"><u>Troubleshooting Common Issues: Flawless MP4 File Playback on Your Samsung, LG, Sony or Other Smart TVs</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-learning-how-to-slow-down-a-video-on-iphone-properly/"><u>Updated In 2024, Learning How to Slow Down a Video on iPhone Properly</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-recording-slow-motion-videos-is-not-more-difficult-using-a-smartphone-learn-everything-from-how-to-record-slow-motion-video-and-edit-a-video/"><u>Updated In 2024, Recording Slow-Motion Videos Is Not More Difficult Using a Smartphone. Learn Everything From How to Record Slow-Motion Video and Edit a Video to Slow Down It</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-steps-to-make-a-neon-dance-effect-with-filmora/"><u>Updated In 2024, Steps to Make a Neon Dance Effect With Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gaming-history-told-by-top-video-makers-for-2024/"><u>[New] Gaming History Told by Top Video Makers for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-premium-apps-for-gaming-playback/"><u>[New] Premium Apps for Gaming Playback</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-method-to-record-your-youtube-watching-experience/"><u>[Updated] 2024 Approved Free Method to Record Your YouTube Watching Experience</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-views-the-power-of-synergistic-youtube-content-partnerships-for-2024/"><u>[Updated] Elevate Views The Power of Synergistic YouTube Content Partnerships for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-youtube-link-building-101-a-content-marketers-guide/"><u>2024 Approved YouTube Link-Building 101 A Content Marketer's Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-picks-the-leading-18-webcam-capture-apps-for-2024/"><u>Expert Picks The Leading 18 Webcam Capture Apps for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-12-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 12 Data From iOS iCloud? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-honor-v-purse-easily-by-drfone-android/"><u>In 2024, How To Unlock a Honor V Purse Easily?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Honor Magic V2? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/maximize-impact-priority-list-of-highlight-tweaks-for-2024/"><u>Maximize Impact Priority List of Highlight Tweaks for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-record-videos-with-a-phantom-high-speed-camera-in-this-guide-you-can-get-a-detailed-note-on-the-phantom-camera/"><u>New 2024 Approved Do You Want to Record Videos with a Phantom High-Speed Camera? In This Guide, You Can Get a Detailed Note on the Phantom Camera</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-leveraging-the-vectorscope-for-better-color-correction-in-premiere-pro/"><u>New 2024 Approved Leveraging the Vectorscope for Better Color Correction in Premiere Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-slow-motion-video-editors-to-look-out-for/"><u>New In 2024, Slow Motion Video Editors To Look Out For</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-the-ultimate-guide-for-the-10-leading-slow-motion-cameras-for-2024/"><u>New The Ultimate Guide for the 10 Leading Slow-Motion Cameras for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-learn-how-to-make-a-gaming-montage-guide-and-tips/"><u>Updated 2024 Approved Learn How to Make a Gaming Montage - Guide & Tips</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-a-newbie-across-youtube-want-to-know-who-the-best-vloggers-are-this-article-provides-you-with-the-best-vloggers-on-youtube/"><u>Updated In 2024, Are You a Newbie Across YouTube? Want to Know Who the Best Vloggers Are? This Article Provides You with the Best Vloggers on YouTube</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-put-a-background-on-a-green-screen/"><u>Updated In 2024, How to Put a Background on A Green Screen</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-looking-for-efficient-ways-to-create-a-slow-motion-video-read-the-article-for-reliable-solutions-that-provide-excellent-results-for-2024/"><u>Updated Looking for Efficient Ways to Create a Slow-Motion Video? Read the Article for Reliable Solutions that Provide Excellent Results for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-top-10-anime-movies-of-all-time-for-2024/"><u>Updated Top 10 Anime Movies of All Time for 2024</u></a></li>
 </ul></div>
 

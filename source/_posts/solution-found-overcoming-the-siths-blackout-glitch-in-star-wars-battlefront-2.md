@@ -1,7 +1,7 @@
 ---
 title: Solution Found! Overcoming the Sith's Blackout Glitch in Star Wars Battlefront 2
-date: 2024-12-09T18:34:37.809Z
-updated: 2024-12-15T17:16:55.885Z
+date: 2024-12-19T16:39:50.121Z
+updated: 2024-12-24T18:15:25.405Z
 tags:
   - win11
   - win10
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
  If Destiny 2 servers are working as intended, then the problem may be with your Internet connection. Read on for some fixes to configure your Internet settings and resolve the Error Centipede on Destiny 2.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Check your Internet connection
@@ -58,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
 
 If you still get the Error Centipede, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Choose NAT Type 1/Open NAT
 
  When you get the Error Centipede on Destiny 2, you’ll need to make sure your connection is not restricted and can connect to Destiny 2 servers. It’s recommended to set your NAT to Type 1/Open for a stable connection to Destiny servers.
@@ -65,7 +69,7 @@ If you still get the Error Centipede, try the next fix.
  NAT is short for Network Address Translation. Put simply, it operates on your router and allows a single IP address to represent all the devices on your private network. To configure your NAT settings, you’ll either need to enable UPnP or set up Port Forwarding. It’s usually recommended to**try only one method** , unless the first one doesn’t work for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Enable UPnP
@@ -77,8 +81,16 @@ If you still get the Error Centipede, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/run-cmd-1.jpg)
 3. Type in**ipconfig** , then press**Enter** . Copy the address of your**default gateway** as we’ll need them for the next steps.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfig-1.jpg)
 4. Now open your browser,**paste the default gateway address** you copied before into the address bar, and press**Enter** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. You’ll need to enter credentials (username and password) to log into your router’s control panel.
 6. Once you’re logged in, look for UPnP settings. The location may differ on different brands, you can refer to user manuals or turn to specialists for help.
@@ -98,7 +110,7 @@ You can now test a game to see if you still get the Centipede Error.
 3. Type in**ipconfig /all** , then press**Enter** . Record the information that we’re gonna use in the following steps:**IPv4 Address, Subnet Mask, Default Gateway, and DNS Servers** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfigall.jpg)
@@ -110,10 +122,6 @@ You can now test a game to see if you still get the Centipede Error.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/run-npca.cpl-.jpg)
 3. Click on the**Ethernet icon** , right-click it then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ethernet-properties-1.jpg)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
@@ -121,10 +129,6 @@ You can now test a game to see if you still get the Centipede Error.
 5. Select**Use the following IP address** and**Use the following DNS server addresses** . Fill in the information you recorded in Step 1:**IP address, Subnet mask, Default gateway, DNS servers** . Once complete, click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/assign-static-ip.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Step 3: Set up Port Forwarding
 
@@ -160,10 +164,6 @@ You can now test a game to see if you still get the Centipede Error.
 | Xbox 360              | 3074                                                                                          | 88, 3074                        |
 
  If setting up the NAT type doesn’t solve your problem, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Update your network adapter driver
 
@@ -224,18 +224,16 @@ You can now test a game to see if you still get the Centipede Error.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-10-kid-friendly-drone-recommendations/"><u>[New] 2024 Approved 10 Kid-Friendly Drone Recommendations</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-discovering-mobile-virtual-realitys-elite-selection-for-2024/"><u>[New] Discovering Mobile Virtual Reality's Elite Selection for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-optimizing-video-focus-in-virtual-collaboration-spaces-google-meet-edition/"><u>[New] In 2024, Optimizing Video Focus in Virtual Collaboration Spaces Google Meet Edition</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-free-extension-software-leaders-in-chromebook-video-recording-for-2024/"><u>[Updated] Free Extension Software Leaders in Chromebook Video Recording for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-mastering-3d-text-illustration-in-adobe-illustrator/"><u>[Updated] In 2024, Mastering 3D Text Illustration in Adobe Illustrator</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/conquer-ai-communication-elite-course-compilation/"><u>Conquer AI Communication: Elite Course Compilation</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-overview-of-perfect-moody-luts-for-vn-editor/"><u>New 2024 Approved Overview of Perfect Moody LUTs for VN Editor</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-top-list-the-best-slow-motion-video-editors-available/"><u>New 2024 Approved Top List The Best Slow Motion Video Editors Available</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-ever-wondered-about-the-similarity-you-bear-with-an-anime-character-if-you-have-not-yet-looked-into-this-exciting-aspect-of-motion-graphic-desig/"><u>New In 2024, Ever Wondered About the Similarity You Bear with an Anime Character? If You Have Not yet Looked Into This Exciting Aspect of Motion Graphic Design, You Can Very Well Break the Ice Here</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-change-aspect-ratio-in-imovie/"><u>New In 2024, How to Change Aspect Ratio in iMovie</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713965286817-new-tiktok-aspect-ratio-is-a-crucial-element-to-succeeding-in-the-tiktok-algorithm-here-are-some-suggestions-to-improve-video-quality-and-land-on-the-for-yo/"><u>New Tiktok Aspect Ratio Is a Crucial Element to Succeeding in the Tiktok Algorithm. Here Are some Suggestions to Improve Video Quality and Land on the for You Page for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/perfect-your-iphone-pics-with-these-10-best-camera-apps-x-8/"><u>Perfect Your iPhone Pics with These 10 Best Camera Apps (X, 8)</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-using-ai-to-replace-skies-finding-the-right-methods/"><u>Updated 2024 Approved Using AI to Replace Skies Finding the Right Methods</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-crafting-dynamic-image-ensembles-with-precision-for-2024/"><u>[Updated] Crafting Dynamic Image Ensembles with Precision for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-precision-in-photos-iphone-apps-for-accurate-cropping/"><u>[Updated] Precision in Photos IPhone Apps for Accurate Cropping</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/cineblend-app-seamless-video-mashups-for-instagram/"><u>CineBlend App Seamless Video Mashups for Instagram</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oneplus-ace-2-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change OnePlus Ace 2 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-poco-m6-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Poco M6 Pro 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-14-plus-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-did-you-know-cameras-have-a-built-in-feature-to-shoot-slow-motion-clips-this-article-is-about-using-sony-sandq-to-capture-slow-motion-scen/"><u>New 2024 Approved Did You Know Cameras Have a Built-In Feature to Shoot Slow-Motion Clips? This Article Is About Using Sony S&Q to Capture Slow-Motion Scenes</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-let-us-talk-about-the-famous-photoshop-and-most-commonly-used-glitch-effect-the-article-understudy-will-discuss-in-detail-about-photo-glit/"><u>New 2024 Approved Let Us Talk About the Famous Photoshop and Most Commonly Used Glitch Effect. The Article Understudy Will Discuss in Detail About Photo Glitch Effect</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-toys-for-young-gamers-console-and-peripheral-picks/"><u>Top Toys for Young Gamers: Console and Peripheral Picks</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-want-to-use-luts-in-final-cut-pro-there-are-many-free-luts-for-fcpx-available-that-you-can-use-using-luts-you-can-create-profes/"><u>Updated 2024 Approved Do You Want to Use LUTs in Final Cut Pro? There Are Many Free LUTs for FCPX Available that You Can Use. Using LUTs, You Can Create Professional-Looking Content</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713963128418-updated-green-screen-is-a-widely-used-effect-in-after-effects-many-professional-photographers-use-it-to-make-creative-video-effects-this-guide-will-show-you/"><u>Updated Green Screen Is a Widely Used Effect in After Effects. Many Professional Photographers Use It to Make Creative Video Effects. This Guide Will Show You How to Use Green Screen to Videos in After Effects for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Master Premiere Pro Custom Sequence Presets
-date: 2024-12-12T16:12:37.362Z
-updated: 2024-12-15T16:17:26.598Z
+date: 2024-12-18T17:47:30.371Z
+updated: 2024-12-24T18:14:08.184Z
 tags: 
   - ai
   - animation videos
@@ -20,7 +20,7 @@ You've probably heard of Adobe Premiere Pro – it's a top-tier video editing so
 It allows users to save specific settings for sequence attributes like frame rate, resolution, and audio settings. Instead of reconfiguring these settings for each new project, a custom sequence preset lets you jump right into editing. Now, how do you create one? Keep reading!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Create a Custom Sequence in Premiere Pro
@@ -28,12 +28,16 @@ It allows users to save specific settings for sequence attributes like frame rat
 Creating a custom sequence is like tailoring a shirt to fit you perfectly. Here's a step-by-step guide to help you do just that:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: Displays the New Sequence Window
 
 Begin by launching Adobe Premiere Pro. Once opened, navigate to the top menu and select **_File_ \> _New_ \> _Sequence_**. This will open up the New Sequence window, where all the magic happens!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2: Change the Editing Mode to Custom in the Settings Panel
 
@@ -50,7 +54,7 @@ Here, you'll find the **'Editing Mode'** dropdown menu. By default, it's set to 
 5. **Audio Settings:** Here, you can configure the sample rate, among other things. 48000Hz is standard for video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3: Give the New Preset a Name and Save It
@@ -60,10 +64,6 @@ Once you've customized the settings to your satisfaction, it's time to save this
 A pop-up window will show up, requesting you to provide a name for your new preset. Choose something descriptive so you can easily recognize it later. Once named, click **'OK'**.
 
 Your custom sequence preset is now saved and will appear under the **'Custom'** folder in the **'Sequence Presets'** tab.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Why Custom Sequence Presets are Essential for Efficient Editing
 
@@ -78,7 +78,7 @@ As you delve deeper into video editing, you'll begin to appreciate the little th
 Incorporating this practice into your editing routine might initially seem trivial, but its benefits compound with time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Summary
@@ -102,22 +102,19 @@ It allows users to save specific settings for sequence attributes like frame rat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-merging-music-and-messages-spotifydiscord-connection/"><u>[New] 2024 Approved Merging Music and Messages Spotify/Discord Connection</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-jokeframe-creations-punpicture-studio/"><u>[New] In 2024, JokeFrame Creations PunPicture Studio</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-ideal-app-selection-top-10-tools-for-instagram-reel-excellence-for-2024/"><u>[Updated] Ideal App Selection Top 10 Tools for Instagram Reel Excellence for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-evolved-2023-samsung-bd-j5900-a-deep-dive/"><u>2024 Approved The Evolved 2023 Samsung BD-J5900 A Deep Dive</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-seamlessly-integrate-split-goprodjicanonsony-video-files-into-one-sequence/"><u>How to Seamlessly Integrate Split GoPro/DJI/Canon/Sony Video Files Into One Sequence</u></a></li>
-<li><a href="https://fox-that.techidaily.com/lost-iphone-shots-8-fixes-for-finding-them-after-a-delete/"><u>Lost iPhone Shots? 8 Fixes for Finding Them After a Delete</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadget-selection-with-toms-hardware-essentials/"><u>Mastering Gadget Selection with Tom's Hardware Essentials</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-experiment-with-various-sky-backgrounds-for-your-footage-learn-about-sky-replacement-after-effects-in-this-article-with-a-s/"><u>New 2024 Approved Do You Want to Experiment with Various Sky Backgrounds for Your Footage? Learn About Sky Replacement After Effects in This Article with a Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-knowing-all-ways-to-slow-down-video-with-adobe-premiere-pro/"><u>New 2024 Approved Knowing All Ways To Slow Down Video With Adobe Premiere Pro</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-learn-how-to-make-a-gaming-montage-guide-and-tips/"><u>New 2024 Approved Learn How to Make a Gaming Montage - Guide & Tips</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-discover-the-essential-steps-for-editing-a-music-video-in-this-guide-learn-about-aspect-ratio-and-the-first-cut-process-to-create-a-visually-cap/"><u>New In 2024, Discover the Essential Steps for Editing a Music Video in This Guide. Learn About Aspect Ratio and the First Cut Process to Create a Visually Captivating Video</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-put-a-background-on-a-green-screen/"><u>New In 2024, How to Put a Background on A Green Screen</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-mask-tracking-is-believed-to-be-a-helpful-procedure-for-marking-proper-areas-in-videos-learn-how-to-perform-premiere-pro-mask-tracking-in-this-g/"><u>New In 2024, Mask Tracking Is Believed to Be a Helpful Procedure for Marking Proper Areas in Videos. Learn How to Perform Premiere Pro Mask Tracking in This Guide</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-the-art-of-fashioning-slow-motions-has-remained-popular-ever-since-read-this-article-to-learn-how-to-do-slow-mo-in-capcut-and-other-powerful-too/"><u>New In 2024, The Art of Fashioning Slow Motions Has Remained Popular Ever Since. Read This Article to Learn How to Do Slow-Mo in CapCut and Other Powerful Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-everyday-living-through-chatgpt-integration/"><u>Transform Everyday Living Through ChatGPT Integration</u></a></li>
-<li><a href="https://article-posts.techidaily.com/unlock-streamlabs-potential-with-your-mac-and-obs-for-2024/"><u>Unlock Streamlabs' Potential with Your Mac & OBS for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-want-to-add-a-slow-mo-effect-in-your-videos-in-this-guide-we-will-discuss-how-to-add-slow-motion-effects-in-the-videos-with-aft/"><u>Updated 2024 Approved Do You Want to Add a Slow-Mo Effect in Your Videos? In This Guide, We Will Discuss How to Add Slow-Motion Effects in the Videos with After Effects in an Efficient Way</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-leading-drones-for-superior-gopro-camera-integration/"><u>[Updated] In 2024, Leading Drones for Superior GoPro Camera Integration</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-mobile-filmmakers-blueprint-crafting-viral-thumbnails-for-youtubes-for-2024/"><u>[Updated] The Mobile Filmmaker's Blueprint Crafting Viral Thumbnails for YouTubes for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-explore-and-evaluate-top-7-free-android-adblockers-unveiled/"><u>2024 Approved Explore & Evaluate Top 7 Free Android AdBlockers Unveiled</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/addressing-video-warping-after-downloading-win10-update/"><u>Addressing VIDEO Warping After Downloading Win10 Update</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-x100-pro-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo X100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-best-4-love-video-maker-with-music-for-2024/"><u>New Best 4 Love Video Maker with Music for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-be-a-good-podcast-host-for-2024/"><u>New How to Be a Good Podcast Host for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-speed-up-video-with-lightworks-video-editor-for-2024/"><u>New How To Speed Up Video With Lightworks Video Editor for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/plain-gpt-or-gpt-with-browser-integration-make-the-choice-now/"><u>Plain GPT or GPT With Browser Integration? Make the Choice Now</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-10-best-spy-watches-for-your-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>Top 10 Best Spy Watches For your Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-snapping-pc-screenshots-like-a-pro/"><u>Ultimate Tutorial: Snapping PC Screenshots Like a Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-a-guide-to-motion-tracking-using-the-best-video-editors-for-2024/"><u>Updated A Guide To Motion Tracking Using The Best Video Editors for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-apply-video-filters-mobile-and-desktop-for-2024/"><u>Updated How to Apply Video Filters Mobile and Desktop for 2024</u></a></li>
 </ul></div>
 

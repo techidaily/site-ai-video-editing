@@ -1,7 +1,7 @@
 ---
 title: In-Depth Look at AmazonBasics' Affordable Flat Antenna for Catching Free Broadcasts
-date: 2024-12-10T19:49:01.644Z
-updated: 2024-12-15T17:18:52.464Z
+date: 2024-12-19T17:49:36.989Z
+updated: 2024-12-24T16:37:52.338Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Look at AmazonBasics' Affordable Flat Antenna for Catching Free Broadcasts
@@ -38,7 +38,7 @@ Lifewire / Zach Sweat
 4.2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Nintendo Switch Lite
@@ -46,7 +46,7 @@ Lifewire / Zach Sweat
 ![Nintendo Switch Lite](https://www.lifewire.com/thmb/ral6yRtba1CN2dg2W4Log4OcjAg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Nintendo-Switch-Lite-1-66fc3642c4d448b18f4a0775c059247d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Zach Sweat
@@ -75,11 +75,11 @@ Lifewire / Zach Sweat
 
 ![Nintendo Switch Lite](https://www.lifewire.com/thmb/EUqklfDyxuB1ye8-DBboDrjzkUw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo-Switch-Lite-2-225f5107c7b74f159afecba8c3f6174a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Zach Sweat
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Design: Cute and compact**
 
@@ -110,7 +110,7 @@ Lifewire / Zach Sweat
  Lifewire / Zach Sweat
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Setup Process: Hit the switch**
@@ -177,7 +177,15 @@ Lifewire / Zach Sweat
 
 ![Nintendo Switch Lite](https://www.lifewire.com/thmb/KxMaFgooi4rm3qbImmLKatuUtVI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo-Switch-Lite-4-ef84dbbbde3d48ff97515e5c6b9981a4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Zach Sweat
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Software: Still a bit drab, but smooth and snappy**
 
@@ -211,10 +219,6 @@ Lifewire / Zach Sweat
 
  Lastly, the battery is internal, so you can't easily pop in a new one when it starts to degrade. While I haven't seen any degradation with mine, it'll happen at some point. When it does, sending it to Nintendo for repair is the only real option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Price: Inexpensive console gaming in your hands**
 
  It’s no surprise that since Nintendo removed many features from the Switch to create the Lite model, the price has also decreased considerably. The Switch is already at a pretty sweet price of $300, so how does the Lite stack up?
@@ -222,10 +226,6 @@ Lifewire / Zach Sweat
  The Switch Lite has an MSRP of $200, which is a pretty good value. It plays all the same games as the original Switch at a significantly lower price and is much more portable. You do lose the ability to dock it; for some people, that feature will be worth the extra $100.
 
 ![Nintendo Switch Lite](https://www.lifewire.com/thmb/7XA6hgAK2B4hDSlWdmB8VQddrjw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo-Switch-Lite-7-Comparison-44dcf88ec51247a2b0756445a3c7884d.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -260,7 +260,7 @@ Lifewire / Zach Sweat
 [Sony PlayStation 5 Review](https://www.lifewire.com/sony-playstation-5-review-5088394)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -295,20 +295,16 @@ Lifewire / Zach Sweat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-insta-stories-enhancing-background-blur-technique/"><u>[New] 2024 Approved Insta Stories Enhancing Background Blur Technique</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-from-basic-to-brilliant-a-complete-insta-cover-photo-course/"><u>[New] In 2024, From Basic to Brilliant A Complete Insta Cover Photo Course</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-emulating-old-hollywood-style-in-modern-videos/"><u>[Updated] In 2024, Emulating Old Hollywood Style in Modern Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-turning-viewers-into-valuables-a-creators-guide-to-youtube-monetization/"><u>[Updated] Turning Viewers Into Valuables A Creator’s Guide to YouTube Monetization</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tips-for-a-seamless-csgo-opening-w11/"><u>Essential Tips for a Seamless CS:GO Opening W11</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/learn-eight-simple-steps-that-will-allow-you-to-create-a-stunning-text-reveal-animation-in-filmora-simple-yet-very-professional/"><u>Learn Eight Simple Steps that Will Allow You to Create a Stunning Text Reveal Animation in Filmora. Simple yet Very Professional</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-6-5-ways-to-get-into-a-locked-iphone-6-drfone-by-drfone-ios/"><u>Locked Out of iPhone 6? 5 Ways to get into a Locked iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://discover-able.techidaily.com/mastering-client-pc-oversight-techniques-for-seamless-control/"><u>Mastering Client PC Oversight: Techniques for Seamless Control</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-achieve-gopro-slow-motion-with-quality/"><u>New 2024 Approved How to Achieve GoPro Slow Motion With Quality</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-want-to-add-a-motion-blur-effect-to-your-photos-this-step-by-step-tutorial-will-show-you-how-to-use-gimp-software-to-get-the-effect-you-want/"><u>New In 2024, Want to Add a Motion Blur Effect to Your Photos? This Step-by-Step Tutorial Will Show You How to Use GIMP Software to Get the Effect You Want</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-the-turing-test-and-its-beatability/"><u>Understanding The Turing Test & Its Beatability</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-slow-motion-videos-are-taking-over-social-media-and-becoming-a-new-trend-read-this-article-if-you-want-to-learn-how-to-slow-down-video-in-af/"><u>Updated In 2024, Slow Motion Videos Are Taking over Social Media and Becoming a New Trend. Read This Article if You Want to Learn How to Slow Down Video in After Effects</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-step-by-step-guide-to-storyboard/"><u>Updated In 2024, Step-by-Step Guide to Storyboard</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-want-to-add-a-motion-blur-effect-to-your-photos-this-step-by-step-tutorial-will-show-you-how-to-use-gimp-software-to-get-the-effect-you-want/"><u>Updated In 2024, Want to Add a Motion Blur Effect to Your Photos? This Step-by-Step Tutorial Will Show You How to Use GIMP Software to Get the Effect You Want</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-using-vn-editor-to-add-luts-for-video-editing-for-2024/"><u>Updated Using VN Editor To Add Luts for Video Editing for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-sound-loads-in-inshot-editing-software/"><u>[New] Mastering Sound Loads in InShot Editing Software</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/can-i-use-sabrent-ssds-with-pre-installed-disk-cloning-tools/"><u>Can I Use Sabrent SSDs with Pre-Installed Disk Cloning Tools?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cyberpunk-2077-not-utilizing-graphics-card-in-windows-10-heres-how-to-fix-it/"><u>Cyberpunk 2077 Not Utilizing Graphics Card in Windows 10? Here’s How to Fix It</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-honor-x7b-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Honor X7b without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-recording-slow-motion-videos-is-not-more-difficult-using-a-smartphone-learn-everything-from-how-to-record-slow-motion-video-and-edit-a-video-to-/"><u>New In 2024, Recording Slow-Motion Videos Is Not More Difficult Using a Smartphone. Learn Everything From How to Record Slow-Motion Video and Edit a Video to Slow Down It</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-slow-motion-videos-are-taking-over-social-media-and-becoming-a-new-trend-read-this-article-if-you-want-to-learn-how-to-slow-down-video-in-after-/"><u>New In 2024, Slow Motion Videos Are Taking over Social Media and Becoming a New Trend. Read This Article if You Want to Learn How to Slow Down Video in After Effects</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-top-ways-to-make-fast-motion-video-on-iphone-solved-for-2024/"><u>New Top Ways to Make Fast Motion Video on iPhone Solved for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/professional-response/"><u>Professional Response</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-removing-images-from-your-facebook-profile/"><u>Step-by-Step Guide: Removing Images From Your Facebook Profile</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713961457110-updated-are-you-interested-in-the-best-luts-do-you-want-to-enhance-your-photos-and-images-with-high-end-quality-then-quickly-step-into-this-article-for-mind/"><u>Updated Are You Interested in the Best LUTs ? Do You Want to Enhance Your Photos and Images with High-End Quality? Then, Quickly Step Into This Article for Mind-Blowing Facts on It for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-the-benefits-of-using-video-for-social-media-marketing/"><u>Updated In 2024, The Benefits Of Using Video For Social Media Marketing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "World's First AMD Advantage Mini PC: Introducing the AtomMan G7 Pt with R9 7945HX & RX 760E XT Graphics"
-date: 2024-12-13T20:14:14.314Z
-updated: 2024-12-15T17:02:34.422Z
+date: 2024-12-19T18:00:57.702Z
+updated: 2024-12-24T17:21:34.828Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -62,24 +62,20 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-fixed-eclipsed-youtube-short-video/"><u>[New] 2024 Approved Fixed Eclipsed YouTube Short Video</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-analyzing-the-latest-in-facetune-a-comprehensive-review/"><u>[New] Analyzing the Latest in Facetune - A Comprehensive Review</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-efficiently-shifting-videos-youtube-to-dailymotion-strategy/"><u>[Updated] In 2024, Efficiently Shifting Videos YouTube to Dailymotion Strategy</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-is-itops-performance-worth-your-investment-in-2024/"><u>[Updated] Is ITop's Performance Worth Your Investment, In 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-stuck-hp-keyboard-keys-instantly-troubleshooting-guide/"><u>Fix Stuck HP Keyboard Keys Instantly - Troubleshooting Guide</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-realme-c67-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Realme C67 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-infinix-hot-30-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Infinix Hot 30 5G Devices</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c50-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Poco C50 Phone without Google Account?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-know-that-you-can-apply-different-luts-and-create-your-own-there-are-many-lut-online-and-offline-generators-that-you-can-use-to-create-yo/"><u>New In 2024, Do You Know that You Can Apply Different LUTs and Create Your Own? There Are Many LUT Online and Offline Generators that You Can Use to Create Your LUT</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-leveraging-the-vectorscope-for-better-color-correction-in-premiere-pro/"><u>New In 2024, Leveraging the Vectorscope for Better Color Correction in Premiere Pro</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/onekey-di-aomei-la-superiore-sostituzione-del-lenovo-onekey-recovery-per-il-tuo-dispositivo/"><u>OneKey Di AOMEI: La Superiore Sostituzione Del Lenovo OneKey Recovery per Il Tuo Dispositivo</u></a></li>
-<li><a href="https://win11.techidaily.com/the-silent-key-syndrome-cure-for-muted-mouse-clicks/"><u>The Silent Key Syndrome: Cure for Muted Mouse Clicks</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-are-you-wondering-how-to-slow-down-videos-or-speed-them-up-here-are-three-ways-to-do-it-speed-up-or-slow-down-your-videos-on-pc-online/"><u>Updated 2024 Approved Are You Wondering How to Slow Down Videos or Speed Them up, Here Are Three Ways to Do It. Speed up or Slow Down Your Videos on PC, Online, and Phone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-being-an-after-effects-editor-you-often-find-yourself-the-need-to-add-motion-blur-after-effects-this-guide-has-got-you-covered-follow-/"><u>Updated 2024 Approved Being an After Effects Editor, You Often Find Yourself the Need to Add Motion Blur After Effects. This Guide Has Got You Covered. Follow to Find Out How to Add Motion Blur in After Effects</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-want-to-replace-the-sky-in-your-media-read-the-article-to-learn-how-to-change-the-sky-app-on-your-mobile-phone/"><u>Updated 2024 Approved Do You Want to Replace the Sky in Your Media? Read the Article to Learn How to Change the Sky App on Your Mobile Phone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-zoom-in-discord/"><u>Updated 2024 Approved How to Zoom in Discord</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-what-is-the-best-mp4-cutters-for-youtubers-on-mac/"><u>Updated 2024 Approved What Is the Best MP4 Cutters for YouTubers on Mac?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-can-you-enhance-your-drone-footage-with-cinematic-drone-luts-this-article-discusses-top-drone-luts-recommendations-to-simplify-video-editing-for-202/"><u>Updated Can You Enhance Your Drone Footage with Cinematic Drone LUTs? This Article Discusses Top Drone LUTs Recommendations to Simplify Video Editing for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-learn-how-to-make-a-gaming-montage-guide-and-tips/"><u>Updated In 2024, Learn How to Make a Gaming Montage - Guide & Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-traffic-boost-with-the-help-of-cookiebot/"><u>Automated Traffic Boost with the Help of Cookiebot</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-guidance-on-modern-devices-by-toms-electronics-hub/"><u>Expert Guidance on Modern Devices by Tom's Electronics Hub</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-huawei-nova-y71-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Huawei Nova Y71 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-honor-x50iplus-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Honor X50i+ Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-zoom-in-and-out-on-mac/"><u>New 2024 Approved How to Zoom In and Out on Mac</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-are-you-looking-to-create-some-impressive-slow-motion-video-content-get-this-done-with-some-impressive-android-slow-motion-video-apps-for-2024/"><u>New Are You Looking to Create some Impressive Slow-Motion Video Content? Get This Done with some Impressive Android Slow Motion Video Apps for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-split-videos-in-premier-pro-for-2024/"><u>New How To Split Videos in Premier Pro for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-understanding-the-dynamics-underlying-in-ai-slow-motion-editing/"><u>New In 2024, Understanding the Dynamics Underlying in AI Slow Motion Editing</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-want-to-find-a-good-camera-for-youtube-this-article-brings-you-some-of-the-best-options-of-different-varieties-for-your-channel-for-2024/"><u>New Want to Find a Good Camera for YouTube? This Article Brings You some of the Best Options of Different Varieties for Your Channel for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/premier-videochat-services-for-team-meetings/"><u>Premier Videochat Services for Team Meetings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-the-full-potential-of-zoom-on-your-google-meet-calls/"><u>Unlocking the Full Potential of Zoom on Your Google Meet Calls</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/upcoming-release-everything-you-need-to-know-about-the-next-gen-airpods-and-how-to-secure-your-preorder-today/"><u>Upcoming Release: Everything You Need to Know About the Next-Gen AirPods & How to Secure Your Preorder Today</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-are-you-eager-to-know-how-to-create-an-adjustment-layer-in-premiere-pro-this-article-will-highlight-the-significance-of-adding-an-adju/"><u>Updated 2024 Approved Are You Eager to Know How to Create an Adjustment Layer in Premiere Pro? This Article Will Highlight the Significance of Adding an Adjustment Layer in Premiere Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-learning-how-to-slow-down-a-video-on-iphone-properly/"><u>Updated 2024 Approved Learning How to Slow Down a Video on iPhone Properly</u></a></li>
 </ul></div>
 

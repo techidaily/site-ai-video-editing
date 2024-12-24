@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Slow Motion Videos Are Taking over Social Media and Becoming a New Trend. Read This Article if You Want to Learn How to Slow Down Video in After Effects
-date: 2024-12-12T21:55:59.231Z
-updated: 2024-12-15T19:44:37.943Z
+date: 2024-12-22T17:04:24.286Z
+updated: 2024-12-24T19:20:35.162Z
 tags: 
   - ai
   - animation videos
@@ -26,7 +26,7 @@ If you also want to experiment with this video aspect, then you're at the right 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: A Complete Overview of Adobe After Effects
@@ -53,13 +53,13 @@ Upon learning about After Effects and its functionalities, let’s move forward.
 
 ![change stretch factor](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** To bring precision to your slow-mo, you need to adjust the frame rate of the video. For this, right-click on the timeline and go to "Frame Blending > Pixel Motion" option. Afterward, play your video from start to end and observe the changes.
 
 ![look for pixel motion](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Alternative: Slowing Down Video in Wondershare Filmora with Clarity
 
@@ -95,7 +95,7 @@ Once the media is in the timeline, select it and right-click on it. From the opt
 ![look for uniform speed settings](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step 3Adjust the Speed and Preview
@@ -103,10 +103,6 @@ Once the media is in the timeline, select it and right-click on it. From the opt
 A settings panel will appear on the right side of the screen; navigate towards it. Under the "Uniform Speed" tab, adjust the "Speed" slider to slow down your video. If its value decreases, your video will become slow motion. Further, hit the play button to preview and export your slow-mo video.
 
 ![adjust speed and execute](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Method 2\. Step-by-Step Guide to Slow a Video Using Optical Flow Option
 
@@ -119,7 +115,7 @@ After importing media and bringing it to the timeline panel, select it. Then, na
 ![look for speed ramping section](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step 2Access the AI Frame Interpolation
@@ -128,6 +124,10 @@ Continue to select a specific preset for speed ramping. As you select one, locat
 
 ![set preset and change frame interpolation](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 3Render Preview for Results
 
 Once you have enabled this option, navigate towards the timeline toolbar. Search and select the "Render Preview" option from the given icons. Play the video to see the results, adjust, and click the "Export" button to download.
@@ -135,7 +135,7 @@ Once you have enabled this option, navigate towards the timeline toolbar. Search
 ![render preview and export](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-13.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Edit Beyond Basic with AI Video Editing Features of Filmora
@@ -177,14 +177,17 @@ However, we recommend Wondershare Filmora as it is a more accessible alternative
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-optimizing-display-youtubes-zoom-mastery-for-2024/"><u>[New] Optimizing Display YouTube's Zoom Mastery for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/26-inbox-perfection-free-ai-email-assistance-at-its-peak/"><u>26 Inbox Perfection: Free AI Email Assistance at Its Peak</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/ballot-box-battles-prime-voting-challenge-platforms/"><u>Ballot Box Battles Prime Voting Challenge Platforms</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713950353021-if-you-want-to-prompt-your-ecommerce-business-in-facebook-then-using-facebook-video-ads-is-one-of-the-effective-methods-this-post-will-show-you-how-to-edit-/"><u>If You Want to Prompt Your eCommerce Business in Facebook, Then Using Facebook Video Ads Is One of the Effective Methods. This Post Will Show You How to Edit Videos for Facebook Advertisement for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-slow-down-a-video-on-iphone-and-android-the-easy-way/"><u>New In 2024, How to Slow Down a Video on iPhone and Android The Easy Way</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/solution-for-qualcomm-atheros-enabling-bluetooth-driver-performance-in-windows-press-release/"><u>Solution for Qualcomm Atheros: Enabling Bluetooth Driver Performance in Windows Press Release</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-step-by-step-to-split-clips-in-vlc-for-2024/"><u>Updated Step by Step to Split Clips in VLC for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-gamers-edition-obs-studio-streaming/"><u>2024 Approved Gamers' Edition OBS Studio Streaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-prompt-injection-in-ai-understanding-its-working-mechanism/"><u>Decoding Prompt Injection in AI - Understanding Its Working Mechanism</u></a></li>
+<li><a href="https://fox-info.techidaily.com/embrace-audio-wonders-streaming-podcasts-with-an-iphone-for-2024/"><u>Embrace Audio Wonders Streaming Podcasts with an iPhone for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-premiere-pro-slow-playback-issues-finding-the-best-solutions/"><u>New In 2024, Premiere Pro Slow Playback Issues Finding The Best Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimize-your-play-eradicate-crashes-and-stuttering-in-serious-sam-4-for-windows/"><u>Optimize Your Play: Eradicate Crashes and Stuttering in Serious Sam 4 for Windows</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/panoramic-filmmaking-made-easy-9-key-techniques-for-2024/"><u>Panoramic Filmmaking Made Easy 9 Key Techniques for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/perfect-pair-codegpts-integration-into-visual-studio-code/"><u>Perfect Pair: CodeGPT's Integration Into Visual Studio Code</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-choosing-a-garmin-forerunner/"><u>The Ultimate Guide to Choosing a Garmin Forerunner</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-do-you-want-to-record-videos-with-a-phantom-high-speed-camera-in-this-guide-you-can-get-a-detailed-note-on-the-phantom-camera-for-2024/"><u>Updated Do You Want to Record Videos with a Phantom High-Speed Camera? In This Guide, You Can Get a Detailed Note on the Phantom Camera for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-learning-how-to-slow-down-a-video-on-iphone-properly/"><u>Updated In 2024, Learning How to Slow Down a Video on iPhone Properly</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-recording-slow-motion-videos-is-not-more-difficult-using-a-smartphone-learn-everything-from-how-to-record-slow-motion-video-and-edit-a-video/"><u>Updated In 2024, Recording Slow-Motion Videos Is Not More Difficult Using a Smartphone. Learn Everything From How to Record Slow-Motion Video and Edit a Video to Slow Down It</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-steps-to-make-a-neon-dance-effect-with-filmora/"><u>Updated In 2024, Steps to Make a Neon Dance Effect With Filmora</u></a></li>
 </ul></div>
 

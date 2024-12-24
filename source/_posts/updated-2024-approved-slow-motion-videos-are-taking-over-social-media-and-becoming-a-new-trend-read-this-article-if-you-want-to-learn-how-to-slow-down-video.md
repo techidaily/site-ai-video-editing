@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Slow Motion Videos Are Taking over Social Media and Becoming a New Trend. Read This Article if You Want to Learn How to Slow Down Video in After Effects
-date: 2024-12-12T21:22:02.849Z
-updated: 2024-12-15T17:33:05.676Z
+date: 2024-12-17T19:24:47.285Z
+updated: 2024-12-24T18:35:15.093Z
 tags: 
   - ai
   - animation videos
@@ -38,7 +38,7 @@ The software has undergone multiple updates since its creation. With each versio
 * **Timeline Editing:** To see how professional software is, see if it has a timeline panel. Timeline editing is one of the functions that bring accuracy and professionalism. You can cut, align, apply effects, transitions, and much more on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: A Guide to Slow Down Video in Adobe After Effects During Editing
@@ -53,16 +53,12 @@ Upon learning about After Effects and its functionalities, let’s move forward.
 
 ![change stretch factor](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** To bring precision to your slow-mo, you need to adjust the frame rate of the video. For this, right-click on the timeline and go to "Frame Blending > Pixel Motion" option. Afterward, play your video from start to end and observe the changes.
 
 ![look for pixel motion](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Alternative: Slowing Down Video in Wondershare Filmora with Clarity
@@ -74,6 +70,10 @@ Wondershare Filmora is an AI-driven software that makes task achievement accessi
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Methods to Slow Down Video in Filmora
 
@@ -98,15 +98,15 @@ Once the media is in the timeline, select it and right-click on it. From the opt
 
 ![look for uniform speed settings](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 3Adjust the Speed and Preview
 
 A settings panel will appear on the right side of the screen; navigate towards it. Under the "Uniform Speed" tab, adjust the "Speed" slider to slow down your video. If its value decreases, your video will become slow motion. Further, hit the play button to preview and export your slow-mo video.
 
 ![adjust speed and execute](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Method 2\. Step-by-Step Guide to Slow a Video Using Optical Flow Option
 
@@ -118,25 +118,21 @@ After importing media and bringing it to the timeline panel, select it. Then, na
 
 ![look for speed ramping section](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 2Access the AI Frame Interpolation
 
 Continue to select a specific preset for speed ramping. As you select one, locate and expand the “AI Frame Interpolation” section. From the appearing option, select the “Optical Flow” option.
 
 ![set preset and change frame interpolation](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 3Render Preview for Results
 
 Once you have enabled this option, navigate towards the timeline toolbar. Search and select the "Render Preview" option from the given icons. Play the video to see the results, adjust, and click the "Export" button to download.
 
 ![render preview and export](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Edit Beyond Basic with AI Video Editing Features of Filmora
 
@@ -158,6 +154,10 @@ Filmora offers multiple mask options to infuse effects and filters to specific p
 
 Thumbnails increase video views by evoking the audience's interest in seeing a video. In Filmora, you can employ the AI Thumbnail creator to auto-create thumbnails. It analyzes the best frame out of your video and chooses it as a thumbnail. You can further apply many templates to this thumbnail according to context.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 This article has expanded your knowledge and expertise about two powerful video editors. With **how to slow down video in After Effects**, we introduced you to the software. There is no limitation of features in either software as both bring out the best in videos.
@@ -177,20 +177,24 @@ However, we recommend Wondershare Filmora as it is a more accessible alternative
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-circulation-crafting-kit/"><u>[New] In 2024, Circulation Crafting Kit</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-your-game-library-the-finest-pc-based-gba-emulation-tools/"><u>[New] Mastering Your Game Library The Finest PC-Based GBA Emulation Tools</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-unbeatable-top-10-video-editors-on-your-pcwindows-tiktok/"><u>[Updated] Unbeatable Top 10 Video Editors on Your PC/Windows (TikTok)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/comparative-study-of-vlc-and-alternatives-for-2024/"><u>Comparative Study of VLC & Alternatives for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/connectivity-and-chirps-for-the-price-of-20/"><u>Connectivity and Chirps for the Price of $20</u></a></li>
-<li><a href="https://extra-information.techidaily.com/converting-ordinary-images-into-artistic-hdr-works-for-2024/"><u>Converting Ordinary Images Into Artistic HDR Works for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-poco-c65-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/melding-audio-with-visuals-digitally-for-2024/"><u>Melding Audio With Visuals Digitally for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-slow-motion-videos-are-taking-over-social-media-and-becoming-a-new-trend-read-this-article-if-you-want-to-learn-how-to-slow-down-video-in-/"><u>New 2024 Approved Slow Motion Videos Are Taking over Social Media and Becoming a New Trend. Read This Article if You Want to Learn How to Slow Down Video in After Effects</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-bored-of-extraneous-software-downloads-and-program-installations-to-edit-your-videos-the-best-video-editing-online-utilities-are-here-at-your-re/"><u>New In 2024, Bored of Extraneous Software Downloads and Program Installations to Edit Your Videos? The Best Video Editing Online Utilities Are Here at Your Rescue</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-what-should-be-considered-to-choose-a-nice-gopro-for-vlogging-in-2024/"><u>New What Should Be Considered to Choose A Nice GoPro for Vlogging, In 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-are-you-trying-to-make-slow-mo-videos-on-instagram-in-this-article-we-will-discuss-top-rated-ways-to-produce-perfect-slow-motion-video/"><u>Updated 2024 Approved Are You Trying to Make Slow-Mo Videos on Instagram? In This Article, We Will Discuss Top-Rated Ways to Produce Perfect Slow-Motion Videos for Instagram</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-get-zoom-on-tv-easy-solutions/"><u>Updated In 2024, How to Get Zoom on TV Easy Solutions</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-learn-to-merge-clips-in-davinci-resolve-simple-steps/"><u>Updated In 2024, Learn to Merge Clips in DaVinci Resolve Simple Steps</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-tiktok-video-aspect-ratio-for-2024/"><u>Updated Tiktok Video Aspect Ratio for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-boosting-bank-balance-crafting-commercial-video-content-for-2024/"><u>[New] Boosting Bank Balance Crafting Commercial Video Content for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/oosting-your-youtube-earnings-on-mobile-devices-a-comprehensive-guide-for-2024/"><u>[New] Boosting Your YouTube Earnings on Mobile Devices - A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-improve-engagement-with-skillful-use-of-jump-cuts/"><u>[New] In 2024, Improve Engagement with Skillful Use of Jump Cuts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-mastering-the-art-of-viral-videos-for-higher-youtube-popularity/"><u>[New] Mastering The Art of Viral Videos for Higher YouTube Popularity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-turn-your-twitter-videos-into-listenable-mp3s/"><u>2024 Approved Turn Your Twitter Videos Into Listenable MP3s</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/decoding-slavic-languages-ukraines-ties-with-russ/"><u>Decoding Slavic Languages: Ukraine's Ties with Russ</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/fixing-silent-menace-solutions-for-evil-genius-2-audio-issues/"><u>Fixing Silent Menace: Solutions for 'Evil Genius 2' Audio Issues</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/inside-toms-hardware-realm-unveiling-top-gadgets/"><u>Inside Tom's Hardware Realm: Unveiling Top Gadgets</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-filters-a-comprehensive-guide/"><u>Instagram Filters A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/losningarna-pa-vidaregnolligande-datorspel-tips-och-tricks-for-felaktiga-videospel/"><u>Lösningarna På Vidaregnolligande Datorspel - Tips Och Tricks För Felaktiga Videospel</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/revamped-gamers-choice-discover-the-latest-upgrades-to-maingears-north-desktop-lineup/"><u>Revamped Gamer's Choice: Discover the Latest Upgrades to Maingear's North Desktop Lineup</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/solution-found-overcoming-the-siths-blackout-glitch-in-star-wars-battlefront-2/"><u>Solution Found! Overcoming the Sith's Blackout Glitch in Star Wars Battlefront 2</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/the-toms-tech-blog-pioneering-discoveries-in-the-world-of-hardware/"><u>The Tom's Tech Blog: Pioneering Discoveries in the World of Hardware</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transforming-your-windows-11-taskbar-a-step-by-step-guide-to-personalizing-its-color/"><u>Transforming Your Windows 11 Taskbar: A Step-by-Step Guide to Personalizing Its Color</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooter-overcoming-obstacles-when-cloning-sony-dvds-with-sector-flaws-or-drm-protection/"><u>Troubleshooter: Overcoming Obstacles When Cloning Sony DVDs with Sector Flaws or DRM Protection</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/unlocking-the-secrets-with-toms-pc-hardware-insights/"><u>Unlocking the Secrets with Tom's PC Hardware Insights</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/unveiling-gadgets-with-toms-equipment-guides/"><u>Unveiling Gadgets with Tom's Equipment Guides</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/unveiling-the-latest-in-technology-with-toms-gear-insights/"><u>Unveiling the Latest in Technology with Tom's Gear Insights</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/upgrade-required-inadequate-cpu-power-for-optimal-vanguard-performance/"><u>Upgrade Required: Inadequate CPU Power for Optimal Vanguard Performance</u></a></li>
 </ul></div>
 

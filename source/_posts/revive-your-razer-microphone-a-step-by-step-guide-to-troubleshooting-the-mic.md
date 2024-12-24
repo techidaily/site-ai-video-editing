@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Razer Microphone: A Step-by-Step Guide to Troubleshooting the Mic"
-date: 2024-12-13T20:02:26.930Z
-updated: 2024-12-15T22:01:28.165Z
+date: 2024-12-20T19:01:30.402Z
+updated: 2024-12-24T18:20:59.453Z
 tags:
   - win11
   - win10
@@ -33,7 +33,7 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 * **Check the mute switches** on your microphone and make sure it’s disabled.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Run the audio troubleshooter
@@ -49,7 +49,7 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
  Wait for the process to complete and follow the on-screen instructions to repair the detected issues. If your microphone still doesn’t work, proceed to the next method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Check the privacy settings
@@ -64,17 +64,17 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-2-1.jpg)
 4. **Toggle on the button** below Allow apps to access your microphone.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-3-1.jpg)
 5. Scroll to locate Allow desktop apps to access your microphone, and set the option to**On** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you should be able to use the Onikuma headset mic with whatever applications. But if the problem persists, try the next fix below.
@@ -87,11 +87,15 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-1-3.jpg)
 2. Select**Small icons** next to View by and click**Sound** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-2-1.jpg)
 3. Select the**Recording** tab. Then right-click your Onikuma headset mic and click**Enable** (if it’s not) and click**Set as Default Device** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you don’t see it listed, right-click any blank space and tick**Show Disabled Devices** .  
@@ -106,10 +110,6 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
  In some cases, Onikuma headset mic not working only occurs in specific applications. If so, you should**check the application settings** and manually**set the Onikuma headset as your preferred audio device** .
 
  If this method doesn’t help either, move on to the next fix to check your audio driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Update your audio driver
 
@@ -165,24 +165,24 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-insider-wisdom-how-to-effortlessly-upload-photosvideos-in-win11/"><u>[New] 2024 Approved Insider Wisdom How to Effortlessly Upload Photos/Videos in Win11</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-dissecting-alternatives-to-the-well-known-vlc/"><u>[New] Dissecting Alternatives to the Well-Known VLC</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-boosting-earnings-in-the-quick-flicks-of-youtube-shorts/"><u>2024 Approved Boosting Earnings in the Quick Flicks of YouTube Shorts</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-discover-comedy-tear-fusion-in-these-highest-rated-memetic-accounts/"><u>2024 Approved Discover Comedy-Tear Fusion in These Highest Rated Memetic Accounts</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-correct-lens-distortion-with-filmora/"><u>In 2024, How to Correct Lens Distortion With Filmora</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-streamlined-collaborations-amplifying-your-video-impact/"><u>In 2024, Streamlined Collaborations Amplifying Your Video Impact</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-the-newest-graphics-card-software-nvidias-geforce-nv-210-drivers-on-windows-11/"><u>Installing the Newest Graphics Card Software: NVIDIA's GeForce Nv 210 Drivers on Windows 11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722480672166-iphone-or-samsung-phone-the-essential-buyers-guide-for-making-the-right-choice/"><u>IPhone or Samsung Phone - The Essential Buyer's Guide for Making the Right Choice</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-add-stylish-text-to-videos/"><u>New 2024 Approved Add Stylish Text to Videos</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-are-you-looking-to-store-your-videos-securely-and-efficiently-look-no-further-than-our-top-pick-for-the-best-cloud-storage-service-for-videos-for-2024.m/"><u>New Are You Looking to Store Your Videos Securely and Efficiently? Look No Further than Our Top Pick for the Best Cloud Storage Service for Videos for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-turn-your-blog-content-into-audio-podcasts-to-reach-a-wider-audience-and-increase-reader-participation/"><u>New In 2024, Turn Your Blog Content Into Audio Podcasts to Reach a Wider Audience and Increase Reader Participation</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-top-free-luts-to-use-in-shotcut-an-overview/"><u>New Top Free LUTs To Use in Shotcut An Overview</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quora-poe-your-key-to-ai-tech-integration/"><u>Quora POE: Your Key to AI Tech Integration</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/tips-to-make-cinematic-color-grading/"><u>Tips to Make Cinematic Color Grading</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-best-video-title-generators/"><u>Updated 2024 Approved Best Video Title Generators</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-create-realistic-fire-effects-for-2024/"><u>Updated How to Create Realistic Fire Effects for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/using-one-of-the-best-converter-tools-to-turn-gifs-into-png-or-jpg-here-learn-about-the-ten-best-ones-for-different-operating-systems-with-details-on-featur/"><u>Using One of the Best Converter Tools to Turn GIFs Into PNG or JPG. Here, Learn About the Ten Best Ones for Different Operating Systems, with Details on Features, Prices, and More</u></a></li>
-<li><a href="https://blog-min.techidaily.com/voice-leading-principles-help-create-smooth-transitions-between-chords-by-following-logical-paths-for-each-note-or-voice/"><u>Voice Leading Principles Help Create Smooth Transitions Between Chords by Following Logical Paths for Each Note or Voice.</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/windows-11s-fresh-perspectives-explored/"><u>Windows 11'S Fresh Perspectives Explored</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-dull-scenes-to-dynamic-sports-highlights-for-2024/"><u>[New] From Dull Scenes to Dynamic Sports Highlights for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/urge-to-subscriber-success-with-strategic-tactics-for-2024/"><u>[New] Surge to Subscriber Success with Strategic Tactics for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-elevate-visibility-mastering-youtube-success-tracks/"><u>[Updated] Elevate Visibility Mastering YouTube Success Tracks</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-effortless-youtube-content-crafting-10-basic-video-ideas-for-all/"><u>[Updated] In 2024, Effortless YouTube Content Crafting 10 Basic Video Ideas for All</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-step-by-step-guide-to-enhancing-instagram-stories-with-photos/"><u>[Updated] In 2024, Step-by-Step Guide to Enhancing Instagram Stories with Photos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-document-your-days-with-xiaomis-state-of-the-art-screenshot-tool/"><u>2024 Approved Document Your Days with Xiaomi's State-of-the-Art Screenshot Tool</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-infinix-hot-40-pro-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Infinix Hot 40 Pro?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-infinix-hot-40-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Infinix Hot 40 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-explore-the-advanced-tools-to-help-you-reshape-the-art-of-sky-replacement-in-digital-imagery-discover-methods-to-enhance-your-visual-narratives-/"><u>New In 2024, Explore the Advanced Tools to Help You Reshape the Art of Sky Replacement in Digital Imagery. Discover Methods to Enhance Your Visual Narratives Through AI</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-zoom-in-and-out-on-mac/"><u>New In 2024, How to Zoom In and Out on Mac</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-if-youre-looking-to-create-a-brand-video-that-makes-your-business-pop-out-we-have-put-together-some-video-editing-tips-and-tricks-that-work/"><u>New In 2024, If Youre Looking to Create a Brand Video that Makes Your Business Pop Out, We Have Put Together some Video Editing Tips and Tricks that Work</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-using-vn-editor-to-add-luts-for-video-editing-for-2024/"><u>New Using VN Editor To Add Luts for Video Editing for 2024</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/unveiling-the-secrets-of-spear-phishing-understanding-its-distinct-nature/"><u>Unveiling the Secrets of Spear Phishing: Understanding Its Distinct Nature</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-mastering-video-speed-control-slow-down-speed-up-and-edit-with-ease/"><u>Updated 2024 Approved Mastering Video Speed Control Slow Down, Speed Up, and Edit with Ease</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-want-to-excel-at-using-adobe-premiere-pro-software-for-splitting-videos-and-audio-learn-about-splitting-a-video-and-audio-using-diffe/"><u>Updated In 2024, Do You Want to Excel at Using Adobe Premiere Pro Software for Splitting Videos and Audio? Learn About Splitting a Video and Audio Using Different Tools and Add a New Skill to Your Skillset with a Step-by-Step Guide in This Article</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-here-you-will-learn-how-to-add-a-realistic-fire-effect-using-wondershare-filmora-that-will-help-to-boost-your-channel-and-decorate-your-yout/"><u>Updated In 2024, Here, You Will Learn How to Add a Realistic Fire Effect Using Wondershare Filmora. That Will Help to Boost Your Channel and Decorate Your YouTube Channel with Creative and Unique Effects</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-if-youre-looking-to-create-a-brand-video-that-makes-your-business-pop-out-we-have-put-together-some-video-editing-tips-and-tricks-that-work./"><u>Updated In 2024, If Youre Looking to Create a Brand Video that Makes Your Business Pop Out, We Have Put Together some Video Editing Tips and Tricks that Work</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-making-creative-and-engaging-youtube-videos-is-now-easy-with-several-tools-now-youtube-also-offers-you-its-own-built-in-video-editor-through/"><u>Updated In 2024, Making Creative and Engaging Youtube Videos Is Now Easy with Several Tools. Now, YouTube Also Offers You Its Own Built-In Video Editor Through Which You Can Edit and Enhance the Video Quality</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-unlock-cinematic-storytelling-how-to-apply-the-ken-burns-effect-in-final-cut-pro-for-2024/"><u>Updated Unlock Cinematic Storytelling How to Apply the Ken Burns Effect in Final Cut Pro for 2024</u></a></li>
 </ul></div>
 

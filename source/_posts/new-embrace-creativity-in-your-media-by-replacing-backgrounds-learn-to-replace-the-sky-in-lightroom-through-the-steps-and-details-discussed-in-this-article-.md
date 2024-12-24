@@ -1,7 +1,7 @@
 ---
 title: New Embrace Creativity in Your Media by Replacing Backgrounds. Learn to Replace the Sky in Lightroom Through the Steps and Details Discussed in This Article for 2024
-date: 2024-12-06T18:59:20.290Z
-updated: 2024-12-09T17:23:17.527Z
+date: 2024-12-17T16:02:19.064Z
+updated: 2024-12-24T17:10:50.386Z
 tags: 
   - ai
   - animation videos
@@ -25,6 +25,10 @@ Lightroom Sky replacement requires certain editing skills to effectively edit th
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Why Do Creators Look Forward to Changing the Environment Across Their Recorded or Captured Media?
 
 Humans love to show creativity and express themselves from different perspectives. [Creative works](https://tools.techidaily.com/wondershare/filmora/download/) provide entertainment and prove therapeutic in some way. That’s why creators and artists try to change the surroundings of recorded media. Such changes make the captured media virtually stunning and creative. Let’s explore more reasons that push creators towards **sky replacement in Lightroom**:
@@ -36,7 +40,7 @@ Humans love to show creativity and express themselves from different perspective
 * **Discovery:** You might have seen virtual landscapes in video games that uncover hidden secrets. Such backgrounds are designed to facilitate adventure through media.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: A Guide to Replace Sky in Lightroom: Step-by-Step
@@ -48,7 +52,7 @@ As discussed earlier, [**changing the sky**](https://tools.techidaily.com/wonder
 ![open image in photoshop](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2:** Now, go to the top toolbar and press the “Edit” option next to “File.” From the drop-down list, access the “Sky Replacement” option. Head to the "Sky Replacement" panel and click the downward icon next to the sky preview. Scroll to pick one sky of your choice and hit the "OK" button.
@@ -59,20 +63,12 @@ As discussed earlier, [**changing the sky**](https://tools.techidaily.com/wonder
 
 ![try other skies](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4:** Bring this picture back to the Lightroom and go to its right-side panel. There, use the Exposure, Contrast, and Highlights sliders below the "Light" downward icon. After enhancing your image, right-click on it and look for the “Export” option to save the file.
 
 ![change image parameters in lightroom](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Make Background Changing Easy with Wondershare Filmora
@@ -101,19 +97,11 @@ If you want to focus on the portrait while ignoring the background, use this fea
 
 ![ai portrait filmora](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 3\. Basic Background
 
 While editing any media, you might require a blur option to hide distortion in the background. Filmora offers background blur options with different types and styles in them. You can opt for a Pattern, Color, and blur option from blur types. Then, it allows you to choose from blur styles like Grainy, Direction, and Radial. Afterward, users can select the level of blur as per their choice.
 
 ![background changing filmora](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 4\. AI Image Stylizer
 
@@ -137,11 +125,19 @@ Successfully launch the latest version of Filmora in your system. Double-tap on 
 
 ![opening new project filmora](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Use the Chroma Key and Change the Background**
 
 From the media panel, use “Import” and bring your media to the Timeline section. Place the background video first and then bring the Main Clip below it. Head to the right-side panel and press the “AI Tools” option from the top. Now enable the “Chroma Key” option, and the background will be replaced. You can adjust the edges through “Edge Thickness” and “Edge Feather” sliders.
 
 ![using chroma key feature](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Continue Editing or Export Media at Desired Location**
 
@@ -163,10 +159,6 @@ Head to the right-side panel and access the AI tools option for choosing “AI P
 
 ![using ai portrait feature](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-13.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Method 3: Change the Background through Masking
 
 **Step 1: Get Stock Media and Place it in the Timeline**
@@ -175,11 +167,19 @@ Drag your main video in the timeline. Then, tap the "Stock Media" icon from the 
 
 ![adding background from stock media](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Draw a Mask to Replace the Background with Stock Media**
 
 Look for the “Mask” option before the “AI tools” option on the right-side panel. Pick the “Draw Mask” icon and try to draw the lines around the main figure. When you finish drawing, the background will be replaced. You can use the “Blur Strength” slider to give a natural look.
 
 ![using mask to change background](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -198,24 +198,22 @@ In short, sky replacement is a feature of Adobe Photoshop that turns clear skies
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-how-to-solve-facebook-videos-are-partially-muted/"><u>[New] In 2024, How to Solve Facebook Videos Are Partially Muted?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-the-essential-guide-to-enhancing-ar-with-lut-knowledge/"><u>[New] The Essential Guide to Enhancing AR with LUT Knowledge</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-the-ultimate-strategy-for-perfect-xbox-screen-recordings/"><u>[Updated] 2024 Approved The Ultimate Strategy for Perfect Xbox Screen Recordings</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-android-and-iphones-leading-social-apps-to-skyrocket-likes-on-fb-for-2024/"><u>[Updated] Android & iPhone's Leading Social Apps to Skyrocket Likes on FB for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-effortless-earnings-channel-size-no-longer-a-challenge/"><u>[Updated] Effortless Earnings Channel Size No Longer a Challenge</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/alibaba-yitian-710-cpu-leads-the-race-as-top-arm-based-processor-for-cloud-servers-research-finds/"><u>Alibaba Yitian 710 CPU Leads the Race as Top Arm-Based Processor for Cloud Servers, Research Finds</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/critical-aspects-to-assess-when-looking-for-an-unbound-cellular-phone/"><u>Critical Aspects to Assess When Looking for an Unbound Cellular Phone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/fixing-silent-menace-solutions-for-evil-genius-2-audio-issues/"><u>Fixing Silent Menace: Solutions for 'Evil Genius 2' Audio Issues</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/global-launch-alert-lenovos-innovative-mini-pc-the-yoga-portal-ai-enhanced-by-powerful-intel-desktop-chips/"><u>Global Launch Alert: Lenovo's Innovative Mini PC - The Yoga Portal AI Enhanced by Powerful Intel Desktop Chips</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-address-and-fix-driver-validation-problems-during-computer-updates/"><u>How to Address and Fix Driver Validation Problems During Computer Updates</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-15-smartest-ways-to-watch-nba-live-in-action/"><u>In 2024, The 15 Smartest Ways to Watch NBA Live in Action</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-vivo-g2-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Vivo G2 Phone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/inside-toms-hardware-realm-unveiling-top-gadgets/"><u>Inside Tom's Hardware Realm: Unveiling Top Gadgets</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/revamped-gamers-choice-discover-the-latest-upgrades-to-maingears-north-desktop-lineup/"><u>Revamped Gamer's Choice: Discover the Latest Upgrades to Maingear's North Desktop Lineup</u></a></li>
-<li><a href="https://win-top.techidaily.com/top-rated-tools-for-professionals-in-email-marketing-discover-massmail/"><u>Top-Rated Tools for Professionals in Email Marketing: Discover MassMail</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/unlock-efficient-digital-sanitization-how-to-effectively-use-stellar-file-eraser-5-on-your-windows-system/"><u>Unlock Efficient Digital Sanitization: How To Effectively Use Stellar File Eraser 5 on Your Windows System</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/unveiling-the-latest-in-technology-with-toms-gear-insights/"><u>Unveiling the Latest in Technology with Tom's Gear Insights</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/upgrade-required-inadequate-cpu-power-for-optimal-vanguard-performance/"><u>Upgrade Required: Inadequate CPU Power for Optimal Vanguard Performance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-fix-corrupted-files-using-sfc-and-dism-utilities/"><u>Windows 11: Fix Corrupted Files Using SFC and DISM Utilities</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-start-storytelling-through-film-windows-xp-moviemaker-prep/"><u>[New] Start Storytelling Through Film Windows XP Moviemaker Prep</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-novices-introduction-to-av1-codec/"><u>2024 Approved A Novice's Introduction to AV1 Codec</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-snowbound-sagas-2022-olympic-milestones/"><u>2024 Approved Snowbound Sagas 2022 Olympic Milestones</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/cyberpunk-2077-release-issues-resolved-now-playable/"><u>Cyberpunk 2077 Release Issues Resolved: Now Playable</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/decoding-complex-hardware-for-beginners-a-look-inside-with-toms-experience/"><u>Decoding Complex Hardware for Beginners: A Look Inside With Tom's Experience</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1722996356181-easy-steps-to-fix-windows-11-or-10-spatial-audio-not-working-correctly/"><u>Easy Steps to Fix Windows 11 or 10 Spatial Audio Not Working Correctly.</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/economical-ibuypower-preassembled-esports-pc-for-competitive-gaming-on-a-budget/"><u>Economical iBUYPOWER Preassembled Esports PC for Competitive Gaming on a Budget</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/exploring-the-capabilities-of-the-heavy-but-powerful-radpower-radcity-nplus/"><u>Exploring the Capabilities of the Heavy but Powerful RadPower RadCity N+</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-sony-xperia-10-v-is-unlocked-by-drfone-android/"><u>How To Check if Your Sony Xperia 10 V Is Unlocked</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-depth-gadget-evaluations-by-team-tom/"><u>In-Depth Gadget Evaluations by Team Tom</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-depth-look-at-amazonbasics-affordable-flat-antenna-for-catching-free-broadcasts/"><u>In-Depth Look at AmazonBasics' Affordable Flat Antenna for Catching Free Broadcasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-12-now-comes-with-enhanced-qi-wireless-charging-bypass-the-need-for-magsafe/"><u>IPhone 12 Now Comes with Enhanced Qi Wireless Charging - Bypass the Need for MagSafe!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/metodo-rapido-y-gratuito-para-transformar-imagenes-dpx-en-formatos-gif-con-la-herramienta-en-linea-de-movavi/"><u>Método Rápido Y Gratuito Para Transformar Imágenes DPX en Formatos GIF Con La Herramienta en Línea De Movavi</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1980053-9781583947333-mystery-school-in-hyperspace/"><u>Mystery School in Hyperspace | Free Book</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-facebook-sharing-of-youtube-videos-for-2024/"><u>Navigating Facebook Sharing of YouTube Videos for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-making-your-wd-my-passport-ultra-drive-detectable-by-windows/"><u>Step-by-Step Tutorial: Making Your WD My Passport Ultra Drive Detectable by Windows</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/top-notch-wireless-technology-tested-netgears-nighthawk-c7000-reviewed-for-maximum-connectivity/"><u>Top-Notch Wireless Technology Tested - Netgear's Nighthawk C7000 Reviewed for Maximum Connectivity</u></a></li>
 </ul></div>
 

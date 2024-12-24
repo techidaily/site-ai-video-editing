@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Embrace Creativity in Your Media by Replacing Backgrounds. Learn to Replace the Sky in Lightroom Through the Steps and Details Discussed in This Article
-date: 2024-12-07T18:36:00.956Z
-updated: 2024-12-09T17:02:50.672Z
+date: 2024-12-22T19:08:10.875Z
+updated: 2024-12-24T18:28:51.201Z
 tags: 
   - ai
   - animation videos
@@ -25,10 +25,6 @@ Lightroom Sky replacement requires certain editing skills to effectively edit th
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Why Do Creators Look Forward to Changing the Environment Across Their Recorded or Captured Media?
 
 Humans love to show creativity and express themselves from different perspectives. [Creative works](https://tools.techidaily.com/wondershare/filmora/download/) provide entertainment and prove therapeutic in some way. That’s why creators and artists try to change the surroundings of recorded media. Such changes make the captured media virtually stunning and creative. Let’s explore more reasons that push creators towards **sky replacement in Lightroom**:
@@ -47,25 +43,29 @@ As discussed earlier, [**changing the sky**](https://tools.techidaily.com/wonder
 
 ![open image in photoshop](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Now, go to the top toolbar and press the “Edit” option next to “File.” From the drop-down list, access the “Sky Replacement” option. Head to the "Sky Replacement" panel and click the downward icon next to the sky preview. Scroll to pick one sky of your choice and hit the "OK" button.
 
 ![access sky replacement feature](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** To import more skies, press the “Settings” icon on the Sky Replacement panel. Select the first option of “Get More Skies” and click on “Import Images.” You can explore skies from the Blue Skies, Spectacular, and Sunsets folders from that panel.
 
 ![try other skies](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Bring this picture back to the Lightroom and go to its right-side panel. There, use the Exposure, Contrast, and Highlights sliders below the "Light" downward icon. After enhancing your image, right-click on it and look for the “Export” option to save the file.
 
 ![change image parameters in lightroom](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Make Background Changing Easy with Wondershare Filmora
 
@@ -76,6 +76,10 @@ Notably, it’s a better solution that accommodates all users from beginner prof
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features Marking Filmora’s Importance
 
@@ -93,10 +97,6 @@ If you want to focus on the portrait while ignoring the background, use this fea
 
 ![ai portrait filmora](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 3\. Basic Background
 
 While editing any media, you might require a blur option to hide distortion in the background. Filmora offers background blur options with different types and styles in them. You can opt for a Pattern, Color, and blur option from blur types. Then, it allows you to choose from blur styles like Grainy, Direction, and Radial. Afterward, users can select the level of blur as per their choice.
@@ -110,7 +110,7 @@ Aside from changing background, you can unleash your creativity with an AI Image
 ![ai image filmora](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Steps to Change Background with Different Ways Using Filmora
@@ -135,11 +135,19 @@ From the media panel, use “Import” and bring your media to the Timeline sect
 
 ![using chroma key feature](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Continue Editing or Export Media at Desired Location**
 
 When you have finished the editing, move to the "Export" option at the top right. Using the "Export" window, define parameters and export the file wherever you want.
 
 ![export final video](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Method 2: Accessing AI Portrait
 
@@ -149,19 +157,11 @@ Import your Background video and main clips in the media panel. Drag the main vi
 
 ![adding clips in filmora](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2: Explore and Utilize AI Portrait for Changing Background**
 
 Head to the right-side panel and access the AI tools option for choosing “AI Portrait.” Toggle this option and get the background automatically changed. To further enhance, you can use “Edge Thickness” and “Edge Feather” sliders.
 
 ![using ai portrait feature](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Method 3: Change the Background through Masking
 
@@ -171,15 +171,15 @@ Drag your main video in the timeline. Then, tap the "Stock Media" icon from the 
 
 ![adding background from stock media](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-14.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2: Draw a Mask to Replace the Background with Stock Media**
 
 Look for the “Mask” option before the “AI tools” option on the right-side panel. Pick the “Draw Mask” icon and try to draw the lines around the main figure. When you finish drawing, the background will be replaced. You can use the “Blur Strength” slider to give a natural look.
 
 ![using mask to change background](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -198,17 +198,17 @@ In short, sky replacement is a feature of Adobe Photoshop that turns clear skies
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-big-sur-specifications-system-and-hardware-required-for-2024/"><u>[New] Big Sur Specifications System & Hardware Required for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-the-power-of-yi-4k-cameras/"><u>[New] Exploring the Power of YI 4K Cameras</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ice-and-velocity-memorable-moments-from-the-winter-olympics-snowboard-race/"><u>[New] Ice & Velocity Memorable Moments From the Winter Olympics Snowboard Race</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-art-of-finding-classic-facebook-content-for-2024/"><u>[New] The Art of Finding Classic Facebook Content for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/a-complete-guide-to-utilizing-ios-screenshot-feature-for-2024/"><u>A Complete Guide to Utilizing IO's Screenshot Feature for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-red-magic-9-proplus-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Nubia Red Magic 9 Pro+ Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-copyright-concerns-for-recording-screens/"><u>In 2024, YouTube Copyright Concerns for Recording Screens</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/losungsansatze-sichtbare-dateien-aufrufen-wege-fur-ungespeicherte-dokumente-in-ordnern-unter-windows-1187/"><u>Lösungsansätze: Sichtbare Dateien Aufrufen - Wege Für Ungespeicherte Dokumente in Ordnern Unter Windows 11/8/7</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-understanding-the-best-tools-for-changing-sky-background/"><u>New In 2024, Understanding The Best Tools for Changing Sky Background</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-using-slow-motion-in-adobe-after-effects-a-step-by-step-procession-for-2024/"><u>New Using Slow Motion in Adobe After Effects A Step-by-Step Procession for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-understanding-the-dynamics-underlying-in-ai-slow-motion-editing/"><u>Updated 2024 Approved Understanding the Dynamics Underlying in AI Slow Motion Editing</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-unleash-the-power-of-video-slow-motion-with-wondershare-filmora-find-out-how-to-create-slow-motion-video-with-the-effective-speed-ramping-fe/"><u>Updated In 2024, Unleash the Power of Video Slow Motion with Wondershare Filmora. Find Out How to Create Slow Motion Video with the Effective Speed Ramping Feature on Filmora</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-sync-your-speech-with-visuals-the-art-of-ppt-voiceovers/"><u>[New] 2024 Approved Sync Your Speech with Visuals The Art of PPT Voiceovers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-cam-showdown-spectacle-ultimate-legendary-sj6-meets-yis-visionary-4k-for-2024/"><u>[Updated] Cam Showdown Spectacle Ultimate Legendary SJ6 Meets Yi's Visionary 4K for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-az-record-app-deep-dive-and-alternatives-guide/"><u>[Updated] In 2024, AZ Record App Deep Dive & Alternatives Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-creative-commons-key-to-video-content-sharing/"><u>2024 Approved YouTube Creative Commons Key to Video Content Sharing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigate-the-world-of-windows-and-chatgpt/"><u>Navigate the World of Windows and ChatGPT</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-explore-a-variety-of-inexpensive-camera-models-suitable-for-making-slow-motion-footage-without-compromising-quality/"><u>New In 2024, Explore a Variety of Inexpensive Camera Models Suitable for Making Slow-Motion Footage without Compromising Quality</u></a></li>
+<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-oppo-find-x7-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computer-gear-toms-hardware-insights/"><u>Unveiling the Latest in Computer Gear - Tom's Hardware Insights</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-vlogs-and-travel-content-are-incomplete-without-a-fast-motion-effect-learn-step-by-step-how-to-make-fast-motion-video-on-an-iphone-in-/"><u>Updated 2024 Approved Vlogs and Travel Content Are Incomplete without a Fast-Motion Effect. Learn Step-by-Step How to Make Fast Motion Video on an iPhone in This Article</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-clearly-the-efectum-app-download-without-a-watermark-option-is-on-android-phones-thus-read-this-review-on-the-efectum-app-and-find-replaceme/"><u>Updated In 2024, Clearly, the Efectum App Download without a Watermark Option Is on Android Phones. Thus, Read This Review on the Efectum App and Find Replacements for Good</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-timeline-template-is-a-visual-representation-showing-the-passage-of-time-it-includes-text-diagrams-images-and-icons-they-are-perfect-for-tel/"><u>Updated In 2024, Timeline Template Is a Visual Representation Showing the Passage of Time. It Includes Text, Diagrams, Images and Icons. They Are Perfect for Telling Stories, Events Etc</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713964069928-updated-learn-how-to-convert-mp4-videos-to-60-fps-gifs-with-this-easy-to-follow-tutorial-get-smooth-and-crisp-motion-in-your-gifs-in-just-a-few-simple-steps/"><u>Updated Learn How to Convert MP4 Videos to 60 FPS GIFs with This Easy-to-Follow Tutorial. Get Smooth and Crisp Motion in Your GIFs in Just a Few Simple Steps for 2024</u></a></li>
 </ul></div>
 

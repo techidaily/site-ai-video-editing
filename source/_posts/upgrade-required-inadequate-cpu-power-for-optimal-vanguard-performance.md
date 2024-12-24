@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Required: Inadequate CPU Power for Optimal Vanguard Performance"
-date: 2024-12-10T21:43:25.561Z
-updated: 2024-12-15T18:58:11.552Z
+date: 2024-12-20T16:26:25.219Z
+updated: 2024-12-24T17:35:36.176Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
 
  Before troubleshooting, you should**try different hardware monitors** to see if it’s just a false alarm.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try all of them, simply work your way down until you find the one that does the trick.
@@ -34,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
 3. [**Change settings in your graphics control panel**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Set graphics preference to High performance**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Run Warzone in Windowed mode](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -70,10 +62,6 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
@@ -81,10 +69,14 @@ Here’s how you can check for updates manually:
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -100,21 +92,21 @@ Once done, restart your PC and see if Warzone is using your GPU.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nvidia-control-panel.jpg)
 2. In the left pane, click**Manage 3D settings** . Click**CUDA – GPUs** and select your graphics card. Then click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-1.jpg)
 3. In the left pane, select**Set PhysX Configuration** . Under**Select a PhysX processor** , click to expand the drop down list and**select your GPU** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-2.jpg)
 4. Now start your game and check if it’s running properly.
 
  If this trick doesn’t work for you, simply move on to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Set graphics preference to High performance
 
@@ -124,8 +116,16 @@ Once done, restart your PC and see if Warzone is using your GPU.
 ![how to disable hardware accelerated GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2020/10/display-settngs.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of Warzone. Choose**ModernWarfare.exe** in the game folder.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (By default it’s_%USERPROFILE%\\Documents\\Call of Duty Modern Warfare_ )  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/graphics-settings-warzone-browse.jpg)
@@ -139,6 +139,10 @@ Once done, restart your PC and see if Warzone is using your GPU.
 
  If this setting doesn’t help, take a look at the next solution below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Run Warzone in Windowed mode
 
  According to some gamers, changing the display mode to Windowed seems to be a potential fix. You can try the same and see how this works out for you.
@@ -147,10 +151,6 @@ Once done, restart your PC and see if Warzone is using your GPU.
 2. Navigate to the**GRAPHICS** tab. Under the**Display** section, set**Display Mode** to**Windowed** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-windowed.jpg)
 3. Now check if the game runs as expected.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -171,22 +171,19 @@ Once done, restart your PC and see if Warzone is using your GPU.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-become-a-zoom-screenshare-pro-in-minutes-for-2024/"><u>[New] Become a Zoom Screenshare Pro in Minutes for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-efficient-screen-recording-on-mac-utilizing-key-combos/"><u>[Updated] Efficient Screen Recording on Mac Utilizing Key Combos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-from-recording-to-reality-a-detailed-look-at-the-sj-cam-s6/"><u>2024 Approved From Recording to Reality A Detailed Look at the SJ-CAM S6</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/clipcomposers-journey-thorough-review-of-androvid-for-2024/"><u>ClipComposer's Journey – Thorough Review of AndroVid for 2024</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/como-resolver-el-problema-de-no-instalar-el-software-migration-data-de-samsung-en-su-computadora-con-windows/"><u>Cómo Resolver El Problema De No Instalar El Software Migration Data De Samsung en Su Computadora Con Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easily-install-your-canon-device-on-windows-with-free-scanprinter-drivers/"><u>Easily Install Your Canon Device on Windows with Free Scan/Printer Drivers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/lenovos-affordable-dual-function-laptop-the-chromebook-duet-evaluation/"><u>Lenovo's Affordable Dual-Function Laptop - The Chromebook Duet Evaluation</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-list-of-supported-iphone-video-formats-and-best-iphone-video-editor/"><u>New 2024 Approved List of Supported iPhone Video Formats and Best iPhone Video Editor</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-want-to-find-a-good-camera-for-youtube-this-article-brings-you-some-of-the-best-options-of-different-varieties-for-your-channel/"><u>New 2024 Approved Want to Find a Good Camera for YouTube? This Article Brings You some of the Best Options of Different Varieties for Your Channel</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-zoom-in-discord-for-2024/"><u>New How to Zoom in Discord for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-to-use-luts-in-final-cut-pro-there-are-many-free-luts-for-fcpx-available-that-you-can-use-using-luts-you-can-create-professional-loo/"><u>New In 2024, Do You Want to Use LUTs in Final Cut Pro? There Are Many Free LUTs for FCPX Available that You Can Use. Using LUTs, You Can Create Professional-Looking Content</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-your-photos-and-videos-to-give-an-old-and-vintage-feel-here-are-some-vintage-luts-premiere-pro-free-and-paid-options-available-to-do/"><u>New In 2024, Do You Want Your Photos and Videos to Give an Old and Vintage Feel? Here Are some Vintage LUTs Premiere Pro Free and Paid Options Available to Download</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-fixes-for-mw2-dev-error-6068-enhancing-your-gaming-experience/"><u>Step-by-Step Fixes for MW2 Dev Error 6068: Enhancing Your Gaming Experience</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-are-you-a-newbie-across-youtube-want-to-know-who-the-best-vloggers-are-this-article-provides-you-with-the-best-vloggers-on-youtube-for-2024/"><u>Updated Are You a Newbie Across YouTube? Want to Know Who the Best Vloggers Are? This Article Provides You with the Best Vloggers on YouTube for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-lets-introduce-the-top-5-applications-to-add-a-song-to-a-video-for-free-with-some-amazing-sound-and-visual-effects-for-2024/"><u>Updated Lets Introduce the Top 5 Applications to Add a Song to a Video for Free with some Amazing Sound and Visual Effects for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-the-way-to-quick-and-efficient-editing-keyboard-shortcuts-in-filmora-for-2024/"><u>Updated The Way to Quick and Efficient Editing | Keyboard Shortcuts in Filmora for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-inside-vidma-a-new-chapter-in-video-capture-tech-for-2024/"><u>[New] Inside Vidma A New Chapter in Video Capture Tech for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-secrets-to-mastering-photosvideos-in-windows-11/"><u>[New] Secrets to Mastering Photos/Videos in Windows 11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-unlocking-the-secrets-of-your-personalized-youtube-playlists/"><u>[Updated] In 2024, Unlocking the Secrets of Your Personalized Youtube Playlists</u></a></li>
+<li><a href="https://win-lab.techidaily.com/comment-remettre-en-place-les-fichiers-image-manquants-sous-windows-11-et-10/"><u>Comment Remettre en Place Les Fichiers Image Manquants Sous Windows 11 Et 10</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-note-30-vip-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Note 30 VIP to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-wmv-file-format-has-many-benefits-over-the-video-industry-if-you-are-excited-to-know-more-about-the-format-and-its-pros-and-cons-then-lets/"><u>New 2024 Approved WMV File Format Has Many Benefits over the Video Industry. If You Are Excited to Know More About the Format and Its Pros and Cons, Then Lets Start the Discussion</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713961685281-new-are-you-thinking-of-learning-video-editing-in-the-final-cut-pro-software-in-this-article-you-will-learn-different-ways-of-splitting-and-merging-multiple/"><u>New Are You Thinking of Learning Video Editing in the Final Cut Pro Software? In This Article, You Will Learn Different Ways of Splitting and Merging Multiple Videos at Once as a New Skill to Get Your Business to a New Level for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-do-you-know-about-some-efficient-slow-motion-video-editors-read-this-article-to-find-out-the-best-slow-motion-video-editing-tools-that-you-can-try-for-2/"><u>New Do You Know About some Efficient Slow-Motion Video Editors? Read This Article to Find Out the Best Slow-Motion Video Editing Tools that You Can Try for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-zoom-webcam-on-pc/"><u>New In 2024, How to Zoom Webcam on PC</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-tech-savvy-approach-to-saving-your-insta-content-for-2024/"><u>The Tech-Savvy Approach to Saving Your Insta Content for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-the-art-of-fashioning-slow-motions-has-remained-popular-ever-since-read-this-article-to-learn-how-to-do-slow-mo-in-capcut-and-other-po/"><u>Updated 2024 Approved The Art of Fashioning Slow Motions Has Remained Popular Ever Since. Read This Article to Learn How to Do Slow-Mo in CapCut and Other Powerful Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-filmora-for-beginners-a-comprehensive-guide-to-creating-stunning-reaction-videos-for-2024/"><u>Updated Filmora for Beginners A Comprehensive Guide to Creating Stunning Reaction Videos for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-edit-youtube-videos-in-easy-steps/"><u>Updated In 2024, How To Edit Youtube Videos In Easy Steps</u></a></li>
 </ul></div>
 

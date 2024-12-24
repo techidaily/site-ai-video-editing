@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Learning How to Slow Down a Video on iPhone Properly
-date: 2024-12-02T18:48:09.151Z
-updated: 2024-12-09T18:14:01.349Z
+date: 2024-12-23T16:09:06.665Z
+updated: 2024-12-24T18:02:06.879Z
 tags: 
   - ai
   - animation videos
@@ -77,7 +77,7 @@ When you embark on a new experience, using something for the first time can be t
 ![add video on speedpro](https://images.wondershare.com/filmora/article-images/2023/slo-mo-effect-on-iphone-via-filmora-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2:** Once the video clip has been selected, click the “Done” button to import.
@@ -89,7 +89,7 @@ When you embark on a new experience, using something for the first time can be t
 ![change speed from slider and finalize](https://images.wondershare.com/filmora/article-images/2023/slo-mo-effect-on-iphone-via-filmora-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Slow Fast Slow - Control the Speed of Your Videos
@@ -97,10 +97,6 @@ When you embark on a new experience, using something for the first time can be t
 Use this application to record a slow-motion video or add the effect in post-production editing. This application offers a high frame rate of 240 fps for a high-grade slow-mo effect. This means you can now slow a video up to 1/16th of its original speed. It wins at creating slow motion with the iPhone’s built-in speed manipulation feature.
 
 ![slow fast slow app](https://images.wondershare.com/filmora/article-images/2023/slo-mo-effect-on-iphone-via-filmora-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -116,6 +112,10 @@ The encounter with an advanced tool or application is often stressful as you are
 
 ![select from other videos](https://images.wondershare.com/filmora/article-images/2023/slo-mo-effect-on-iphone-via-filmora-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Once the video has been imported, you will reach the editing interface. You’ll notice a slider with different points. These points indicate the time frames of your video. The slider is positioned downward to add a slow-mo effect at specific durations.
 
 ![manage slider graph](https://images.wondershare.com/filmora/article-images/2023/slo-mo-effect-on-iphone-via-filmora-10.jpg)
@@ -124,19 +124,11 @@ The encounter with an advanced tool or application is often stressful as you are
 
 ![export after selecting resolution](https://images.wondershare.com/filmora/article-images/2023/slo-mo-effect-on-iphone-via-filmora-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Slo Mo – Speed Up Video Editor
 
 Are you looking for a versatile application about **how to make a normal video slow-motion iPhone 13**? Fashioned to modify a video’s speed, this app can help you. It allows users to adjust the video speed up to 12x for slow and fast motion. In addition, you can alter the video frame rate up to 240 fps at precise frames.
 
 ![slo mo speed up video editor](https://images.wondershare.com/filmora/article-images/2023/slo-mo-effect-on-iphone-via-filmora-12.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Key Feature
 
@@ -160,6 +152,10 @@ Those initial stages of operating a new app and getting your hands on its UI are
 
 ![change slider speed from advanced](https://images.wondershare.com/filmora/article-images/2023/slo-mo-effect-on-iphone-via-filmora-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Further, select the “Export” icon appearing in the expanded menu.
 
 ![export video or share](https://images.wondershare.com/filmora/article-images/2023/slo-mo-effect-on-iphone-via-filmora-16.jpg)
@@ -171,7 +167,7 @@ Those initial stages of operating a new app and getting your hands on its UI are
 ![video speed editor slow and fast](https://images.wondershare.com/filmora/article-images/2023/slo-mo-effect-on-iphone-via-filmora-17.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Key Features
@@ -188,24 +184,20 @@ This application has an innovative user interface with a simple operational menu
 
 ![create new project in app](https://images.wondershare.com/filmora/article-images/2023/slo-mo-effect-on-iphone-via-filmora-18.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** From the Videos section of your media, select a video and hit “Choose.”
 
 ![choose video for speed adjustment](https://images.wondershare.com/filmora/article-images/2023/slo-mo-effect-on-iphone-via-filmora-19.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** In the editing interface, simply select a speed option from -2x to -8x for slowing. Once the video is slowed down according to your preferences, export it.
 
 ![change video speed and export](https://images.wondershare.com/filmora/article-images/2023/slo-mo-effect-on-iphone-via-filmora-20.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Failed to Slow Down Video Properly? Try Wondershare Filmora as a Remedy
@@ -240,15 +232,15 @@ If the slow motion seems rough or abrupt, Filmora has a solution to that as well
 
 ![enable the super slow motion effect](https://images.wondershare.com/filmora/article-images/2023/slo-mo-effect-on-iphone-via-filmora-27.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 4Rendering for Final Preview
 
 To observe the overall results, navigate towards the top toolbar. Select the "File" tab and "Render Preview" from the dropdown menu. After reviewing the final video, use your cursor to click the "Export" button.
 
 ![enable the render preview function](https://images.wondershare.com/filmora/article-images/2023/slo-mo-effect-on-iphone-via-filmora-28.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features of Wondershare Filmora
 
@@ -270,6 +262,10 @@ Filmora offers an extensive range of color correction elements to enhance visibi
 
 Another important feature that helps with interactive video creation is text-to-speech. It allows users to transform text into speech with voice selection options. The software has been trained on NLP and integrates realistic voices in videos. Being closer to the human voice helps with better audience interaction and understanding.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 The main theme of this article was **how to slow down a video on iPhone** and the tools to do it. We mentioned 4 applications that are compatible with higher versions of the iPhone. In addition, the article provided detailed guides on all these applications.
@@ -280,6 +276,10 @@ Among them, Wondershare Filmora has been integrated with an advanced slow-mo fea
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -289,20 +289,24 @@ Among them, Wondershare Filmora has been integrated with an advanced slow-mo fea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-understanding-auto-hdr-techniques-in-modern-cameras-for-2024/"><u>[New] Understanding Auto HDR Techniques in Modern Cameras for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-how-to-light-your-youtube-video/"><u>[Updated] 2024 Approved How To Light Your YouTube Video</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-artisans-touch-skillfully-applying-face-centric-motion-blur-using-picsart/"><u>[Updated] 2024 Approved The Artisan’s Touch Skillfully Applying Face-Centric Motion Blur Using Picsart</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-stepwise-approach-implementing-luts-in-adobes-premiere-suite/"><u>[Updated] Stepwise Approach Implementing LUTs in Adobe's Premiere Suite</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-the-right-device-chromebook-or-laptop-find-what-suits-you-best/"><u>Choosing the Right Device: Chromebook or Laptop - Find What Suits You Best</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-fix-for-msxml3-error-eliminating-issue-0x887a0006-with-precision/"><u>Effortless Fix for MsXML3 Error - Eliminating Issue 0X887A0006 with Precision</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-zte-blade-a73-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from ZTE Blade A73 5G to New Phone | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-record-videos-with-a-phantom-high-speed-camera-in-this-guide-you-can-get-a-detailed-note-on-the-phantom-camera/"><u>New 2024 Approved Do You Want to Record Videos with a Phantom High-Speed Camera? In This Guide, You Can Get a Detailed Note on the Phantom Camera</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-the-ultimate-guide-for-the-10-leading-slow-motion-cameras-for-2024/"><u>New The Ultimate Guide for the 10 Leading Slow-Motion Cameras for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-battle-for-fair-competition-separating-tech-titans/"><u>The Battle for Fair Competition: Separating Tech Titans</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-learn-how-to-make-a-gaming-montage-guide-and-tips/"><u>Updated 2024 Approved Learn How to Make a Gaming Montage - Guide & Tips</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-a-newbie-across-youtube-want-to-know-who-the-best-vloggers-are-this-article-provides-you-with-the-best-vloggers-on-youtube/"><u>Updated In 2024, Are You a Newbie Across YouTube? Want to Know Who the Best Vloggers Are? This Article Provides You with the Best Vloggers on YouTube</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-put-a-background-on-a-green-screen/"><u>Updated In 2024, How to Put a Background on A Green Screen</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-looking-for-efficient-ways-to-create-a-slow-motion-video-read-the-article-for-reliable-solutions-that-provide-excellent-results-for-2024/"><u>Updated Looking for Efficient Ways to Create a Slow-Motion Video? Read the Article for Reliable Solutions that Provide Excellent Results for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-top-10-anime-movies-of-all-time-for-2024/"><u>Updated Top 10 Anime Movies of All Time for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ditors-compendium-top-devices-transforming-media-projects/"><u>[New] Editor's Compendium Top Devices Transforming Media Projects</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ow-to-make-a-striking-yt-preview-with-optimal-thumbnail-sizing-for-2024/"><u>[New] How to Make a Striking YT Preview with Optimal Thumbnail Sizing for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-flawless-sound-overlap-exploring-crossfade/"><u>[Updated] Flawless Sound Overlap Exploring Crossfade</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-choreographing-ideal-canon-time-lapse-shots/"><u>[Updated] In 2024, Choreographing Ideal Canon Time-Lapse Shots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-snapshots-with-vsco-essentials/"><u>[Updated] Transform Your Snapshots with VSCO Essentials</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-top-10-vr-apps-for-iphoneandroid/"><u>2024 Approved Top 10 VR Apps for iPhone/Android</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chart-your-course-freegpt-in-the-windows-sphere/"><u>Chart Your Course: FreeGPT in the Windows Sphere</u></a></li>
+<li><a href="https://review-topics.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-vivo-y36i-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Vivo Y36i in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-exquisite-drone-fleet-the-pinnacle-of-visual-artistry/"><u>In 2024, Exquisite Drone Fleet The Pinnacle of Visual Artistry</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-check-out-all-details-about-kinemaster-here-and-understand-how-to-add-effects-in-kinemaster-you-can-use-the-chroma-key-for-the-green-scree/"><u>New 2024 Approved Check Out All Details About Kinemaster Here and Understand How to Add Effects in Kinemaster. You Can Use the Chroma Key for the Green Screen as Well</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-do-you-wish-to-design-the-perfect-slow-motion-video-on-your-smartphone-learn-some-top-rated-free-slow-mo-apps-for-android-and-ios-users-in-this-article-/"><u>New Do You Wish to Design the Perfect Slow-Motion Video on Your Smartphone? Learn some Top-Rated Free Slow-Mo Apps for Android and iOS Users in This Article for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-put-a-background-on-a-green-screen-for-2024/"><u>New How to Put a Background on A Green Screen for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-zoom-webcam-on-pc/"><u>New In 2024, How to Zoom Webcam on PC</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-slow-down-the-gif-to-emphasize-details-better-to-do-so-read-this-guide-and-learn-to-use-the-best-platforms-for-slow-motion-gifs/"><u>New In 2024, Slow Down the GIF to Emphasize Details Better. To Do so, Read This Guide and Learn to Use the Best Platforms for Slow-Motion GIFs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-sony-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Sony Phone Hassle-Free</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-the-art-of-fashioning-slow-motions-has-remained-popular-ever-since-read-this-article-to-learn-how-to-do-slow-mo-in-capcut-and-other-po/"><u>Updated 2024 Approved The Art of Fashioning Slow Motions Has Remained Popular Ever Since. Read This Article to Learn How to Do Slow-Mo in CapCut and Other Powerful Tools</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-exploring-tools-to-integrate-special-mask-effects-into-your-content-read-the-following-article-to-master-some-tools-experts-in-mask-tracking-for-202/"><u>Updated Exploring Tools to Integrate Special Mask Effects Into Your Content. Read the Following Article to Master some Tools Experts in Mask Tracking for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-did-you-know-cameras-have-a-built-in-feature-to-shoot-slow-motion-clips-this-article-is-about-using-sony-sandq-to-capture-slow-motion-scenes/"><u>Updated In 2024, Did You Know Cameras Have a Built-In Feature to Shoot Slow-Motion Clips? This Article Is About Using Sony S&Q to Capture Slow-Motion Scenes</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-follow-the-trend-of-making-slow-motion-videos-with-a-camera-lenta-capcut-template-learn-everything-about-capcut-and-find-its-alternatives-in/"><u>Updated In 2024, Follow the Trend of Making Slow-Motion Videos with a Camera Lenta CapCut Template. Learn Everything About CapCut and Find Its Alternatives in This Article</u></a></li>
 </ul></div>
 

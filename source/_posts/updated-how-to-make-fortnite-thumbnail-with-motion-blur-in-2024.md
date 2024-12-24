@@ -1,7 +1,7 @@
 ---
 title: Updated How to Make Fortnite Thumbnail with Motion Blur, In 2024
-date: 2024-12-12T19:24:42.815Z
-updated: 2024-12-15T18:35:10.864Z
+date: 2024-12-20T18:54:27.969Z
+updated: 2024-12-24T19:01:10.406Z
 tags: 
   - ai
   - animation videos
@@ -45,6 +45,10 @@ You will have to import the created Fortnite thumbnail that is to be edited. Aft
 
 ![choose the effects tool](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3 Add Motion Blur and Export
 
 On the next screen, look for the "Blur" section from the bottom and find the "Motion Blur" effect. As it is added, you can use the "Erase" button on the top to adjust the motion blur effect on the image according to the objects. Once done, tap on the "Apply" button to conclude by adding motion blur.
@@ -52,7 +56,7 @@ On the next screen, look for the "Blur" section from the bottom and find the "Mo
 ![apply the motion blur](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 2: Make Motion Blur Fortnite Thumbnail with Fotor (Online)
@@ -75,10 +79,6 @@ In the “Adjust” tab, look for the “Blur” option for including motion blu
 
 ![select the blur type](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step3 Manage Intensity and Download
 
 Continue to set the “Blur Intensity” and make changes by clicking “Apply.” If you wish to blur your background, consider using the “Background Blur” option in the list. Once the editing completes, click “Download” to export the Fortnite thumbnail.
@@ -86,7 +86,7 @@ Continue to set the “Blur Intensity” and make changes by clicking “Apply.�
 ![adjust the blur intensity](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 3: Make Motion Blur Fortnite Thumbnail with Photoshop (Desktop)
@@ -104,7 +104,7 @@ You must start Adobe Photoshop on your desktop after downloading and installing 
 ![import the fortnite thumbnail](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step2 Create a Separate Object Layer
@@ -113,15 +113,15 @@ To start with the process, right-click and create a duplicate layer by selecting
 
 ![create the duplicate layer](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step3 Add Motion Blur to Object
 
 Create another duplicate layer and proceed to the "Filter" tab. Look for "Blur Gallery" in the options and select "Motion Blur" from the following menu. You must set the "Angle," "Distance," and other appropriate settings to continue. Once done, save the Fortnite thumbnail with the added motion blur.
 
 ![choose the motion blur](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Last Words
 
@@ -144,16 +144,20 @@ In this article, we will work on the best methods to make a **Fortnite motion bl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-extensive-review-gopro-hero4-slr4-black-edition/"><u>[New] 2024 Approved Extensive Review GoPro Hero4 SLR4 Black Edition</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-effortless-guide-to-secure-and-free-youtube-music-downloads/"><u>[Updated] In 2024, Effortless Guide to Secure and Free YouTube Music Downloads</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-top-5-xbox-external-hard-drive-you-can-find/"><u>[Updated] In 2024, Top 5 Xbox External Hard Drive You Can Find</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-realme-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/mobile-filming-tools-for-tourists/"><u>Mobile Filming Tools for Tourists</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-do-you-wish-to-design-the-perfect-slow-motion-video-on-your-smartphone-learn-some-top-rated-free-slow-mo-apps-for-android-and-ios-users-in-this-article-/"><u>New Do You Wish to Design the Perfect Slow-Motion Video on Your Smartphone? Learn some Top-Rated Free Slow-Mo Apps for Android and iOS Users in This Article for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-put-a-background-on-a-green-screen-for-2024/"><u>New How to Put a Background on A Green Screen for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-slow-down-the-gif-to-emphasize-details-better-to-do-so-read-this-guide-and-learn-to-use-the-best-platforms-for-slow-motion-gifs/"><u>New In 2024, Slow Down the GIF to Emphasize Details Better. To Do so, Read This Guide and Learn to Use the Best Platforms for Slow-Motion GIFs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solidifying-stability-tips-for-flaky-amd-freesync/"><u>Solidifying Stability: Tips for Flaky AMD FreeSync</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ltimate-tripod-techniques-for-video-creators/"><u>The Ultimate Tripod Techniques for Video Creators</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-follow-the-trend-of-making-slow-motion-videos-with-a-camera-lenta-capcut-template-learn-everything-about-capcut-and-find-its-alternatives-in/"><u>Updated In 2024, Follow the Trend of Making Slow-Motion Videos with a Camera Lenta CapCut Template. Learn Everything About CapCut and Find Its Alternatives in This Article</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-grow-to-1k-per-month-master-the-art-of-ig-popularity/"><u>[New] 2024 Approved Grow to 1K Per Month Master the Art of IG Popularity</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-expert-screen-capture-recommendations-for-google-meet-professionals-for-2024/"><u>[Updated] Expert Screen Capture Recommendations for Google Meet Professionals for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-zd-soft-screen-recorder-key-features-and-review-for-2024/"><u>[Updated] ZD Soft Screen Recorder Key Features and Review for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-vivo-x90s-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Vivo X90S to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/from-mpeg-4-to-multifarious-formats-a-guide-using-vlc-for-2024/"><u>From MPEG-4 to Multifarious Formats A Guide Using VLC for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-agile-quick-windows-picture-sorter/"><u>In 2024, Agile Quick Windows Picture Sorter</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-guide-to-using-luts-perfectly-in-final-cut-pro/"><u>In 2024, Guide To Using Luts Perfectly in Final Cut Pro</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-innovative-designs-unleashed-comprehensive-guide-to-animation-suites/"><u>In 2024, Innovative Designs Unleashed Comprehensive Guide to Animation Suites</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-what-is-hdri-everything-you-need-to-know-about-hdri/"><u>New 2024 Approved What Is HDRI? Everything You Need to Know About HDRI</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/stream-all-your-favorites-with-xfinity-access-netflix-peacock-and-apple-tvplus-in-one-handy-package/"><u>Stream All Your Favorites with Xfinity: Access Netflix, Peacock & Apple TV+ in One Handy Package!</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-use-premiere-pro-and-want-to-learn-how-to-change-a-videos-frame-rate-using-the-tool-here-are-the-steps-that-you-need-to-follow./"><u>Updated 2024 Approved Do You Use Premiere Pro and Want to Learn How to Change a Videos Frame Rate Using the Tool? Here Are the Steps that You Need to Follow</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-best-online-youtube-video-trimmer/"><u>Updated Best Online YouTube Video Trimmer</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-add-font-effects-to-videos/"><u>Updated How to Add Font Effects to Videos</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713954225633-updated-whatre-the-best-alternatives-to-pexels-in-2024/"><u>Updated Whatre the Best Alternatives to Pexels, In 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/winx-dvd-digiarty-faqn/"><u>よくあるWinX DVD Digiartyソフトウェアに関する質問 - FAQセクショn解説</u></a></li>
 </ul></div>
 

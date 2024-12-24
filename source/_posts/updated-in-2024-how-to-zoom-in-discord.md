@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Zoom in Discord
-date: 2024-12-12T16:03:32.457Z
-updated: 2024-12-15T22:05:32.329Z
+date: 2024-12-17T17:09:03.076Z
+updated: 2024-12-24T18:09:42.785Z
 tags: 
   - ai
   - animation videos
@@ -19,10 +19,6 @@ Discord is the most popular platform for communication among gaming communities 
 
 There could also be a scenario where you have excessive zoom in effect, and you need to zoom out for better readability. Similarly, if you have pressed the wrong shortcuts accidentally and the screen on Discord has zoomed in, you have to zoom out to bring the screen to its original state. We will illustrate how to zoom out in Discord as well for computer, smartphone, and online users.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Zoom Discord on Computer
 
 Since Discord is mostly popular among gamers, Discord desktop app is the most widely used. If you want to zoom in on Discord desktop app, you should know that the zoom option is not readily available under any menu, and there is no keyboard shortcut you can press to zoom in and zoom out instantly. Instead, here are the steps on how to zoom in on Discord.
@@ -31,15 +27,27 @@ Step1Launch Discord desktop app on your computer. Click on the Gear icon located
 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/launch-discord-desktop-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2Once Settings window opens, go to App Settings section from the left side and click on Appearance option.
 
 Step3On the right section, scroll down, and you will find three options for zooming – Chat font scaling, Space between message groups, and Zoom level.
 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/discord-nitro-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4According to your requirements, you can move the slider to the right to zoom in on Discord. You can also press Ctrl and “+” keys together to zoom in. Press Ctrl and “-“ keys together to zoom out. If you want to reset the changes, press Ctrl and O keys together.
 
 Step5Once you are satisfied with the level of zooming, press Esc key on your keyboard to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Zoom Discord Online
 
@@ -58,11 +66,7 @@ Alternatively, you can simply launch Discord on any browser and press Ctrl and �
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/zoom-discord-screen-online.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Zoom Discord on Mobile
@@ -80,14 +84,10 @@ Step3Scroll down and come to Chat Font Scaling and move the slider to the right 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/discord-appearance-zoom.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 There is Reset option at the bottom to cancel out the changes made as far as zoom effect goes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -106,15 +106,18 @@ There could also be a scenario where you have excessive zoom in effect, and you 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-top-5-underwater-gopro-accessories-for-2024/"><u>[New] Top 5 Underwater Gopro Accessories for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-comprehensive-guide-to-advanced-screen-capture-via-adobe-captive/"><u>[Updated] Comprehensive Guide to Advanced Screen Capture via Adobe Captive</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-podcasting-made-simple-techniques-and-free-sample-scripts-inside/"><u>[Updated] Podcasting Made Simple Techniques and Free Sample Scripts Inside</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-honor-x9b-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Honor X9b to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-downloading-and-altering-whatsapp-ringtone-files/"><u>In 2024, How-To Downloading and Altering WhatsApp Ringtone Files</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-iconic-youtube-recognition-click-counter-awards/"><u>In 2024, Iconic YouTube Recognition - Click Counter Awards</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-are-you-looking-for-a-video-format-converter-free-we-will-introduce-the-5-best-online-converters-and-also-the-5-best-video-format-converters-for/"><u>New In 2024, Are You Looking for a Video Format Converter Free? We Will Introduce the 5 Best Online Converters and Also the 5 Best Video Format Converters for PC</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-vlogs-and-travel-content-are-incomplete-without-a-fast-motion-effect-learn-step-by-step-how-to-make-fast-motion-video-on-an-iphone-in-this-artic/"><u>New In 2024, Vlogs and Travel Content Are Incomplete without a Fast-Motion Effect. Learn Step-by-Step How to Make Fast Motion Video on an iPhone in This Article</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-zoom-in-and-out-on-mac/"><u>Updated In 2024, How to Zoom In and Out on Mac</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-the-benefits-of-using-video-for-social-media-marketing-for-2024/"><u>Updated The Benefits Of Using Video For Social Media Marketing for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720669078054-advanced-video-fixup-fiasco-help-needed/"><u>Advanced Video Fixup Fiasco: Help Needed</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-lava-yuva-3-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Lava Yuva 3? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-infinix-hot-30-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Infinix Hot 30 5G</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-from-sideways-to-symmetry-the-instagram-chronicles-of-flipping-photos/"><u>In 2024, From Sideways to Symmetry The Instagram Chronicles of Flipping Photos</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-clearly-the-efectum-app-download-without-a-watermark-option-is-on-android-phones-thus-read-this-review-on-the-efectum-app-and-find-replace/"><u>New 2024 Approved Clearly, the Efectum App Download without a Watermark Option Is on Android Phones. Thus, Read This Review on the Efectum App and Find Replacements for Good</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-the-benefits-of-using-video-for-social-media-marketing/"><u>New In 2024, The Benefits Of Using Video For Social Media Marketing</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713966084879-new-would-you-like-to-know-how-to-change-the-ratio-of-the-video-or-which-is-the-correct-aspect-ratio-for-uploading-to-the-online-platform-then-go-through-th/"><u>New Would You Like to Know How to Change the Ratio of the Video or Which Is the Correct Aspect Ratio for Uploading to the Online Platform? Then, Go Through the Article to Get Complete Details About the Video Aspect Ratio for 2024</u></a></li>
+<li><a href="https://solve-news.techidaily.com/optimisez-le-traffic-sur-instagram-avec-des-meilleurs-convertisseurs-de-video-des-solutions-innovantes-et-efficientes/"><u>Optimisez Le Traffic Sur Instagram Avec Des Meilleurs Convertisseurs De Vidéo : Des Solutions Innovantes Et Efficientes</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-lava-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Lava</u></a></li>
+<li><a href="https://article-files.techidaily.com/srgb-standardization-the-next-step-beyond-traditional-rgb/"><u>Srgb Standardization The Next Step Beyond Traditional Rgb</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-want-to-make-your-photos-and-videos-look-different-from-others-there-are-many-lightroom-luts-free-and-they-make-your-media-cont/"><u>Updated 2024 Approved Do You Want to Make Your Photos and Videos Look Different From Others? There Are Many Lightroom LUTs Free, and They Make Your Media Content Stand Out From Others</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-trying-to-make-slow-mo-videos-on-instagram-in-this-article-we-will-discuss-top-rated-ways-to-produce-perfect-slow-motion-videos-for-/"><u>Updated In 2024, Are You Trying to Make Slow-Mo Videos on Instagram? In This Article, We Will Discuss Top-Rated Ways to Produce Perfect Slow-Motion Videos for Instagram</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-want-to-find-a-good-camera-for-youtube-this-article-brings-you-some-of-the-best-options-of-different-varieties-for-your-channel-for-2024/"><u>Updated Want to Find a Good Camera for YouTube? This Article Brings You some of the Best Options of Different Varieties for Your Channel for 2024</u></a></li>
 </ul></div>
 

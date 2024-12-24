@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Are You Looking to Make a Thumbnail for Your Fortnite Video? This Article Features a Guide Explaining Creating a Fortnite Motion Blur Thumbnail
-date: 2024-12-09T17:44:04.505Z
-updated: 2024-12-15T17:20:25.991Z
+date: 2024-12-19T18:28:47.207Z
+updated: 2024-12-24T17:30:59.653Z
 tags: 
   - ai
   - animation videos
@@ -24,6 +24,10 @@ In this article, we will work on the best methods to make a **Fortnite motion bl
 ## Part 1: How to Add Motion Blur to Fortnite Thumbnail?
 
 There are many ways to add motion blur to Fortnite thumbnails, as stated above. In this article, we will be providing appropriate methods for users of all types. From smartphone to online and desktop solutions, this article has it all.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Way 1: Make Motion Blur Fortnite Thumbnail with Picsart (Smartphone)
 
@@ -55,10 +59,6 @@ On the next screen, look for the "Blur" section from the bottom and find the "Mo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Way 2: Make Motion Blur Fortnite Thumbnail with Fotor (Online)
 
 If you are not a fan of smartphone applications, you can consider opting for online methods. While these platforms do not require installing anything on your desktop, they are easy to manage. [Fotor](https://www.fotor.com/) is a great online photo editor featuring exceptional services for enhancing photos. It allows you to make all appropriate edits by including effects, transitions, and other photo enhancements. You can also find its designer for improving your Fortnite thumbnails.
@@ -73,25 +73,21 @@ You must open the Fotor Photo Editor on your web browser. Then, proceed to impor
 
 ![upload the fortnite thumbnail](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step2 Add Motion Blur on Photo
 
 In the “Adjust” tab, look for the “Blur” option for including motion blur within the photo. You can select “Circular” or “Linear” blur, per the requirements.
 
 ![select the blur type](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step3 Manage Intensity and Download
 
 Continue to set the “Blur Intensity” and make changes by clicking “Apply.” If you wish to blur your background, consider using the “Background Blur” option in the list. Once the editing completes, click “Download” to export the Fortnite thumbnail.
 
 ![adjust the blur intensity](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Way 3: Make Motion Blur Fortnite Thumbnail with Photoshop (Desktop)
 
@@ -113,15 +109,15 @@ To start with the process, right-click and create a duplicate layer by selecting
 
 ![create the duplicate layer](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step3 Add Motion Blur to Object
 
 Create another duplicate layer and proceed to the "Filter" tab. Look for "Blur Gallery" in the options and select "Motion Blur" from the following menu. You must set the "Angle," "Distance," and other appropriate settings to continue. Once done, save the Fortnite thumbnail with the added motion blur.
 
 ![choose the motion blur](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Last Words
 
@@ -135,6 +131,10 @@ In this article, we will work on the best methods to make a **Fortnite motion bl
 
 ![fortnite thumbnail with motion blur](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -144,20 +144,21 @@ In this article, we will work on the best methods to make a **Fortnite motion bl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-avoid-distraction-with-firm-footage-capture-for-2024/"><u>[New] Avoid Distraction with Firm Footage Capture for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-heroes-journey-compilation-a-selection-of-top-10-adventure-games/"><u>[New] In 2024, Heroes' Journey Compilation A Selection of Top 10 Adventure Games</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-skyrocket-views-with-these-proven-youtube-optimization-strategies/"><u>[New] In 2024, Skyrocket Views with These Proven YouTube Optimization Strategies</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-comprehensive-approach-to-online-advertising-mastery-for-2024/"><u>A Comprehensive Approach to Online Advertising Mastery for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-laptop-fan-pad-a-comprehensive-look-at-topmates-model-c302/"><u>Budget-Friendly Laptop Fan Pad: A Comprehensive Look at TopMate's Model C302</u></a></li>
-<li><a href="https://driver-error.techidaily.com/diagnose-and-repair-slimbooks-wi-fi-issue/"><u>Diagnose and Repair SlimBook's Wi-Fi Issue</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/expert-tips-for-enhancing-frame-rate-and-smoothness-in-pc-racing-game-f1-2021/"><u>Expert Tips for Enhancing Frame Rate and Smoothness in PC Racing Game F1 2021</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1723262400368-get-your-hands-on-a-high-performance-lenovo-legion-desktop-with-rtx-4080-gpu-priced-at-an-amazing-low-of-2091/"><u>Get Your Hands on a High-Performance Lenovo Legion Desktop with RTX 4080 GPU - Priced at an Amazing Low of $2,091!</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How to Fix Pokemon Go Route Not Working On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Motorola Edge 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-depth-look-at-amazonbasics-affordable-flat-antenna-for-catching-free-broadcasts/"><u>In-Depth Look at AmazonBasics' Affordable Flat Antenna for Catching Free Broadcasts</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/mastering-stability-in-halo-infinite-preventing-pc-game-interruptions/"><u>Mastering Stability in Halo Infinite: Preventing PC Game Interruptions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/snapchat-like-stories-adding-movement-to-instagram-texts-for-2024/"><u>Snapchat-Like Stories Adding Movement to Instagram Texts for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/toms-tech-insights-comprehensive-reviews-and-advice/"><u>Tom's Tech Insights: Comprehensive Reviews & Advice</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/unlock-new-gaming-adventures-for-your-nes-classic-console/"><u>Unlock New Gaming Adventures for Your NES Classic Console!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-maximizing-channel-visibility-banner-size-and-art-dimensions-explained/"><u>[Updated] Maximizing Channel Visibility Banner Size and Art Dimensions Explained</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1-top-graphics-card-issues-on-windows-systems-a-comprehensive-guide-by-yl-computing/"><u>1. Top Graphics Card Issues on Windows Systems: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-deciding-on-a-digital-domain-obs-vs-twitch-studio/"><u>2024 Approved Deciding on a Digital Domain OBS Vs Twitch Studio</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/automated-data-gathering-with-cookiebot-solutions/"><u>Automated Data Gathering with Cookiebot Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-lg-um7300-49-inch-4k-led-tv-comprehensive-analysis-for-savvy-shoppers/"><u>Budget-Friendly LG UM7300 49-Inch 4K LED TV: Comprehensive Analysis for Savvy Shoppers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-instant-thumbnails-for-fortnite-gameplay/"><u>In 2024, Instant Thumbnails for Fortnite Gameplay</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/iosmac/"><u>IOSデバイスからMacへ:動画、音楽、写真の完全移行とセーフティーネット方法</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-are-you-looking-for-a-video-format-converter-free-we-will-introduce-the-5-best-online-converters-and-also-the-5-best-video-format-converte/"><u>New 2024 Approved Are You Looking for a Video Format Converter Free? We Will Introduce the 5 Best Online Converters and Also the 5 Best Video Format Converters for PC</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-steps-to-make-a-neon-dance-effect-with-filmora/"><u>New 2024 Approved Steps to Make a Neon Dance Effect With Filmora</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-14-pro-max-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone 14 Pro Max Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-slowing-down-gif-with-the-best-available-methods/"><u>Updated 2024 Approved Slowing Down GIF With The Best Available Methods</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-want-to-show-your-mood-in-your-digital-media-content-but-dont-know-how-to-there-are-many-moody-luts-available-that-highlight-your-moo/"><u>Updated In 2024, Do You Want to Show Your Mood in Your Digital Media Content but Dont Know How To? There Are Many Moody LUTs Available that Highlight Your Mood in Your Content</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-much-information-do-you-have-about-mp4-digital-file-storage-let-us-tell-you-more-about-the-mp4-file-format-get-ready-to-increase-your-kn/"><u>Updated In 2024, How Much Information Do You Have About MP4 Digital File Storage? Let Us Tell You More About the MP4 File Format; Get Ready to Increase Your Knowledge</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-using-ai-to-replace-skies-finding-the-right-methods/"><u>Updated In 2024, Using AI to Replace Skies Finding the Right Methods</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-premiere-pro-slow-playback-issues-finding-the-best-solutions-for-2024/"><u>Updated Premiere Pro Slow Playback Issues Finding The Best Solutions for 2024</u></a></li>
 </ul></div>
 

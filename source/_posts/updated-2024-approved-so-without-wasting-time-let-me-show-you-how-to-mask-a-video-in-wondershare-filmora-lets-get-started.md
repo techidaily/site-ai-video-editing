@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved So, without Wasting Time, Let Me Show You How to Mask a Video in Wondershare Filmora. Lets Get Started
-date: 2024-12-02T18:02:11.957Z
-updated: 2024-12-09T16:50:06.296Z
+date: 2024-12-21T18:07:39.306Z
+updated: 2024-12-24T19:25:08.792Z
 tags: 
   - ai
   - animation videos
@@ -21,6 +21,10 @@ Masking is a video effect that allows you to cut out a scene and use the overlay
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### _Masking Trick 1:_
 
 First, you need to shoot footage to add the masking effect. To do that, find a doorway with enough space to walk back and forth before setting up a camera with a tripod facing the entrance. Make sure you set the camera at the center height of the door to prevent lens distortion.
@@ -32,12 +36,16 @@ With the tripod set up, film yourself walking behind the door toward the camera.
 ![walk backwards](https://images.wondershare.com/filmora/article-images/2023/01/walk-backwards.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 1 Fire up Wondershare Filmora, then import the clip on the video editor. After that, move the clip to the timeline by merely dragging it. Add two clips on the first and second tracks.
 
 ![fire up wondershare filmora](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2 Now proceed to hide the first track before adding a freeze frame on the second track. To do that, move the playhead to find the starting scene with the door frame without your subject. Then, right-click the clip and tap **Add Freeze Frame**. After that, extend the freeze frame area and cut out the rest of the clip.
 
@@ -47,6 +55,10 @@ Step 3 Next, click the **Effect** button and find the **Image Mask** effect in t
 
 ![click the effect button](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4 Double-click the clip to open the video editing options, then choose a rectangle image mast under **Video Effects**. Ensure the mask is inverted by clicking the **Invert Mask** checkbox. Now adjust the mast to match the door frame before clicking **Ok**.
 
 ![double-click the clip](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-4.jpg)
@@ -54,10 +66,6 @@ Step 4 Double-click the clip to open the video editing options, then choose a re
 Step 5 Up to this point, unhide the first track, then find the scene where the subject appears on the door frame. On the first track, cut the clip before the subject appears on the stage before cutting the scene where the subject crosses the door frame for the second time on the second track. Now play the video to view your masking effect.
 
 ![unhide the first track](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Masking Trick: 2_
 
@@ -73,22 +81,22 @@ Step 1 Import the clip on Filmora, then add the footage on the first and second 
 
 ![import the clip on filmora](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2 Next, click **Effects**, choose **Utility**, then drag the **Image Mask** effect on the second video track. Then, double-click the second clip, select **Video Effects**, and choose a rectangular option that masks the right side of the frame.
 
 Now adjust the mask until it covers the entire right side of the tree. After that, unhide the first clip and move the second to match the first clip's timing. You can also cut out everything outside the scene of the first clip.
 
 ![adjust the mask](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3 Play the video to see your subject walking in both directions of the tree.
 
 ![play the video to see your subject walking in both directions of the tree](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Masking Trick 3:_
@@ -109,33 +117,25 @@ Step 2 Now, it's time to customize the clip with a mask. To do that, head to the
 
 ![customize the clip with a mask](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3 Double-click the video track and choose an image mask under **Video Effects**. Note that you may need several combinations of masks to mask out the sky and leave the building. So, play around with different masking shapes until the sky is covered.
 
 ![double-click the video track](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4 After masking, unhide the first track on the timeline before playing the video to find the scene where the subject appears and cut off everything before that scene. Also, find the scene where the subject jumps in the air and cut the clip in the second track. Then, delete everything after that scene.
 
 ![unhide the first track on the timeline](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5 Play the video to see your subject jumping over the building and walking away from the scene.
 
 ![play the video to see your subject](https://images.wondershare.com/filmora/article-images/2023/01/masking-tricks-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -152,19 +152,20 @@ That was easy, right? Playing around with Filmora's masking tools can create inc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-dash.techidaily.com/download-hp-deskjet-2755e-driver-on-windows/"><u>[Download] HP DeskJet 2755E Driver on Windows</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-savvy-seekers-guide-to-spotting-superb-photos-on-pexels/"><u>[New] The Savvy Seeker's Guide to Spotting Superb Photos on Pexels</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-ranking-top-9-puzzle-games-for-offline-play-for-2024/"><u>[New] The Ultimate Ranking Top 9 Puzzle Games for Offline Play for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-cinematic-basics-unveiled-fundamental-shots-explained-clearly/"><u>2024 Approved Cinematic Basics Unveiled Fundamental Shots Explained Clearly</u></a></li>
-<li><a href="https://fox-where.techidaily.com/erreur-dacces-refusee-sur-windows-10-comment-resoudre-le-probleme/"><u>Erreur D’Accès Refusée Sur Windows 10 - Comment Résoudre Le Problème?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-capturing-facebook-hd-videos-for-later-use/"><u>In 2024, Capturing Facebook HD Videos for Later Use</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-guide-to-using-luts-perfectly-in-final-cut-pro/"><u>In 2024, Guide To Using Luts Perfectly in Final Cut Pro</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/is-windows-movie-maker-still-available-for-2024/"><u>Is Windows Movie Maker Still Available for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-this-article-aim-to-teach-you-how-to-make-a-night-to-day-effect-video-with-filmora-follow-the-steps-to-figure-it-out/"><u>New 2024 Approved This Article Aim to Teach You How to Make a Night to Day Effect Video with Filmora. Follow the Steps to Figure It Out</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-get-motion-blur-in-roblox/"><u>New In 2024, How to Get Motion Blur in Roblox?</u></a></li>
-<li><a href="https://facebook.techidaily.com/reminisce-connections-a-dive-into-facebooks-past/"><u>Reminisce Connections: A Dive Into Facebook's Past</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/streaming-showdown-the-podcast-challenge-to-youtubes-dominance/"><u>Streaming Showdown The Podcast Challenge to YouTube’s Dominance</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-4-ways-to-loop-a-video-on-vimeo-for-2024/"><u>Updated 4 Ways to Loop a Video on Vimeo for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-discover-the-joy-of-mobile-podcasts-for-2024/"><u>[New] Discover the Joy of Mobile Podcasts for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-mastering-srt-integration-in-mp4s-a-complete-blueprint/"><u>[Updated] In 2024, Mastering SRT Integration in MP4s A Complete Blueprint</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-imageclass-mf4800-obtain-the-latest-printer-drivers-here/"><u>Canon ImageClass MF4800 - Obtain the Latest Printer Drivers Here!</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-add-freeze-frame-to-your-video-from-any-device/"><u>In 2024, How to Add Freeze Frame to Your Video From Any Device?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-unveiling-underground-favorites-in-the-world-of-memes/"><u>In 2024, Unveiling Underground Favorites in the World of Memes</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-100-working-methods-to-learn-how-to-rotate-tiktok-video/"><u>New 100 Working Methods to Learn How to Rotate TikTok Video</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-different-ways-to-crop-tiktok-video-in-high-quality/"><u>New In 2024, Different Ways to Crop TikTok Video in High-Quality</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-honor-magic-v2-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Honor Magic V2 and Browser | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/replenish-your-print-quality-a-guide-to-fix-low-or-no-ink-problems-with-tips-from-yl-software-experts/"><u>Replenish Your Print Quality! A Guide to Fix Low or No-Ink Problems with Tips From YL Software Experts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/techniques-for-enhancing-game-stream-videos-with-ai-portrait-technology-for-2024/"><u>Techniques for Enhancing Game Stream Videos with AI Portrait Technology for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/technological-termination-device-fatality/"><u>Technological Termination: Device Fatality</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-top-8-sites-to-download-glitch-transition-for-premiere-pro/"><u>Updated In 2024, Top 8 Sites to Download Glitch Transition for Premiere Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-level-up-videos-by-applying-keyframe-like-a-pro-for-2024/"><u>Updated Level Up Videos By Applying Keyframe Like A Pro for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713965542791-updated-want-to-apply-a-filter-on-your-video-using-your-iphone-or-mac-here-are-the-simple-steps-to-put-add-filters-on-imovie-find-out-a-better-imovie-altern/"><u>Updated Want to Apply a Filter on Your Video Using Your iPhone or Mac? Here Are the Simple Steps to Put Add Filters on iMovie. Find Out a Better iMovie Alternative with More Filters for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782367-9781591432609-wars-of-the-anunnaki/"><u>Wars of the Anunnaki | Free Book</u></a></li>
 </ul></div>
 
