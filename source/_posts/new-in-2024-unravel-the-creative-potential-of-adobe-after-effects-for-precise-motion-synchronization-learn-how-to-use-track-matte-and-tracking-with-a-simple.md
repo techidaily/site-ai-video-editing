@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Unravel the Creative Potential of Adobe After Effects for Precise Motion Synchronization. Learn How to Use Track Matte and Tracking with a Simple Alternative
-date: 2024-12-21T16:44:22.915Z
-updated: 2024-12-24T18:50:18.782Z
+date: 2025-01-01T01:02:06.860Z
+updated: 2025-01-02T02:32:21.893Z
 tags: 
   - ai
   - animation videos
@@ -25,6 +25,10 @@ The following guide provides valuable insight on how to use **Track Matte in Aft
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Utilize Track Mattes in Adobe After Effects?
 
 [After Effects by Adobe](https://www.adobe.com/products/aftereffects.html) is a software application dedicated to visual effects and [motion graphics](https://tools.techidaily.com/wondershare/filmora/download/) for videos. The tool is commonly used in the post-production process of videos. The wide toolset of After Effects can be useful in filmmaking, video gaming, and TV. After Effects offers everything you need to take your creative inspirations to the next level.
@@ -34,15 +38,15 @@ The following guide provides valuable insight on how to use **Track Matte in Aft
 * **Motion Tracking:** Tracking the movement of an object is quite simple in After Effects. You can pin any element to a moving object. The smooth dynamics can enhance the overall result of the footage.
 * **VFX and Special Effects:** After Effects is the perfect tool to add special effects to your videos. Its VFX tool lets users add magic to the footage. You can make objects disappear, control the weather, stabilize your video, and more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Using Track Mattes in After Effects
 
 In Adobe After Effects, a track matte is a layer that defines the transparency of another layer. It acts as a stencil, determining which parts of the underlying layer are visible and which are transparent. Track mattes are used for creating various effects such as text animations, transitions, and seamlessly composing multiple layers. After Effects offers four Track Matte options:
 
 ![alpha track matte](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * **Alpha Matte:** **Alpha matte in After Effects** allows white areas in the matte layer to become visible while black areas become transparent. Effectively, this helps the underlying layer to show through.
 * **Alpha Inverted Matte:** In an alpha inverted matte, black areas in the matte layer are visible, and white areas are transparent. It reverses the transparency values to create unique effects.
@@ -50,6 +54,10 @@ In Adobe After Effects, a track matte is a layer that defines the transparency o
 * **Luma Inverted Matte:** The luma inverted matte works opposite to the luma matte. The top layer’s dark areas are visible, while bright areas are transparent.
 
 ![luma track matte](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can use any of the **track mattes in After Effects** according to your requirements. Following is a step-by-step guide on how to use track mattes:
 
@@ -64,7 +72,7 @@ Go to the "Modes" column and open the dropdown menu next to "Layer List." Here, 
 ![select track matte layer](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step 3
@@ -72,10 +80,6 @@ Go to the "Modes" column and open the dropdown menu next to "Layer List." Here, 
 You will see two toggle switches once you select your layer. You can use these switches and the available options to set the transparency for the Track Matte. You can add **alpha matte in After Effects** or other types from here.
 
 ![use switches to add track matte](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Performing Mask Tracking With Adobe After Effects: Reviewing the Steps
 
@@ -93,15 +97,15 @@ Now, open the layer and right-click on the mask name to select "Track Mask." Thi
 
 ![set method for tracking](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 3
 
 Tap the "Analyze Forward" icon and let the tracker analyze the frames in the clip. Once the process has finished, you can restart your clip and set "Mask Mode" from the timeline to "Subtract." This will remove the selected object from the clip.
 
 ![analyze and change mode](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 4
 
@@ -119,10 +123,6 @@ Filmora is the complete solution when it comes to video editing. The multi-platf
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Main Highlights of Wondershare Filmora
 
 Filmora offers a comprehensive toolset to help users make the most of their media files. Some useful resources provided by Wondershare Filmora include:
@@ -131,13 +131,13 @@ Filmora offers a comprehensive toolset to help users make the most of their medi
 
 ![ai text based editing filmora](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [**Speed Ramping**](https://tools.techidaily.com/wondershare/filmora/download/)**:** Using Filmora, users can apply professional speed effects in footage. You can adjust your video speed and create unique cinematic effects in no time. Filmora also helps maintain the audio pitch to avoid abrupt changes.
 
 ![speed ramping filmora](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * [**Compound Clip**](https://tools.techidaily.com/wondershare/filmora/download/)**:** Filmora can help users merge multiple clips into a single footage. You can obtain complete control over the integrated clip for editing. This can help users manage and adjust multiple clips easily.
 
@@ -169,13 +169,13 @@ After you apply the masking option, you can adjust other mask settings. Filmora 
 
 ![set masking and export](https://images.wondershare.com/filmora/article-images/2023/track-matte-and-tracking-in-after-effects-15.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -186,7 +186,7 @@ Adobe After Effects is an industry-standard tool for video editing and manipulat
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -198,21 +198,24 @@ Adobe After Effects is an industry-standard tool for video editing and manipulat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-guard-against-gimmicky-validations-instagrams-hidden-hazard/"><u>[New] 2024 Approved Guard Against Gimmicky Validations Instagram's Hidden Hazard</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-demystifying-igtv-a-compreayers-guide-to-social-media/"><u>[New] In 2024, Demystifying IGTV A Compreayer's Guide to Social Media</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-innovative-solutions-made-simple-using-ez-grabber/"><u>[New] In 2024, Innovative Solutions Made Simple Using EZ Grabber</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/a-guide-to-understanding-igs-newest-updates-for-2024/"><u>A Guide to Understanding IG's Newest Updates for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ace-your-films-with-these-top-15-gopro-video-luts/"><u>Ace Your Films with These Top 15 GoPro Video LUTs</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-repeatedly-spotted-edge-buttons/"><u>Fixing Repeatedly Spotted Edge Buttons</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/ideal-choices-our-exclusive-top-10-gopro-case-picks-for-2024/"><u>Ideal Choices Our Exclusive Top 10 GoPro Case Picks for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-like-clouds-or-sky-and-want-to-use-them-as-a-video-background-explore-this-article-to-learn-about-the-sky-change-video-in-filmora.m/"><u>New 2024 Approved Do You Like Clouds or Sky and Want to Use Them as a Video Background? Explore This Article to Learn About the Sky Change Video in Filmora</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-read-and-learn-how-to-convert-a-slow-motion-video-to-normal-in-this-guide-besides-find-the-best-desktop-solution-to-adjust-video-speed-qui/"><u>New 2024 Approved Read and Learn How to Convert a Slow-Motion Video to Normal in This Guide. Besides, Find the Best Desktop Solution to Adjust Video Speed Quickly and Easily</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-davinci-resolve-scopes-have-undergone-significant-improvements-find-out-how-to-use-these-scopes-and-improve-your-video-editing-skills-for-2024/"><u>New DaVinci Resolve Scopes Have Undergone Significant Improvements. Find Out How to Use These Scopes and Improve Your Video Editing Skills for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-clearly-the-efectum-app-download-without-a-watermark-option-is-on-android-phones-thus-read-this-review-on-the-efectum-app-and-find-replacements-/"><u>New In 2024, Clearly, the Efectum App Download without a Watermark Option Is on Android Phones. Thus, Read This Review on the Efectum App and Find Replacements for Good</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713964810457-new-templates-increase-the-editing-possibilities-for-beginners-and-professionals-read-this-article-to-learn-about-some-customizable-slow-motion-capcut-templ/"><u>New Templates Increase the Editing Possibilities for Beginners and Professionals. Read This Article to Learn About some Customizable Slow-Motion CapCut Templates for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-the-connection-problem-with-mb-services-in-win11/"><u>Overcoming the Connection Problem with MB Services in Win11</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-are-you-looking-for-the-best-app-to-prank-your-friends-here-is-a-complete-guide-on-the-funcall-app-how-to-use-it-to-change-your-voice-/"><u>Updated 2024 Approved Are You Looking for the Best App to Prank Your Friends? Here Is a Complete Guide on the Funcall App, How to Use It to Change Your Voice, and Its Best Alternatives</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-so-without-wasting-time-let-me-show-you-how-to-mask-a-video-in-wondershare-filmora-lets-get-started/"><u>Updated 2024 Approved So, without Wasting Time, Let Me Show You How to Mask a Video in Wondershare Filmora. Lets Get Started</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-zero-money-high-quality-ranks-of-best-recording-apps/"><u>[New] 2024 Approved Zero Money, High Quality Ranks of Best Recording Apps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-mastering-visual-impact-a-comprehensive-guide-to-zooms-video-filters-for-2024/"><u>[Updated] Mastering Visual Impact A Comprehensive Guide to Zoom's Video Filters for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-proven-techniques-for-stunning-timelapses-in-gopro-studio/"><u>[Updated] Proven Techniques for Stunning Timelapses in GoPro Studio</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-best-beginnings-choosing-valheims-prime-plants/"><u>[Updated] The Best Beginnings Choosing Valheim's Prime Plants</u></a></li>
+<li><a href="https://article-helps.techidaily.com/a-hands-on-manual-to-easily-navigate-trending-youtube-comments-for-2024/"><u>A Hands-On Manual to Easily Navigate Trending YouTube Comments for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-tecno-spark-10c-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Tecno Spark 10C Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-templates-increase-the-editing-possibilities-for-beginners-and-professionals-read-this-article-to-learn-about-some-customizable-slow-motio/"><u>New 2024 Approved Templates Increase the Editing Possibilities for Beginners and Professionals. Read This Article to Learn About some Customizable Slow-Motion CapCut Templates</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-wmv-file-format-has-many-benefits-over-the-video-industry-if-you-are-excited-to-know-more-about-the-format-and-its-pros-and-cons-then-lets/"><u>New 2024 Approved WMV File Format Has Many Benefits over the Video Industry. If You Are Excited to Know More About the Format and Its Pros and Cons, Then Lets Start the Discussion</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713961685281-new-are-you-thinking-of-learning-video-editing-in-the-final-cut-pro-software-in-this-article-you-will-learn-different-ways-of-splitting-and-merging-multiple/"><u>New Are You Thinking of Learning Video Editing in the Final Cut Pro Software? In This Article, You Will Learn Different Ways of Splitting and Merging Multiple Videos at Once as a New Skill to Get Your Business to a New Level for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-do-you-know-about-some-efficient-slow-motion-video-editors-read-this-article-to-find-out-the-best-slow-motion-video-editing-tools-that-you-can-try-for-2/"><u>New Do You Know About some Efficient Slow-Motion Video Editors? Read This Article to Find Out the Best Slow-Motion Video Editing Tools that You Can Try for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-exploring-tools-to-integrate-special-mask-effects-into-your-content-read-the-following-article-to-master-some-tools-experts-in-mask-tracking/"><u>New In 2024, Exploring Tools to Integrate Special Mask Effects Into Your Content. Read the Following Article to Master some Tools Experts in Mask Tracking</u></a></li>
+<li><a href="https://network-issues.techidaily.com/purging-peculiarities-from-win11-monitors/"><u>Purging Peculiarities From Win11 Monitors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009084096-solving-slow-chrome-dilemmas-quick-wins-for-browsers/"><u>Solving Slow Chrome Dilemmas – Quick Wins for Browsers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-solutions-to-hp-beats-audio-driver-conflicts-in-various-windows-versions/"><u>Troubleshooting and Solutions to HP Beats Audio Driver Conflicts in Various Windows Versions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/trusting-chatgpt-and-bard-in-the-world-of-cash-management/"><u>Trusting ChatGPT & Bard in the World of Cash Management</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-the-art-of-fashioning-slow-motions-has-remained-popular-ever-since-read-this-article-to-learn-how-to-do-slow-mo-in-capcut-and-other-po/"><u>Updated 2024 Approved The Art of Fashioning Slow Motions Has Remained Popular Ever Since. Read This Article to Learn How to Do Slow-Mo in CapCut and Other Powerful Tools</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-do-you-want-to-create-slow-motion-videos-this-article-shows-methods-to-create-slow-mo-videos-without-changing-the-medias-quality-for-2024/"><u>Updated Do You Want to Create Slow-Motion Videos? This Article Shows Methods to Create Slow-Mo Videos without Changing the Medias Quality for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-edit-youtube-videos-in-easy-steps/"><u>Updated In 2024, How To Edit Youtube Videos In Easy Steps</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713964791283-updated-stop-worrying-if-your-adobe-premiere-playback-slows-down-this-guide-will-show-you-the-best-solutions-to-resolve-this-issue-and-a-perfect-alternative/"><u>Updated Stop Worrying if Your Adobe Premiere Playback Slows Down. This Guide Will Show You the Best Solutions to Resolve This Issue and a Perfect Alternative for 2024</u></a></li>
 </ul></div>
 
