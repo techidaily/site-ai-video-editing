@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Fix Windows 11 or 10 Spatial Audio Not Working Correctly.
-date: 2024-12-27T01:43:17.159Z
-updated: 2025-01-01T17:58:10.165Z
+date: 2025-01-06T16:16:22.173Z
+updated: 2025-01-09T16:18:39.866Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 [THX Spatial Audio](https://tools.techidaily.com/drivereasy/download/) is a software suite that is engineered to level up your gaming audio with more authentic and detailed soundscapes, and better control of your gaming sound. However, some users reported that**it is not working** . For some,**there’s no sound** . For others, they **can’t hear any difference or the sound is just crackling/ buzzing** . Whatever the problems you’re having, you may hopefully be able to solve them by trying the solutions in this post.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -31,17 +31,9 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 4. **[Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Perform a system restore](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Download and install all Windows updates
 
  Before diving into any advanced tweaks, ensure you **restart both the Synapse software and the THX Spatial Audio app.** Then you would need to install the latest Windows updates. They usually come with bug fixes, and bring new features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### On Windows 10
 
@@ -50,14 +42,10 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### On Windows 11
@@ -67,15 +55,11 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
@@ -106,13 +90,29 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/control.jpg)
 2. On the top right corner, click View by **Large icons** . Scroll down and select **Troubleshooting** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/troubleshooting.jpg)
 3. Click **Run** for **Audio**  troubleshooter.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/sound-troubleshooter.png)
 4. Follow the on-screen instructions to run the troubleshooter and apply any fix if you see it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If Windows fails to troubleshoot your issues, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Make sure you set THX Spatial Audio as your device
 
@@ -124,10 +124,6 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/set-thx-spatial-audio-as-default-playback-device.png)
 3. Then in the APPLICATION MIXER section, select**Spatial Audio** as the output.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/application-mixer.png)
 
@@ -149,7 +145,7 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
@@ -171,10 +167,6 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/perform-a-system-restore-step-1.png)
 2. Under the Protection Settings section, select your System driver and click on the**Configure…** button if the protection is not turned on.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/configure-protection.png)
 3. Tick**Turn on system protection** . Then click**OK** .  
 
@@ -183,6 +175,10 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/create-a-system-point-now.png)
 5. Type a description for your restore point that you can recognize. Then click**Create** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/type-a-descriptin.png)
 6. When it successfully created the restore point, click**Close** .  
@@ -198,6 +194,10 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 3. Once the scan is finished, you’ll see a complete overview of your system and issues. Click**Start Repair** to start the repair process and wait for Fortect to fix the problem.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues while using Fortect, feel free to contact their support team.
 
@@ -220,18 +220,17 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-from-novice-to-expert-kinemaster-gs-journey/"><u>[New] From Novice to Expert KineMaster GS Journey</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/laylist-embedding-on-sites-using-youtube-for-2024/"><u>[New] Playlist Embedding on Sites Using YouTube for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-evolving-videography-redefining-social-sharing-with-periscope-alternatives/"><u>[Updated] Evolving Videography Redefining Social Sharing with Periscope Alternatives</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-immerse-in-ideas-multitasking-activities-for-podcast-fans/"><u>2024 Approved Immerse in Ideas Multitasking Activities for Podcast Fans</u></a></li>
-<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-asus-rog-phone-7-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Asus ROG Phone 7 FRP Locks</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-update-or-install-aoc-monitor-drivers-on-windows-11108-systems/"><u>How to Update or Install AOC Monitor Drivers on Windows 11/10/8 Systems</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-premiere-pro-best-slow-motion-effects-to-use/"><u>New In 2024, Premiere Pro Best Slow Motion Effects To Use</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-top-shortcut-towards-timeline-template/"><u>New In 2024, Top Shortcut Towards Timeline Template</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-are-you-looking-for-a-video-format-converter-free-we-will-introduce-the-5-best-online-converters-and-also-the-5-best-video-format-converters-for-pc-/"><u>Updated Are You Looking for a Video Format Converter Free? We Will Introduce the 5 Best Online Converters and Also the 5 Best Video Format Converters for PC for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-stunning-glitch-effect-in-photoshop-in-2024/"><u>Updated How to Make Stunning Glitch Effect in Photoshop, In 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-slow-down-a-video-on-iphone-and-android-the-easy-way-for-2024/"><u>Updated How to Slow Down a Video on iPhone and Android The Easy Way for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-looking-into-how-slow-mo-guys-have-changed-the-dynamics-of-slow-motion-for-2024/"><u>Updated Looking Into How Slow Mo Guys Have Changed the Dynamics of Slow-Motion for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-discover-8-fantastic-websites-offering-free-3d-text-psdfiles-for-2024/"><u>[New] Discover 8 Fantastic Websites Offering Free 3D Text PSDFiles for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-introduction-to-moving-graphics-core-principles/"><u>[Updated] Introduction to Moving Graphics Core Principles</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-direct-hit-the-techno-friendly-way-to-upload-your-short-clips/"><u>2024 Approved Direct Hit The Techno-Friendly Way to Upload Your Short Clips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-resurrecting-windows-photo-viewer-via-windows-10-simple-fixes/"><u>In 2024, Resurrecting Windows Photo Viewer via Windows 10 - Simple Fixes</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/most-advanced-sketching-displays-for-designers-2024-edition/"><u>Most Advanced Sketching Displays for Designers - 2024 Edition</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-samsung-galaxy-s23-tactical-edition-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Samsung Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/proiphone-photo-techniques-for-beginners/"><u>Proiphone Photo Techniques for Beginners</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-an-ultimate-guide-on-the-significance-of-music-in-videos-and-how-to-choose-the-right-music-for-your-videos-with-wondershare-filmora/"><u>Updated 2024 Approved An Ultimate Guide on the Significance of Music in Videos and How to Choose the Right Music for Your Videos with Wondershare Filmora</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-know-that-you-can-apply-different-luts-and-create-your-own-there-are-many-lut-online-and-offline-generators-that-you-can-use-to/"><u>Updated 2024 Approved Do You Know that You Can Apply Different LUTs and Create Your Own? There Are Many LUT Online and Offline Generators that You Can Use to Create Your LUT</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-if-you-want-to-replace-or-delete-the-sky-pictures-or-background-media-then-give-a-quick-read-to-this-article-for-effective-solutions/"><u>Updated In 2024, If You Want to Replace or Delete the Sky Pictures or Background Media, Then Give a Quick Read to This Article for Effective Solutions</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713964798335-updated-storyboards-are-amazing-way-if-you-want-to-present-your-story-in-a-visual-way-like-explaining-any-process-or-giving-any-information-it-is-a-graphic-/"><u>Updated Storyboards Are Amazing Way if You Want to Present Your Story in a Visual Way, Like Explaining Any Process or Giving Any Information. It Is a Graphic Layout to Tell You a Story for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-using-slow-motion-in-adobe-after-effects-a-step-by-step-procession-for-2024/"><u>Updated Using Slow Motion in Adobe After Effects A Step-by-Step Procession for 2024</u></a></li>
 </ul></div>
 

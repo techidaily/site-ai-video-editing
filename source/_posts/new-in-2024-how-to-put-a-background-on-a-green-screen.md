@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Put a Background on A Green Screen
-date: 2024-12-25T23:34:57.097Z
-updated: 2025-01-01T22:25:46.875Z
+date: 2025-01-07T17:16:24.317Z
+updated: 2025-01-09T17:29:03.646Z
 tags: 
   - ai
   - animation videos
@@ -26,7 +26,7 @@ Starting from replacing the green screen with a studio setup like news broadcast
 * [How to change the background of green screen image](#part2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. How to put a background on a green screen to video?
@@ -57,6 +57,10 @@ Step5 Finally, play the video and if you are satisfied, click on Export button t
 
 ![click on export button](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 2\. Use iMovie
 
 iMovie is one of the most preferred video editors among Mac and iPhone users. This is because the app comes from Apple, and there are ample features to enhance your video content and quality with effects. Adding a background to a green screen video using iMovie is quite easy. But replacing a background of a video without green screen is rather tough.
@@ -74,12 +78,16 @@ Step4 Click on the green screen video and click on Video Overlay Settings and se
 ![remove green screen video imovie](https://images.wondershare.com/filmora/article-images/2022/07/remove-green-screen-video-imovie.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step5 You can adjust Softness as well as Clean-up option so that the green screen effect is perfect.
 
 ![adjust softness green screen video imovie](https://images.wondershare.com/filmora/article-images/2022/07/adjust-softness-green-screen-video-imovie.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Way 3\. Use Premiere Pro
 
@@ -88,6 +96,10 @@ When it comes to professional video editing, Premiere Pro is undoubted one of th
 Step1 Launch Adobe Premiere Pro and go to File> Import option. Select the green screen video clip as well as replacement background video and click on Open button.
 
 ![import video premiere pro](https://images.wondershare.com/filmora/article-images/2022/07/import-video-premiere-pro.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 Drag the video clips from the Project panel and place them to Timeline so that the green screen video stays at the top.
 
@@ -104,7 +116,7 @@ Step5 Go to Ultra Key> Output> and select Alpha Channel option. Set Setting loca
 ![ultra key output premiere](https://images.wondershare.com/filmora/article-images/2022/07/ultra-key-output-premiere.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step6 Go to Matte Generation and adjust Transparency using the slider available.
@@ -112,16 +124,12 @@ Step6 Go to Matte Generation and adjust Transparency using the slider available.
 ![matte generation premiere](https://images.wondershare.com/filmora/article-images/2022/07/matte-generation-premiere.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step7 You will see the green screen get replaced by the video or photo you have placed below the green screen video in Timeline.
 
 ![edit green screen video premiere](https://images.wondershare.com/filmora/article-images/2022/07/edit-green-screen-video-premiere.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. How to change the background of green screen image?
 
@@ -133,10 +141,6 @@ Step2 Copy the replacement image and paste it on the green screen image. Make su
 
 ![layer green screen photoshop](https://images.wondershare.com/filmora/article-images/2022/07/layer-green-screen-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Now select green screen image layer and go to Select menu and click on Color Range. You will get an eyedropper tool. Press Shift key and click the areas where green screen background is there so that you can remove it. Click on OK button when done.
 
 ![color range photoshop](https://images.wondershare.com/filmora/article-images/2022/07/color-range-photoshop.jpg)
@@ -145,17 +149,13 @@ Step4 Go to Select menu and click on Inverse option. Go to Select menu and click
 
 ![refine edge photoshop](https://images.wondershare.com/filmora/article-images/2022/07/refine-edge-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step5 Go to Select menu and click on Inverse option. Press Delete key and the green screen background will disappear and the replacement image will appear in the background.
 
 ![apply green screen to image ps](https://images.wondershare.com/filmora/article-images/2022/07/apply-green-screen-to-image-ps.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -172,24 +172,22 @@ We have illustrated how you can add a background to your green screen video on y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-dual-performance-the-tiktok-duet-trend-for-2024/"><u>[New] Dual Performance The TikTok Duet Trend for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-how-to-play-youtube-in-background-on-iphone-and-android/"><u>[New] In 2024, How to Play YouTube in Background on iPhone and Android</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-maximizing-reach-understanding-tag-importance-for-videos/"><u>[New] In 2024, Maximizing Reach Understanding Tag Importance for Videos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-vibrant-user-account-creation-pathway/"><u>[Updated] 2024 Approved Vibrant User Account Creation Pathway</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-top-10-streaming-software-in-the-gaming-world/"><u>[Updated] In 2024, Top 10 Streaming Software in the Gaming World</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-quick-tips-to-produce-quality-thumbnails-fast-for-2024/"><u>[Updated] Quick Tips to Produce Quality Thumbnails Fast for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnose-and-solve-your-windows-7-sound-problem-with-these-helpful-tips/"><u>Diagnose and Solve Your Window's 7 Sound Problem with These Helpful Tips</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-25-essential-no-cost-photography-tools-for-creatives/"><u>In 2024, 25 Essential No-Cost Photography Tools for Creatives</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-xr21-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Nokia XR21 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-samsung-galaxy-f04s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Samsung Galaxy F04s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-if-you-want-an-app-to-make-videos-with-pictures-and-music-for-social-media-posts-we-are-with-the-best-apps-to-make-videos-with-music-and-pictures-for-20/"><u>New If You Want an App to Make Videos with Pictures and Music for Social Media Posts, We Are with the Best Apps to Make Videos with Music and Pictures for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-are-you-looking-for-a-video-format-converter-free-we-will-introduce-the-5-best-online-converters-and-also-the-5-best-video-format-converters-for/"><u>New In 2024, Are You Looking for a Video Format Converter Free? We Will Introduce the 5 Best Online Converters and Also the 5 Best Video Format Converters for PC</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-to-excel-at-using-adobe-premiere-pro-software-for-splitting-videos-and-audio-learn-about-splitting-a-video-and-audio-using-different/"><u>New In 2024, Do You Want to Excel at Using Adobe Premiere Pro Software for Splitting Videos and Audio? Learn About Splitting a Video and Audio Using Different Tools and Add a New Skill to Your Skillset with a Step-by-Step Guide in This Article</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-vlogs-and-travel-content-are-incomplete-without-a-fast-motion-effect-learn-step-by-step-how-to-make-fast-motion-video-on-an-iphone-in-this-artic/"><u>New In 2024, Vlogs and Travel Content Are Incomplete without a Fast-Motion Effect. Learn Step-by-Step How to Make Fast Motion Video on an iPhone in This Article</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-wondering-how-to-create-a-stunning-intro-video-with-kinemaster-here-are-the-simple-steps-to-use-kinemaster-to-design-your-intro-video-in-simple-/"><u>New In 2024, Wondering How to Create a Stunning Intro Video with KineMaster? Here Are the Simple Steps to Use KineMaster to Design Your Intro Video in Simple Steps</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-this-article-aims-to-show-you-how-to-improve-your-lighting-in-the-sun-for-2024/"><u>New This Article Aims to Show You How to Improve Your Lighting in the Sun for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-explore-the-potential-of-slow-motion-video-for-different-industries-read-this-guide-and-choose-the-best-slow-motion-camera-app-to-crea/"><u>Updated 2024 Approved Explore the Potential of Slow-Motion Video for Different Industries. Read This Guide and Choose the Best Slow-Motion Camera App to Create Stunning Videos</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-zoom-in-and-out-on-mac/"><u>Updated In 2024, How to Zoom In and Out on Mac</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-the-benefits-of-using-video-for-social-media-marketing-for-2024/"><u>Updated The Benefits Of Using Video For Social Media Marketing for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-must-know-basics-for-mac-users-on-tiktok/"><u>[New] Must-Know Basics for Mac Users on TikTok</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-art-of-monetizing-snapchat-content-for-2024/"><u>[Updated] The Art of Monetizing Snapchat Content for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-unlock-joy-behind-the-walls-20-funniest-fb-detainment-scenarios/"><u>2024 Approved Unlock Joy Behind the Walls 20 Funniest Fb Detainment Scenarios</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-10-prime-online-stores-for-curious-gift-boxes/"><u>In 2024, Explore 10 Prime Online Stores for Curious Gift Boxes</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-photo-cropping-apps-how-to-crop-photos-on-iphone/"><u>In 2024, Photo Cropping Apps How to Crop Photos on iPhone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/instant-transition-vanishing-in-a-minute-for-2024/"><u>Instant Transition Vanishing in a Minute for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-are-you-looking-for-a-video-format-converter-free-we-will-introduce-the-5-best-online-converters-and-also-the-5-best-video-format-converte/"><u>New 2024 Approved Are You Looking for a Video Format Converter Free? We Will Introduce the 5 Best Online Converters and Also the 5 Best Video Format Converters for PC</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-use-adjustment-layer-in-photoshop/"><u>New 2024 Approved How to Use Adjustment Layer in Photoshop?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-step-by-step-guide-to-storyboard-for-2024/"><u>New Step-by-Step Guide to Storyboard for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-apple-iphone-13-protective-cases-featuring-magsafe-tech-stylish-aesthetic-and-enhanced-durability-experts/"><u>Top Rated Apple iPhone 13 Protective Cases Featuring MagSafe Tech, Stylish Aesthetic, and Enhanced Durability Experts</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-slowing-down-gif-with-the-best-available-methods/"><u>Updated 2024 Approved Slowing Down GIF With The Best Available Methods</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-much-information-do-you-have-about-mp4-digital-file-storage-let-us-tell-you-more-about-the-mp4-file-format-get-ready-to-increase-your-kn/"><u>Updated In 2024, How Much Information Do You Have About MP4 Digital File Storage? Let Us Tell You More About the MP4 File Format; Get Ready to Increase Your Knowledge</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-using-ai-to-replace-skies-finding-the-right-methods/"><u>Updated In 2024, Using AI to Replace Skies Finding the Right Methods</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-premiere-pro-slow-playback-issues-finding-the-best-solutions-for-2024/"><u>Updated Premiere Pro Slow Playback Issues Finding The Best Solutions for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-top-ways-to-make-fast-motion-video-on-iphone-solved-for-2024/"><u>Updated Top Ways to Make Fast Motion Video on iPhone Solved for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix FIFA 22 Game Crashes on Your Computer
-date: 2024-12-31T16:33:40.870Z
-updated: 2025-01-01T22:05:45.746Z
+date: 2025-01-08T18:42:26.192Z
+updated: 2025-01-09T19:09:07.025Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 
  Also make sure you have downloaded **[the latest Java version](https://java.com/en/download/manual.jsp)**  , which is important for your Minecraft to run smoothly. Note that you should download the Java file according to your operating system (32-bit or 64-bit).[How to check my computer specs?](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 6 fixes that proved very helpful for many users. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -56,10 +60,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
  2) Select the**Overlay** tab, and turn off**Enable in-game overlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/discord-overlay.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Launch your Minecraft again.
 
@@ -122,10 +122,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Run Minecraft as administrator
 
  Minecraft may not be able to utilize all the resources because of restricted access. So you need to run Minecraft as an administrator to see if this fixes your issue.
@@ -137,7 +133,7 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Select the**Compatibility** tab and check the box next to**Run this program as an administrator** . Click**Apply** and then**OK** .
@@ -145,16 +141,12 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/admin-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Run Minecraft again to see if this works.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable Mods
 
@@ -167,7 +159,7 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Reinstall your Minecraft
@@ -180,11 +172,19 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/APP-uninstall.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click**Minecraft** and select**Uninstall** .
 
  4) Press the Windows logo key and R again to open the Run box again, then type**%appdata%** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/appdata.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Right-click the**.minecraft** folder and select**Delete** to make sure you’ve deleted the related files.
 
@@ -218,16 +218,16 @@ Feel free to leave us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-innovative-approaches-applying-luts-in-photoshop-cc-post-processing/"><u>[New] Innovative Approaches Applying LUTs in Photoshop CC Post-Processing</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/1728493938539-yahoo/"><u>二种方法：如何成功将Yahoo邮箱中的电子邮件排队发送</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypass-reset-zte-blade-a73-5g-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset ZTE Blade A73 5G Phone Screen Passcode/Pattern/Pin</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/double-delight-endless-looping-of-youtube-videos-for-tvs/"><u>Double Delight Endless Looping of YouTube Videos for TVs</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-infinix-note-30i-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Infinix Note 30i</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo A1x 5G? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-explore-the-advanced-tools-to-help-you-reshape-the-art-of-sky-replacement-in-digital-imagery-discover-methods-to-enhance-your-visual-narra/"><u>New 2024 Approved Explore the Advanced Tools to Help You Reshape the Art of Sky Replacement in Digital Imagery. Discover Methods to Enhance Your Visual Narratives Through AI</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-advanced-rgb-settings-for-windows-11/"><u>Unveiling Advanced RGB Settings for Windows 11</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-use-twixtor-effect-to-add-slow-motion-effect-to-video/"><u>Updated 2024 Approved How to Use Twixtor Effect to Add Slow-Motion Effect to Video?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-stunning-glitch-effect-and-its-creation-guideline-for-premiere-pro/"><u>Updated 2024 Approved Stunning Glitch Effect and Its Creation Guideline for Premiere Pro</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-let-us-talk-about-the-famous-photoshop-and-most-commonly-used-glitch-effect-the-article-understudy-will-discuss-in-detail-about-photo-glitch/"><u>Updated In 2024, Let Us Talk About the Famous Photoshop and Most Commonly Used Glitch Effect. The Article Understudy Will Discuss in Detail About Photo Glitch Effect</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-ultimate-selection-of-free-youtube-introduction-makers/"><u>[New] Ultimate Selection of Free YouTube Introduction Makers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-cutting-edge-techniques-making-mac-videos-for-snapchat/"><u>[Updated] Cutting-Edge Techniques Making Mac Videos for Snapchat</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-macos-11-big-sur-a-complete-hardware-overview/"><u>[Updated] In 2024, MacOS 11 Big Sur A Complete Hardware Overview</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-dull-to-dynamic-adding-animated-effects-to-instagram-stories-for-2024/"><u>From Dull to Dynamic Adding Animated Effects to Instagram Stories for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-nokia-c12-pro-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Nokia C12 Pro</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-simple-paths-to-start-recording-on-hp-computers/"><u>In 2024, Simple Paths to Start Recording on HP Computers</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-know-which-are-the-best-wondershare-filmora-luts-to-use-there-are-many-luts-that-you-can-download-each-with-a-different-ton/"><u>New 2024 Approved Do You Want to Know Which Are the Best Wondershare Filmora LUTs to Use? There Are Many LUTs that You Can Download, Each with a Different Tone and Style</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-make-stunning-glitch-effect-in-photoshop/"><u>New In 2024, How to Make Stunning Glitch Effect in Photoshop?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-step-by-step-guide-to-storyboard/"><u>Updated 2024 Approved Step-by-Step Guide to Storyboard</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-stop-worrying-if-your-adobe-premiere-playback-slows-down-this-guide-will-show-you-the-best-solutions-to-resolve-this-issue-and-a-perfe/"><u>Updated 2024 Approved Stop Worrying if Your Adobe Premiere Playback Slows Down. This Guide Will Show You the Best Solutions to Resolve This Issue and a Perfect Alternative</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-want-to-use-luts-in-final-cut-pro-there-are-many-free-luts-for-fcpx-available-that-you-can-use-using-luts-you-can-create-professional/"><u>Updated In 2024, Do You Want to Use LUTs in Final Cut Pro? There Are Many Free LUTs for FCPX Available that You Can Use. Using LUTs, You Can Create Professional-Looking Content</u></a></li>
 </ul></div>
 

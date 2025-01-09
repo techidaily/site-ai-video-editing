@@ -1,7 +1,7 @@
 ---
 title: New In 2024, The Glitch Effect Shows Errors and Flaws in the Image or a Video. The Write-Up Presents the Complete Procedure of Adding Premiere Pros Glitch Effect and Introduces Eight Free Glitch Effects
-date: 2024-12-28T18:37:39.202Z
-updated: 2025-01-01T20:30:47.740Z
+date: 2025-01-03T18:30:09.084Z
+updated: 2025-01-09T19:48:23.215Z
 tags: 
   - ai
   - animation videos
@@ -35,6 +35,10 @@ The first VHS overlay Premiere is Digital Glitch Transitions. Envato Elements of
 
 ![digital glitch transitions](https://images.wondershare.com/filmora/article-images/2021/glitch-effect-in-premiere-pro-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2\. [Glitch Slideshow](https://elements.envato.com/glitch-slideshow-MLF6RH7)
 
 Glitch Slideshow is another amazing glitch effect Premiere Pro free introduced by Envato Elements. If you are a photographer or a film director, this glitch transition Premiere gives you what you need. The HD resolution is offered, and no plugins are required.
@@ -46,6 +50,10 @@ Glitch Slideshow is another amazing glitch effect Premiere Pro free introduced b
 Venus is the perfect choice to add an Adobe Premiere VHS effect by offering an adjustable duration of the video with effortless customization. The template is highly famous among YouTubers and content creators to leave a long-lasting impact on the audience via glitchy titles and effects.
 
 ![venus template](https://images.wondershare.com/filmora/article-images/2021/glitch-effect-in-premiere-pro-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4\. [Fast Glitch Transitions](https://motionarray.com/premiere-pro-templates/fast-glitch-transitions-816309/)
 
@@ -65,15 +73,15 @@ Glitch Urban Opener is an impeccable glitch effect for Premiere Pro, presenting 
 
 ![glitch urban opener](https://images.wondershare.com/filmora/article-images/2021/glitch-effect-in-premiere-pro-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7\. [30 Glitch Transitions](https://www.motionelements.com/premiere-pro-template-14974887-30-glitch-transitions?query%5Fid=solr%5F8ae4f96847f8483195ef57ef5206aec8&position=3)
 
 Another retro effect Premiere Pro from Motion Elements is 30 Glitch Transitions. The media industry uses this template to insert different glitch effects into the video and make it eye-catching for everyone. The effects are styled with interference, bad TV, distortions, VHS noise, and other fatal errors.
 
 ![30 glitch transitions](https://images.wondershare.com/filmora/article-images/2021/glitch-effect-in-premiere-pro-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8\. [Glitch Transitions](https://www.motionelements.com/premiere-pro-template-11322505-glitch-transitions?query%5Fid=solr%5F8ae4f96847f8483195ef57ef5206aec8&position=14)
 
@@ -82,11 +90,7 @@ Last but not the least, Glitch Transitions can be counted upon to act as the bes
 ![glitch transitions](https://images.wondershare.com/filmora/article-images/2021/glitch-effect-in-premiere-pro-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How Do You Do the Glitch Effect in Premiere Pro?
@@ -97,19 +101,11 @@ Adobe Premiere Pro is a video editing software that has got you covered. You can
 
 If you want to perform a Premiere Pro VHS effect, allow us to walk you through the process. It is highly recommended that you follow the guide carefully to have desirable results. So, what are we waiting for? Time to start, right?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 1: Importing the Targeted Video
 
 To begin the process, open Adobe Premiere Pro on your system. Import the targeted footage and drag it to the timeline. After the video is added, head to the "Effects" panel on the left side of the interface.
 
 ![open effects tab](https://images.wondershare.com/filmora/article-images/2021/glitch-effect-in-premiere-pro-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 2: Launching the VR Digital Glitch
 
@@ -117,21 +113,29 @@ Type away glitch in the search bar. The user will find VR Digital Glitch in the 
 
 ![access effects control](https://images.wondershare.com/filmora/article-images/2021/glitch-effect-in-premiere-pro-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 3: Changing the Distortion Control
 
 Scroll down to find "Distortion" in the controls and expand it. The user is suggested to increase the color distortion to give an RGB effect to the footage. After that, you should reduce the distortion rate to 0 so that different artifacts can be eliminated effortlessly.
 
 ![customize distortion settings](https://images.wondershare.com/filmora/article-images/2021/glitch-effect-in-premiere-pro-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 4: Changing the Noise Strength
 
 Moving on, expand the "Noise" control section and increase the noise strength. It will give the footage a significant level of graininess.
 
 ![increase noise strength](https://images.wondershare.com/filmora/article-images/2021/glitch-effect-in-premiere-pro-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 5: Animating the Glitch Effect
 
@@ -140,7 +144,7 @@ To animate the glitch, use the playhead on the top and drag it to the first posi
 ![animate the glitch effect](https://images.wondershare.com/filmora/article-images/2021/glitch-effect-in-premiere-pro-13.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 6: Playing with the Playhead
@@ -149,25 +153,21 @@ Now, use your keyboard's right arrow to move the playhead three frames forward. 
 
 ![customize master amplitude settings](https://images.wondershare.com/filmora/article-images/2021/glitch-effect-in-premiere-pro-14.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 7: Positioning the Video
 
 Move back to the first keyframe and head to the top that shows "Scale" settings. Enhance the scale value so that the video position can be leveled. Click on the stopwatch next to "Position" to create a keyframe. Move the playhead one frame forward and adjust the position of the frame.
 
 ![change scale settings](https://images.wondershare.com/filmora/article-images/2021/glitch-effect-in-premiere-pro-15.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 8: Final Process
 
 Again, move the playhead to the next frame and click on the "Reset" shaped icon to reset the position of the video. Move another frame forward and reposition the video. You can do this multiple times to give a glitchy effect to the clip. There you go! It is all done.
 
 ![tap on reset icon](https://images.wondershare.com/filmora/article-images/2021/glitch-effect-in-premiere-pro-16.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -184,24 +184,22 @@ A raw video doesn't send the message as the user wants. For this, creative profe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-the-pinnacle-of-personal-data-holdings-for-2024/"><u>[New] The Pinnacle of Personal Data Holdings for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-epic-tiktok-gamers-top-10-influencers/"><u>[Updated] In 2024, Epic TikTok Gamers Top 10 Influencers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-basic-screenshot-toolkit-for-windows-10/"><u>2024 Approved Basic Screenshot Toolkit for Windows 10</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-rev-up-with-these-top-10-srt-power-up-tools-for-pc-and-mac/"><u>2024 Approved Rev Up with These Top 10 SRT Power-Up Tools for PC and Mac</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capturing-magic-in-microphones-iphoneipad-tactics-for-superior-recordings-for-2024/"><u>Capturing Magic in Microphones IPhone/iPad Tactics for Superior Recordings for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-official-method-to-unlock-your-apple-iphone-14-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 14 Official Method to Unlock Your Apple iPhone 14</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-photographic-pastime-iphone-x-retro-clicks/"><u>In 2024, Photographic Pastime IPhone X Retro Clicks</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-create-eye-catching-slow-motion-videos-to-set-your-own-trend-for-this-purpose-read-this-article-to-find-and-learn-to-use-capcuts-new-slow-/"><u>New 2024 Approved Create Eye-Catching Slow-Motion Videos to Set Your Own Trend. For This Purpose, Read This Article to Find and Learn to Use CapCuts New Slow-Motion Templates</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-creating-flawless-slow-motion-videos-is-every-content-creators-dream-learn-about-davinci-resolve-slow-motion-video-creation-amongst-other-/"><u>New 2024 Approved Creating Flawless Slow-Motion Videos Is Every Content Creators Dream. Learn About DaVinci Resolve Slow-Motion Video Creation, Amongst Other Tools</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-if-youre-looking-to-create-a-brand-video-that-makes-your-business-pop-out-we-have-put-together-some-video-editing-tips-and-tricks-that-wor/"><u>New 2024 Approved If Youre Looking to Create a Brand Video that Makes Your Business Pop Out, We Have Put Together some Video Editing Tips and Tricks that Work</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-making-slow-motion-videos-in-premiere-pro-a-review-on-the-best-method/"><u>New 2024 Approved Making Slow Motion Videos in Premiere Pro A Review on The Best Method</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-top-6-best-alternatives-to-clownfish-voice-changer/"><u>New 2024 Approved Top 6 Best Alternatives to Clownfish Voice Changer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quickly-convert-your-dvds-to-high-quality-mp4-files-using-the-authorized-winx-dvd-ripper-platinum-software-in-just-5-minutes/"><u>Quickly Convert Your DVDs to High-Quality MP4 Files Using the Authorized WinX DVD Ripper Platinum Software in Just 5 Minutes!</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ath-to-earning-through-youtube-a-creators-guide-for-2024/"><u>The Path to Earning Through YouTube A Creator's Guide for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-ranking-nintendo-switch-gear-and-peripherals/"><u>Top-Ranking Nintendo Switch Gear and Peripherals</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-are-you-an-apple-user-interested-in-adding-a-slow-mo-to-their-videos-this-article-features-an-exceptional-procedure-for-creating-slow-/"><u>Updated 2024 Approved Are You an Apple User Interested in Adding a Slow-Mo to Their Videos? This Article Features an Exceptional Procedure for Creating Slow-Mo in iMovie</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-make-videos-with-pictures-and-music-10-apps/"><u>Updated 2024 Approved Make Videos with Pictures and Music-10 Apps</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-top-shortcut-towards-timeline-template/"><u>Updated 2024 Approved Top Shortcut Towards Timeline Template</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-top-6-best-alternatives-to-clownfish-voice-changer/"><u>Updated In 2024, Top 6 Best Alternatives to Clownfish Voice Changer</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-discover-top-ranked-trivia-shows-for-24-for-2024/"><u>[New] Discover Top-Ranked Trivia Shows for '24 for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-navigating-video-editing-the-essentials-of-cropping-and-exporting-to-instagram/"><u>[Updated] 2024 Approved Navigating Video Editing The Essentials of Cropping and Exporting to Instagram</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-monicas-artificial-intelligence-powers-and-effective-strategies-for-utilizing-chatgpt/"><u>Discover Monica's Artificial Intelligence Powers and Effective Strategies for Utilizing ChatGPT</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6s-plus-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6s Plus to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-nubia-z50s-pro-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Nubia Z50S Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-your-battle-skills-with-optimized-ping-expert-strategies-to-reduce-lag-in-codmwii-wz2k4/"><u>Master Your Battle Skills with Optimized Ping - Expert Strategies to Reduce Lag in COD:MWII (WZ2k4)</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-have-you-ever-used-an-adjustment-layer-in-photoshop-read-this-article-to-find-out-how-to-add-resize-change-and-use-an-adjustment-layer-in-/"><u>New 2024 Approved Have You Ever Used an Adjustment Layer in Photoshop? Read This Article to Find Out How to Add, Resize, Change, and Use an Adjustment Layer in Photoshop Efficiently</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-learn-to-create-custom-sequence-presets-in-premiere-pro-for-efficient-video-editing-ensure-consistency-and-speed-up-your-workflow-with-per/"><u>New 2024 Approved Learn to Create Custom Sequence Presets in Premiere Pro for Efficient Video Editing. Ensure Consistency and Speed up Your Workflow with Personalized Settings</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-achieving-audio-harmony-on-stream-integrating-background-music-with-obs-effects-for-2024/"><u>New Achieving Audio Harmony on Stream Integrating Background Music with OBS Effects for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-perform-mask-tracking-discovering-the-best-methods-for-2024/"><u>New How to Perform Mask Tracking Discovering the Best Methods for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-to-replace-the-sky-in-your-media-read-the-article-to-learn-how-to-change-the-sky-app-on-your-mobile-phone/"><u>New In 2024, Do You Want to Replace the Sky in Your Media? Read the Article to Learn How to Change the Sky App on Your Mobile Phone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-master-premiere-pro-custom-sequence-presets-for-2024/"><u>New Master Premiere Pro Custom Sequence Presets for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-top-15-slow-motion-capcut-templates-to-work-with-for-2024/"><u>New Top 15 Slow Motion CapCut Templates to Work With for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-control-resetting-user-defined-search-in-win11/"><u>Regaining Control: Resetting User-Defined Search in Win11</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-are-you-also-a-fan-of-the-slow-mo-guys-well-who-isnt-learn-how-you-can-create-compelling-slow-mo-videos-like-the-slow-mo-guys-here/"><u>Updated 2024 Approved Are You Also a Fan of the Slow Mo Guys? Well! Who Isnt? Learn How You Can Create Compelling Slow-Mo Videos Like the Slow Mo Guys Here</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-what-should-be-considered-to-choose-a-nice-gopro-for-vlogging/"><u>Updated In 2024, What Should Be Considered to Choose A Nice GoPro for Vlogging?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
 </ul></div>
 

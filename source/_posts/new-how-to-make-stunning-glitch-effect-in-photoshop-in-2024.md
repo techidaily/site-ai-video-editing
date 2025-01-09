@@ -1,7 +1,7 @@
 ---
 title: New How to Make Stunning Glitch Effect in Photoshop, In 2024
-date: 2024-12-31T03:57:27.673Z
-updated: 2025-01-02T03:56:38.378Z
+date: 2025-01-05T19:31:13.689Z
+updated: 2025-01-09T18:25:53.497Z
 tags: 
   - ai
   - animation videos
@@ -35,28 +35,24 @@ Step 1: The process starts by importing the image to Photoshop on which you plan
 
 ![tap on desaturate option](https://images.wondershare.com/filmora/article-images/2021/stunning-glitch-effect-photoshop-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Now duplicate the image by dragging it onto the New Layer icon in the Layers Panel. Then double click on the duplicated image. This will open a ‘Layer Style’ settings menu. Here, click on the icon for ‘R Channel’ and deselect it.
 
 ![disable channel r](https://images.wondershare.com/filmora/article-images/2021/stunning-glitch-effect-photoshop-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Now, it's time to add the first glitch element. For that, hold the ‘Shift’ key and move the image by using the left/right cursor keys on the keyboard. This will offset the image layer from the original.
 
 ![add first glitch element](https://images.wondershare.com/filmora/article-images/2021/stunning-glitch-effect-photoshop-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4: You can now select the ‘Mark’ tool from the left side. Make a rectangle anywhere on the image with the Mark tool and then switch back to the ‘Move’ tool. Then again, nudge the rectangular portion left or right to offset it. You can repeat this process multiple times on different areas of the image.
 
 ![use mark and move tool](https://images.wondershare.com/filmora/article-images/2021/stunning-glitch-effect-photoshop-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 5: At this point, make a New Layer and fill it with White. Now right-click on this white layer and select the option of 'Convert to Smart Object.'
@@ -67,13 +63,13 @@ Step 6: Move to the menu bar at the top and go to the 'Filter' section. From the
 
 ![change the pattern](https://images.wondershare.com/filmora/article-images/2021/stunning-glitch-effect-photoshop-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 7: Now, in the ‘Layers Panel,’ select the option of ‘Overlay’ from the dropdown menu so that the different layers can show through. You can adjust the visibility of the lines by adjusting the number on the scale.
 
 ![tap on overlay](https://images.wondershare.com/filmora/article-images/2021/stunning-glitch-effect-photoshop-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 8: After setting everything for the glitch effect in your image, you can now add colors using the ‘Gradient Map.’ Or you can also import some graphic textures to Photoshop and add them to the image. Don’t forget to change the ‘Binding Mode’ to 'Overlay.' You can then play with the color and graphic settings.
 
@@ -82,10 +78,6 @@ Step 8: After setting everything for the glitch effect in your image, you can no
 Step 9: Once all the color adjustments have satisfied you, it's time to add some text to your glitch image. For that, head to the ‘Text’ tool from the left menu and type in your text. Edit it as you did to your image so that you can make a cool glitch text effect Photoshop and with this, you are all done with making the most stunning glitch effect Photoshop.
 
 ![customize your glitch effect](https://images.wondershare.com/filmora/article-images/2021/stunning-glitch-effect-photoshop-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. 5 Awesome Glitch Effect Photoshop Actions
 
@@ -101,6 +93,10 @@ The effect has all the dark, distorted, and disturbance-related elements that ma
 
 ![distorted glitch photoshop action](https://images.wondershare.com/filmora/article-images/2021/stunning-glitch-effect-photoshop-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Geometric Glitch Photoshop Action
 
 If glitch effect with lines is too mainstream for you, then this next effect will surely impress you. This effect is the Geometric Glitch Photoshop Action. You can edit this effect. All its colors, layers, and even elements are fully editable.
@@ -110,7 +106,7 @@ You can create a modern yet professional glitch image with this stunning effect.
 ![geometric glitch photoshop action](https://images.wondershare.com/filmora/article-images/2021/stunning-glitch-effect-photoshop-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Animated Glitch Photoshop Action
@@ -128,7 +124,11 @@ The next effect in line to be discussed is Futuristic Photoshop Action. This eff
 ![futuristic photoshop action](https://images.wondershare.com/filmora/article-images/2021/stunning-glitch-effect-photoshop-13.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Glitch Art Photoshop Action
@@ -140,7 +140,7 @@ The distortion, the abstract elements, the digital error, and everything else in
 ![glitch art photoshop action](https://images.wondershare.com/filmora/article-images/2021/stunning-glitch-effect-photoshop-14.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Final Words
@@ -160,24 +160,21 @@ We then shared 5 incredible glitch effects that could be used in case you don’
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-easy-steps-to-hassle-free-high-dynamic-range-imaging-for-2024/"><u>[New] Easy Steps to Hassle-Free High Dynamic Range Imaging for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-expert-tips-for-mastering-screencastifys-features/"><u>[New] In 2024, Expert Tips for Mastering Screencastify's Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breathe-life-into-your-locked-windows-screen-saver/"><u>Breathe Life Into Your Locked Windows Screen Saver</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-capturing-stunning-hdr-portraits-step-by-step-instructions/"><u>In 2024, Capturing Stunning HDR Portraits Step-by-Step Instructions</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-unveiling-the-apple-podcast-submission-process/"><u>In 2024, Unveiling the Apple Podcast Submission Process</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movavi-avi-to-mp3-omzetting-vrije-online-luchtige-korting-eenvoudig-en-gratuit/"><u>Movavi AVI-to-MP3-Omzetting Vrije Online Luchtige Korting - Eenvoudig en Gratuit</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-the-glitch-effect-shows-errors-and-flaws-in-the-image-or-a-video-the-write-up-presents-the-complete-procedure-of-adding-premiere-pros-glit/"><u>New 2024 Approved The Glitch Effect Shows Errors and Flaws in the Image or a Video. The Write-Up Presents the Complete Procedure of Adding Premiere Pros Glitch Effect and Introduces Eight Free Glitch Effects</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-tiktok-video-aspect-ratio/"><u>New 2024 Approved Tiktok Video Aspect Ratio</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-zoom-in-and-out-on-mac/"><u>New In 2024, How to Zoom In and Out on Mac</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-if-youre-looking-to-create-a-brand-video-that-makes-your-business-pop-out-we-have-put-together-some-video-editing-tips-and-tricks-that-work/"><u>New In 2024, If Youre Looking to Create a Brand Video that Makes Your Business Pop Out, We Have Put Together some Video Editing Tips and Tricks that Work</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-using-vn-editor-to-add-luts-for-video-editing-for-2024/"><u>New Using VN Editor To Add Luts for Video Editing for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/premium-biz-cloud-vault-services-for-2024/"><u>Premium Biz Cloud Vault Services for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-14-herramientas-de-creacion-para-excelentes-presentaciones-en-windows-10-softwares-avances-de-2024/"><u>Top 14 Herramientas De Creación Para Excelentes Presentaciones en Windows 10 - Softwares Avances De 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/top-6-free-online-tools-for-downloading-youtube-shorts/"><u>Top 6 Free, Online Tools for Downloading YouTube Shorts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-online-sources-for-high-quality-vector-illustrations-for-2024/"><u>Top Online Sources for High-Quality Vector Illustrations for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-here-you-will-learn-how-to-add-a-realistic-fire-effect-using-wondershare-filmora-that-will-help-to-boost-your-channel-and-decorate-you/"><u>Updated 2024 Approved Here, You Will Learn How to Add a Realistic Fire Effect Using Wondershare Filmora. That Will Help to Boost Your Channel and Decorate Your YouTube Channel with Creative and Unique Effects</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-mastering-video-speed-control-slow-down-speed-up-and-edit-with-ease/"><u>Updated 2024 Approved Mastering Video Speed Control Slow Down, Speed Up, and Edit with Ease</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-do-you-know-capcut-has-some-amazing-slow-motion-templates-you-can-utilize-read-this-article-to-access-the-slow-motion-capcut-templates-link-for-2024/"><u>Updated Do You Know CapCut Has some Amazing Slow-Motion Templates You Can Utilize? Read This Article to Access the Slow-Motion CapCut Templates Link for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-want-to-excel-at-using-adobe-premiere-pro-software-for-splitting-videos-and-audio-learn-about-splitting-a-video-and-audio-using-diffe/"><u>Updated In 2024, Do You Want to Excel at Using Adobe Premiere Pro Software for Splitting Videos and Audio? Learn About Splitting a Video and Audio Using Different Tools and Add a New Skill to Your Skillset with a Step-by-Step Guide in This Article</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-ultimate-guide-to-instagram-desktop-video-upload/"><u>[New] The Ultimate Guide to Instagram Desktop Video Upload</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/discovering-the-ins-and-outs-of-youtube-shorts-capital/"><u>Discovering the Ins and Outs of YouTube Shorts Capital</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-windows-rule-sets-with-three-methodologies/"><u>Dissecting Windows Rule Sets with Three Methodologies</u></a></li>
+<li><a href="https://win11.techidaily.com/dxgidll-gone-unveiling-win11-remedy-steps/"><u>Dxgi.dll Gone? Unveiling Win11 Remedy Steps</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-13-pro-max-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 13 Pro Max Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-iphone-se-2022-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the iPhone SE (2022) iCloud Lock</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-looking-into-how-slow-mo-guys-have-changed-the-dynamics-of-slow-motion-for-2024/"><u>New Looking Into How Slow Mo Guys Have Changed the Dynamics of Slow-Motion for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-overview-of-perfect-moody-luts-for-vn-editor-for-2024/"><u>New Overview of Perfect Moody LUTs for VN Editor for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-what-is-the-best-voice-changer-for-whatsapp-discover-the-seven-7-best-voice-changers-for-whatsapp-here-in-this-post-for-2024/"><u>New What Is the Best Voice Changer for WhatsApp? Discover the Seven (7) Best Voice Changers for WhatsApp Here in This Post for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-handbook-for-swapping-music-libraries/"><u>The Ultimate Handbook for Swapping Music Libraries</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-eliminating-license-ends-warning-on-win11/"><u>Tips for Eliminating License Ends Warning on Win11</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-slow-mo-youtube-videos/"><u>Updated 2024 Approved How to Slow-Mo YouTube Videos</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-confused-about-which-gopro-should-you-use-this-article-introduces-and-provides-a-detailed-overview-of-the-best-gopro-for-youtubers-you-can-f/"><u>Updated In 2024, Confused About Which GoPro Should You Use? This Article Introduces and Provides a Detailed Overview of the Best GoPro for YouTubers You Can Find in the Market for Vlogging</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-if-youre-not-using-video-yet-now-is-the-time-to-start-in-this-post-well-discuss-the-benefits-of-using-video-for-social-media-marketing-and-p/"><u>Updated In 2024, If Youre Not Using Video yet, Now Is the Time to Start. In This Post, Well Discuss the Benefits of Using Video for Social Media Marketing and Provide Tips for Getting Started. Keep Reading to Learn More</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-let-us-talk-about-the-famous-photoshop-and-most-commonly-used-glitch-effect-the-article-understudy-will-discuss-in-detail-about-photo-glitch-effect-/"><u>Updated Let Us Talk About the Famous Photoshop and Most Commonly Used Glitch Effect. The Article Understudy Will Discuss in Detail About Photo Glitch Effect for 2024</u></a></li>
 </ul></div>
 

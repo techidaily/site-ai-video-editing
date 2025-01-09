@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis of Cutting-Edge Devices by Tom's Hardware Experts
-date: 2024-12-31T18:07:07.497Z
-updated: 2025-01-02T01:05:52.331Z
+date: 2025-01-02T17:39:12.733Z
+updated: 2025-01-09T17:46:21.860Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,22 +68,18 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-optimal-methods-for-viewing-nba-games-online/"><u>[New] Optimal Methods for Viewing NBA Games Online</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-fb-livestream-success-on-television-four-pathways-for-2024/"><u>[Updated] FB Livestream Success on Television Four Pathways for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instavision-twists-the-art-of-creating-instagram-loops-for-2024/"><u>[Updated] InstaVision Twists The Art of Creating Instagram Loops for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-10-best-websites-to-discover-free-premiere-pro-video-templates/"><u>2024 Approved 10 Best Websites to Discover Free Premiere Pro Video Templates</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-becoming-an-expert-in-fisheye-panoramic-shots/"><u>2024 Approved Becoming an Expert in Fisheye Panoramic Shots</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-create-kinetice-typography-text-effect-in-filmora/"><u>2024 Approved Create Kinetice Typography Text Effect in Filmora</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-funhouse-laughs-top-10-meme-blueprints-explained/"><u>2024 Approved Funhouse Laughs Top 10 Meme Blueprints Explained</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-ace-your-videos-essential-editors-for-youtube/"><u>[New] 2024 Approved Ace Your Videos Essential Editors for YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-basics-of-animated-infographics-and-signage/"><u>[New] Basics of Animated Infographics and Signage</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-crafting-flawless-subtitles-with-precision-and-tips/"><u>[New] Crafting Flawless Subtitles with Precision and Tips</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-globe-spin-cameras-versus-three-dimensional-photography-for-2024/"><u>[New] Globe-Spin Cameras versus Three-Dimensional Photography for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-perfect-6-apps-for-private-android-video-capturing-for-2024/"><u>[Updated] Perfect 6 Apps for Private Android Video Capturing for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-motorola-razr-40-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Motorola Razr 40 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-top-6-online-video-speed-controller-for-chrome-safari-firefox/"><u>2024 Approved TOP 6 Online Video Speed Controller for Chrome, Safari, Firefox</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unlocking-the-full-potential-of-obs-on-mac/"><u>2024 Approved Unlocking the Full Potential of OBS on Mac</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-iphone-xs-max-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off iPhone XS Max without Password</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-for-flawless-computer-fixes/"><u>Leveraging AI for Flawless Computer Fixes</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-add-font-effects-to-videos/"><u>New 2024 Approved How to Add Font Effects to Videos</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-all-things-about-adding-effects-in-kinemaster/"><u>New All Things About Adding Effects In Kinemaster</u></a></li>
-<li><a href="https://win-answers.techidaily.com/twitch-sound-not-working-heres-how-you-can-get-it-to-work-perfectly-now/"><u>Twitch Sound Not Working? Here's How You Can Get It to Work Perfectly Now</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-create-vintage-film-effect-1920s-for-2024/"><u>Updated How to Create Vintage Film Effect 1920S for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-quickly-create-a-screen-print-effect-in-photoshop-detailed-gui-for-2024/"><u>Updated How To Quickly Create A Screen Print Effect In Photoshop Detailed Gui for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-if-you-want-to-know-what-to-prepare-and-how-to-make-the-wedding-video-perfect-for-videographers-check-out-this-menu-here/"><u>Updated In 2024, If You Want to Know What to Prepare and How to Make the Wedding Video Perfect for Videographers, Check Out This Menu Here</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/do-you-know-that-you-can-apply-different-luts-and-create-your-own-there-are-many-lut-online-and-offline-generators-that-you-can-use-to-create-your-lut-for-2/"><u>Do You Know that You Can Apply Different LUTs and Create Your Own? There Are Many LUT Online and Offline Generators that You Can Use to Create Your LUT for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-fixes-for-when-the-outer-worlds-keeps-crashing-on-pc/"><u>Essential Fixes for When 'The Outer Worlds' Keeps Crashing on PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-samsung-galaxy-a15-4g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Samsung Galaxy A15 4G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Lenovo ThinkPhone? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-this-article-will-show-you-how-to-make-a-tattoo-disappear-on-your-body-magically/"><u>In 2024, This Article Will Show You How to Make a Tattoo Disappear on Your Body Magically</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-learn-the-step-by-step-process-of-slowing-down-time-lapse-videos-on-your-iphone/"><u>New Learn the Step-by-Step Process of Slowing Down Time-Lapse Videos on Your iPhone</u></a></li>
 </ul></div>
 

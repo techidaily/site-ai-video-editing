@@ -1,7 +1,7 @@
 ---
 title: "Mastering Stability in Halo Infinite: Preventing PC Game Interruptions"
-date: 2024-12-28T21:35:39.503Z
-updated: 2025-01-01T22:01:53.900Z
+date: 2025-01-08T18:22:32.235Z
+updated: 2025-01-09T17:54:55.984Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/8f63bb0ba2ec8bc31c40485e081b6a90e2c27c800
 Halo Infinite is available now and some gamers have noticed that the game has been stuttering, lagging, and having low frame rates. If you encounter this issue and want to get it fixed, you’ve come to the right place. This post has gathered fixes that would help.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -28,10 +28,6 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 3. [Change in-game settings](https://tools.techidaily.com/drivereasy/download/)
 4. [Turn off background apps](https://tools.techidaily.com/drivereasy/download/)
 5. [Change NVIDIA resolution](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Check the minimum system requirement
 
@@ -65,16 +61,12 @@ There are mainly two ways you can update the graphics driver:
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 4. Relaunch Halo Infinite and check if it fixes the stuttering issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -91,6 +83,10 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
 
  4) Set**MINIMUM FRAME RATE** &**MAXIMUM FRAM RATE** . Enable**VSYNC** .
@@ -101,9 +97,17 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-34.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7) Run the game to check.
 
@@ -118,10 +122,6 @@ If it’s not working, move to the next fix.
  2) In the**Process** tab, click the app and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
 
@@ -150,21 +150,19 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-integrating-podcast-magic-a-step-by-step-for-iphone-users/"><u>[New] Integrating Podcast Magic A Step-by-Step for iPhone Users</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-tech-tips-streamlining-your-overwatch-video-recordings/"><u>[New] Tech Tips Streamlining Your Overwatch Video Recordings</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-detailed-steps-to-using-azure-speech-recognition/"><u>[Updated] 2024 Approved Detailed Steps to Using Azure Speech Recognition</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-full-scoop-deciphering-the-google-podcast-app/"><u>[Updated] Full Scoop Deciphering the Google Podcast App</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-6-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>Apple iPhone 6 Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exposing-the-truth-about-bingchatgpt-scam-tokens-learn-how-to-detect-and-dodge-digital-pickpocketing-in-crypto-transactions/"><u>Exposing the Truth About BingChatGPT Scam Tokens - Learn How to Detect and Dodge Digital Pickpocketing in Crypto Transactions</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/inshot-vs-other-editors-comprehensive-analysis-for-2024/"><u>InShot vs Other Editors Comprehensive Analysis for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/master-classroom-titling-software/"><u>Master Classroom Titling Software</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-an-ultimate-guide-on-the-significance-of-music-in-videos-and-how-to-choose-the-right-music-for-your-videos-with-wondershare-filmora/"><u>New 2024 Approved An Ultimate Guide on the Significance of Music in Videos and How to Choose the Right Music for Your Videos with Wondershare Filmora</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713961690984-new-are-you-tired-of-long-video-edits-do-you-speed-up-the-video-in-canva-without-a-hassle-well-stick-with-us-as-we-guide-you-through-the-process-step-by-ste/"><u>New Are You Tired of Long Video Edits? Do You Speed up the Video in Canva without a Hassle? Well, Stick with Us as We Guide You Through the Process Step by Step for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-offering-the-best-understanding-of-performing-imovie-slow-motion-video/"><u>New In 2024, Offering The Best Understanding of Performing iMovie Slow Motion Video</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713964797206-new-storyboards-are-amazing-way-if-you-want-to-present-your-story-in-a-visual-way-like-explaining-any-process-or-giving-any-information-it-is-a-graphic-layo/"><u>New Storyboards Are Amazing Way if You Want to Present Your Story in a Visual Way, Like Explaining Any Process or Giving Any Information. It Is a Graphic Layout to Tell You a Story for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/slash-overblown-wmi-power-draw/"><u>Slash Overblown WMi Power Draw</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-end-your-struggles-with-choppy-playback-on-davinci-resolve-read-this-guide-to-find-effective-fixes-and-reliable-davinci-resolve-slow-p/"><u>Updated 2024 Approved End Your Struggles with Choppy Playback on DaVinci Resolve. Read This Guide to Find Effective Fixes and Reliable DaVinci Resolve Slow Playback Alternatives</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-if-youre-looking-to-create-a-brand-video-that-makes-your-business-pop-out-we-have-put-together-some-video-editing-tips-and-tricks-that/"><u>Updated 2024 Approved If Youre Looking to Create a Brand Video that Makes Your Business Pop Out, We Have Put Together some Video Editing Tips and Tricks that Work</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-want-to-record-videos-with-a-phantom-high-speed-camera-in-this-guide-you-can-get-a-detailed-note-on-the-phantom-camera/"><u>Updated In 2024, Do You Want to Record Videos with a Phantom High-Speed Camera? In This Guide, You Can Get a Detailed Note on the Phantom Camera</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nhancing-visuals-using-chroma-key-effectively-for-2024/"><u>[New] Enhancing Visuals Using Chroma Key Effectively for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-share-and-smile-discovering-the-best-meme-designs-10/"><u>[New] Share & Smile Discovering the Best Meme Designs #10</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-oneplus-nord-3-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your OnePlus Nord 3 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-enthralling-epics-essential-channel-building-tactics/"><u>In 2024, Enthralling Epics Essential Channel-Building Tactics</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-honor-x50iplus-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Honor X50i+ Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-video-maker-for-mac-easily-make-videos-on-mac/"><u>New Best Video Maker for Mac Easily Make Videos on Mac</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-are-you-wondering-how-to-slow-down-videos-or-speed-them-up-here-are-three-ways-to-do-it-speed-up-or-slow-down-your-videos-on-pc-online-and-phone/"><u>New In 2024, Are You Wondering How to Slow Down Videos or Speed Them up, Here Are Three Ways to Do It. Speed up or Slow Down Your Videos on PC, Online, and Phone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-being-an-after-effects-editor-you-often-find-yourself-the-need-to-add-motion-blur-after-effects-this-guide-has-got-you-covered-follow-to-find-ou/"><u>New In 2024, Being an After Effects Editor, You Often Find Yourself the Need to Add Motion Blur After Effects. This Guide Has Got You Covered. Follow to Find Out How to Add Motion Blur in After Effects</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-to-know-about-phone-aspect-ratio-vertical-trying-to-learn-about-iphone-vertical-video-dimensions-read-this-article-to-get-all-your-a/"><u>New In 2024, Do You Want to Know About Phone Aspect Ratio Vertical? Trying to Learn About iPhone Vertical Video Dimensions? Read This Article to Get All Your Answers on Vertical Phone Aspect Ratio Definition, Types and Tips</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-using-ai-to-replace-skies-finding-the-right-methods/"><u>New In 2024, Using AI to Replace Skies Finding the Right Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-eliminating-smart-tags-from-microsoft-excel-workbooks/"><u>Step-by-Step Guide: Eliminating Smart Tags From Microsoft Excel Workbooks</u></a></li>
+<li><a href="https://fox-within.techidaily.com/superior-capture-app-professional-screen-record-tool-for-your-ipad/"><u>Superior Capture App: Professional Screen Record Tool for Your iPad</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-wish-to-create-high-quality-videos-and-experience-effective-videos-with-editing-no-problem-at-all-because-the-keyboard-shortcuts-list/"><u>Updated In 2024, Do You Wish to Create High-Quality Videos and Experience Effective Videos with Editing? No Problem at All because the Keyboard Shortcuts Listed Here Will Assist You</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-mask-tracking-with-adobe-premiere-pro-a-detailed-guide-for-2024/"><u>Updated Mask Tracking with Adobe Premiere Pro A Detailed Guide for 2024</u></a></li>
 </ul></div>
 

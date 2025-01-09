@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Are You Looking to Make a Thumbnail for Your Fortnite Video? This Article Features a Guide Explaining Creating a Fortnite Motion Blur Thumbnail
-date: 2024-12-27T00:58:13.178Z
-updated: 2025-01-02T00:37:59.485Z
+date: 2025-01-03T17:27:30.162Z
+updated: 2025-01-09T16:36:12.067Z
 tags: 
   - ai
   - animation videos
@@ -26,7 +26,7 @@ In this article, we will work on the best methods to make a **Fortnite motion bl
 There are many ways to add motion blur to Fortnite thumbnails, as stated above. In this article, we will be providing appropriate methods for users of all types. From smartphone to online and desktop solutions, this article has it all.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 1: Make Motion Blur Fortnite Thumbnail with Picsart (Smartphone)
@@ -44,7 +44,7 @@ Download and install Picsart on your phone and proceed to launch it. As it opens
 ![create a picsart account if needed](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step2 Proceed to Effects Tab After Importing Thumbnail
@@ -53,15 +53,15 @@ You will have to import the created Fortnite thumbnail that is to be edited. Aft
 
 ![choose the effects tool](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step3 Add Motion Blur and Export
 
 On the next screen, look for the "Blur" section from the bottom and find the "Motion Blur" effect. As it is added, you can use the "Erase" button on the top to adjust the motion blur effect on the image according to the objects. Once done, tap on the "Apply" button to conclude by adding motion blur.
 
 ![apply the motion blur](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Way 2: Make Motion Blur Fortnite Thumbnail with Fotor (Online)
 
@@ -90,7 +90,7 @@ Continue to set the “Blur Intensity” and make changes by clicking “Apply.�
 ![adjust the blur intensity](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 3: Make Motion Blur Fortnite Thumbnail with Photoshop (Desktop)
@@ -113,15 +113,15 @@ To start with the process, right-click and create a duplicate layer by selecting
 
 ![create the duplicate layer](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step3 Add Motion Blur to Object
 
 Create another duplicate layer and proceed to the "Filter" tab. Look for "Blur Gallery" in the options and select "Motion Blur" from the following menu. You must set the "Angle," "Distance," and other appropriate settings to continue. Once done, save the Fortnite thumbnail with the added motion blur.
 
 ![choose the motion blur](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Last Words
 
@@ -144,22 +144,19 @@ In this article, we will work on the best methods to make a **Fortnite motion bl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-a-journey-through-the-landscape-of-human-computer-interaction/"><u>[New] A Journey Through the Landscape of Human-Computer Interaction</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/eciphering-how-to-find-my-youtube-comments-posts-for-2024/"><u>[New] Deciphering How To Find My YouTube Comments Posts for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-clearing-your-name-after-a-youtube-copyright-strike-notice/"><u>[New] In 2024, Clearing Your Name After a YouTube Copyright Strike Notice</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-say-no-to-unsolicited-content-on-insta/"><u>[Updated] 2024 Approved Say No to Unsolicited Content on Insta</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-motivational-cinema-the-ultimate-guide-to-empowerment-films/"><u>[Updated] In 2024, Motivational Cinema The Ultimate Guide to Empowerment Films</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/a-guide-to-adopting-lumetri-color-presets-in-effective-color-grading/"><u>A Guide To Adopting Lumetri Color Presets in Effective Color Grading</u></a></li>
-<li><a href="https://os-tips.techidaily.com/can-you-use-siri-to-unlock-your-iphone-the-pros-and-cons-explained/"><u>Can You Use Siri to Unlock Your iPhone? The Pros and Cons Explained</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/cannot-load-printer-driver-not-detected-by-win/"><u>Cannot Load Printer: Driver Not Detected by Win</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/do-you-want-to-create-adjustment-layers-in-final-cut-pro-this-article-will-discuss-a-simple-yet-efficient-method-to-generate-adjustment-layers-in-final-cut-/"><u>Do You Want to Create Adjustment Layers in Final Cut Pro? This Article Will Discuss a Simple yet Efficient Method to Generate Adjustment Layers in Final Cut Pro</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-11-tips-to-make-product-ad-videos/"><u>New 2024 Approved 11 Tips to Make Product Ad Videos</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-do-you-want-to-excel-at-using-adobe-premiere-pro-software-for-splitting-videos-and-audio-learn-about-splitting-a-video-and-audio-using-different-tools-a/"><u>New Do You Want to Excel at Using Adobe Premiere Pro Software for Splitting Videos and Audio? Learn About Splitting a Video and Audio Using Different Tools and Add a New Skill to Your Skillset with a Step-by-Step Guide in This Article</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713963191163-new-have-you-ever-heard-hyperlapse-and-tume-lapse-videos-do-you-know-the-differences-between-them-this-article-will-introduce-the-concepts-features-and-diff/"><u>New Have You Ever Heard Hyperlapse and Tume Lapse Videos? Do You Know the Differences Between Them? This Article Will Introduce the Concepts, Features and Differnces of Them for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/proiphone-close-ups-techniques-for-captivating-images/"><u>Proiphone Close-Ups Techniques for Captivating Images</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/ultimate-spots-for-discovering-rich-gold-text-effects/"><u>Ultimate Spots for Discovering Rich, Gold Text Effects</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-want-to-print-designs-onto-your-garments-or-other-fashion-accessories-find-out-how-to-create-a-screen-print-effect-in-photoshop-to-gi/"><u>Updated In 2024, Do You Want to Print Designs Onto Your Garments or Other Fashion Accessories? Find Out How to Create a Screen Print Effect in Photoshop to Give Your Text or Graphics a Vintage or Retro Look</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-fixing-the-slow-playback-issues-in-davinci-resolve/"><u>Updated In 2024, Fixing The Slow Playback Issues in DaVinci Resolve</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-steps-to-add-subtitles-in-canva-for-2024/"><u>Updated Steps to Add Subtitles in Canva for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-revolutionary-process-to-blend-gopro-videos-into-360-degree-panoramas/"><u>[Updated] Revolutionary Process to Blend GoPro Videos Into 360-Degree Panoramas</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-value-mech-keyboards-on-the-market/"><u>Best Value Mech Keyboards on the Market</u></a></li>
+<li><a href="https://facebook.techidaily.com/enhance-your-social-storytelling-sharing-high-definition-content/"><u>Enhance Your Social Storytelling: Sharing High-Definition Content</u></a></li>
+<li><a href="https://extra-information.techidaily.com/filmeditingsuite-assessment-detailed-insights/"><u>FilmEditingSuite Assessment – Detailed Insights</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/get-your-favorite-episodes-instantly-from-solarmovie-downloader-for-tv-and-movies/"><u>Get Your Favorite Episodes Instantly From Solarmovie Downloader for TV and Movies</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/hitpaw-screen-recorder-review-and-alternative/"><u>HitPaw Screen Recorder Review and Alternative</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-pro-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Pro to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-introduction-to-luts-their-overview-and-benefits/"><u>In 2024, Introduction to LUTs Their Overview and Benefits</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713950496574-in-this-guidepost-youll-learn-what-an-hdri-photo-is-and-how-to-use-the-best-free-hdri-program-to-edit-photos-youll-also-know-the-difference-between-hdr-and-/"><u>In This Guidepost, Youll Learn What an HDRI Photo Is and How to Use the Best Free HDRI Program to Edit Photos. Youll Also Know the Difference Between HDR and HDRI for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-are-you-aware-that-you-can-create-your-own-lower-thirds-for-video-read-this-article-for-a-tutorial-on-how-to-customize-one/"><u>New Are You Aware that You Can Create Your Own Lower Thirds for Video? Read This Article for a Tutorial on How to Customize One</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713964496835-new-making-a-countdown-timer-video-like-a-pro-isnt-a-problem-anymore-follow-the-steps-mentioned-in-this-guide-and-create-an-impressive-countdown-timer-for-y/"><u>New Making a Countdown Timer Video Like a Pro Isnt a Problem Anymore. Follow the Steps Mentioned in This Guide and Create an Impressive Countdown Timer for Your Videos for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-dell-xps-13-2-in-1-notebook-analysis-a-peak-in-computing-power/"><u>Top Dell XPS 13 2-In-1 Notebook Analysis: A Peak in Computing Power</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-clone-yourself-in-videos-with-filmora/"><u>Updated How to Clone Yourself in Videos with Filmora?</u></a></li>
 </ul></div>
 

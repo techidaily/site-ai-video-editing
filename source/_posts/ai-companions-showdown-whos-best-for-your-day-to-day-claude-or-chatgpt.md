@@ -1,7 +1,7 @@
 ---
 title: "AI Companions Showdown: Who's Best for Your Day-to-Day – Claude or ChatGPT?"
-date: 2024-12-27T19:08:48.832Z
-updated: 2025-01-01T20:50:40.990Z
+date: 2025-01-07T19:07:07.049Z
+updated: 2025-01-09T17:31:11.588Z
 tags:
   - chatgpt
   - open-ai
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
 
 ![logical and commonsense problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/logical-and-commonsense-problem.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ChatGPT broke up the problem into bits and solved it on the first attempt. Claude AI also had a go at it and solved the problem as well, but with a different approach.
 
 ![Claude AI solving a commonsense and logical reasoning problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solving-a-commonsense-and-logical-reasoning-problem.jpg)
@@ -36,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
  For the first task, both chatbots were able to crack the problem. So, we moved on to a different kind of problem. We tasked both chatbots with answering a trick question.
 
 ![ChatGPT Answers Trick Question-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-answers-trick-question-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ChatGPT was able to immediately spot the trick--you can't bury survivors because they aren't dead. Claude AI, on the other hand, seemed to understand that it was a trick question but failed to spot the most common-sense issue that you don't bury survivors.
 
@@ -48,12 +48,16 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
 ![ChatGPT birds commonsense logic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-birds-commonsense-logic.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Claude AI, on the other hand, gave a more common-sense response by recognizing that the five sliced apples are likely to rot.
 
 ![Claude AI Common sense reasoning with Apple rotting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-common-sense-reasoning-with-apple-rotting.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Claude AI clearly got this one. We tried a few more tricky problems, and both chatbots had a fair share of successes and failures in dealing with them. Considering the outcome we observed, it might be fair to say that while ChatGPT has an edge, both chatbots are not too far apart in common sense and logical reasoning abilities.
 
@@ -65,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
 
 ![Claude AI solves maths problem on productivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-maths-problem-on-productivity.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ChatGPT also cracked the problem as well.
 
 ![ChatGPT solves maths problem on productivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-maths-problem-on-productivity.jpg)
@@ -73,13 +81,13 @@ ChatGPT also cracked the problem as well.
 
 ![ChatGPT solves a math problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-a-math-problem.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Claude AI failed at the first attempt, but when we prompted it to solve the problem step by step (which forces it to think through every step of its logic) it was able to crack it.
 
 ![Claude AI solves a math problem step-by-step](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-a-math-problem-step-by-step.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  We tried a few more math problems. While both chatbots got it right on the first try in some cases, in several instances, Claude AI needed a second or third attempt to provide the right response. In terms of math skills, we'll give the crown to ChatGPT.
 
@@ -101,10 +109,6 @@ ChatGPT also cracked the problem as well.
 
  After trying out a few more creative tasks, Claude AI seemed to excel in writing-related tasks and was able to write more natural-sounding content like a human writer would do. Although[ChatGPT was better at overcoming more complex creative tasks](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) , it sometimes couldn't shake off that AI chatbot feeling in the text it generated. Our verdict? Both ChatGPT and Claude AI are creative in their own right.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ChatGPT vs. Claude AI: Coding Skills
 
  Just like math skills, coding skills are another very important metric for judging the abilities of an AI chatbot. While the majority of users will probably never[use a chatbot for coding](https://www.makeuseof.com/chatgpt-programming-practical-uses/) , there are significant underlying implications for a chatbot's abilities to write and understand code proficiently.
@@ -116,7 +120,7 @@ ChatGPT also cracked the problem as well.
 ![to-do list app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/to-do-list-app-by-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Moving on to Claude AI, the chatbot wrote clearly intelligible code. The structure and logic all seemed fine. Unfortunately, despite repeated attempts, Claude AI kept missing some critical logic to make the code actually run on a browser. It's a fail on this one.
@@ -126,7 +130,7 @@ ChatGPT also cracked the problem as well.
 ![Claude AI analyzing multiple PHP files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-analyzing-multiple-php-files.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Surprisingly, ChatGPT, despite seemingly having superior coding skills, failed at this despite repeated attempts. Claude AI, on the other hand, was able to analyze the code proficiently while identifying the right places that needed to be edited to achieve the desired results.
@@ -134,10 +138,6 @@ ChatGPT also cracked the problem as well.
  Of course, this was not an isolated case, we repeated it with several other code files, but ChatGPT stumbled and stalled on the majority of cases while Claude AI kept delivering impressive results. In terms of coding skills, the winner is not entirely straightforward.
 
  ChatGPT is clearly significantly better at writing new code and can manage complex code with impressive proficiency. However, Claude AI is significantly better at analyzing large code bases. So, if you're looking to write code for some new idea you have, ChatGPT is the tool to turn to. If you want to analyze or make sense of a code base with thousands of lines across several files, then we would definitely recommend Claude AI.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Claude AI Is a Potent Competitor on the Block
 
@@ -158,18 +158,21 @@ ChatGPT also cracked the problem as well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-harness-the-power-of-your-mobile-content-on-youtube-starting-now/"><u>[New] 2024 Approved Harness the Power of Your Mobile Content on YouTube, Starting Now</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-top-10-flawless-web-based-vimeo-video-extractors/"><u>[New] In 2024, Top 10 Flawless Web-Based Vimeo Video Extractors</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-find-friends-in-fandoms-forums/"><u>[Updated] In 2024, Find Friends in Fandom's Forums</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-layout-layers-elevating-your-youtube-videos/"><u>2024 Approved Layout Layers Elevating Your YouTube Videos</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-x-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone X</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ffortless-single-frame-analysis-in-youtube-videos-5-ways-for-2024/"><u>[New] Effortless Single-Frame Analysis in YouTube Videos [5 Ways] for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-enhancing-your-sound-design-with-easy-transitions/"><u>[Updated] 2024 Approved Enhancing Your Sound Design with Easy Transitions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-high-speed-film-gatherer-for-timelapse-top5-for-2024/"><u>[Updated] High-Speed Film Gatherer for Timelapse #Top5 for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-smooth-transition-from-skype-to-zoom-for-better-collaboration/"><u>[Updated] In 2024, Smooth Transition From Skype to Zoom for Better Collaboration</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-androidios-resolve-youtube-freezing/"><u>2024 Approved Android/iOS Resolve YouTube Freezing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-guide-to-cyberghost-vpn-best-choice-for-new-users-review-techradar/"><u>Easy Guide to CyberGhost VPN - Best Choice for New Users? (Review) | TechRadar</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/easy-steps-to-modify-your-monitor-settings-using-the-windows-control-panel-with-expert-tips-from-yl-software/"><u>Easy Steps to Modify Your Monitor Settings Using the Windows Control Panel with Expert Tips From YL Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-image-and-video-output-on-the-fly-with-luts/"><u>Elevate Image & Video Output on the Fly with LUTs</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/in-2024-what-is-color-finale/"><u>In 2024, What Is Color Finale</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-guide-create-the-perfect-vhs-effect-look-in-premiere-pro/"><u>New 2024 Approved Guide Create The Perfect VHS Effect Look in Premiere Pro</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-a-diy-vlog-or-video/"><u>New How to Make a DIY Vlog or Video</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-use-luts-to-color-grade-on-your-iphone/"><u>New How to Use LUTS to Color Grade on Your iPhone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-minecraft-disconnection-woes-effective-strategies-now-available/"><u>Overcoming Minecraft Disconnection Woes: Effective Strategies Now Available</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-functionality-to-windows-desktop-icons-and-menus/"><u>Restoring Functionality to Windows Desktop Icons and Menus</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/ultimate-list-templates-for-youtube-previews/"><u>Ultimate List Templates for YouTube Previews</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-read-on-to-learn-about-opencv-object-tracking-what-it-is-and-how-to-implement-it-in-python-and-opencv/"><u>Updated 2024 Approved Read on to Learn About OpenCV Object Tracking, What It Is, and How to Implement It in Python, and OpenCV</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-featuring-the-use-of-camera-shake-in-creating-the-best-videos/"><u>Updated Featuring The Use of Camera Shake in Creating the Best Videos</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-how-to-enable-and-use-obs-zoom-camera-for-2024/"><u>Updated How to Enable and Use OBS Zoom Camera for 2024</u></a></li>
 </ul></div>
 

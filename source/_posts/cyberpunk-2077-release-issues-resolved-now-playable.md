@@ -1,7 +1,7 @@
 ---
 title: "Cyberpunk 2077 Release Issues Resolved: Now Playable"
-date: 2024-12-30T01:46:03.087Z
-updated: 2025-01-01T18:42:00.577Z
+date: 2025-01-02T18:11:01.146Z
+updated: 2025-01-09T18:55:04.438Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/2e8e3dda0fc4dbabc8c416bc34f849f91c6baaf77
 
 These days, players have reported the issue of black screen when loading a save game in **[Cyberpunk 2077](https://www.epicgames.com/store/en-US/p/cyberpunk-2077?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=77f2b98e2cef40c8a7437518bf420e47)**  . The music keeps playing in the background but they just get a black screen and the game doesn’t show up. If you’re also having the same issue, don’t worry. We’ve gathered some fixes for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works for you.
@@ -31,7 +27,7 @@ These days, players have reported the issue of black screen when loading a save 
 4. **[Verify integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Allow your game through firewall
@@ -41,10 +37,6 @@ These days, players have reported the issue of black screen when loading a save 
  1) Press the Windows logo key to open the Start menu. Type **windows firewall** . Then click **Windows Defender Firewall**  from the results.  
   
 ![allow Cyberpunk 2077 through Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-firewall.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) On the left side of the screen, select **Allow an app through Windows Defender Firewall** .  
   
@@ -58,25 +50,25 @@ These days, players have reported the issue of black screen when loading a save 
   
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/click-Browse.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Navigate to the drive on which you installed the game. Then open the folder **Program Files > Steam > steamapps > common > Cyberpunk 2077> bin > x64** . In the**x64** folder, select the**Cyberpunk 2077 Application** and then click**Open** .
 
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/allow-the-game-through-windows-firewall.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Click**Add** .  
   
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/add-Cyberpunk-2077-to-the-list.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Now your game should be on the list. Also make sure it’s ticked for Private and Public. This will allow you to exclude the application from being blocked by the firewall.
 
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/Cyberpunk-2077-is-ticked-for-private-and-public.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once done, simply click**OK** to save your changes. Then you can play your game to check if it does the trick. If the issue persists, proceed to the next fix.
 
@@ -111,14 +103,14 @@ Here’s how it works:
 
 ![update drivers automatically with Driver Easy to fix Beyond Light FPS drops](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -138,10 +130,6 @@ Here’s how it works:
   
 ![how to check your windows version](https://images.drivereasy.com/wp-content/uploads/2020/12/check-your-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) From the left panel, select**About** . Then scroll down to the**Windows specifications** section. From there, you’ll know your Windows version.  
   
 ![how to check your windows version](https://images.drivereasy.com/wp-content/uploads/2020/12/check-your-windows-version.jpg)
@@ -154,12 +142,16 @@ Here’s how it works:
   
 ![use windows 10 updates assistant to update to version 20H2](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-update-assistant-update-now.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you’ve updated your Windows to version 20H2, your issue should be resolved.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Verify integrity of game files
@@ -180,6 +172,10 @@ Here’s how it works:
   
 ![verify integrity of game files Cyberpunk 2077](https://images.drivereasy.com/wp-content/uploads/2020/12/verify-integrity-of-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### GOG GALAXY 2.0
 
  1) Launch GOG GALAXY 2.0\. From the left menu, click**Owned games** . Then click on your game.
@@ -189,7 +185,7 @@ Here’s how it works:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/GOG-GALAXY.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Epic Games Launcher
@@ -201,6 +197,10 @@ Here’s how it works:
  2) Navigate to your game Cyberpunk 2077\. Then click on the icon with three dots. Then select**Verify** .
 
 ![Cyberpunk 2077 verify integrity of game files Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/12/verify-Epic-Games-Launcher.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It may take several minutes to finish the process. Simply wait for it. Once done, try to load your game to check if it does the trick.
 
@@ -225,17 +225,22 @@ Here’s how it works:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-how-to-add-chapters-to-vimeo-video/"><u>2024 Approved How to Add Chapters to Vimeo Video?</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/clearing-out-windows-11s-shadow-copies-discover-four-efficient-techniques-for-a-clean-system/"><u>Clearing Out Windows 11'S Shadow Copies: Discover Four Efficient Techniques for a Clean System</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-unlock-styling-secrets-with-a-diy-video-editing-guide/"><u>In 2024, Unlock Styling Secrets with a DIY Video Editing Guide</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-from-words-to-music-audio-conversion-of-textual-content-on-various-platforms/"><u>New In 2024, From Words to Music Audio Conversion of Textual Content on Various Platforms</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/pioneering-reviews-in-the-world-of-technology-by-toms-computer-insights/"><u>Pioneering Reviews in the World of Technology by Tom's Computer Insights</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-a-non-functional-aoc-usb-monitor-under-windows-11-operating-system/"><u>Solving the Problem of a Non-Functional AOC USB Monitor Under Windows 11 Operating System</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-art-of-verse-integrating-chatgpt-in-book-writing/"><u>The Art of Verse: Integrating ChatGPT in Book Writing</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-templates-increase-the-editing-possibilities-for-beginners-and-professionals-read-this-article-to-learn-about-some-customizable-slow-m/"><u>Updated 2024 Approved Templates Increase the Editing Possibilities for Beginners and Professionals. Read This Article to Learn About some Customizable Slow-Motion CapCut Templates</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-want-to-know-about-phone-aspect-ratio-vertical-trying-to-learn-about-iphone-vertical-video-dimensions-read-this-article-to-get-all-yo/"><u>Updated In 2024, Do You Want to Know About Phone Aspect Ratio Vertical? Trying to Learn About iPhone Vertical Video Dimensions? Read This Article to Get All Your Answers on Vertical Phone Aspect Ratio Definition, Types and Tips</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-split-videos-in-premier-pro/"><u>Updated In 2024, How To Split Videos in Premier Pro</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-slowing-down-gif-with-the-best-available-methods-for-2024/"><u>Updated Slowing Down GIF With The Best Available Methods for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1207471-9781780991887-wild-earth-wild-soul/"><u>Wild Earth, Wild Soul | Free Book</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-google-meet-aesthetics-elevating-with-filters-and-effects/"><u>[New] In 2024, Google Meet Aesthetics Elevating with Filters and Effects</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-a-step-by-step-journey-clearing-images-with-picsart/"><u>[Updated] 2024 Approved A Step-By-Step Journey Clearing Images with Picsart</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-steps-for-crafting-visually-stimulating-fb-ad-content/"><u>[Updated] In 2024, Steps for Crafting Visually Stimulating FB Ad Content</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-engaging-audiences-making-popular-youtube-shorts/"><u>2024 Approved Engaging Audiences Making Popular YouTube Shorts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-prime-8-transformative-lenses-for-virtual-conferencing/"><u>2024 Approved Prime 8 Transformative Lenses for Virtual Conferencing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/color-correction-mastery-blending-video-clips-seamlessly-in-powerdirector-for-2024/"><u>Color Correction Mastery Blending Video Clips Seamlessly in PowerDirector for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-do-you-want-to-record-videos-with-a-phantom-high-speed-camera-in-this-guide-you-can-get-a-detailed-note-on-the-phantom-camera-for-2024/"><u>New Do You Want to Record Videos with a Phantom High-Speed Camera? In This Guide, You Can Get a Detailed Note on the Phantom Camera for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-premiere-pro-best-slow-motion-effects-to-use/"><u>New In 2024, Premiere Pro Best Slow Motion Effects To Use</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-top-shortcut-towards-timeline-template/"><u>New In 2024, Top Shortcut Towards Timeline Template</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/signal-or-whatsapp-understanding-their-key-distinctions-in-communication-apps/"><u>Signal or WhatsApp: Understanding Their Key Distinctions in Communication Apps</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-based-on-preferences-you-can-adjust-the-speed-of-youtube-videos-learn-how-to-produce-a-youtube-slow-motion-video-in-this-article-for-2024/"><u>Updated Based on Preferences, You Can Adjust the Speed of YouTube Videos. Learn How to Produce a YouTube Slow-Motion Video in This Article for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-stunning-glitch-effect-in-photoshop-in-2024/"><u>Updated How to Make Stunning Glitch Effect in Photoshop, In 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-slow-down-a-video-on-iphone-and-android-the-easy-way-for-2024/"><u>Updated How to Slow Down a Video on iPhone and Android The Easy Way for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-stunning-glitch-effect-and-its-creation-guideline-for-premiere-pro/"><u>Updated In 2024, Stunning Glitch Effect and Its Creation Guideline for Premiere Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-looking-into-how-slow-mo-guys-have-changed-the-dynamics-of-slow-motion-for-2024/"><u>Updated Looking Into How Slow Mo Guys Have Changed the Dynamics of Slow-Motion for 2024</u></a></li>
 </ul></div>
 

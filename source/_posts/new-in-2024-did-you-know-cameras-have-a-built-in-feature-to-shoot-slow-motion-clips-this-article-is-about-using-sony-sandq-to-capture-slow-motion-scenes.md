@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Did You Know Cameras Have a Built-In Feature to Shoot Slow-Motion Clips? This Article Is About Using Sony S&Q to Capture Slow-Motion Scenes
-date: 2024-12-28T03:20:58.527Z
-updated: 2025-01-02T05:00:08.103Z
+date: 2025-01-03T19:53:01.467Z
+updated: 2025-01-09T17:05:28.348Z
 tags: 
   - ai
   - animation videos
@@ -53,13 +53,13 @@ Upon accessing the "Frame Rate" settings, you'll find many options there. The hi
 
 ![access the frame rate settings](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-sony-sq-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Different Sony Cameras Offering S&Q Feature
 
 There is no lack of devices that help you capture any scene with perfection. Someone obsessed with videography can understand the worth of a high-quality camera. Sony launched two such products named A7iii and **Sony ZV E10 slow motion**. Both are high-output, professional-grade cameras to assist in slo-mo creation. Here is a brief review of these cameras for you to compare and select better:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Sony A7 III
 
@@ -67,23 +67,11 @@ There is no lack of devices that help you capture any scene with perfection. Som
 
 ![sony a7 iii camera](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-sony-sq-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Sony ZV-E10
 
 This is an upgraded **S&Q** **mode** **Sony** camera that first emerged in 2021 with a fully articulated screen. It has an APS-C size, 24.2-megapixel, and an Exmor CMOS sensor for balanced shooting. This version also has the highest video frame rate of 120 fps for the professional slo-mo effect. It captures slomos in 4K (UHD) 3840 x 1920 video resolution for quality maintenance. It has a directional 3-capsule microphone for high-definition audio.
 
 ![sony zv e10 camera](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-sony-sq-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to Slow Down Video in Sony Vegas Pro?
 
@@ -95,10 +83,6 @@ After launching the software, import the video and bring it to the timeline.
 
 ![import media in timeline](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-sony-sq-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 2
 
 Navigate towards the editing panel where the clip and audio track are showing. Place your cursor at the finishing line of the clip and stretch it throughout the timeline. This will add a slow-motion effect to your video.
@@ -106,7 +90,11 @@ Navigate towards the editing panel where the clip and audio track are showing. P
 ![drag the import media in timeline](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-sony-sq-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: Wondershare Filmora: Comprehending the Best Alternative for Slowing Down Videos
@@ -129,10 +117,6 @@ Initiate Filmora by clicking the “New Project” button and access the editing
 
 ![adjust speed slider](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-sony-sq-13.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 2Access AI Frame Interpolation Settings
 
 To achieve smooth slow motion, access AI Frame Interpolation at the bottom. Expand this section and opt for the “Optical Flow” to apply.
@@ -144,6 +128,14 @@ To achieve smooth slow motion, access AI Frame Interpolation at the bottom. Expa
 Once all adjustments are complete, select the video and return to the timeline panel. Use your cursor to access the “File” tab in the top toolbar and choose “Render Preview.” Utilize the preview options before exporting the video.
 
 ![hit the render preview option](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-sony-sq-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features of Filmora
 
@@ -157,6 +149,10 @@ Filmora doesn't just claim to be the best; there are multiple features to suppor
 
 * [**AI Image:**](https://tools.techidaily.com/wondershare/filmora/download/) Can't spare time to capture images for your new content idea? With Filmora's text to generate AI, you can now curate images. The AI only requires you to add a prompt and craft results accordingly. Upon creation, users can also select a preferred image resolution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 This article has discussed the purpose of **Sony S&Q** and how to use it for slo-mo creation. In addition, users learned about two of Sony's cameras, which are popular for slow-motion. Afterward, we discussed a desktop method to create slow motion. Considering all the drawbacks of these methods, we recommended Filmora. It is a desktop alternative to these tools with AI abilities to enhance task achievement.
@@ -164,6 +160,10 @@ This article has discussed the purpose of **Sony S&Q** and how to use it for slo
 [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [More Features](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -174,16 +174,16 @@ This article has discussed the purpose of **Sony S&Q** and how to use it for slo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-unveiling-cosmic-divides-metaverse-and-multiverse-explained/"><u>[New] In 2024, Unveiling Cosmic Divides Metaverse and Multiverse Explained</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-thumbnail-artistry-for-engaging-youtube-channels/"><u>[Updated] 2024 Approved Thumbnail Artistry for Engaging YouTube Channels</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-premier-audio-picks-exceptional-episode-selections/"><u>[Updated] Premier Audio Picks - Exceptional Episode Selections</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-revolutionize-your-podcasts-rankings-with-effective-seo-methods/"><u>2024 Approved Revolutionize Your Podcast's Rankings with Effective SEO Methods</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-motorola-defy-2-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Motorola Defy 2 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-privacy-with-protonvpns-browser-plug-ins-essential-steps-for-chromium-and-mozilla-users/"><u>Mastering Privacy with ProtonVPN's Browser Plug-Ins: Essential Steps for Chromium & Mozilla Users</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-being-an-after-effects-editor-you-often-find-yourself-the-need-to-add-motion-blur-after-effects-this-guide-has-got-you-covered-follow-to-f/"><u>New 2024 Approved Being an After Effects Editor, You Often Find Yourself the Need to Add Motion Blur After Effects. This Guide Has Got You Covered. Follow to Find Out How to Add Motion Blur in After Effects</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-surprising-delights-the-ring-spotlight-cam-pro-review-on-zdnet/"><u>Unveiling Surprising Delights: The Ring Spotlight Cam Pro Review on ZDNet</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-are-you-curious-about-finding-a-good-iphone-slow-motion-app-discover-the-top-rated-applications-in-the-market-that-will-help-you-creat/"><u>Updated 2024 Approved Are You Curious About Finding a Good iPhone Slow-Motion App? Discover the Top-Rated Applications in the Market that Will Help You Create the Perfect Video</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-slow-mo-youtube-videos-for-2024/"><u>Updated How to Slow-Mo YouTube Videos for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-being-an-after-effects-editor-you-often-find-yourself-the-need-to-add-motion-blur-after-effects-this-guide-has-got-you-covered-follow-to-fin/"><u>Updated In 2024, Being an After Effects Editor, You Often Find Yourself the Need to Add Motion Blur After Effects. This Guide Has Got You Covered. Follow to Find Out How to Add Motion Blur in After Effects</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-innovate-or-stagnate-the-must-know-fb-ad-trends-for-24/"><u>[New] 2024 Approved Innovate or Stagnate – The Must-Know FB Ad Trends for '24</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-cultivate-classics-essential-farming-game-lists/"><u>[Updated] In 2024, Cultivate Classics Essential Farming Game Lists</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-elevate-your-creative-expression-with-smart-caption-techniques-for-tiktoks/"><u>[Updated] In 2024, Elevate Your Creative Expression with Smart Caption Techniques for TikToks</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713942898556-how-to-livestream-zoom-on-facebook-for-2024/"><u>How to Livestream Zoom on Facebook for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-web-audio-optimization-tips-to-keep-top-notch-quality-intact-online/"><u>Mastering Web Audio Optimization: Tips to Keep Top-Notch Quality Intact Online</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-exploring-tools-to-integrate-special-mask-effects-into-your-content-read-the-following-article-to-master-some-tools-experts-in-mask-tracki/"><u>New 2024 Approved Exploring Tools to Integrate Special Mask Effects Into Your Content. Read the Following Article to Master some Tools Experts in Mask Tracking</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713963240441-new-have-you-ever-used-premiere-pro-to-create-slow-motion-effects-this-article-will-provide-a-guide-on-producing-slow-motion-effects-by-using-adobe-premiere/"><u>New Have You Ever Used Premiere Pro to Create Slow-Motion Effects? This Article Will Provide a Guide on Producing Slow-Motion Effects by Using Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-mask-tracking-with-adobe-premiere-pro-a-detailed-guide-for-2024/"><u>New Mask Tracking with Adobe Premiere Pro A Detailed Guide for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-when-your-logitech-trackpad-stops-responding/"><u>Solutions When Your Logitech Trackpad Stops Responding</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-change-aspect-ratio-in-imovie-for-2024/"><u>Updated How to Change Aspect Ratio in iMovie for 2024</u></a></li>
 </ul></div>
 

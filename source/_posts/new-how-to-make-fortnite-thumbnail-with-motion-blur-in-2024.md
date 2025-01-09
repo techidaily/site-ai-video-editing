@@ -1,7 +1,7 @@
 ---
 title: New How to Make Fortnite Thumbnail with Motion Blur, In 2024
-date: 2024-12-27T20:47:42.612Z
-updated: 2025-01-01T22:28:53.810Z
+date: 2025-01-05T18:34:15.299Z
+updated: 2025-01-09T18:15:31.196Z
 tags: 
   - ai
   - animation videos
@@ -25,6 +25,10 @@ In this article, we will work on the best methods to make a **Fortnite motion bl
 
 There are many ways to add motion blur to Fortnite thumbnails, as stated above. In this article, we will be providing appropriate methods for users of all types. From smartphone to online and desktop solutions, this article has it all.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 1: Make Motion Blur Fortnite Thumbnail with Picsart (Smartphone)
 
 For the first method, we will be discussing an appropriate way that can be used to make motion blur in Fortnite thumbnails. [Picsart](https://picsart.com/apps) is a known mobile application providing unique photo editing services. This photo editor is a complete package containing some of the best tools. Integrated with artificial intelligence, this tool presents a perfect platform to perform motion blur on Fortnite thumbnails.
@@ -45,6 +49,10 @@ You will have to import the created Fortnite thumbnail that is to be edited. Aft
 
 ![choose the effects tool](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3 Add Motion Blur and Export
 
 On the next screen, look for the "Blur" section from the bottom and find the "Motion Blur" effect. As it is added, you can use the "Erase" button on the top to adjust the motion blur effect on the image according to the objects. Once done, tap on the "Apply" button to conclude by adding motion blur.
@@ -52,7 +60,7 @@ On the next screen, look for the "Blur" section from the bottom and find the "Mo
 ![apply the motion blur](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 2: Make Motion Blur Fortnite Thumbnail with Fotor (Online)
@@ -82,11 +90,7 @@ Continue to set the “Blur Intensity” and make changes by clicking “Apply.�
 ![adjust the blur intensity](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 3: Make Motion Blur Fortnite Thumbnail with Photoshop (Desktop)
@@ -103,10 +107,6 @@ You must start Adobe Photoshop on your desktop after downloading and installing 
 
 ![import the fortnite thumbnail](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step2 Create a Separate Object Layer
 
 To start with the process, right-click and create a duplicate layer by selecting the respective option from the drop-down menu. Use the "Polygonal Lasso" tool to mark the object you want to exempt from the motion blur. Once done, use the "Layer Mask" button to isolate the object.
@@ -120,7 +120,7 @@ Create another duplicate layer and proceed to the "Filter" tab. Look for "Blur G
 ![choose the motion blur](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Last Words
@@ -144,14 +144,18 @@ In this article, we will work on the best methods to make a **Fortnite motion bl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-troubleshooting-iphone-x-regaining-access-via-facial-id/"><u>[New] Troubleshooting iPhone X Regaining Access via Facial ID</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-ultimate-video-monitors-face-off/"><u>[Updated] Ultimate Video Monitors Face-Off</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-latest-addition-to-iphone-16-phones-the-new-camera-buttons-features-revealed-by-zdnet/"><u>Exploring the Latest Addition to iPhone 16 Phones: The New Camera Button's Features Revealed by ZDNet</u></a></li>
-<li><a href="https://win-help.techidaily.com/guia-passo-a-passo-como-consegui-ser-resultado-para-recuperacao-de-arquivos-eliminados-do-seu-hd-gratuito/"><u>Guia Passo-a-Passo: Como Consegui Ser Resultado Para Recuperação De Arquivos Eliminados Do Seu HD Gratuito</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-use-deep-fried-meme-maker/"><u>New In 2024, How to Use Deep Fried Meme Maker</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-want-to-learn-how-to-make-gaming-montage-videos-you-have-come-to-the-right-place-this-guide-will-teach-you-all-you-need-to-know-to-create-montag/"><u>New In 2024, Want to Learn How to Make Gaming Montage Videos? You Have Come to the Right Place. This Guide Will Teach You All You Need to Know to Create Montages of Video Games and Share Them with Other Players</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-slow-down-videos-on-instagram-with-perfection-a-guide-for-2024/"><u>New Slow Down Videos on Instagram With Perfection A Guide for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-using-vn-editor-to-add-luts-for-video-editing/"><u>Updated 2024 Approved Using VN Editor To Add Luts for Video Editing</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-neon-typography-made-easy-9-best-online-text-generator-tools/"><u>Updated In 2024, Neon Typography Made Easy 9 Best Online Text Generator Tools</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-weaving-whirlwind-writings/"><u>[New] In 2024, Weaving Whirlwind Writings</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-building-a-strong-network-how-to-form-effective-youtube-partner-relationships/"><u>[Updated] 2024 Approved Building a Strong Network How to Form Effective YouTube Partner Relationships</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-two-people-stream-spotify-music-side-by-side-find-out/"><u>Can Two People Stream Spotify Music Side by Side? Find Out!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/connect-with-artificial-intelligence-mastering-access-through-quora-for-cutting-edge-chatbots-and-llms/"><u>Connect with Artificial Intelligence: Mastering Access Through Quora for Cutting-Edge Chatbots and LLMs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/expert-edits-for-an-uncluttered-tiktok-archive-for-2024/"><u>Expert Edits for an Uncluttered TikTok Archive for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-night-light-back-expert-solutions-for-windows-11-users/"><u>Getting Night Light Back: Expert Solutions for Windows 11 Users</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/morph-magic/"><u>ImageMorph Magic</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-vivo-v30-pro-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Vivo V30 Pro Phone? Unlock It Now</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-are-you-searching-for-the-best-canon-lut-download-this-article-provides-the-best-recommendations-for-creating-the-best-professional-videos/"><u>New 2024 Approved Are You Searching for the Best Canon LUT Download? This Article Provides the Best Recommendations for Creating the Best Professional Videos</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-know-about-some-efficient-slow-motion-video-editors-read-this-article-to-find-out-the-best-slow-motion-video-editing-tools-that-you/"><u>New 2024 Approved Do You Know About some Efficient Slow-Motion Video Editors? Read This Article to Find Out the Best Slow-Motion Video Editing Tools that You Can Try</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-know-how-to-create-ai-thumbnails-for-videos-this-article-will-mention-some-of-the-best-tools-to-generate-attractive-thumbnails-for-/"><u>New 2024 Approved Do You Know How to Create AI Thumbnails for Videos? This Article Will Mention some of the Best Tools to Generate Attractive Thumbnails for Videos with AI</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-find-a-solution-for-effortless-sky-replacement-photoshop-in-this-comprehensive-guide-also-use-the-easiest-video-editing-tool-to-make-your-/"><u>New 2024 Approved Find a Solution for Effortless Sky Replacement Photoshop in This Comprehensive Guide. Also, Use the Easiest Video Editing Tool to Make Your Media Stunning</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Realme 12 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
 

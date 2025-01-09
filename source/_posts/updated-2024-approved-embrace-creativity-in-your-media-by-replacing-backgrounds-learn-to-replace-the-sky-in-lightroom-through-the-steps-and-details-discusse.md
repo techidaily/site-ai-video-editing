@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Embrace Creativity in Your Media by Replacing Backgrounds. Learn to Replace the Sky in Lightroom Through the Steps and Details Discussed in This Article
-date: 2024-12-30T22:27:45.149Z
-updated: 2025-01-01T22:37:31.378Z
+date: 2025-01-04T18:19:37.538Z
+updated: 2025-01-09T17:06:14.718Z
 tags: 
   - ai
   - animation videos
@@ -25,10 +25,6 @@ Lightroom Sky replacement requires certain editing skills to effectively edit th
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Why Do Creators Look Forward to Changing the Environment Across Their Recorded or Captured Media?
 
 Humans love to show creativity and express themselves from different perspectives. [Creative works](https://tools.techidaily.com/wondershare/filmora/download/) provide entertainment and prove therapeutic in some way. That’s why creators and artists try to change the surroundings of recorded media. Such changes make the captured media virtually stunning and creative. Let’s explore more reasons that push creators towards **sky replacement in Lightroom**:
@@ -39,6 +35,10 @@ Humans love to show creativity and express themselves from different perspective
 * **Entertainment:** Another aim of the creator is to provide new and exciting content to the audience. It allows them to temporarily escape their world and enjoy it.
 * **Discovery:** You might have seen virtual landscapes in video games that uncover hidden secrets. Such backgrounds are designed to facilitate adventure through media.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: A Guide to Replace Sky in Lightroom: Step-by-Step
 
 As discussed earlier, [**changing the sky**](https://tools.techidaily.com/wondershare/filmora/download/) **in Lightroom** proves fruitful for many reasons. Altering media scenes can also create a powerful emotional impact. Likewise, shifting from a green meadow to a messy landscape can turn a calm mood into chaos. If you intend to replace your current media background, then let us help you. Here are the steps below to change the environment in Lightroom:
@@ -47,13 +47,13 @@ As discussed earlier, [**changing the sky**](https://tools.techidaily.com/wonder
 
 ![open image in photoshop](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** Now, go to the top toolbar and press the “Edit” option next to “File.” From the drop-down list, access the “Sky Replacement” option. Head to the "Sky Replacement" panel and click the downward icon next to the sky preview. Scroll to pick one sky of your choice and hit the "OK" button.
 
 ![access sky replacement feature](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** To import more skies, press the “Settings” icon on the Sky Replacement panel. Select the first option of “Get More Skies” and click on “Import Images.” You can explore skies from the Blue Skies, Spectacular, and Sunsets folders from that panel.
 
@@ -64,7 +64,7 @@ As discussed earlier, [**changing the sky**](https://tools.techidaily.com/wonder
 ![change image parameters in lightroom](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Make Background Changing Easy with Wondershare Filmora
@@ -87,15 +87,15 @@ Applying green-screen in effect in video and images will generate professional c
 
 ![chroma key filmora](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 2\. AI Portrait
 
 If you want to focus on the portrait while ignoring the background, use this feature. It can remove the background with accuracy by recognizing the main object. Filmora detects humans with AI and allows manual adjustments after removing the background. You can change the Edge Thickness and Edge Feature to the required extent.
 
 ![ai portrait filmora](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 3\. Basic Background
 
@@ -104,7 +104,7 @@ While editing any media, you might require a blur option to hide distortion in t
 ![background changing filmora](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 4\. AI Image Stylizer
@@ -112,6 +112,10 @@ While editing any media, you might require a blur option to hide distortion in t
 Aside from changing background, you can unleash your creativity with an AI Image stylizer. It's the latest feature of Filmora that can turn your image into a devil, clown, or zombie. If you want to follow certain social media trends of making anime, explore this feature. You can find 19 styles that also include soft image looks like Flower and Angel image styles.
 
 ![ai image filmora](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps to Change Background with Different Ways Using Filmora
 
@@ -135,15 +139,15 @@ From the media panel, use “Import” and bring your media to the Timeline sect
 
 ![using chroma key feature](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Continue Editing or Export Media at Desired Location**
 
 When you have finished the editing, move to the "Export" option at the top right. Using the "Export" window, define parameters and export the file wherever you want.
 
 ![export final video](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Method 2: Accessing AI Portrait
 
@@ -152,6 +156,10 @@ When you have finished the editing, move to the "Export" option at the top right
 Import your Background video and main clips in the media panel. Drag the main video in the second track and the background video in the first track, respectively.
 
 ![adding clips in filmora](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Explore and Utilize AI Portrait for Changing Background**
 
@@ -167,19 +175,11 @@ Drag your main video in the timeline. Then, tap the "Stock Media" icon from the 
 
 ![adding background from stock media](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-14.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2: Draw a Mask to Replace the Background with Stock Media**
 
 Look for the “Mask” option before the “AI tools” option on the right-side panel. Pick the “Draw Mask” icon and try to draw the lines around the main figure. When you finish drawing, the background will be replaced. You can use the “Blur Strength” slider to give a natural look.
 
 ![using mask to change background](https://images.wondershare.com/filmora/article-images/2023/replace-sky-in-lightroom-15.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -198,17 +198,22 @@ In short, sky replacement is a feature of Adobe Photoshop that turns clear skies
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-prime-collection-best-10-apps-for-extracting-high-quality-vimeo-videos/"><u>[New] In 2024, Prime Collection Best 10 Apps for Extracting High-Quality Vimeo Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-integrating-gopro-adventures-with-popular-social-media-channels/"><u>2024 Approved Integrating GoPro Adventures with Popular Social Media Channels</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/cinematic-creator-win8-studio-for-2024/"><u>Cinematic Creator Win8 Studio for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/dive-into-the-matrix-universe-the-right-way-to-experience-these-iconic-films/"><u>Dive Into the Matrix Universe: The Right Way to Experience These Iconic Films</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-to-activating-low-light-display-settings-on-your-iphone-devices/"><u>Guide to Activating Low Light Display Settings on Your iPhone Devices</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-itel-p55-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Itel P55 5G</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-be-aware-of-vhss-meaning-there-is-nothing-to-be-worried-about-because-we-will-guide-you-in-this-article/"><u>New 2024 Approved Do You Want to Be Aware of VHSs Meaning? There Is Nothing to Be Worried About because We Will Guide You in This Article</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-record-video-streams-with-ffmpeg-on-windows-and-mac-for-2024/"><u>New How to Record Video Streams With FFmpeg on Windows and Mac for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-kinetic-typography-text-effect-easyandfast-for-2024/"><u>New Kinetic Typography Text Effect 【EASY&FAST】 for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-looking-for-the-best-quiz-making-tools-read-our-full-review-to-find-out-the-10-best-video-quiz-makers-available/"><u>Updated 2024 Approved Looking for the Best Quiz-Making Tools? Read Our Full Review to Find Out the 10 Best Video Quiz Makers Available</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-top-10-sound-extractors-to-extract-sound-from-video-2023/"><u>Updated 2024 Approved Top 10 Sound Extractors to Extract Sound From Video 2023</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-screensnipers-digest-the-ultimate-2023-software-roundup/"><u>[New] In 2024, ScreenSniper's Digest The Ultimate 2023 Software Roundup</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-straightforward-path-to-windows-voice-transformation-for-fishy-sounds/"><u>[New] The Straightforward Path to Windows Voice Transformation for Fishy Sounds</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/outube-for-filmmakers-revolutionizing-visual-storytelling/"><u>[New] Youtube for Filmmakers Revolutionizing Visual Storytelling</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-precision-and-power-leading-kung-fu-vr-titles/"><u>[Updated] In 2024, Precision and Power Leading Kung Fu VR Titles</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfecting-windows-11-photos-implement-filters-and-playlist-features/"><u>[Updated] Perfecting Windows 11 Photos Implement Filters and Playlist Features</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/sd-pc/"><u>「SDカードのフォーマット手順 : PC上で行う完全な導き」</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/easy-guide-to-use-a-stabilization-tool-in-filmora-for-2024/"><u>Easy Guide to Use a Stabilization Tool in Filmora for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/engaging-ways-to-use-time-with-podcast-tracks/"><u>Engaging Ways to Use Time with Podcast Tracks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-vivo-v27-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Vivo V27 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-3-best-effects-to-appear-on-camera/"><u>New 3 Best Effects to Appear on Camera</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-best-ideas-on-using-green-screen-with-filmora/"><u>New Best Ideas on Using Green Screen with Filmora</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-remove-audio-from-videos-with-ffmpeg/"><u>New In 2024, How to Remove Audio From Videos with FFmpeg?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-tiktok-velocity-dance-tutorial-filmora-for-2024/"><u>New TikTok Velocity Dance Tutorial| Filmora for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/picture-perfect-prose-exploring-apps-for-image-text-edits/"><u>Picture Perfect Prose Exploring Apps for Image Text Edits</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-add-zoom-blur-effect-in-photoshop-step-by-step/"><u>Updated 2024 Approved Add Zoom Blur Effect In Photoshop Step by Step</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-having-gopro-accessories-is-easy-but-editing-on-gopro-quik-is-challenging-read-this-guide-and-stepwise-learn-to-use-gopro-slow-motion-/"><u>Updated 2024 Approved Having GoPro Accessories Is Easy, but Editing on GoPro Quik Is Challenging. Read This Guide and, Stepwise, Learn to Use GoPro Slow-Motion for Perfect Shots</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-the-complete-guide-to-making-fortnite-montage-for-2024/"><u>Updated The Complete Guide to Making Fortnite Montage for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solution Found! Overcoming the Sith's Blackout Glitch in Star Wars Battlefront 2
-date: 2024-12-25T19:56:36.918Z
-updated: 2025-01-02T01:57:47.286Z
+date: 2025-01-07T16:57:29.119Z
+updated: 2025-01-09T19:07:38.256Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
 
  Before we dive into anything advanced, please try to restart the game and your PC to see if it’s a random one-time error.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Check Destiny 2 server status
 
  Since the Error Centipede is a general networking error, the first thing you can do is to check if the server is down. If Destiny 2 is undergoing maintenance, you won’t be able to connect to the server and thus may get the Centipede Error.
@@ -48,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
  If Destiny 2 servers are working as intended, then the problem may be with your Internet connection. Read on for some fixes to configure your Internet settings and resolve the Error Centipede on Destiny 2.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Check your Internet connection
@@ -68,10 +64,6 @@ If you still get the Error Centipede, try the next fix.
 
  NAT is short for Network Address Translation. Put simply, it operates on your router and allows a single IP address to represent all the devices on your private network. To configure your NAT settings, you’ll either need to enable UPnP or set up Port Forwarding. It’s usually recommended to**try only one method** , unless the first one doesn’t work for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 1: Enable UPnP
 
  Bungie recommends players to enable UPnP when they encounter network issues, since it’s related to how players are connected within Destiny 2\. Here’s how to set up your UPnP:
@@ -81,6 +73,10 @@ If you still get the Error Centipede, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/run-cmd-1.jpg)
 3. Type in**ipconfig** , then press**Enter** . Copy the address of your**default gateway** as we’ll need them for the next steps.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfig-1.jpg)
 4. Now open your browser,**paste the default gateway address** you copied before into the address bar, and press**Enter** .
 
@@ -89,6 +85,10 @@ If you still get the Error Centipede, try the next fix.
 7. **Enable UPnP** , and save the changes.
 
 You can now test a game to see if you still get the Centipede Error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Port Forwarding
 
@@ -101,10 +101,6 @@ You can now test a game to see if you still get the Centipede Error.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/run-cmd-1.jpg)
 3. Type in**ipconfig /all** , then press**Enter** . Record the information that we’re gonna use in the following steps:**IPv4 Address, Subnet Mask, Default Gateway, and DNS Servers** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfigall.jpg)
 
 #### Step 2: Assign a static IP address
@@ -114,6 +110,10 @@ You can now test a game to see if you still get the Centipede Error.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/run-npca.cpl-.jpg)
 3. Click on the**Ethernet icon** , right-click it then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ethernet-properties-1.jpg)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
@@ -121,10 +121,6 @@ You can now test a game to see if you still get the Centipede Error.
 5. Select**Use the following IP address** and**Use the following DNS server addresses** . Fill in the information you recorded in Step 1:**IP address, Subnet mask, Default gateway, DNS servers** . Once complete, click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/assign-static-ip.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Step 3: Set up Port Forwarding
 
@@ -161,6 +157,10 @@ You can now test a game to see if you still get the Centipede Error.
 
  If setting up the NAT type doesn’t solve your problem, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Update your network adapter driver
 
  If you’ve tried the above fixes but nothing worked, then it’s likely that you would need to check your driver. An outdated or faulty network adapter driver could lead to random networking problems, so you may want to make sure yours is up-to-date and functioning properly.
@@ -176,7 +176,7 @@ You can now test a game to see if you still get the Centipede Error.
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
@@ -224,21 +224,21 @@ You can now test a game to see if you still get the Centipede Error.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-editor-insider-look-editmaster-pro-whats-new-in-2esy/"><u>[Updated] Editor Insider Look EditMaster Pro - What's New in 2Esy</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/amazon-live-for-beginners-features-pro-tips-and-future-trends-for-2024/"><u>Amazon Live for Beginners Features, Pro Tips & Future Trends for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/canon-pro-editing-essentials-10plus-available-paid-and-free-choice-for-2024/"><u>Canon Pro-Editing Essentials – 10+ Available, Paid & Free Choice for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/effective-strategies-for-mov-video-recording-in-windows-11/"><u>Effective Strategies for MOV Video Recording in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/fine-tune-the-feel-personalizing-touchpad-settings-in-windows-11/"><u>Fine-Tune the Feel: Personalizing Touchpad Settings in Windows 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/free-online-conversion-change-jp2-images-into-jpeg-format-with-ease/"><u>Free Online Conversion: Change JP2 Images Into JPEG Format with Ease</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-oneplus-ace-2-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your OnePlus Ace 2 Phone Pattern Lock</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-repeat-repeat-repeat-10-free-video-loopers-for-endless-fun/"><u>New 2024 Approved Repeat, Repeat, Repeat 10 Free Video Loopers for Endless Fun</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-having-gopro-accessories-is-easy-but-editing-on-gopro-quik-is-challenging-read-this-guide-and-stepwise-learn-to-use-gopro-slow-motion-for-perfect-shots-/"><u>New Having GoPro Accessories Is Easy, but Editing on GoPro Quik Is Challenging. Read This Guide and, Stepwise, Learn to Use GoPro Slow-Motion for Perfect Shots for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-follow-the-trend-of-making-slow-motion-videos-with-a-camera-lenta-capcut-template-learn-everything-about-capcut-and-find-its-alternatives-in-thi/"><u>New In 2024, Follow the Trend of Making Slow-Motion Videos with a Camera Lenta CapCut Template. Learn Everything About CapCut and Find Its Alternatives in This Article</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-unlocking-the-power-of-davinci-resolve-scopes-enhance-your-color-grad-for-2024/"><u>New Unlocking the Power of DaVinci Resolve Scopes Enhance Your Color Grad for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-utilizing-google-meets-blur-effect-to-enhance-virtual-meeting-aesthetics/"><u>Step-by-Step Tutorial: Utilizing Google Meet's Blur Effect to Enhance Virtual Meeting Aesthetics</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-unleash-the-power-of-video-scopes-in-your-video-editing-projects-find-the-most-common-video-scopes-and-how-to-use-them-on-video-editin/"><u>Updated 2024 Approved Unleash the Power of Video Scopes in Your Video Editing Projects. Find the Most Common Video Scopes and How to Use Them on Video Editing Software</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-are-you-an-apple-user-interested-in-adding-a-slow-mo-to-their-videos-this-article-features-an-exceptional-procedure-for-creating-slow-mo-in-imovie-f/"><u>Updated Are You an Apple User Interested in Adding a Slow-Mo to Their Videos? This Article Features an Exceptional Procedure for Creating Slow-Mo in iMovie for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-use-adjustment-layer-in-photoshop-for-2024/"><u>Updated How to Use Adjustment Layer in Photoshop for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-use-the-best-luts-for-lightroom-for-2024/"><u>Updated Use The Best LUTs for Lightroom for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-demystifying-igtv-a-compreayers-guide-to-social-media/"><u>[Updated] 2024 Approved Demystifying IGTV A Compreayer's Guide to Social Media</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-modulate-your-message-a-top-tier-list-of-voice-change-mobile-apps/"><u>[Updated] 2024 Approved Modulate Your Message A Top-Tier List of Voice Change Mobile Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tailor-your-text-to-voice-top-5-cloud-services-for-chrome-os-sound-transformation/"><u>[Updated] Tailor Your Text to Voice Top 5 Cloud Services for Chrome OS Sound Transformation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/bypassing-the-hurdles-upgrade-from-windows-10-to-11-now/"><u>Bypassing The Hurdles: Upgrade From Windows 10 to 11 Now</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-restoring-your-mac-via-recovery-mode-instructions/"><u>Comprehensive Guide to Restoring Your Mac via Recovery Mode Instructions</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/comprehensive-techniques-for-dvd-and-cd-ripping-burning-and-duplicating/"><u>Comprehensive Techniques for DVD & CD Ripping, Burning, and Duplicating</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-nokia-g310-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Nokia G310.</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-enrich-projects-with-melodies-in-adobe-premiere-pro/"><u>In 2024, Enrich Projects With Melodies In Adobe Premiere Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-are-you-wondering-how-to-slow-down-videos-or-speed-them-up-here-are-three-ways-to-do-it-speed-up-or-slow-down-your-videos-on-pc-online-and/"><u>New 2024 Approved Are You Wondering How to Slow Down Videos or Speed Them up, Here Are Three Ways to Do It. Speed up or Slow Down Your Videos on PC, Online, and Phone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-exploring-tools-to-integrate-special-mask-effects-into-your-content-read-the-following-article-to-master-some-tools-experts-in-mask-tracki/"><u>New 2024 Approved Exploring Tools to Integrate Special Mask Effects Into Your Content. Read the Following Article to Master some Tools Experts in Mask Tracking</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-there-are-many-vlogging-cameras-you-can-find-in-the-market-however-to-get-a-good-start-in-vlogging-some-sony-vlogging-cameras-and-canon-vl/"><u>New 2024 Approved There Are Many Vlogging Cameras You Can Find in the Market. However, to Get a Good Start in Vlogging, some Sony Vlogging Cameras and Canon Vlog Cameras Are to Consider. This Article Introduces You to the Respective List</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-are-you-a-vlogger-looking-for-good-color-correction-and-video-grading-presets-here-youll-find-different-vlog-luts-that-you-can-use-for-your-vide/"><u>New In 2024, Are You a Vlogger Looking for Good Color Correction and Video Grading Presets? Here Youll Find Different Vlog LUTs that You Can Use for Your Videos</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-to-know-which-are-the-best-wondershare-filmora-luts-to-use-there-are-many-luts-that-you-can-download-each-with-a-different-tone-and-/"><u>New In 2024, Do You Want to Know Which Are the Best Wondershare Filmora LUTs to Use? There Are Many LUTs that You Can Download, Each with a Different Tone and Style</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-tiktok-video-aspect-ratio/"><u>New In 2024, Tiktok Video Aspect Ratio</u></a></li>
+<li><a href="https://fox-making.techidaily.com/scopri-come-utilizzare-aomei-backupper-per-fare-un-backup-sicuro-del-tuo-account-email-di-dell/"><u>Scopri Come Utilizzare AOMEI Backupper per Fare Un Backup Sicuro Del Tuo Account Email Di Dell!</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-the-benefits-of-using-video-for-social-media-marketing/"><u>Updated 2024 Approved The Benefits Of Using Video For Social Media Marketing</u></a></li>
 </ul></div>
 

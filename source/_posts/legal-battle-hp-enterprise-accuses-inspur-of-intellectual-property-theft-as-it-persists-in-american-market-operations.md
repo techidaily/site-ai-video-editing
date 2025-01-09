@@ -1,7 +1,7 @@
 ---
 title: "Legal Battle: HP Enterprise Accuses Inspur of Intellectual Property Theft as It Persists in American Market Operations"
-date: 2024-12-29T20:21:32.631Z
-updated: 2025-01-01T20:00:44.068Z
+date: 2025-01-04T18:45:31.008Z
+updated: 2025-01-09T18:34:59.356Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,16 +60,19 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-from-console-to-community-livestream-your-xbox-for-2024/"><u>[New] From Console to Community Livestream Your Xbox for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harness-the-power-of-youtubes-movie-maker-for-professionals/"><u>[Updated] 2024 Approved Harness the Power of YouTube's Movie Maker for Professionals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-for-creative-writing-6-ways/"><u>How to Use ChatGPT for Creative Writing: 6 Ways</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-uncover-and-revive-inaudible-fb-video-posts-the-ultimate-list-of-12-fixes/"><u>In 2024, Uncover & Revive Inaudible FB Video Posts – The Ultimate List of 12 Fixes</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-are-you-looking-to-make-a-thumbnail-for-your-fortnite-video-this-article-features-a-guide-explaining-creating-a-fortnite-motion-blur-thumb/"><u>New 2024 Approved Are You Looking to Make a Thumbnail for Your Fortnite Video? This Article Features a Guide Explaining Creating a Fortnite Motion Blur Thumbnail</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-the-ultimate-guide-for-the-10-leading-slow-motion-cameras/"><u>New 2024 Approved The Ultimate Guide for the 10 Leading Slow-Motion Cameras</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-ai-has-influenced-all-video-editors-to-speed-up-editing-this-article-discusses-the-significance-of-ai-slow-motion-and-the-tools-that-offer-it-for-2024.m/"><u>New AI Has Influenced All Video Editors to Speed up Editing. This Article Discusses the Significance of AI Slow Motion and the Tools that Offer It for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-slowing-down-gif-with-the-best-available-methods/"><u>Updated In 2024, Slowing Down GIF With The Best Available Methods</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-the-ultimate-guide-for-the-10-leading-slow-motion-cameras/"><u>Updated In 2024, The Ultimate Guide for the 10 Leading Slow-Motion Cameras</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-12-free-animation-tools-for-windows-and-macos/"><u>Updated In 2024, Top 12 Free Animation Tools for Windows and macOS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-instagram-live-via-obs-technology/"><u>[New] In 2024, Instagram Live via OBS Technology</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-ultra-clarity-the-new-era-of-hd-monitors-envy-27/"><u>[New] Ultra Clarity The New Era of HD Monitors - Envy 27</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-systems-for-tracking-human-manoeuvres-for-2024/"><u>Advanced Systems for Tracking Human Manoeuvres for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-lava-yuva-3-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Lava Yuva 3 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-apple-iphone-6s-plus-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Two Ways to Track My Boyfriends Apple iPhone 6s Plus without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-apple-iphone-15-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from Apple iPhone 15 Pro Max iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-electronics-and-pc-building-tips-from-toms-hardware/"><u>Innovative Electronics and PC Building Tips From Tom's Hardware</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-show-your-mood-in-your-digital-media-content-but-dont-know-how-to-there-are-many-moody-luts-available-that-highlight-your-m/"><u>New 2024 Approved Do You Want to Show Your Mood in Your Digital Media Content but Dont Know How To? There Are Many Moody LUTs Available that Highlight Your Mood in Your Content</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-are-you-a-newbie-across-youtube-want-to-know-who-the-best-vloggers-are-this-article-provides-you-with-the-best-vloggers-on-youtube-for-2024/"><u>New Are You a Newbie Across YouTube? Want to Know Who the Best Vloggers Are? This Article Provides You with the Best Vloggers on YouTube for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-use-luts-perfectly-in-final-cut-pro-for-2024/"><u>New How to Use LUTs Perfectly in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-understanding-the-dynamics-underlying-in-ai-slow-motion-editing-for-2024/"><u>New Understanding the Dynamics Underlying in AI Slow Motion Editing for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-there-are-many-vlogging-cameras-you-can-find-in-the-market-however-to-get-a-good-start-in-vlogging-some-sony-vlogging-cameras-and-canon-vlog/"><u>Updated In 2024, There Are Many Vlogging Cameras You Can Find in the Market. However, to Get a Good Start in Vlogging, some Sony Vlogging Cameras and Canon Vlog Cameras Are to Consider. This Article Introduces You to the Respective List</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-samsung-galaxy-s23plus-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Samsung Galaxy S23+ Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-vivo-y100t-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Vivo Y100t Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

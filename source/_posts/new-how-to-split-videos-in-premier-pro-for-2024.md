@@ -1,7 +1,7 @@
 ---
 title: New How To Split Videos in Premier Pro for 2024
-date: 2024-12-28T05:09:25.744Z
-updated: 2025-01-01T16:10:03.458Z
+date: 2025-01-04T16:53:53.166Z
+updated: 2025-01-09T18:36:13.381Z
 tags: 
   - ai
   - animation videos
@@ -22,7 +22,7 @@ Premiere Pro is the most popular video editing program for movies, television, a
 ## Part 1\. How to split a clip in premiere pro?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. The Razor tool
@@ -38,7 +38,7 @@ Step2Drag the clip onto the timeline if there is an existing sequence. If not, u
 ![new sequence from clip](https://images.wondershare.com/filmora/article-images/2022/08/how-to-split-in-premierpro-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3Choose the Razor tool from the panel next to the timeline to split the clip.
@@ -64,7 +64,7 @@ Step2Ensure that the video layer you want to split is highlighted on the timelin
 Step3Use the keyboard shortcuts Cmd+K or Ctrl+K to split the clip.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Source Panel
@@ -82,7 +82,7 @@ Step2Wherever you want the In and Out indicators to appear, press the **I** or *
 Step3Select Insert from the Source panel's tools once your marks are in place.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to split audio from video in premiere pro?
@@ -96,24 +96,17 @@ Step3Select Insert from the Source panel's tools once your marks are in place.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-behind-closed-doors-of-youtube-a-discovery-manual-for-2024/"><u>[Updated] Behind Closed Doors of YouTube A Discovery Manual for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-reversing-footage-in-a-snap/"><u>[Updated] In 2024, Reversing Footage in a Snap</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-how-to-turn-your-google-meet-into-a-youtube-live-event/"><u>2024 Approved How To Turn Your Google Meet Into a YouTube Live Event</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/beat-bugs-and-glitches-how-to-ensure-smooth-gaming-with-battlefield-5-on-your-desktop/"><u>Beat Bugs & Glitches: How To Ensure Smooth Gaming with Battlefield 5 on Your Desktop</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-topping-tunes-compiling-an-impressive-youtube-playlist/"><u>Chart-Topping Tunes Compiling an Impressive YouTube Playlist</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/how-to-fix-fifa-22-game-crashes-on-your-computer/"><u>How to Fix FIFA 22 Game Crashes on Your Computer</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-redmi-13c-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Redmi 13C 5G?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-psychology-behind-effective-interviews/"><u>In 2024, The Psychology Behind Effective Interviews</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/leading-network-enclosures-and-server-racks-of-2024-in-depth-review/"><u>Leading Network Enclosures and Server Racks of 2024 – In-Depth Review</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/solution-found-overcoming-the-siths-blackout-glitch-in-star-wars-battlefront-2/"><u>Solution Found! Overcoming the Sith's Blackout Glitch in Star Wars Battlefront 2</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-your-ps4-microphone-woes-with-these-effective-techniques/"><u>Solve Your PS4 Microphone Woes with These Effective Techniques</u></a></li>
-<li><a href="https://article-tips.techidaily.com/the-finest-5k-monitors-our-choice-8-edition/"><u>The Finest 5K Monitors Our Choice, #8 Edition</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/the-toms-tech-blog-pioneering-discoveries-in-the-world-of-hardware/"><u>The Tom's Tech Blog: Pioneering Discoveries in the World of Hardware</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/the-ultimate-guide-to-the-amazon-fire-hd-10-an-all-family-friendly-media-powerhouse-review/"><u>The Ultimate Guide to the Amazon Fire HD 10: An All-Family-Friendly Media Powerhouse Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-viewing-the-transformers-series-chronologically/"><u>The Ultimate Guide to Viewing the Transformers Series Chronologically</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ultimate-guide-to-total-iphone-data-sanitization-stellar-tips-and-tricks/"><u>Ultimate Guide to Total iPhone Data Sanitization | Stellar Tips and Tricks</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/unlocking-the-secrets-with-toms-pc-hardware-insights/"><u>Unlocking the Secrets with Tom's PC Hardware Insights</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/unveiling-gadgets-with-toms-equipment-guides/"><u>Unveiling Gadgets with Tom's Equipment Guides</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/worlds-first-amd-advantage-mini-pc-introducing-the-atomman-g7-pt-with-r9-7945hx-and-rx-760e-xt-graphics/"><u>World's First AMD Advantage Mini PC: Introducing the AtomMan G7 Pt with R9 7945HX & RX 760E XT Graphics</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-professional-techniques-for-video-narrative-inclusion/"><u>[New] In 2024, Professional Techniques for Video Narrative Inclusion</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-deciphering-how-burst-improves-video-continuity/"><u>[Updated] 2024 Approved Deciphering How Burst Improves Video Continuity</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-visual-content-management-for-ig-users/"><u>2024 Approved Visual Content Management for IG Users</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-your-soundtrack-anytime-anywhere-6-top-ranked-free-apps-to-download-youtube-music/"><u>2024 Approved Your Soundtrack, Anytime, Anywhere 6 Top-Ranked Free Apps to Download Youtube Music</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/grab-your-two-for-one-deal-exclusive-bogo-offer-on-top-nomad-iphone-cases-dont-miss-out/"><u>Grab Your Two-for-One Deal: Exclusive BOGO Offer on Top Nomad iPhone Cases – Don't Miss Out!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-live-streaming-war-confronting-the-titans-wirecast-and-obs/"><u>In 2024, Live Streaming War Confronting the Titans, Wirecast & OBS</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-explore-some-available-opportunities-to-create-slow-motion-discover-the-best-slow-motion-video-editors-for-desktop-android-/"><u>New 2024 Approved Do You Want to Explore some Available Opportunities to Create Slow Motion? Discover the Best Slow-Motion Video Editors for Desktop, Android, and iPhone Here</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-creating-flawless-slow-motion-videos-is-every-content-creators-dream-learn-about-davinci-resolve-slow-motion-video-creation-amongst-other-tools-for-2024/"><u>New Creating Flawless Slow-Motion Videos Is Every Content Creators Dream. Learn About DaVinci Resolve Slow-Motion Video Creation, Amongst Other Tools for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-to-add-a-slow-mo-effect-in-your-videos-in-this-guide-we-will-discuss-how-to-add-slow-motion-effects-in-the-videos-with-after-effects/"><u>New In 2024, Do You Want to Add a Slow-Mo Effect in Your Videos? In This Guide, We Will Discuss How to Add Slow-Motion Effects in the Videos with After Effects in an Efficient Way</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-are-you-looking-to-make-a-thumbnail-for-your-fortnite-video-this-article-features-a-guide-explaining-creating-a-fortnite-motion-blur-t/"><u>Updated 2024 Approved Are You Looking to Make a Thumbnail for Your Fortnite Video? This Article Features a Guide Explaining Creating a Fortnite Motion Blur Thumbnail</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-if-you-want-an-app-to-make-videos-with-pictures-and-music-for-social-media-posts-we-are-with-the-best-apps-to-make-videos-with-music-and-pictures-fo/"><u>Updated If You Want an App to Make Videos with Pictures and Music for Social Media Posts, We Are with the Best Apps to Make Videos with Music and Pictures for 2024</u></a></li>
 </ul></div>
 
