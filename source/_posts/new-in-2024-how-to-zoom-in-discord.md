@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Zoom in Discord
-date: 2025-01-14T01:22:05.438Z
-updated: 2025-01-15T01:59:42.820Z
+date: 2025-01-14T16:31:16.843Z
+updated: 2025-01-21T16:05:33.380Z
 tags: 
   - ai
   - animation videos
@@ -28,7 +28,7 @@ Step1Launch Discord desktop app on your computer. Click on the Gear icon located
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/launch-discord-desktop-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2Once Settings window opens, go to App Settings section from the left side and click on Appearance option.
@@ -40,10 +40,6 @@ Step3On the right section, scroll down, and you will find three options for zoom
 Step4According to your requirements, you can move the slider to the right to zoom in on Discord. You can also press Ctrl and “+” keys together to zoom in. Press Ctrl and “-“ keys together to zoom out. If you want to reset the changes, press Ctrl and O keys together.
 
 Step5Once you are satisfied with the level of zooming, press Esc key on your keyboard to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Zoom Discord Online
 
@@ -62,7 +58,11 @@ Alternatively, you can simply launch Discord on any browser and press Ctrl and �
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/zoom-discord-screen-online.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Zoom Discord on Mobile
@@ -74,7 +74,7 @@ Step1On your smartphone, open Discord app. Tap on your Profile icon located at t
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/open-discord-on-smartphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2You must be on User Settings page where you need to find and tap on Appearance present under App Settings.
@@ -86,7 +86,7 @@ Step3Scroll down and come to Chat Font Scaling and move the slider to the right 
 There is Reset option at the bottom to cancel out the changes made as far as zoom effect goes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -106,16 +106,22 @@ There could also be a scenario where you have excessive zoom in effect, and you 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-deciphering-the-secrets-to-bg-purging-in-figma-layouts/"><u>[New] Deciphering the Secrets to BG Purging in Figma Layouts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-secrets-of-stretching-seconds-creating-spectaculous-slow-mo-videos-with-photos-and-web-tools/"><u>[New] Unveiling the Secrets of Stretching Seconds Creating Spectaculous Slow-Mo Videos with Photos & Web Tools</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-optimizing-youtube-performance-crafting-perfect-titles-and-tags/"><u>[Updated] 2024 Approved Optimizing YouTube Performance Crafting Perfect Titles and Tags</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweetpic-puller-extract-visuals-from-twitter-feed/"><u>[Updated] 2024 Approved TweetPic Puller Extract Visuals From Twitter Feed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-action-cameras-for-stabilized-shots/"><u>[Updated] Ideal Action Cameras for Stabilized Shots</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-instagram-video-to-mp3-converting-hacks/"><u>2024 Approved Instagram Video-to-MP3 Converting Hacks</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/how-do-you-create-in-camera-transitions-in-your-videos-a-complete-guide-for-beginners-to-create-these-transitions-using-their-camera-at-home-for-2024/"><u>How Do You Create In-Camera Transitions in Your Videos? A Complete Guide for Beginners to Create These Transitions Using Their Camera at Home for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-make-ninja-jump-effect/"><u>In 2024, How To Make Ninja Jump Effect</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713964148414-new-learn-how-to-feather-shapes-in-after-effects-and-add-a-professional-touch-to-your-designs-this-comprehensive-guide-covers-everything-from-the-basics-to-/"><u>New Learn How to Feather Shapes in After Effects and Add a Professional Touch to Your Designs. This Comprehensive Guide Covers Everything From the Basics to Advanced Techniques. Perfect for Beginners and Experts Alike for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/reliable-nutrition-on-schedule-with-the-petsafe-six-meal-auto-feeder/"><u>Reliable Nutrition on Schedule with the PetSafe Six-Meal Auto Feeder</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-so-in-this-short-tutorial-well-learn-how-to-create-a-vintage-1980-style-video-with-a-retro-effect-that-will-leave-your-audience-yearning-for/"><u>Updated In 2024, So, in This Short Tutorial, Well Learn How to Create a Vintage 1980-Style Video with a Retro Effect that Will Leave Your Audience Yearning for More</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-deciphering-your-affection-filmoras-top-10-features/"><u>[Updated] 2024 Approved Deciphering Your Affection Filmora’s Top 10 Features</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-demystifying-youtube-edits-an-in-depth-analysis-and-review/"><u>[Updated] Demystifying YouTube Edits An In-Depth Analysis and Review</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210165283-9781684560752-100-thanks/"><u>100 Thanks | Free Book</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-realme-narzo-60x-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Realme Narzo 60x 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experts-picks-for-the-ultimate-stylus-tablet-guide-of-2e24-in-depth-analysis-and-ratings-zdnet/"><u>Experts' Picks for the Ultimate Stylus Tablet Guide of 2E24: In-Depth Analysis and Ratings | ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-for-persistent-lagging-freezing-and-glitches-in-serious-sam-4-for-pc-gaming/"><u>Fixes for Persistent Lagging, Freezing, and Glitches in Serious Sam 4 for PC Gaming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-bad-image-issues-in-windows-11-and-10/"><u>Fixing 'Bad Image' Issues in Windows 11 and 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/freedom-to-play-essential-switch-ftp-games/"><u>Freedom to Play: Essential Switch FTP Games</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713942930825-new-imovie-review-is-it-the-best-video-editor-for-mac-users/"><u>New IMovie Review – Is It The Best Video Editor for Mac Users</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-need-to-learn-about-halftone-effects-learn-how-to-quickly-create-a-halftone-effect-in-adobe-photoshop-with-simple-easy-to-follow-instructions/"><u>New In 2024, Need to Learn About Halftone Effects? Learn How to Quickly Create a Halftone Effect in Adobe Photoshop with Simple, Easy-to-Follow Instructions</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713966039322-new-wondering-how-to-edit-a-video-to-slow-motion-on-iphone-and-android-devices-find-out-how-to-use-wondershare-filmora-to-create-and-edit-slo-mo-videos-in-a/"><u>New Wondering How to Edit a Video to Slow Motion on iPhone and Android Devices? Find Out How to Use Wondershare Filmora to Create and Edit Slo Mo Videos in a Few Clicks for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/step-by-step-guide-to-crafting-twitreacts-for-2024/"><u>Step-by-Step Guide to Crafting TwitReacts for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-davinci-resolve-scopes-have-undergone-significant-improvements-find-out-how-to-use-these-scopes-and-improve-your-video-editing-skills./"><u>Updated 2024 Approved DaVinci Resolve Scopes Have Undergone Significant Improvements. Find Out How to Use These Scopes and Improve Your Video Editing Skills</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-use-adjustment-layer-in-photoshop-in-2024/"><u>Updated How to Use Adjustment Layer in Photoshop, In 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-zoom-in-and-out-on-mac-for-2024/"><u>Updated How to Zoom In and Out on Mac for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-create-eye-catching-slow-motion-videos-to-set-your-own-trend-for-this-purpose-read-this-article-to-find-and-learn-to-use-capcuts-new-slow-mo/"><u>Updated In 2024, Create Eye-Catching Slow-Motion Videos to Set Your Own Trend. For This Purpose, Read This Article to Find and Learn to Use CapCuts New Slow-Motion Templates</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713965288071-updated-tiktok-aspect-ratio-is-a-crucial-element-to-succeeding-in-the-tiktok-algorithm-here-are-some-suggestions-to-improve-video-quality-and-land-on-the-fo/"><u>Updated Tiktok Aspect Ratio Is a Crucial Element to Succeeding in the Tiktok Algorithm. Here Are some Suggestions to Improve Video Quality and Land on the for You Page for 2024</u></a></li>
 </ul></div>
 

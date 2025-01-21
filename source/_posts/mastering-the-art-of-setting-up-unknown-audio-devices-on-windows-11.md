@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Setting Up Unknown Audio Devices on Windows 11
-date: 2025-01-12T04:44:00.872Z
-updated: 2025-01-15T13:18:38.832Z
+date: 2025-01-14T18:04:40.709Z
+updated: 2025-01-21T18:03:47.327Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
 
 It can be a frustrating issue that the sound or audio on your Windows 11 computer intermittently stops or becomes distorted. To troubleshoot the issue, you may need to check various settings and potential causes. In this tutorial, we’ve got you covered!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Before delving into any advanced settings
 
  First, you should restart your computer. Sometimes, a simple restart can resolve temporary glitches or conflicts that may be causing the audio to cut out.
@@ -35,15 +31,15 @@ If your audio still cuts out after a restart, try these fixes:
 6. **[Restart audio services](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Repair your system files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Check the basics
 
  To efficiently identify the source of the problem, you need to confirm that your audio device is functioning properly. If you’re using external speakers, check the power source and connections. Check if they’re working properly on other devices.
 
  If you’re pretty sure that your speakers or headphones are in good condition, try the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Install all Windows updates
 
@@ -53,13 +49,17 @@ If your audio still cuts out after a restart, try these fixes:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Click on the button**Check for updates** . When available, follow the on-screen instructions to download and install the Windows updates.  
 
-![](https://www.drivereasy.com/wp-content/uploads/2021/07/win11-check-for-updates.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![](https://www.drivereasy.com/wp-content/uploads/2021/07/win11-check-for-updates.png)
+
 Reboot your device and play the audio to see if your problem persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update audio drivers
 
@@ -100,10 +100,6 @@ Below is the simple three-step guide to update drivers with Driver Easy:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the Pro version – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -119,19 +115,19 @@ Below is the simple three-step guide to update drivers with Driver Easy:
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to**Audio** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-System-Other-troubleshooters-Audio-troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then follow the on-screen instructions to detect and solve your issues. If it fails to do so, no worries! Below are some other fixes for you to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Disable audio enhancements
@@ -144,11 +140,15 @@ Below is the simple three-step guide to update drivers with Driver Easy:
 3. Scroll down to the**Advanced** section and click**All sound devices** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-All-sound-devices.jpg)
 4. Under the**Output devices** section, click**Speakers** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-Output-devices-Speakers.jpg)
 5. Click on the**Audio enhancements** drop-down menu and select**Off** .  
@@ -156,10 +156,6 @@ Below is the simple three-step guide to update drivers with Driver Easy:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-Audio-enhancements-Off.jpg)
 
  If disabling audio enhancements doesn’t resolve your issue, see the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Restart audio services
 
@@ -179,14 +175,10 @@ Below is the simple three-step guide to update drivers with Driver Easy:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-restart-Windows-audio-endpoint-builder.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If restarting these services doesn’t resolve your issue, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Repair your system files
 
@@ -199,10 +191,18 @@ Below is the simple three-step guide to update drivers with Driver Easy:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/Fortect-START-SCAN.png)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click **Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After the repair, restart your computer. Then check if your problem has been solved.
 
@@ -227,24 +227,17 @@ _\*featured image by GraphiqaStock on Freepik_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-capturing-quality-logitech-webcam-recording-guide-for-2024/"><u>[New] Capturing Quality Logitech Webcam Recording Guide for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/levate-your-content-youtubes-keyword-strategies-exposed-for-2024/"><u>[New] Elevate Your Content YouTube's Keyword Strategies Exposed for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-incorporating-yt-music-streams-into-videos/"><u>[Updated] Incorporating YT Music Streams Into Videos</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-create-one-click-video-reverse-effect-in-filmora/"><u>2024 Approved How to Create One Click Video Reverse Effect in Filmora</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-ipados-18-arrival-free-download-key-features-revealed-and-fresh-announcements-detailing-the-upgrade/"><u>Discover iPadOS 18 Arrival - Free Download, Key Features Revealed & Fresh Announcements Detailing the Upgrade</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/enhance-your-distribution-network-through-cutting-edge-rpa-and-intelligent-scanning-technology/"><u>Enhance Your Distribution Network Through Cutting-Edge RPA and Intelligent Scanning Technology</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-honor-magic-v2-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Honor Magic V2 FRP Without Computer</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-comment-on-youtube-live-chat/"><u>New 2024 Approved How to Comment on YouTube Live Chat</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-create-quiz-videos-detailed-guide-for-2024/"><u>New How To Create Quiz Videos Detailed Guide for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-add-selective-color-effect-to-your-videos-using-filmora/"><u>New In 2024, Add Selective Color Effect to Your Videos Using Filmora</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/steal-the-show-this-cyber-weekend-grab-apple-macbook-air-m2-at-never-before-seen-prices-on-zdnet-limited-time-offer/"><u>Steal the Show This Cyber Weekend: Grab Apple MacBook Air (M2) at Never-Before-Seen Prices on ZDNET, Limited Time Offer!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-20-anker-power-bank-review-the-ultimate-solution-for-your-mobile-charging-woes-insights/"><u>Top $20 Anker Power Bank Review: The Ultimate Solution for Your Mobile Charging Woes - Insights</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ree-youtube-audio-extractors-for-pc-mac-ios-and-android/"><u>Top Free YouTube Audio Extractors for PC, Mac, iOS & Android</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-xbox-network-service-interruption-or-personal-setup-problems/"><u>Troubleshooting Xbox Network: Service Interruption or Personal Setup Problems?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-competitive-guide-to-use-slow-motion-in-after-effects/"><u>Updated 2024 Approved Competitive Guide To Use Slow Motion in After Effects</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-want-to-use-a-professional-tool-to-add-subtitles-read-this-article-to-discover-the-best-reliable-tool-to-create-subtitles-in-yo/"><u>Updated 2024 Approved Do You Want to Use a Professional Tool to Add Subtitles? Read This Article to Discover the Best Reliable Tool to Create Subtitles in Your Desired Manner</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-make-falling-text-effect-in-filmora/"><u>Updated 2024 Approved How to Make Falling Text Effect in Filmora?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-what-are-the-stages-of-film-production/"><u>Updated In 2024, What Are The Stages Of Film Production</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-master-premiere-pro-custom-sequence-presets-for-2024/"><u>Updated Master Premiere Pro Custom Sequence Presets for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-psychedelic-pulse-the-fade-technique-in-music-mixing/"><u>[Updated] 2024 Approved Psychedelic Pulse The Fade Technique in Music Mixing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-step-up-your-game-advanced-video-trimming-techniques-in-windows-11/"><u>2024 Approved Step Up Your Game Advanced Video Trimming Techniques in Windows 11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/convert-your-webcam-to-vlc-clip-for-2024/"><u>Convert Your Webcam to VLC Clip for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/crypto-storage-solutions-protecting-your-bitcoin-and-altcoins-with-yl-softwares-innovative-approaches/"><u>Crypto Storage Solutions: Protecting Your Bitcoin and Altcoins with YL Software's Innovative Approaches</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How Do I Stop Someone From Tracking My Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-smart-8-plus-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Smart 8 Plus To Phone | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-realme-c33-2023-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Realme C33 2023 Phone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-applications-and-software-take-up-your-devices-storage-to-create-slow-mo-explore-this-piece-to-learn-about-some-slow-motion-video-online-makers./"><u>New In 2024, Applications and Software Take up Your Devices Storage to Create Slow-Mo. Explore This Piece to Learn About some Slow-Motion Video Online Makers</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-storyboards-are-amazing-way-if-you-want-to-present-your-story-in-a-visual-way-like-explaining-any-process-or-giving-any-information-it-is-a-grap/"><u>New In 2024, Storyboards Are Amazing Way if You Want to Present Your Story in a Visual Way, Like Explaining Any Process or Giving Any Information. It Is a Graphic Layout to Tell You a Story</u></a></li>
+<li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-xiaomi-redmi-note-13-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-tiktok-video-aspect-ratio/"><u>Updated 2024 Approved Tiktok Video Aspect Ratio</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-wish-to-design-the-perfect-slow-motion-video-on-your-smartphone-learn-some-top-rated-free-slow-mo-apps-for-android-and-ios-users-in-t/"><u>Updated In 2024, Do You Wish to Design the Perfect Slow-Motion Video on Your Smartphone? Learn some Top-Rated Free Slow-Mo Apps for Android and iOS Users in This Article</u></a></li>
 </ul></div>
 

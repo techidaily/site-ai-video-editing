@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Fix Windows 11 or 10 Spatial Audio Not Working Correctly.
-date: 2025-01-10T07:29:41.527Z
-updated: 2025-01-15T08:12:42.343Z
+date: 2025-01-17T16:35:18.567Z
+updated: 2025-01-21T16:02:04.026Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 ## Spatial Audio Not Functioning on Windows? Here's How to Resolve the Issue
 
 [THX Spatial Audio](https://tools.techidaily.com/drivereasy/download/) is a software suite that is engineered to level up your gaming audio with more authentic and detailed soundscapes, and better control of your gaming sound. However, some users reported that**it is not working** . For some,**there’s no sound** . For others, they **can’t hear any difference or the sound is just crackling/ buzzing** . Whatever the problems you’re having, you may hopefully be able to solve them by trying the solutions in this post.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -41,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### On Windows 11
@@ -55,16 +59,12 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
  Upon reboot, play supported content to check if it works. If your THX Spatial Audio is still not working, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Run the audio troubleshooter
 
@@ -78,11 +78,19 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/update-and-security.png)
 3. Select**Troubleshoot** from the left pane. Then highlight the**Playing Audio** troubleshooter and click**Run the troubleshooter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/audio-run-the-troubleshooter.png)  
 
  If there are no troubleshooters showing up here, click**Additional troubleshooters** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/troubleshoot-additional-troubleshooters.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### On Windows 11
 
@@ -90,11 +98,15 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/control.jpg)
 2. On the top right corner, click View by **Large icons** . Scroll down and select **Troubleshooting** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/troubleshooting.jpg)
 3. Click **Run** for **Audio**  troubleshooter.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/sound-troubleshooter.png)
@@ -113,15 +125,7 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/set-thx-spatial-audio-as-default-playback-device.png)
 3. Then in the APPLICATION MIXER section, select**Spatial Audio** as the output.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/application-mixer.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After you’ve done these, you should be able to enjoy the THX Spatial feature on your audio device.
 
@@ -141,7 +145,7 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
@@ -151,10 +155,6 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  When the update completes, restart your computer. Then play supported content to check for changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Perform a system restore
 
@@ -173,10 +173,6 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/turn-on-system-protection.png)
 4. Now select your System drive and click**Create…** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/create-a-system-point-now.png)
 5. Type a description for your restore point that you can recognize. Then click**Create** .  
 
@@ -186,7 +182,7 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/close-the-window.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, if none of the solutions listed above gives you any luck, you may need to check if there are any missing or corrupted system files. You can use the System File Checker tool (sfc /scannow) to look for any critical system issues, but most of the time it only scans major files and may miss minor issues.
@@ -198,6 +194,10 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 3. Once the scan is finished, you’ll see a complete overview of your system and issues. Click**Start Repair** to start the repair process and wait for Fortect to fix the problem.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues while using Fortect, feel free to contact their support team.
 
@@ -220,16 +220,22 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-transforming-your-video-with-strategic-vimeo-end-screens/"><u>[Updated] In 2024, Transforming Your Video with Strategic Vimeo End Screens</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-non-athletic-games-the-best-10-front-rows/"><u>[Updated] Non-Athletic Games The Best 10 Front Rows</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-vivo-y78plus-t1-edition-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Vivo Y78+ (T1) Edition to Roku | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-iphone-8-plus-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On iPhone 8 Plus</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-make-fortnite-thumbnail-with-motion-blur/"><u>New 2024 Approved How to Make Fortnite Thumbnail with Motion Blur?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-are-you-a-newbie-across-youtube-want-to-know-who-the-best-vloggers-are-this-article-provides-you-with-the-best-vloggers-on-youtube-for-2024/"><u>New Are You a Newbie Across YouTube? Want to Know Who the Best Vloggers Are? This Article Provides You with the Best Vloggers on YouTube for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-are-you-looking-for-a-voice-changer-to-make-your-gaming-experience-more-fun-here-is-a-list-of-the-top-6-best-alternatives-of-clownfish-voice-cha/"><u>New In 2024, Are You Looking for a Voice Changer to Make Your Gaming Experience More Fun? Here Is a List of the Top 6 Best Alternatives of Clownfish Voice Changers to Use</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-tiktok-video-aspect-ratio-for-2024/"><u>New Tiktok Video Aspect Ratio for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-there-are-many-vlogging-cameras-you-can-find-in-the-market-however-to-get-a-good-start-in-vlogging-some-sony-vlogging-cameras-and-canon-vlog/"><u>Updated In 2024, There Are Many Vlogging Cameras You Can Find in the Market. However, to Get a Good Start in Vlogging, some Sony Vlogging Cameras and Canon Vlog Cameras Are to Consider. This Article Introduces You to the Respective List</u></a></li>
-<li><a href="https://windows11.techidaily.com/voice-activated-mastery-in-windows-11s-accessibility-features/"><u>Voice-Activated Mastery in Windows 11'S Accessibility Features</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-finns-fortune-flux-earnings-examination/"><u>[New] 2024 Approved Finn's Fortune Flux Earnings Examination</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-asmrs-secrets-for-optimal-wellness/"><u>[New] Unlocking ASMR's Secrets for Optimal Wellness</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-accelerating-video-conversion-youtube-to-mpeg-edition/"><u>[Updated] 2024 Approved Accelerating Video Conversion YouTube to MPEG Edition</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-budget-friendly-high-quality-earphones-for-gaming-for-2024/"><u>[Updated] Budget-Friendly, High-Quality Earphones for Gaming for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unleashing-the-potential-of-fb-videos/"><u>[Updated] In 2024, Unleashing the Potential of FB Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-text-summarization-when-accuracy-matters-should-you-trust-the-ai/"><u>ChatGPT Text Summarization: When Accuracy Matters, Should You Trust the AI?</u></a></li>
+<li><a href="https://discover-best.techidaily.com/enhanced-site-performance-with-advanced-cookiebot-technology/"><u>Enhanced Site Performance with Advanced Cookiebot Technology</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/1725289559736-iphone-ai/"><u>IPhoneで素早く効果的に背景を変更! AI革新を活用した写真編集ガイド</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-also-use-android-to-create-and-edit-videos-read-about-the-efectum-video-effects-editor-which-is-available-in-your-app-stores-for-se/"><u>New 2024 Approved Do You Also Use Android to Create and Edit Videos? Read About the Efectum Video Effects Editor, Which Is Available in Your App Stores for Seamless Editing</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-are-you-wondering-how-to-slow-down-videos-or-speed-them-up-here-are-three-ways-to-do-it-speed-up-or-slow-down-your-videos-on-pc-online-and-phone-for-202/"><u>New Are You Wondering How to Slow Down Videos or Speed Them up, Here Are Three Ways to Do It. Speed up or Slow Down Your Videos on PC, Online, and Phone for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-making-slow-motion-videos-in-premiere-pro-a-review-on-the-best-method-for-2024/"><u>New Making Slow Motion Videos in Premiere Pro A Review on The Best Method for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713964617797-new-read-and-learn-how-to-convert-a-slow-motion-video-to-normal-in-this-guide-besides-find-the-best-desktop-solution-to-adjust-video-speed-quickly-and-easil/"><u>New Read and Learn How to Convert a Slow-Motion Video to Normal in This Guide. Besides, Find the Best Desktop Solution to Adjust Video Speed Quickly and Easily for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713966039322-new-wondering-how-to-edit-a-video-to-slow-motion-on-iphone-and-android-devices-find-out-how-to-use-wondershare-filmora-to-create-and-edit-slo-mo-videos-in-a/"><u>New Wondering How to Edit a Video to Slow Motion on iPhone and Android Devices? Find Out How to Use Wondershare Filmora to Create and Edit Slo Mo Videos in a Few Clicks for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/unlock-tiktok-a-macbook-users-guide-for-2024/"><u>Unlock TikTok A MacBook User's Guide for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-zoom-in-and-out-on-mac-for-2024/"><u>Updated How to Zoom In and Out on Mac for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-slow-down-a-video-on-iphone-and-android-the-easy-way/"><u>Updated In 2024, How to Slow Down a Video on iPhone and Android The Easy Way</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-what-is-the-best-voice-changer-for-whatsapp-discover-the-seven-7-best-voice-changers-for-whatsapp-here-in-this-post/"><u>Updated In 2024, What Is the Best Voice Changer for WhatsApp? Discover the Seven (7) Best Voice Changers for WhatsApp Here in This Post</u></a></li>
 </ul></div>
 

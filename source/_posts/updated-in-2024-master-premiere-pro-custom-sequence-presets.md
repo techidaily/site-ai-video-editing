@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Master Premiere Pro Custom Sequence Presets
-date: 2024-12-31T00:35:13.910Z
-updated: 2025-01-02T01:45:12.352Z
+date: 2025-01-18T16:39:55.470Z
+updated: 2025-01-21T17:26:18.773Z
 tags: 
   - ai
   - animation videos
@@ -19,16 +19,12 @@ You've probably heard of Adobe Premiere Pro – it's a top-tier video editing so
 
 It allows users to save specific settings for sequence attributes like frame rate, resolution, and audio settings. Instead of reconfiguring these settings for each new project, a custom sequence preset lets you jump right into editing. Now, how do you create one? Keep reading!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Create a Custom Sequence in Premiere Pro
 
 Creating a custom sequence is like tailoring a shirt to fit you perfectly. Here's a step-by-step guide to help you do just that:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: Displays the New Sequence Window
@@ -36,7 +32,7 @@ Creating a custom sequence is like tailoring a shirt to fit you perfectly. Here'
 Begin by launching Adobe Premiere Pro. Once opened, navigate to the top menu and select **_File_ \> _New_ \> _Sequence_**. This will open up the New Sequence window, where all the magic happens!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Change the Editing Mode to Custom in the Settings Panel
@@ -53,6 +49,10 @@ Here, you'll find the **'Editing Mode'** dropdown menu. By default, it's set to 
 4. **Fields:** Choose 'No Fields' for progressive footage. If you're unsure, this is a safe bet.
 5. **Audio Settings:** Here, you can configure the sample rate, among other things. 48000Hz is standard for video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 3: Give the New Preset a Name and Save It
 
 Once you've customized the settings to your satisfaction, it's time to save this configuration for future use. At the bottom of the New Sequence window, you’ll see a **'Save Preset'** button. Click on it.
@@ -62,7 +62,7 @@ A pop-up window will show up, requesting you to provide a name for your new pres
 Your custom sequence preset is now saved and will appear under the **'Custom'** folder in the **'Sequence Presets'** tab.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Why Custom Sequence Presets are Essential for Efficient Editing
@@ -78,7 +78,7 @@ As you delve deeper into video editing, you'll begin to appreciate the little th
 Incorporating this practice into your editing routine might initially seem trivial, but its benefits compound with time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Summary
@@ -102,21 +102,24 @@ It allows users to save specific settings for sequence attributes like frame rat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-avoid-livestream-frustration-addressing-facebook-outages-for-2024/"><u>[Updated] Avoid Livestream Frustration Addressing Facebook Outages for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-top-security-accessories-for-webcams/"><u>[Updated] In 2024, Top Security Accessories for Webcams</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/astro-a50-quiet-dilemma-heres-how-to-restore-its-sound-fast/"><u>Astro A50 Quiet Dilemma? Here's How to Restore Its Sound Fast!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/clearing-page-queue-in-hp-printer-errors/"><u>Clearing Page Queue in HP Printer Errors</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-correct-lens-distortion-with-filmora/"><u>In 2024, How to Correct Lens Distortion With Filmora</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-nubia-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Nubia Through Google Earth?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/jumpstarting-a-dead-laptop-essential-troubleshooting-tips/"><u>Jumpstarting a Dead Laptop: Essential Troubleshooting Tips</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-add-stylish-text-to-videos/"><u>New 2024 Approved Add Stylish Text to Videos</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-are-you-looking-to-store-your-videos-securely-and-efficiently-look-no-further-than-our-top-pick-for-the-best-cloud-storage-service-for-videos-for-2024.m/"><u>New Are You Looking to Store Your Videos Securely and Efficiently? Look No Further than Our Top Pick for the Best Cloud Storage Service for Videos for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-turn-your-blog-content-into-audio-podcasts-to-reach-a-wider-audience-and-increase-reader-participation/"><u>New In 2024, Turn Your Blog Content Into Audio Podcasts to Reach a Wider Audience and Increase Reader Participation</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-top-free-luts-to-use-in-shotcut-an-overview/"><u>New Top Free LUTs To Use in Shotcut An Overview</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/reviewing-cyberpunk-2077-bold-vision-hindered-by-flaws-and-unfinished-areas/"><u>Reviewing Cyberpunk 2077: Bold Vision Hindered by Flaws and Unfinished Areas</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/u-nextpcwindows/"><u>U-NEXTビデオのPC上での静止画撮影・保存手順：Windowsプラットフォーム向け</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/unlock-youtubes-potential-essential-tips-and-techniques-for-optimal-titles/"><u>Unlock YouTube's Potential Essential Tips & Techniques for Optimal Titles</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-best-video-title-generators/"><u>Updated 2024 Approved Best Video Title Generators</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-create-realistic-fire-effects-for-2024/"><u>Updated How to Create Realistic Fire Effects for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-essential-phone-apps-to-boost-audio-speed/"><u>[Updated] In 2024, Essential Phone Apps to Boost Audio Speed</u></a></li>
+<li><a href="https://win-data.techidaily.com/1728481691728-aomei-backupper/"><u>優良無限範圍: AOMEI Backupper 自由版，檔案备份的新指南</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/achieved-success-with-nvidia-setup/"><u>Achieved Success with NVIDIA Setup</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-oppo-a58-4g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Oppo A58 4G FRP Locks</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-the-ultimate-guide-top-8-online-places-for-free-3d-text-files/"><u>In 2024, The Ultimate Guide Top 8 Online Places for Free 3D Text Files</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/insights-and-updates-on-the-anticipated-apple-automobile-pricing-launch-timeline-features-and-latest-gossip/"><u>Insights & Updates on the Anticipated Apple Automobile - Pricing, Launch Timeline, Features, and Latest Gossip</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mac-and-windows-11-step-by-step-guide-to-installing-libdvdcss-in-handbrake/"><u>Mac & Windows 11: Step-by-Step Guide to Installing Libdvdcss in HandBrake</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/maximizing-listener-impact-on-day-of-launch-for-2024/"><u>Maximizing Listener Impact on Day of Launch for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-know-about-the-best-filmic-pro-luts-for-video-editing-this-article-provides-details-on-the-best-recommendations/"><u>New 2024 Approved Do You Want to Know About the Best Filmic Pro LUTs for Video Editing? This Article Provides Details on the Best Recommendations</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-mastering-lip-sync-magic-advanced-strategies-for-real-time-audio-video-sync/"><u>New 2024 Approved Mastering Lip-Sync Magic Advanced Strategies for Real-Time Audio-Video Sync</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-use-zoom-in-google/"><u>New In 2024, How to Use Zoom in Google</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-replace-sky-background-in-video-figuring-out-the-best-options/"><u>New In 2024, Replace Sky Background in Video Figuring Out the Best Options</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-premiere-pro-slow-playback-issues-finding-the-best-solutions/"><u>Updated 2024 Approved Premiere Pro Slow Playback Issues Finding The Best Solutions</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-what-do-you-prefer-more-mkv-file-format-or-mov-increase-your-knowledge-and-learn-more-about-mkv-format-by-ready-the-detailed-article-b/"><u>Updated 2024 Approved What Do You Prefer More, MKV File Format or MOV? Increase Your Knowledge and Learn More About MKV Format by Ready the Detailed Article Below</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-are-you-looking-for-a-video-format-converter-free-we-will-introduce-the-5-best-online-converters-and-also-the-5-best-video-format-converters-for-pc-/"><u>Updated Are You Looking for a Video Format Converter Free? We Will Introduce the 5 Best Online Converters and Also the 5 Best Video Format Converters for PC for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-split-videos-in-premier-pro-for-2024/"><u>Updated How To Split Videos in Premier Pro for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-change-aspect-ratio-in-imovie/"><u>Updated In 2024, How to Change Aspect Ratio in iMovie</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-what-should-be-considered-to-choose-a-nice-gopro-for-vlogging-in-2024/"><u>Updated What Should Be Considered to Choose A Nice GoPro for Vlogging, In 2024</u></a></li>
 </ul></div>
 

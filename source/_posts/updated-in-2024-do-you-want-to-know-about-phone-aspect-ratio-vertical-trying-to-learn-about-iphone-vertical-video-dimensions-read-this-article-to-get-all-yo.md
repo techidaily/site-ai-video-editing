@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Do You Want to Know About Phone Aspect Ratio Vertical? Trying to Learn About iPhone Vertical Video Dimensions? Read This Article to Get All Your Answers on Vertical Phone Aspect Ratio Definition, Types and Tips
-date: 2025-01-10T18:22:00.990Z
-updated: 2025-01-14T22:33:12.398Z
+date: 2025-01-15T17:35:01.974Z
+updated: 2025-01-21T16:27:18.003Z
 tags: 
   - ai
   - animation videos
@@ -38,7 +38,7 @@ The vertical phone aspect ratio is the “proportional” relationship between t
 Back in the television days, you might have seen certain old pictures with black padding on either side of the screen. It was just that they were shot in different aspect ratios and your television screen had different aspect ratios.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Aspect Ratio Vs Resolution
@@ -82,27 +82,15 @@ Choice of the wrong aspect ratio can eliminate the potential for editing (croppi
 
 ## Part 2 Types of Phone Aspect Ratio Vertical
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Image Aspect Ratios
 
 The aspect ratio decides and changes the entire composition and how the audience perceives the image. First, let us see some common image aspect ratios.
 
 ![image aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ● 1:1 Ratio
 
 ![1 to 1 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If you have seen a square-shaped image, it had probably a 1:1 aspect ratio. It simply means both sides (width and height of the image) are equal. It was initially the aspect ratio of square television sets. However, this is commonly used for print photos, mobile screens, and social platforms.
 
@@ -117,14 +105,10 @@ Initially used for classic 35 mm film and still photography, aspect ratio 3:5 is
 ![5 to 4 ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-14.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 It was commonly used for photography and art prints. For Images having dimensions, 8″x10″ and 16x20 have the 5:4 aspect ratios.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Video Aspect Ratios
 
@@ -142,13 +126,13 @@ If you have seen presentation slides, computer monitors, or widescreee seen this
 
 ![9:16 Ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 When smartphones started coming with video capabilities, this Ratio became popular. Likewise, today this Ratio is trendy for social media platforms with video story capabilities.
 
 The Instagram story typically consists of 1080x1920 pixels, which in terms of aspect ratio is 9:16\. Most phones, such as iPhone, have a feature that allows you to record footage in both (16:9 as well as 9:16).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Phone aspect ratio vertical
 
@@ -176,6 +160,10 @@ Cropping horizontal can be irritating and sometimes disappointing at the same ti
 
 If, for some reason, you still want first to shoot it horizontal and then change it back to mobile vertical video size. You may need to shoot in 4K horizontally to get extra pixels to work with. It can later be cropped in the sides to 9:16 (Vertical phone aspect ratio). Plus, you won't need to scale it anymore.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Direct your viewer's eyes
 
 For hooking social media viewers, you need to put your most interesting visual upfront. These include GIFs, colourful stop-motion or looping animation. Always try to match your first couple of shots with your overall brand personality.
@@ -200,10 +188,6 @@ First, make sure that your subject is vertical-friendly. Then get closer and fil
 
 ● Bird’s-eye view from above.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Rule of Third
 
 ![rule of third](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-10.png)
@@ -212,19 +196,23 @@ This photography rule says not to place the main subject directly in the center 
 
 You have to place your subject either on the lines or where the lines meet up. And guess what? You don't need to draw imaginary nowadays. Most cameras and smartphones provide you with this option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Avoid Shaking
 
 You do not want to distract your viewers with shaky camera moments. Normal pan and 360-degree rotation are acceptable or maybe even essential. But moving side to side too quickly will make it difficult for the camera to process that information. You better use a selfie stick or gimbal.
 
 Now, check out the best vertical video ratios for various social platforms.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best video aspect ratios for Facebook
 
 ![fb aspect ratio](https://images.wondershare.com/filmora/article-images/2022/02/phone-aspect-ratio-8.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ● 1:1 or 4:5 (Feed)
 
@@ -237,6 +225,10 @@ Now, check out the best vertical video ratios for various social platforms.
 ● 9:16 (Audience Network)
 
 ● 2:3 (Vertical)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best video aspect ratios for Instagram
 
@@ -262,11 +254,19 @@ Now, check out the best vertical video ratios for various social platforms.
 
 ● 1:11 or 16:9 (Video Posts)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best video aspect ratios for TikTok
 
 ● 9:16, 1:1, or 16:9 (For ads)
 
 ● 9:16 (For organic videos)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Wondershare Filmora
 
@@ -297,7 +297,7 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -317,17 +317,16 @@ If you are a professional video or image creator, you know what aspect ratio is 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-beyond-hd-the-exceptional-experience-with-hp-envy-27/"><u>[New] In 2024, Beyond HD - The Exceptional Experience with HP Envy 27</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-accelerate-your-youtube-channels-growth-to-1kplus/"><u>[Updated] 2024 Approved Accelerate Your YouTube Channel's Growth to 1K+</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-runmud-headset-microphone-malfunction-problems/"><u>Effective Solutions for Runmud Headset Microphone Malfunction Problems</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/guide-to-synchronizing-your-audio-and-videos-properly-in-2024/"><u>Guide to Synchronizing Your Audio And Videos Properly, In 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-applying-the-effect-of-camera-shake-in-video-creation/"><u>In 2024, Applying the Effect of Camera Shake in Video Creation</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-pushing-boundaries-with-innovative-instagram-content/"><u>In 2024, Pushing Boundaries with Innovative Instagram Content</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/masterclass-crafting-cinematic-youtube-videos-with-adobe-premiere/"><u>Masterclass Crafting Cinematic YouTube Videos with Adobe Premiere</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-make-a-video-loop-in-quicktime/"><u>New In 2024, How to Make a Video Loop in QuickTime</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/skatterbenchers-innovative-project-crafting-next-gen-telemetry-tools-for-raspberry-pi-systems/"><u>SkatterBencher's Innovative Project: Crafting Next-Gen Telemetry Tools for Raspberry Pi Systems</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-blueprint-for-permanent-instagram-exit-strategy/"><u>The Ultimate Blueprint for Permanent Instagram Exit Strategy</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-add-font-effects-to-videos-for-2024/"><u>Updated How to Add Font Effects to Videos for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-working-on-editing-a-video-and-youd-like-to-add-text-to-it-learn-the-various-ways-that-you-can-add-text-to-a-video/"><u>Updated In 2024, Are You Working on Editing a Video and Youd Like to Add Text to It? Learn the Various Ways that You Can Add Text to a Video</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-comedic-craftsmanship-the-best-short-video-ideas-to-entertain-viewers/"><u>[New] In 2024, Comedic Craftsmanship The Best Short Video Ideas to Entertain Viewers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-dividing-footage-top-splitcams-worth-in-review/"><u>[Updated] In 2024, Dividing Footage Top SplitCam's Worth in Review?</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-strategic-spending-to-skyrocket-your-video-views/"><u>2024 Approved Strategic Spending to Skyrocket Your Video Views</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/maximizing-your-reach-with-snapchat-highlights/"><u>Maximizing Your Reach with Snapchat Highlights</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-get-zoom-on-tv-easy-solutions/"><u>New 2024 Approved How to Get Zoom on TV Easy Solutions</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-zoom-in-on-powerpoint-easy-ways/"><u>New In 2024, How to Zoom in on PowerPoint Easy Ways</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-if-you-want-to-replace-or-delete-the-sky-pictures-or-background-media-then-give-a-quick-read-to-this-article-for-effective-solutions/"><u>New In 2024, If You Want to Replace or Delete the Sky Pictures or Background Media, Then Give a Quick Read to This Article for Effective Solutions</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-learn-how-to-make-a-gaming-montage-guide-and-tips-for-2024/"><u>New Learn How to Make a Gaming Montage - Guide & Tips for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713965405555-updated-unravel-the-creative-potential-of-adobe-after-effects-for-precise-motion-synchronization-learn-how-to-use-track-matte-and-tracking-with-a-simple-alt/"><u>Updated Unravel the Creative Potential of Adobe After Effects for Precise Motion Synchronization. Learn How to Use Track Matte and Tracking with a Simple Alternative for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ou-must-enable-av1-for-ultimate-video-experience-on-youtube/"><u>Why You Must Enable AV1 for Ultimate Video Experience on YouTube</u></a></li>
 </ul></div>
 

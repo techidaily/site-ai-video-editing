@@ -1,7 +1,7 @@
 ---
 title: Updated DaVinci Resolve Scopes Have Undergone Significant Improvements. Find Out How to Use These Scopes and Improve Your Video Editing Skills for 2024
-date: 2025-01-12T09:27:13.672Z
-updated: 2025-01-14T19:18:28.644Z
+date: 2025-01-17T17:13:00.579Z
+updated: 2025-01-21T17:27:46.490Z
 tags: 
   - ai
   - animation videos
@@ -27,15 +27,15 @@ How do you set up **DaVinci scopes**? The internal color scopes in Resolve are f
 
 The Blackmagic Design continues to improve the Resolve to make it better with every iteration. The new features improve colorist workflow in less powerful ways. The major improvements include a major facelift to the scope, allowing professions to do more with DaVinci resolve. Let’s have a look at some of these changes:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **1\. CIE 1931 Color Space**
 
 The inclusion of the CIE chromaticity diagram is perhaps the biggest change to DaVinci scopes. It displays the gamut of the project as set in the Color Management preferences. This makes it a useful alternate way of looking at the trace of an image to judge when the values are out of legal range. It also functions as an educational tool for learning about the range of color spaces.
 
 ![cie 1931 color space](https://images.wondershare.com/filmora/article-images/2023/mastering-davinci-resolve-scopes-a-comprehensive-guide-1.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **2\. Low Pass Filter**
 
@@ -44,10 +44,14 @@ The wavefront and parade scopes now have a low pass filter, which reduces noise 
 ![low pass filter](https://images.wondershare.com/filmora/article-images/2023/mastering-davinci-resolve-scopes-a-comprehensive-guide-2.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The image above shows the major improvements. The second set of waveforms has more defined lines. These have the low-pass filter activated, which makes the scopes easier to read.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **3\. High, Mid, and Low Views in Vectorscope**
 
@@ -57,6 +61,10 @@ The vectorscope has been added to the ability to toggle the mid-tones, shadows, 
 
 As seen in the picture above, the vectorscope controls allow you to select the low, mid, or high range of the image. You can also set the low and high ranges as desired.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **4\. Histograms Over Curves**
 
 Another great DaVinci scope is the histogram, which now appears outside of the scope panel. The new improvements have embedded the histogram inside the Curves tab on the bottom Palette. Click on the three dots in the Custom Curves tab. The pulldown menu that appears includes the Input or Output of the histogram. With these settings, you can find the element in the frame that helps you make adjustments quickly.
@@ -64,7 +72,7 @@ Another great DaVinci scope is the histogram, which now appears outside of the s
 ![histograms over curves](https://images.wondershare.com/filmora/article-images/2023/mastering-davinci-resolve-scopes-a-comprehensive-guide-4.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **5\. Scope Quality**
@@ -73,25 +81,21 @@ The GPU-accelerated scopes engine allows the scopes to respond quickly. Users ha
 
 ![scope quality](https://images.wondershare.com/filmora/article-images/2023/mastering-davinci-resolve-scopes-a-comprehensive-guide-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **6\. YRGB View in Histogram and Parade**
 
 The histogram and parade now come with the ability to view luminance together with the red, green, and blue channels. Users also have the option for YCbCr mode in the Parade.
 
 ![yrgb view in histogram and parade](https://images.wondershare.com/filmora/article-images/2023/mastering-davinci-resolve-scopes-a-comprehensive-guide-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **7\. Extents**
 
 These are weak elements in the signore, which are of lesser importance compared to the stronger elements. However, Danvici now allows them to be revealed for a full illustration of the information that lies in the image. Consequently, extents can be used to determine whether the data is being clipped beyond legal limits.
 
 ![extent](https://images.wondershare.com/filmora/article-images/2023/mastering-davinci-resolve-scopes-a-comprehensive-guide-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Part 2\. Mastering Scopes in DaVinci Resolve: A Brief Guide**
 
@@ -101,10 +105,6 @@ DaVinci scopes help you to analyze images as a basis for color correction. When 
 * [Parade (RGB)](#davinci2)
 * [Vectorscope](#davinci3)
 * [Histogram](#davinci4)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **1\. Waveform**
 
@@ -121,7 +121,7 @@ The RGB Parade comprises 3 waveforms that represent the luminance of red, green,
 ![parade](https://images.wondershare.com/filmora/article-images/2023/mastering-davinci-resolve-scopes-a-comprehensive-guide-9.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The Parade works almost in a similar manner as the waveform. It displays the red, green, and blue channels of the image as separate waveforms. This way, you can easily identify and correct color casts while ensuring the colors in the image are balanced. The video scope provides useful information to decide which parts of the image need to be corrected or tweaked further.
@@ -132,11 +132,11 @@ Vectorscope in DaVinci Resolve shows hue and saturation on a circular graph. Hue
 
 ![vectorscope](https://images.wondershare.com/filmora/article-images/2023/mastering-davinci-resolve-scopes-a-comprehensive-guide-10.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 By displaying the hue and saturation of the image as a vector, this video scope helps check skin tones. The scope specifically checks whether skin tones are shifted toward colors such as yellow, magenta, or green. It allows you to make sure that the colors in your subject skin tones are not too saturated or desaturated.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **4\. Histogram**
 
@@ -155,7 +155,7 @@ When working on video projects, Wondershare Filmora is a great editing software.
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **How to Use Video Scopes on Filmora**
@@ -163,10 +163,6 @@ When working on video projects, Wondershare Filmora is a great editing software.
 Using video scopes on Filmora is easy. The software offers four video scope options, allowing you to color-correct and grade your visual images properly. They include parade RGB, waveform, vectorscope, and histogram. When editing videos on Filmora, the video scopes can be accessed by clicking on the video scopes icon. The icon is found on the top right corner of the media player.
 
 ![access video scopes](https://images.wondershare.com/filmora/article-images/2023/mastering-davinci-resolve-scopes-a-comprehensive-guide-12.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Filmora has made it easy for users to manage video scopes, and color-correct videos quickly. Users can change the layout options of the video scopes to match the editing needs of their project. You can also expand the button to show the name of the scope. As you manage the scopes, you can start with the Parade to make the necessary adjustments. Then move on to waveform, vectorscope, and histogram.
 
@@ -187,6 +183,10 @@ Scopes are indeed valuable to video editors and colorists. While viewing images 
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -196,15 +196,22 @@ Scopes are indeed valuable to video editors and colorists. While viewing images 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-mastery-in-mixing-pro-tools-prowess-tips-and-tricks/"><u>[Updated] 2024 Approved Mastery in Mixing Pro Tools Prowess Tips and Tricks</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-obs-vs-shadowplay-which-recording-tool-takes-the-prize/"><u>[Updated] 2024 Approved OBS Vs ShadowPlay Which Recording Tool Takes the Prize?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/detailed-guide-to-rotate-videos-in-blender-for-2024/"><u>Detailed Guide to Rotate Videos in Blender for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/dissecting-the-8-anomalies-in-windows-11s-ui/"><u>Dissecting the 8 Anomalies in Windows 11'S UI</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-failed-capture-camera-error-in-windows-11-os/"><u>Fixing 'Failed Capture' Camera Error in Windows 11 OS</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/how-to-concatenate-videos-using-ffmpeg-for-2024/"><u>How to Concatenate Videos Using FFmpeg for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-master-premiere-pro-custom-sequence-presets/"><u>New Master Premiere Pro Custom Sequence Presets</u></a></li>
-<li><a href="https://video-capture.techidaily.com/premier-chromebook-monitoring-app-for-2024/"><u>Premier Chromebook Monitoring App for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/uncovering-lost-contacts-a-step-by-step-guide-to-retrieving-deleted-mobile-numbers-from-android-devices/"><u>Uncovering Lost Contacts: A Step-by-Step Guide to Retrieving Deleted Mobile Numbers From Android Devices</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-make-a-slow-motion-video-complete-guide/"><u>Updated In 2024, How to Make a Slow Motion Video Complete Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-expert-evaluation-chilled-delights-playback-tools/"><u>[Updated] 2024 Approved Expert Evaluation Chilled Delights Playback Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-prime-mc-house-designs-for-communities/"><u>[Updated] 2024 Approved Prime MC House Designs for Communities</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>Does find my friends work on Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exclusive-insight-on-apple-iphone-xs-max-a-comprehensive-review-for-tech-enthusiasts/"><u>Exclusive Insight on Apple iPhone XS Max – A Comprehensive Review for Tech Enthusiasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-latest-in-video-compression-technology-with-these-46-new-tools-for-2024/"><u>Explore the Latest in Video Compression Technology with These 46 New Tools for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-stop-windows-from-automatically-locking-itself/"><u>How to Stop Windows From Automatically Locking Itself</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-offering-the-best-understanding-of-performing-imovie-slow-motion-video/"><u>New 2024 Approved Offering The Best Understanding of Performing iMovie Slow Motion Video</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-are-you-looking-for-a-video-format-converter-free-we-will-introduce-the-5-best-online-converters-and-also-the-5-best-video-format-converters-for-pc-for-/"><u>New Are You Looking for a Video Format Converter Free? We Will Introduce the 5 Best Online Converters and Also the 5 Best Video Format Converters for PC for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-to-apply-professional-looking-color-grading-on-your-iphones-photos-and-videos-you-can-use-different-iphone-luts-for-your-pictures-an/"><u>New In 2024, Do You Want to Apply Professional-Looking Color Grading on Your iPhones Photos and Videos? You Can Use Different iPhone LUTs for Your Pictures and Videos</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713964891082-new-the-glitch-effect-shows-errors-and-flaws-in-the-image-or-a-video-the-write-up-presents-the-complete-procedure-of-adding-premiere-pros-glitch-effect-and-/"><u>New The Glitch Effect Shows Errors and Flaws in the Image or a Video. The Write-Up Presents the Complete Procedure of Adding Premiere Pros Glitch Effect and Introduces Eight Free Glitch Effects for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/oneplus-tablet-2-unveiled-featuring-superior-3k-display-and-advanced-snapdragon-processor/"><u>OnePlus Tablet 2 Unveiled Featuring Superior 3K Display & Advanced Snapdragon Processor</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-computer-and-hardware-guides/"><u>Tom's Tech Review: In-Depth Computer & Hardware Guides</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-slow-mo-youtube-videos-for-2024/"><u>Updated How to Slow-Mo YouTube Videos for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-being-an-after-effects-editor-you-often-find-yourself-the-need-to-add-motion-blur-after-effects-this-guide-has-got-you-covered-follow-to-fin/"><u>Updated In 2024, Being an After Effects Editor, You Often Find Yourself the Need to Add Motion Blur After Effects. This Guide Has Got You Covered. Follow to Find Out How to Add Motion Blur in After Effects</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-making-slow-motion-videos-in-premiere-pro-a-review-on-the-best-method/"><u>Updated In 2024, Making Slow Motion Videos in Premiere Pro A Review on The Best Method</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-top-ways-to-make-fast-motion-video-on-iphone-solved/"><u>Updated In 2024, Top Ways to Make Fast Motion Video on iPhone Solved</u></a></li>
 </ul></div>
 

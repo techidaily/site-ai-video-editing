@@ -1,7 +1,7 @@
 ---
 title: "World's First AMD Advantage Mini PC: Introducing the AtomMan G7 Pt with R9 7945HX & RX 760E XT Graphics"
-date: 2025-01-12T07:43:28.772Z
-updated: 2025-01-15T02:42:07.239Z
+date: 2025-01-19T18:33:21.344Z
+updated: 2025-01-21T16:20:06.274Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -62,19 +62,20 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-autofocus-plus-next-gen-hdr-image-processing-explained/"><u>[New] Autofocus Plus Next-Gen HDR Image Processing Explained</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-broadcast-perfection-recommended-tech-and-apps-for-youtubers/"><u>[New] In 2024, Broadcast Perfection Recommended Tech and Apps for YouTubers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-direct-mp3-to-youtube-3-steps-for-seamless-video-posting-for-2024/"><u>[Updated] Direct MP3 to YouTube 3 Steps for Seamless Video Posting for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-tutorial-on-reinstalling-serial-communication-device-drivers-in-windows/"><u>Comprehensive Tutorial on Reinstalling Serial Communication Device Drivers in Windows</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-have-a-desire-to-uplift-your-editing-creativity-with-trying-hands-at-working-with-storyboards-keep-reading-to-have-a-comprehensive-underst/"><u>New 2024 Approved Have a Desire to Uplift Your Editing Creativity with Trying Hands at Working with Storyboards? Keep Reading to Have a Comprehensive Understating of the Workflow Through Stepwise User Guides</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-leveraging-the-vectorscope-for-better-color-correction-in-premiere-pro/"><u>New In 2024, Leveraging the Vectorscope for Better Color Correction in Premiere Pro</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-top-10-video-editing-online-makers-is-worth-your-attention/"><u>New In 2024, Top 10 Video Editing Online Makers Is Worth Your Attention</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-use-the-best-luts-for-lightroom-for-2024/"><u>New Use The Best LUTs for Lightroom for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-choosing-your-console-nintendo-switch-lite-vs-nintendo-switch-oled/"><u>The Ultimate Guide to Choosing Your Console: Nintendo Switch Lite vs Nintendo Switch OLED</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/the-ultimate-solution-to-repair-dysfunctional-jpeg-images-software-and-techniques-unveiled/"><u>The Ultimate Solution to Repair Dysfunctional JPEG Images: Software and Techniques Unveiled</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-being-an-after-effects-editor-you-often-find-yourself-the-need-to-add-motion-blur-after-effects-this-guide-has-got-you-covered-follow-/"><u>Updated 2024 Approved Being an After Effects Editor, You Often Find Yourself the Need to Add Motion Blur After Effects. This Guide Has Got You Covered. Follow to Find Out How to Add Motion Blur in After Effects</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-want-to-replace-the-sky-in-your-media-read-the-article-to-learn-how-to-change-the-sky-app-on-your-mobile-phone/"><u>Updated 2024 Approved Do You Want to Replace the Sky in Your Media? Read the Article to Learn How to Change the Sky App on Your Mobile Phone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-ultimate-playbook-for-professional-level-xbox-recording/"><u>[New] 2024 Approved The Ultimate Playbook for Professional-Level Xbox Recording</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-master-your-chromebooks-pitch-and-tone-with-our-top-5-web-tools/"><u>[New] Master Your Chromebook's Pitch and Tone with Our Top 5 Web Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-mastering-capturing-with-camstudio-complete/"><u>2024 Approved Mastering Capturing with CamStudio Complete</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/arf-pets-innovation-the-convenient-pet-food-dispenser/"><u>Arf Pets Innovation: The Convenient Pet Food Dispenser</u></a></li>
+<li><a href="https://win-unique.techidaily.com/download-the-latest-pcdj-karaoke-software-v097510-compatible-with-windows-1/"><u>Download the Latest PCDJ Karaoke Software v0.9.7510: Compatible with Windows 1</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-realme-c55-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Realme C55.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-the-elusive-shelldll-file-not-found-issue-on-windows-systems/"><u>How to Fix the Elusive Shell.dll File Not Found Issue on Windows Systems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-11-best-streaming-audio-recorders/"><u>In 2024, 11 Best Streaming Audio Recorders</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-have-you-ever-used-premiere-pro-to-create-slow-motion-effects-this-article-will-provide-a-guide-on-producing-slow-motion-effects-by-using-/"><u>New 2024 Approved Have You Ever Used Premiere Pro to Create Slow-Motion Effects? This Article Will Provide a Guide on Producing Slow-Motion Effects by Using Adobe Premiere Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-perform-mask-tracking-discovering-the-best-methods/"><u>New 2024 Approved How to Perform Mask Tracking Discovering the Best Methods</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-use-deep-fried-meme-maker/"><u>New 2024 Approved How to Use Deep Fried Meme Maker</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-master-premiere-pro-custom-sequence-presets/"><u>New 2024 Approved Master Premiere Pro Custom Sequence Presets</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-are-you-a-video-editor-making-use-of-imovie-do-you-wish-to-read-how-to-change-orientation-in-imovie-youre-in-the-right-place-at-the-end-of-this-/"><u>New In 2024, Are You a Video Editor Making Use of iMovie? Do You Wish to Read How to Change Orientation in iMovie? Youre in the Right Place! At the End of This Guide, Youd Have Learned How to Change Video Orientation in iMovie</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-wish-to-learn-about-some-tools-to-slow-down-a-video-discover-how-to-slow-down-time-lapse-on-iphone-throughout-this-article/"><u>Updated 2024 Approved Do You Wish to Learn About some Tools to Slow Down a Video? Discover How to Slow Down Time Lapse on iPhone Throughout This Article</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Vivo Y02T? | Dr.fone</u></a></li>
 </ul></div>
 

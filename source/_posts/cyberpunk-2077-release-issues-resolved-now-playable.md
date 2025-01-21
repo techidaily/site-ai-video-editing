@@ -1,7 +1,7 @@
 ---
 title: "Cyberpunk 2077 Release Issues Resolved: Now Playable"
-date: 2025-01-11T00:33:35.198Z
-updated: 2025-01-15T04:36:42.328Z
+date: 2025-01-16T18:35:19.857Z
+updated: 2025-01-21T16:48:23.617Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/2e8e3dda0fc4dbabc8c416bc34f849f91c6baaf77
 ## Cyberpunk 2077 Display Issues Resolved - No More Black Screens
 
 These days, players have reported the issue of black screen when loading a save game in **[Cyberpunk 2077](https://www.epicgames.com/store/en-US/p/cyberpunk-2077?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=77f2b98e2cef40c8a7437518bf420e47)**  . The music keeps playing in the background but they just get a black screen and the game doesn’t show up. If you’re also having the same issue, don’t worry. We’ve gathered some fixes for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -42,13 +38,25 @@ These days, players have reported the issue of black screen when loading a save 
   
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/allow-an-app-through-windows-defender-firewall.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Change settings > Allow another app…** .  
   
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/click-allow-another-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Browse** .  
   
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/click-Browse.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Navigate to the drive on which you installed the game. Then open the folder **Program Files > Steam > steamapps > common > Cyberpunk 2077> bin > x64** . In the**x64** folder, select the**Cyberpunk 2077 Application** and then click**Open** .
 
@@ -58,9 +66,17 @@ These days, players have reported the issue of black screen when loading a save 
   
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/add-Cyberpunk-2077-to-the-list.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Now your game should be on the list. Also make sure it’s ticked for Private and Public. This will allow you to exclude the application from being blocked by the firewall.
 
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/Cyberpunk-2077-is-ticked-for-private-and-public.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once done, simply click**OK** to save your changes. Then you can play your game to check if it does the trick. If the issue persists, proceed to the next fix.
 
@@ -83,6 +99,10 @@ These days, players have reported the issue of black screen when loading a save 
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it. For NVIDIA graphics card users, you can also use the Geforce Experience application to update your driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 2: Automatically update your graphics driver (recommended)
 
  If you are not familiar with computer hardware, and if you don’t have the time to update your graphics driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It’s a useful tool that automatically recognizes your system and finds the correct drivers for it. You don’t need to know exactly what system your computer is running or risk downloading and installing the wrong driver.
@@ -94,10 +114,6 @@ Here’s how it works:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and **detect any problem drivers** .
 
 ![update drivers automatically with Driver Easy to fix Beyond Light FPS drops](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
@@ -122,21 +138,17 @@ Here’s how it works:
   
 ![how to check your windows version](https://images.drivereasy.com/wp-content/uploads/2020/12/check-your-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) From the left panel, select**About** . Then scroll down to the**Windows specifications** section. From there, you’ll know your Windows version.  
   
 ![how to check your windows version](https://images.drivereasy.com/wp-content/uploads/2020/12/check-your-windows-version.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re told you’re up to date but still not getting version 20H2, you can further update your Windows by running[Windows 10 Update Assistant](https://www.microsoft.com/en-us/software-download/windows10) . Once you’re in the page, click**Update now** and the application will be downloading.
 
 ![download Windows updates assistant to update windows](https://images.drivereasy.com/wp-content/uploads/2020/12/forcily-update-windows-10-to-version-20H2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When the download is finished, double-click on the installation file and install it. Once done, the application should be opening. Simply click**Update Now** and then follow the on-screen instructions to finish the process. This may take some minutes so you just need to wait patiently. Once done, you’ll get the latest version, which is 20H2.  
   
@@ -160,12 +172,16 @@ Here’s how it works:
   
 ![verify integrity of game files Cyberpunk 2077](https://images.drivereasy.com/wp-content/uploads/2020/12/Cyberpunk-Properties-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the Properties window, select the tab**LOCAL FILES** . Then click**VERIFY INTEGRITY OF GAME FILES…** . This may take some minutes. Just wait for the process to complete.  
   
 ![verify integrity of game files Cyberpunk 2077](https://images.drivereasy.com/wp-content/uploads/2020/12/verify-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### GOG GALAXY 2.0
@@ -176,31 +192,15 @@ Here’s how it works:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/GOG-GALAXY.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Epic Games Launcher
 
  1) Open your Epic Games Launcher. From the left menu, select**Library** .  
   
 ![Cyberpunk 2077 verify integrity of game files Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/12/verify-integrity-of-game-files-Epic-Games-Launcher.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Navigate to your game Cyberpunk 2077\. Then click on the icon with three dots. Then select**Verify** .
 
 ![Cyberpunk 2077 verify integrity of game files Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/12/verify-Epic-Games-Launcher.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It may take several minutes to finish the process. Simply wait for it. Once done, try to load your game to check if it does the trick.
 
@@ -225,22 +225,20 @@ Here’s how it works:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-prime-psd-visual-enhancements/"><u>[Updated] Prime PSD Visual Enhancements</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ai-powered-frame-refactoring-suite/"><u>AI-Powered Frame Refactoring Suite</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-realme-c55-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Realme C55? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/guide-to-downloading-and-installing-microsoft-surface-pro-4-driver-software-in-windows-environments/"><u>Guide to Downloading and Installing Microsoft Surface Pro 4 Driver Software in Windows Environments</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-from-iphone-13-pro-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock from iPhone 13 Pro</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-and-resolve-no-signal-on-your-display-a-complete-guide/"><u>How to Troubleshoot and Resolve 'No Signal' On Your Display: A Complete Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Itel S23? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-if-you-want-an-app-to-make-videos-with-pictures-and-music-for-social-media-posts-we-are-with-the-best-apps-to-make-videos-with-music-and-pictures-for-20/"><u>New If You Want an App to Make Videos with Pictures and Music for Social Media Posts, We Are with the Best Apps to Make Videos with Music and Pictures for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-are-you-looking-for-a-video-format-converter-free-we-will-introduce-the-5-best-online-converters-and-also-the-5-best-video-format-converters-for/"><u>New In 2024, Are You Looking for a Video Format Converter Free? We Will Introduce the 5 Best Online Converters and Also the 5 Best Video Format Converters for PC</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-to-excel-at-using-adobe-premiere-pro-software-for-splitting-videos-and-audio-learn-about-splitting-a-video-and-audio-using-different/"><u>New In 2024, Do You Want to Excel at Using Adobe Premiere Pro Software for Splitting Videos and Audio? Learn About Splitting a Video and Audio Using Different Tools and Add a New Skill to Your Skillset with a Step-by-Step Guide in This Article</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-wondering-how-to-create-a-stunning-intro-video-with-kinemaster-here-are-the-simple-steps-to-use-kinemaster-to-design-your-intro-video-in-simple-/"><u>New In 2024, Wondering How to Create a Stunning Intro Video with KineMaster? Here Are the Simple Steps to Use KineMaster to Design Your Intro Video in Simple Steps</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-this-article-aims-to-show-you-how-to-improve-your-lighting-in-the-sun-for-2024/"><u>New This Article Aims to Show You How to Improve Your Lighting in the Sun for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-definitive-review-on-the-anker-powercoreplus-26800-compact-energy-backup/"><u>The Definitive Review on the Anker PowerCore+ 26800 Compact Energy Backup</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-motorola-moto-g04-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Motorola Moto G04 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-explore-the-potential-of-slow-motion-video-for-different-industries-read-this-guide-and-choose-the-best-slow-motion-camera-app-to-crea/"><u>Updated 2024 Approved Explore the Potential of Slow-Motion Video for Different Industries. Read This Guide and Choose the Best Slow-Motion Camera App to Create Stunning Videos</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-zoom-in-and-out-on-mac/"><u>Updated In 2024, How to Zoom In and Out on Mac</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-the-benefits-of-using-video-for-social-media-marketing-for-2024/"><u>Updated The Benefits Of Using Video For Social Media Marketing for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-from-monochrome-to-vivid-mastering-the-sdr-to-hdr-video-transition/"><u>[New] 2024 Approved From Monochrome to Vivid Mastering the SDR-to-HDR Video Transition</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-best-tools-to-create-stunning-igtv-video-edits/"><u>[New] In 2024, Best Tools to Create Stunning IGTV Video Edits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-powerdirector-24-review-a-comprehensive-dive/"><u>[New] The Ultimate PowerDirector '24 Review A Comprehensive Dive</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-visual-strategy-for-podcast-branding/"><u>2024 Approved The Ultimate Visual Strategy for Podcast Branding</u></a></li>
+<li><a href="https://win-dash.techidaily.com/brothers-mfc-l2690dw-printer-download-the-most-recent-driver-update-today/"><u>Brother's MFC-L2690DW Printer: Download the Most Recent Driver Update Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-the-ultimate-bargains-for-new-computers-this-july-2n4-with-insider-secrets/"><u>Find the Ultimate Bargains for New Computers This July 2N4 with Insider Secrets</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-do-you-want-to-create-slow-motion-videos-this-article-shows-methods-to-create-slow-mo-videos-without-changing-the-medias-quality-for-2024/"><u>New Do You Want to Create Slow-Motion Videos? This Article Shows Methods to Create Slow-Mo Videos without Changing the Medias Quality for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-did-you-know-cameras-have-a-built-in-feature-to-shoot-slow-motion-clips-this-article-is-about-using-sony-sandq-to-capture-slow-motion-scenes/"><u>New In 2024, Did You Know Cameras Have a Built-In Feature to Shoot Slow-Motion Clips? This Article Is About Using Sony S&Q to Capture Slow-Motion Scenes</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-so-without-wasting-time-let-me-show-you-how-to-mask-a-video-in-wondershare-filmora-lets-get-started/"><u>New In 2024, So, without Wasting Time, Let Me Show You How to Mask a Video in Wondershare Filmora. Lets Get Started</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-understanding-the-best-tools-for-changing-sky-background/"><u>New In 2024, Understanding The Best Tools for Changing Sky Background</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-using-slow-motion-in-adobe-after-effects-a-step-by-step-procession-for-2024/"><u>New Using Slow Motion in Adobe After Effects A Step-by-Step Procession for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/seamlessly-accessing-vids-the-top-5-free-online-video-extractors/"><u>Seamlessly Accessing Vids The Top 5 Free Online Video Extractors</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-replace-sky-background-in-video-figuring-out-the-best-options/"><u>Updated 2024 Approved Replace Sky Background in Video Figuring Out the Best Options</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-exploring-tools-to-integrate-special-mask-effects-into-your-content-read-the-following-article-to-master-some-tools-experts-in-mask-tracking/"><u>Updated In 2024, Exploring Tools to Integrate Special Mask Effects Into Your Content. Read the Following Article to Master some Tools Experts in Mask Tracking</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-exclusive-a-work-travelers-top-pick-for-the-ultimate-non-microsoft-non-lenovo-tablet-experience/"><u>ZDNet Exclusive: A Work Traveler's Top Pick for the Ultimate Non-Microsoft, Non-Lenovo Tablet Experience</u></a></li>
 </ul></div>
 

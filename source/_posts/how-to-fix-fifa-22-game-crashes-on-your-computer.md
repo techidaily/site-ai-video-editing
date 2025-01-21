@@ -1,7 +1,7 @@
 ---
 title: How to Fix FIFA 22 Game Crashes on Your Computer
-date: 2025-01-09T18:54:48.554Z
-updated: 2025-01-15T05:28:28.099Z
+date: 2025-01-16T16:01:28.774Z
+updated: 2025-01-21T17:25:41.178Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/fe074f06665304f02bb44d59a2cf2f7a7e742cf6a
 ## Finding a Fix When Your Computer Isn't Responding to the Minecraft Game
 
 The infinite world in Minecraft is waiting for you to explore, but you just can’t get in. It keeps not responding forever. How annoying it is! Don’t worry, Minecraft not responding is nothing new. Thousands of players are reporting the same issue. The good news is that you can solve it easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Why is Minecraft not responding?
 
@@ -33,10 +37,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 | **Software** | Minecraft Release 1.6 or newer                                                                                                                                                                  | Latest version                                                                                         |
 
  Also make sure you have downloaded **[the latest Java version](https://java.com/en/download/manual.jsp)**  , which is important for your Minecraft to run smoothly. Note that you should download the Java file according to your operating system (32-bit or 64-bit).[How to check my computer specs?](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -62,7 +62,7 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/discord-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Launch your Minecraft again.
@@ -70,10 +70,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
  See if the issue still persists. If your Minecraft is still not responding, you can move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Remove incompatible software
 
@@ -84,6 +80,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
  If you’ve removed all these conflicting applications but your Minecraft is still not responding, you can try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -114,6 +114,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-09-24_10-03-23-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to your graphics driver to download the correct version of its driver, then you can manually install it.
 
 **Or**
@@ -121,10 +125,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
  Click the**Update All** button at the bottom right to automatically update all the drivers. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get**full support** and a**30-day money back guarantee** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/update-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -144,10 +144,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Select the**Compatibility** tab and check the box next to**Run this program as an administrator** . Click**Apply** and then**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/admin-1.jpg)
@@ -166,6 +162,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Reinstall your Minecraft
 
  If none of these fixes above works for you, you may need to try reinstalling the game to solve this problem.
@@ -182,13 +182,13 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/appdata.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Right-click the**.minecraft** folder and select**Delete** to make sure you’ve deleted the related files.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/remove-minecraft-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) After uninstalling, restart your computer. Go to the[**official Minecraft website**](https://www.minecraft.net/en-us/) to download and install Minecraft again.
 
@@ -218,21 +218,22 @@ Feel free to leave us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-swift-and-free-eradicate-red-eye-in-iphone-photography-tips/"><u>[Updated] 2024 Approved Swift and FREE Eradicate Red-Eye in iPhone Photography Tips</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-leading-lists-compelling-google-cardboard-vr-game-selections/"><u>[Updated] Leading Lists Compelling Google Cardboard VR Game Selections</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-10-leading-ai-named-generators-boosting-podcast-titles/"><u>2024 Approved 10 Leading AI Named Generators Boosting Podcast Titles</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-best-zoom-transcription-software/"><u>2024 Approved Best Zoom Transcription Software</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-update-to-sonys-premium-blu-ray-player/"><u>2024 Approved Unveiling the Update to Sony’s Premium Blu-Ray Player</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/behind-the-scenes-the-top-7-studio-programs-for-animators-for-2024/"><u>Behind the Scenes The Top 7 Studio Programs for Animators for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-realme-10t-5g-lock-screen-password-by-drfone-android/"><u>How To Change Realme 10T 5G Lock Screen Password?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-7-plus-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On iPhone 7 Plus You Should Try Out</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/maximize-savings-exclusive-pre-prime-day-deals-unveiled-for-2er-2024-zdnets-shoppers-handbook/"><u>Maximize Savings: Exclusive Pre-Prime Day Deals Unveiled for 2Er 2024 | ZDNET's Shopper's Handbook</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-know-that-you-can-apply-different-luts-and-create-your-own-there-are-many-lut-online-and-offline-generators-that-you-can-use-to-cre/"><u>New 2024 Approved Do You Know that You Can Apply Different LUTs and Create Your Own? There Are Many LUT Online and Offline Generators that You Can Use to Create Your LUT</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-looking-into-how-slow-mo-guys-have-changed-the-dynamics-of-slow-motion/"><u>New 2024 Approved Looking Into How Slow Mo Guys Have Changed the Dynamics of Slow-Motion</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-edit-youtube-videos-in-easy-steps/"><u>New In 2024, How To Edit Youtube Videos In Easy Steps</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-know-how-to-create-ai-thumbnails-for-videos-this-article-will-mention-some-of-the-best-tools-to-generate-attractive-thumbnails-/"><u>Updated 2024 Approved Do You Know How to Create AI Thumbnails for Videos? This Article Will Mention some of the Best Tools to Generate Attractive Thumbnails for Videos with AI</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-get-zoom-on-tv-easy-solutions/"><u>Updated 2024 Approved How to Get Zoom on TV Easy Solutions</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-let-us-talk-about-the-famous-photoshop-and-most-commonly-used-glitch-effect-the-article-understudy-will-discuss-in-detail-about-photo-/"><u>Updated 2024 Approved Let Us Talk About the Famous Photoshop and Most Commonly Used Glitch Effect. The Article Understudy Will Discuss in Detail About Photo Glitch Effect</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-an-apple-user-interested-in-adding-a-slow-mo-to-their-videos-this-article-features-an-exceptional-procedure-for-creating-slow-mo-in-/"><u>Updated In 2024, Are You an Apple User Interested in Adding a Slow-Mo to Their Videos? This Article Features an Exceptional Procedure for Creating Slow-Mo in iMovie</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-exploring-instagrams-premier-after-effects-themes/"><u>[New] 2024 Approved Exploring Instagram's Premier After Effects Themes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-unlocking-the-secrets-of-seamless-video-and-picture-upload-w11-for-2024/"><u>[Updated] Unlocking the Secrets of Seamless Video & Picture Upload W11 for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-streamlined-playback-import-tunes-into-inshot/"><u>2024 Approved Streamlined Playback Import Tunes Into InShot</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726030040741-musescore/"><u>完璧なサウンド出力: MuseScoreで高解像度オーディオを作成するためのテクニック</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-asus-pc-driver-conflicts-in-windows-10-easily/"><u>Fixing Asus PC Driver Conflicts in Windows 10 Easily</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-winx-dvd-ripper-convert-dvds-to-mp4avi-for-ios-android-devices-effortlessly/"><u>Free WinX DVD Ripper: Convert DVDs to MP4/AVI for iOS, Android Devices Effortlessly</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-are-you-curious-about-finding-a-good-iphone-slow-motion-app-discover-the-top-rated-applications-in-the-market-that-will-help-you-create-th/"><u>New 2024 Approved Are You Curious About Finding a Good iPhone Slow-Motion App? Discover the Top-Rated Applications in the Market that Will Help You Create the Perfect Video</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-experiment-with-various-sky-backgrounds-for-your-footage-learn-about-sky-replacement-after-effects-in-this-article-with-a-s/"><u>New 2024 Approved Do You Want to Experiment with Various Sky Backgrounds for Your Footage? Learn About Sky Replacement After Effects in This Article with a Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-knowing-all-ways-to-slow-down-video-with-adobe-premiere-pro/"><u>New 2024 Approved Knowing All Ways To Slow Down Video With Adobe Premiere Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-learn-how-to-make-a-gaming-montage-guide-and-tips/"><u>New 2024 Approved Learn How to Make a Gaming Montage - Guide & Tips</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-put-a-background-on-a-green-screen/"><u>New In 2024, How to Put a Background on A Green Screen</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-mask-tracking-is-believed-to-be-a-helpful-procedure-for-marking-proper-areas-in-videos-learn-how-to-perform-premiere-pro-mask-tracking-in-this-g/"><u>New In 2024, Mask Tracking Is Believed to Be a Helpful Procedure for Marking Proper Areas in Videos. Learn How to Perform Premiere Pro Mask Tracking in This Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-the-art-of-fashioning-slow-motions-has-remained-popular-ever-since-read-this-article-to-learn-how-to-do-slow-mo-in-capcut-and-other-powerful-too/"><u>New In 2024, The Art of Fashioning Slow Motions Has Remained Popular Ever Since. Read This Article to Learn How to Do Slow-Mo in CapCut and Other Powerful Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/quick-and-simple-adding-youtube-songs-to-imovie-edit-for-2024/"><u>Quick and Simple Adding Youtube Songs to iMovie Edit for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/stopping-fb-reel-views-a-step-by-step-guide/"><u>Stopping FB Reel Views: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-want-to-add-a-slow-mo-effect-in-your-videos-in-this-guide-we-will-discuss-how-to-add-slow-motion-effects-in-the-videos-with-aft/"><u>Updated 2024 Approved Do You Want to Add a Slow-Mo Effect in Your Videos? In This Guide, We Will Discuss How to Add Slow-Motion Effects in the Videos with After Effects in an Efficient Way</u></a></li>
 </ul></div>
 

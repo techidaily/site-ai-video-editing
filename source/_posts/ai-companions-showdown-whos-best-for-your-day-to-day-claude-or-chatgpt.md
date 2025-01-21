@@ -1,7 +1,7 @@
 ---
 title: "AI Companions Showdown: Who's Best for Your Day-to-Day – Claude or ChatGPT?"
-date: 2025-01-13T01:39:36.732Z
-updated: 2025-01-15T07:42:51.148Z
+date: 2025-01-15T16:27:24.238Z
+updated: 2025-01-21T16:46:07.333Z
 tags:
   - chatgpt
   - open-ai
@@ -19,19 +19,23 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
 
  However, Claude AI, a chatbot built by AI startup Anthropic, shows qualities of a chatbot that can dethrone ChatGPT. A considerable number of users are already saying Claude is the better option. But is this the case? Let’s take both chatbots for a spin.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT vs. Claude AI: Common-Sense and Logical Reasoning
 
  There's an intriguing contrast when working with AI chatbots. On one hand, they can whiz through complex tasks that humans may labor over for days to solve. On the other hand, they sometimes grapple with elementary problems that require just a bit of common-sense or logical reasoning. So, we tested both ChatGPT and Claude AI to see which AI chatbot was better at common sense and logical reasoning tasks.
 
 ![logical and commonsense problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/logical-and-commonsense-problem.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatGPT broke up the problem into bits and solved it on the first attempt. Claude AI also had a go at it and solved the problem as well, but with a different approach.
 
 ![Claude AI solving a commonsense and logical reasoning problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solving-a-commonsense-and-logical-reasoning-problem.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  For the first task, both chatbots were able to crack the problem. So, we moved on to a different kind of problem. We tasked both chatbots with answering a trick question.
 
@@ -44,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
 ![Claude AI answers trick question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-answers-trick-question.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On this task, we give it to ChatGPT, but we can't totally rule out Claude AI's approach. For our final task on this metric, we asked both chatbots how many apples would be left on an apple tree after five and 10 days respectively if we started with 10 apples and five of them got sliced while still on the tree. ChatGPT said there'd still be 10 apples left.
@@ -65,23 +69,31 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
 
 ![Claude AI solves maths problem on productivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-maths-problem-on-productivity.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ChatGPT also cracked the problem as well.
 
 ![ChatGPT solves maths problem on productivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-maths-problem-on-productivity.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Moving on, we asked both chatbots to solve**8/a-1 = 20/3a-1** , a fairly straightforward math problem with a surprisingly high failure rate among AI chatbots. ChatGPT was able to solve it, providing a correct answer of**\-3** at the first attempt.
 
 ![ChatGPT solves a math problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-a-math-problem.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Claude AI failed at the first attempt, but when we prompted it to solve the problem step by step (which forces it to think through every step of its logic) it was able to crack it.
 
 ![Claude AI solves a math problem step-by-step](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-a-math-problem-step-by-step.jpg)
 
  We tried a few more math problems. While both chatbots got it right on the first try in some cases, in several instances, Claude AI needed a second or third attempt to provide the right response. In terms of math skills, we'll give the crown to ChatGPT.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT vs. Claude AI: Creativity
 
@@ -101,10 +113,6 @@ ChatGPT also cracked the problem as well.
 
  After trying out a few more creative tasks, Claude AI seemed to excel in writing-related tasks and was able to write more natural-sounding content like a human writer would do. Although[ChatGPT was better at overcoming more complex creative tasks](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) , it sometimes couldn't shake off that AI chatbot feeling in the text it generated. Our verdict? Both ChatGPT and Claude AI are creative in their own right.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ChatGPT vs. Claude AI: Coding Skills
 
  Just like math skills, coding skills are another very important metric for judging the abilities of an AI chatbot. While the majority of users will probably never[use a chatbot for coding](https://www.makeuseof.com/chatgpt-programming-practical-uses/) , there are significant underlying implications for a chatbot's abilities to write and understand code proficiently.
@@ -116,7 +124,7 @@ ChatGPT also cracked the problem as well.
 ![to-do list app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/to-do-list-app-by-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Moving on to Claude AI, the chatbot wrote clearly intelligible code. The structure and logic all seemed fine. Unfortunately, despite repeated attempts, Claude AI kept missing some critical logic to make the code actually run on a browser. It's a fail on this one.
@@ -125,19 +133,11 @@ ChatGPT also cracked the problem as well.
 
 ![Claude AI analyzing multiple PHP files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-analyzing-multiple-php-files.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Surprisingly, ChatGPT, despite seemingly having superior coding skills, failed at this despite repeated attempts. Claude AI, on the other hand, was able to analyze the code proficiently while identifying the right places that needed to be edited to achieve the desired results.
 
  Of course, this was not an isolated case, we repeated it with several other code files, but ChatGPT stumbled and stalled on the majority of cases while Claude AI kept delivering impressive results. In terms of coding skills, the winner is not entirely straightforward.
 
  ChatGPT is clearly significantly better at writing new code and can manage complex code with impressive proficiency. However, Claude AI is significantly better at analyzing large code bases. So, if you're looking to write code for some new idea you have, ChatGPT is the tool to turn to. If you want to analyze or make sense of a code base with thousands of lines across several files, then we would definitely recommend Claude AI.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Claude AI Is a Potent Competitor on the Block
 
@@ -158,16 +158,16 @@ ChatGPT also cracked the problem as well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-smooth-sailing-on-instagram-bypass-video-issues-for-2024/"><u>[New] Smooth Sailing on Instagram - Bypass Video Issues for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-streamline-your-screen-captures-with-4-methods/"><u>[Updated] In 2024, Streamline Your Screen Captures with 4 Methods</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-creating-an-iphone-photo-mosaic-a-step-by-step-guide/"><u>2024 Approved Creating an iPhone Photo Mosaic A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-vintage-film-effect-1920s-how-to-make/"><u>2024 Approved Vintage Film Effect 1920S - How to Make</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/equitable-technology-review-by-inclusive-gurus-for-2024/"><u>Equitable Technology Review by Inclusive Gurus for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-honor-magic-5-lite-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Honor Magic 5 Lite to PC? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-select-and-use-the-best-braw-luts/"><u>New 2024 Approved How to Select and Use The Best BRAW LUTs</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-a-complete-overview-of-vsco-video-editor/"><u>New A Complete Overview of VSCO Video Editor</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713962525936-new-do-you-want-to-know-about-the-davinci-resolve-adjustment-layer-read-this-article-to-learn-how-to-use-an-adjustment-layer-clip-in-davinci-resolve-to-edit/"><u>New Do You Want to Know About the DaVinci Resolve Adjustment Layer? Read This Article to Learn How to Use an Adjustment Layer (Clip) in DaVinci Resolve to Edit Videos for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unraveling-the-mystery-of-apples-new-ios-camera/"><u>Unraveling the Mystery of Apple's New iOS Camera</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-elevate-your-storytelling-10-prime-text-tricks-in-cinematography/"><u>[New] In 2024, Elevate Your Storytelling 10 Prime Text Tricks in Cinematography</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pivotal-elements-of-crafting-persuasive-customer-success-stories/"><u>[New] Pivotal Elements of Crafting Persuasive Customer Success Stories</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-top-5-best-screens-for-playstation-5-gamers/"><u>[New] TOP 5 Best Screens for PlayStation 5 Gamers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-copyright-demystified-key-principles-and-practices/"><u>[New] YouTube Copyright Demystified Key Principles and Practices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-essentials-for-elevated-gopro-usage/"><u>2024 Approved Expert Essentials for Elevated GoPro Usage</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-offering-the-best-understanding-of-performing-imovie-slow-motion-video/"><u>New 2024 Approved Offering The Best Understanding of Performing iMovie Slow Motion Video</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ng-8-proven-online-promotion-techniques-for-videos-for-2024/"><u>Ranking 8 Proven Online Promotion Techniques for Videos for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-are-you-curious-about-finding-a-good-iphone-slow-motion-app-discover-the-top-rated-applications-in-the-market-that-will-help-you-creat/"><u>Updated 2024 Approved Are You Curious About Finding a Good iPhone Slow-Motion App? Discover the Top-Rated Applications in the Market that Will Help You Create the Perfect Video</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-slow-mo-youtube-videos-for-2024/"><u>Updated How to Slow-Mo YouTube Videos for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-being-an-after-effects-editor-you-often-find-yourself-the-need-to-add-motion-blur-after-effects-this-guide-has-got-you-covered-follow-to-fin/"><u>Updated In 2024, Being an After Effects Editor, You Often Find Yourself the Need to Add Motion Blur After Effects. This Guide Has Got You Covered. Follow to Find Out How to Add Motion Blur in After Effects</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-making-slow-motion-videos-in-premiere-pro-a-review-on-the-best-method/"><u>Updated In 2024, Making Slow Motion Videos in Premiere Pro A Review on The Best Method</u></a></li>
 </ul></div>
 

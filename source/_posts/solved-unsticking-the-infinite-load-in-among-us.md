@@ -1,7 +1,7 @@
 ---
 title: "Solved: Unsticking the Infinite Load in Among Us"
-date: 2025-01-12T09:19:30.133Z
-updated: 2025-01-15T01:34:57.691Z
+date: 2025-01-17T17:28:32.653Z
+updated: 2025-01-21T18:27:03.988Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ Some players are reporting that they can’t get past the Mojang screen. It look
 6. **[Run Minecraft Launcher in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Perform a clean reinstall](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Uninstall your antivirus software
 
  Many things can cause Minecraft stuck on the loading screen issue, but one of the most known issues is your antivirus software. Many antivirus software is incompatible with Minecraft and should be uninstalled from your system.
@@ -51,6 +55,10 @@ The known problematic software are:
 
  Mojang has blocked most VPN users from logging into Minecraft as these free VPNs are often used by malicious users to hack into accounts. This can cause login/loading issues. Some VPNs such as[Express VPN](https://tools.techidaily.com/drivereasy/download/) and[NordVPN](https://tools.techidaily.com/drivereasy/download/) (get an[80% off coupon](https://tools.techidaily.com/drivereasy/download/) ) get Minecraft unblocked, giving you access to all of the latest features no matter where you live.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your device drivers
 
  Just in case, make sure all your drivers are up to date. Outdated or corrupted device drivers are outdated or corrupted (especially your graphics driver) can lead to a lot of issues such as Minecraft being stuck on the loading screen.
@@ -68,6 +76,10 @@ There are mainly two ways to update your device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
 3. Click **Update** next to your graphics card to download the latest driver, and then install it manually (you can do this in the Free version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you get 30-day money back guarantee and full technical support.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
@@ -75,10 +87,6 @@ There are mainly two ways to update your device drivers:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once the driver is updated, you’d better restart your computer and try launching your Minecraft again to check if it can load normally. If unfortunately not, you can try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Remove the adware
 
@@ -106,17 +114,13 @@ There are mainly two ways to update your device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/admin.jpg)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you are on Windows 11, it will be**Terminal (Amin)** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
 2. Type or paste**Get-AppxPackage \*photos\* | Remove-AppxPackage** and press**Enter** . This will uninstall the Windows Photo app from your machine.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Restart your PC to see if Minecraft can load normally.
 
@@ -135,7 +139,7 @@ If this method doesn’t work for you, then try the next fix, below.
  Now you can launch your Minecraft again to see if this issue has been resolved by now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Perform a clean reinstall
@@ -149,10 +153,6 @@ If this method doesn’t work for you, then try the next fix, below.
 3. Once complete, type**%appdata%** in the Windows Search bar, and select the**%appdata%** folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/appdata.jpg)
 4. In case your system’s uninstallation removes all your worlds, you can create a backup of your worlds.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Once done, delete the**.Minecraft** folder.
 6. Download the most recent version of Minecraft Java[here](https://www.minecraft.net/en-us/download/) .
@@ -180,14 +180,22 @@ If this method doesn’t work for you, then try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-micro-music-moments-character-compositions/"><u>[New] In 2024, Micro-Music Moments Character Compositions</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-discovering-the-hidden-truth-behind-youtubes-viewer-numbers-for-2024/"><u>[Updated] Discovering the Hidden Truth Behind YouTube's Viewer Numbers for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfect-pathway-setting-up-movie-maker-6/"><u>2024 Approved Perfect Pathway Setting Up Movie Maker 6</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-picks-for-the-most-advanced-smart-speakers-of-2024/"><u>Expert Picks for the Most Advanced Smart Speakers of 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-the-nhl-19-gaming-title-captivating-digital-playtime/"><u>In-Depth Look at the NHL 19 Gaming Title: Captivating Digital Playtime</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-the-power-of-music-in-videos-plusfilmora-editing-tricks/"><u>New The Power of Music in Videos (+Filmora Editing Tricks)</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-add-motion-blur-in-davinci-resolve-in-2024/"><u>Updated How To Add Motion Blur In Davinci Resolve, In 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-make-a-slow-motion-video-complete-guide/"><u>Updated In 2024, How to Make a Slow Motion Video Complete Guide</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-learn-the-step-by-step-process-of-slowing-down-time-lapse-videos-on-your-iphone/"><u>Updated In 2024, Learn the Step-by-Step Process of Slowing Down Time-Lapse Videos on Your iPhone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-amazons-premier-titles-social-media-sensation-winners/"><u>[Updated] Amazon’s Premier Titles Social Media Sensation Winners</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-sluggish-downloads-on-windows-pcs-a-guide/"><u>Addressing Sluggish Downloads on Windows PCs: A Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/all-encompassing-capture-suite-detailed-app-evaluations-for-2024/"><u>All-Encompassing Capture Suite - Detailed App Evaluations for 2024</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/how-to-fix-when-your-ps4-cant-reach-the-system-memory/"><u>How To Fix When Your PS4 Can't Reach The System Memory</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Oppo A58 4G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-components-that-lift-you-in-youtube-viewership/"><u>In 2024, The Components That Lift You in YouTube Viewership</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-get-zoom-on-tv-easy-solutions-for-2024/"><u>New How to Get Zoom on TV Easy Solutions for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-slow-motion-videos-are-taking-over-social-media-and-becoming-a-new-trend-read-this-article-if-you-want-to-learn-how-to-slow-down-video-in-after-/"><u>New In 2024, Slow Motion Videos Are Taking over Social Media and Becoming a New Trend. Read This Article if You Want to Learn How to Slow Down Video in After Effects</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-what-anime-character-are-you-look-like/"><u>New In 2024, What Anime Character Are You Look Like?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-what-is-the-best-mp4-cutters-for-youtubers-on-mac/"><u>New In 2024, What Is the Best MP4 Cutters for YouTubers on Mac?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-top-ways-to-make-fast-motion-video-on-iphone-solved-for-2024/"><u>New Top Ways to Make Fast Motion Video on iPhone Solved for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-connection-problems-in-grand-theft-auto-online/"><u>Resolving Connection Problems in Grand Theft Auto Online</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-2023-hevc-h265-transcoders-para-windows-y-mac-comparenzas-y-opciones/"><u>Top 2023 HEVC H.265 Transcoders Para Windows Y MAC: Compárenzas Y Opciones</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/top-rangige-datensicherung-fur-mobile-anwendungen-wd-mypassport-ultra-bestes-backupsoftware/"><u>Top-Rangige Datensicherung Für Mobile Anwendungen: WD MyPassport Ultra - Bestes Backupsoftware</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-knowing-all-ways-to-slow-down-video-with-adobe-premiere-pro/"><u>Updated 2024 Approved Knowing All Ways To Slow Down Video With Adobe Premiere Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-top-list-the-best-slow-motion-video-editors-available-for-2024/"><u>Updated Top List The Best Slow Motion Video Editors Available for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713965425275-updated-use-your-social-media-app-and-make-slow-motion-videos-by-reading-this-guide-besides-learning-slow-motion-snapchat-get-useful-apps-serving-the-same-p/"><u>Updated Use Your Social Media App and Make Slow-Motion Videos by Reading This Guide. Besides Learning Slow-Motion Snapchat, Get Useful Apps Serving the Same Purposes for 2024</u></a></li>
 </ul></div>
 

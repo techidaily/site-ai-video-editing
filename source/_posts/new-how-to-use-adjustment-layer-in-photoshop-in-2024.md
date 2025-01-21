@@ -1,7 +1,7 @@
 ---
 title: New How to Use Adjustment Layer in Photoshop, In 2024
-date: 2025-01-13T06:13:13.021Z
-updated: 2025-01-15T06:29:06.593Z
+date: 2025-01-16T16:43:56.936Z
+updated: 2025-01-21T17:49:23.809Z
 tags: 
   - ai
   - animation videos
@@ -30,7 +30,7 @@ Do you know how layers work in Photoshop? By using layers in Photoshop, you can 
 There are different sorts of layers in Photoshop. For example, fill layers consist of color patterns, and type layers allow you to create text and shapes. You can also move and change the position of layers to insert a specific element into the image. Thus, layers are the essential component of Photoshop, enabling you to add text, shapes, and special effects to the images effortlessly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Resize a Layer in Photoshop?
@@ -41,13 +41,13 @@ Step1 Go to the right panel of Photoshop and click on "Layers." From there, choo
 
 ![tap on the layers option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-photoshop-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Once done with selecting the layer, go to the “Edit” tab given at the top. From there, tap on “Free Transform,” which will display the resize bars.
 
 ![select the free transform option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-photoshop-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 Now, you can drag and drop the layer according to your preferences. You can also change the height and width of the layer by holding the “Shift” key. Once done, fill in the checkmark at the top options bar. To finalize the resize of your layer, press “Enter” for Windows and “Return” for Mac.
 
@@ -61,6 +61,10 @@ Step1 To begin, create a new hue/saturation adjustment layer using the "Adjustme
 
 ![tap on create clipping mask](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-photoshop-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 After creating the clipping mask, you will be able to see a right-angle arrow that is directed down to the image. Now make sure to select the colors of the color channel to make some changes. Afterward, double-click on the “Hue/Saturation” adjustment layer and choose the “Preset” option. Once done, choose the color of your choice.
 
 ![select your preset option](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-photoshop-7.jpg)
@@ -69,27 +73,19 @@ Step3 Once you have chosen the color, make sure to adjust the saturation accordi
 
 ![change the hue value](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-photoshop-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: How to Use Adjustment Layers in Photoshop?
 
 If you are unaware of how to use adjustment layers in Photoshop, this section will provide you with all the details. Thus, continue reading to find out the significance of **adjustment layers in Photoshop**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4.1 Why Do You Need to Add an Adjustment Layer?
 
 Raw images always come with lots of imperfections. If you want to edit and enhance them flawlessly, adjustment layers can help you. By adding the adjustment layer, you can manage the levels and curves of the images to make the shadows darker in the picture. Moreover, you can increase or decrease the contrast of the image in specific parts using the adjustment layers properly.
 
 If your image has light problems, you can set the exposure by adding an adjustment layer. Furthermore, you can make the colors of the image pop out by adjusting the color balance. This is also possible with adjustment layers, as it makes the whole process of image editing efficient. Other components that you can modify using adjustment layers are brightness, curves, hue, photo filter, vibrance, etc.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4.2 What Kinds of Adjustment Layers Can You Try?
 
@@ -115,6 +111,10 @@ Now, in the properties panel, you can move the curves to adjust the specific ton
 
 ![curves layer in photoshop](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-photoshop-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4\. Make a Brightness and Contrast Layer in Photoshop**
 
 To make a brightness and contrast layer in Photoshop, go to the “Adjustments Panel” first. From there, tap on the “Brightness/Contrast” option that will instantly add a layer in the layers panel. Afterward, a properties panel will also open from which you can modify the settings. Here, you can drag the sliders of brightness and contrast to enhance them accordingly.
@@ -122,7 +122,7 @@ To make a brightness and contrast layer in Photoshop, go to the “Adjustments P
 ![add the blur effect](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-photoshop-12.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5\. Adjust Layer Opacity in Photoshop**
@@ -130,10 +130,6 @@ To make a brightness and contrast layer in Photoshop, go to the “Adjustments P
 To learn **how to adjust opacity in Photoshop**, select the desired layer and click on the drop-down menu of "Opacity" in the layers panel. Next, move the slider to adjust the opacity accordingly. If you set the opacity value to 0%, the layer will become invisible.
 
 ![adjust the layer opacity](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-photoshop-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -145,6 +141,10 @@ As Photoshop is a layer-based editing software, this article will focus on how t
 
 ![adjustment layer in photoshop featured image](https://images.wondershare.com/filmora/article-images/2023/02/adjustment-layer-in-photoshop-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -154,24 +154,24 @@ As Photoshop is a layer-based editing software, this article will focus on how t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-follower-deletion-identification/"><u>[Updated] 2024 Approved Instagram Follower Deletion Identification</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-essential-guide-to-understanding-youtubes-earnings-mechanics-cpm-for-2024/"><u>[Updated] The Essential Guide to Understanding YouTube's Earnings Mechanics (CPM) for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-10plus-proven-methods-to-enhance-zoom-session-captures/"><u>2024 Approved 10+ Proven Methods to Enhance Zoom Session Captures</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-what-is-color-finale/"><u>2024 Approved What Is Color Finale</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-restoring-hearthstone-online-gaming-connectivity-issues-resolved/"><u>Guide: Restoring Hearthstone Online Gaming Connectivity Issues Resolved</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713950242747-if-you-are-a-marketer-who-want-to-create-facebook-ads-to-boost-your-business-you-are-coming-to-the-right-place-well-share-you-some-useful-tips-to-start-your/"><u>If You Are a Marketer Who Want to Create Facebook Ads to Boost Your Business, You Are Coming to the Right Place. Well Share You some Useful Tips to Start Your First FB Ads Campaign for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-banish-silent-tweets-add-volume-to-videos/"><u>In 2024, Banish Silent Tweets Add Volume to Videos</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-be-a-youtube-vlogger/"><u>In 2024, How to Be a YouTube Vlogger</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-vivo-x-flip-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Vivo X Flip Location | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-create-a-bokeh-effect-for-2024/"><u>New How to Create a Bokeh Effect for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-boost-the-pace-of-your-instagram-reels-videos-with-these-simple-tricks/"><u>New In 2024, Boost the Pace of Your Instagram Reels Videos with These Simple Tricks</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellarnova-guides-to-diy-coding-tricks-and-articles-for-aspiring-developers/"><u>Stellar'nova Guides to DIY Coding Tricks and Articles for Aspiring Developers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-guide-trimming-and-editing-videos-using-vlc-media-players-tools/"><u>Ultimate Guide: Trimming and Editing Videos Using VLC Media Player's Tools</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-best-ways-to-add-meme-text-to-videos-for-2024/"><u>Updated Best Ways to Add Meme Text to Videos for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-create-freeze-frame-clone-effect-for-2024/"><u>Updated How to Create Freeze Frame Clone Effect for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-use-motion-blur-on-video-star-for-2024/"><u>Updated How To Use Motion Blur On Video Star for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-here-is-a-step-by-step-guide-to-color-correct-and-color-grade-a-video-professionally-with-wondershare-filmora-lets-get-going/"><u>Updated In 2024, Here Is a Step-by-Step Guide to Color Correct and Color Grade a Video Professionally with Wondershare Filmora. Lets Get Going</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/when-should-you-leave-people-behind-managing-your-following-list-on-x-platforms/"><u>When Should You Leave People Behind? Managing Your Following List on X Platforms</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-effortless-background-watching-of-youtube-on-mobile/"><u>[Updated] Effortless Background Watching of YouTube on Mobile</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-kitchen-combatants-30-pugnacious-food-show-titles/"><u>2024 Approved Kitchen Combatants 30 Pugnacious Food Show Titles</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-quickscreenrecorder-easy-captures-anytime/"><u>2024 Approved QuickScreenRecorder Easy Captures, Anytime</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-simple-processes-for-logging-vimeo-content/"><u>2024 Approved Simple Processes for Logging Vimeo Content</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-defy-2-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-to-amplify-your-social-media-reach-through-judicious-use-of-hash-tags-on-facebook-for-2024/"><u>How to Amplify Your Social Media Reach Through Judicious Use of Hash Tags on Facebook for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-create-eye-catching-slow-motion-videos-to-set-your-own-trend-for-this-purpose-read-this-article-to-find-and-learn-to-use-capcuts-new-slow-/"><u>New 2024 Approved Create Eye-Catching Slow-Motion Videos to Set Your Own Trend. For This Purpose, Read This Article to Find and Learn to Use CapCuts New Slow-Motion Templates</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-creating-flawless-slow-motion-videos-is-every-content-creators-dream-learn-about-davinci-resolve-slow-motion-video-creation-amongst-other-/"><u>New 2024 Approved Creating Flawless Slow-Motion Videos Is Every Content Creators Dream. Learn About DaVinci Resolve Slow-Motion Video Creation, Amongst Other Tools</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-if-youre-looking-to-create-a-brand-video-that-makes-your-business-pop-out-we-have-put-together-some-video-editing-tips-and-tricks-that-wor/"><u>New 2024 Approved If Youre Looking to Create a Brand Video that Makes Your Business Pop Out, We Have Put Together some Video Editing Tips and Tricks that Work</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-making-slow-motion-videos-in-premiere-pro-a-review-on-the-best-method/"><u>New 2024 Approved Making Slow Motion Videos in Premiere Pro A Review on The Best Method</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-top-6-best-alternatives-to-clownfish-voice-changer/"><u>New 2024 Approved Top 6 Best Alternatives to Clownfish Voice Changer</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-what-do-you-prefer-more-mkv-file-format-or-mov-increase-your-knowledge-and-learn-more-about-mkv-format-by-ready-the-detailed-article-below/"><u>New 2024 Approved What Do You Prefer More, MKV File Format or MOV? Increase Your Knowledge and Learn More About MKV Format by Ready the Detailed Article Below</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-discover-how-you-can-use-vectorscope-to-adjust-luminance-color-grading-and-more-in-your-video-editing-projects-for-2024/"><u>New Discover How You Can Use Vectorscope to Adjust Luminance, Color Grading, and More in Your Video Editing Projects for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-the-glitch-effect-shows-errors-and-flaws-in-the-image-or-a-video-the-write-up-presents-the-complete-procedure-of-adding-premiere-pros-glitch-eff/"><u>New In 2024, The Glitch Effect Shows Errors and Flaws in the Image or a Video. The Write-Up Presents the Complete Procedure of Adding Premiere Pros Glitch Effect and Introduces Eight Free Glitch Effects</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-maximize-your-macs-storage-the-ultimate-guide-to-running-fcpx-smoothly/"><u>New Maximize Your Macs Storage The Ultimate Guide to Running FCPX Smoothly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-experts-handbook-for-voice-alteration-via-morphvox-for-2024/"><u>The Ultimate Expert's Handbook for Voice Alteration via MorphVOX for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-classroom-with-ai-8-insights-on-why-teachers-should-say-yes-to-innovation/"><u>Transform Your Classroom with AI: 8 Insights on Why Teachers Should Say Yes to Innovation</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-top-6-best-alternatives-to-clownfish-voice-changer/"><u>Updated In 2024, Top 6 Best Alternatives to Clownfish Voice Changer</u></a></li>
 </ul></div>
 

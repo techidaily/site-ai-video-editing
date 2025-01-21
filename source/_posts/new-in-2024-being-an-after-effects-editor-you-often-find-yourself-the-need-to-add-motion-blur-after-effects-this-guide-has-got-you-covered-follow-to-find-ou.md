@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Being an After Effects Editor, You Often Find Yourself the Need to Add Motion Blur After Effects. This Guide Has Got You Covered. Follow to Find Out How to Add Motion Blur in After Effects
-date: 2025-01-10T09:27:56.796Z
-updated: 2025-01-15T05:09:47.851Z
+date: 2025-01-18T16:03:19.883Z
+updated: 2025-01-21T18:30:30.681Z
 tags: 
   - ai
   - animation videos
@@ -33,6 +33,10 @@ Motion blur was introduced into animation to aid in the blending of frames and r
 
 These days, we have cameras with fast shutter speeds, which allows us to almost completely remove motion blur. Without motion blurring, each frame of your animation is like a flawless still image, making the action seem a little disorienting. Each picture captures the exact moment in time, despite the fluid motion. However, the absence of motion blur is what viewers do notice. Because of this, visual effects creators often use artificial motion blur in their effects to replicate what the viewer would experience if the element were really there in the picture.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. How to Add Motion Blur in After Effects
 
 In videos, slow-motion may be used in a variety of ways, such as to convey the emotional context of a story or make beautiful slideshow backdrops. It doesn't matter why you want to make a slow-motion sequence; After Effects' slow-motion effect will work well. Click the Motion Blur layer switch to turn Motion Blur on or off. Make sure you can render out Motion Blur by turning on the Enable Motion Blur composition option at the top of the Timeline panel.
@@ -47,6 +51,10 @@ Step1 Download and install Adobe After Effects if it isn't already on your PC. S
 
 ![install adobe after effects](https://images.wondershare.com/filmora/article-images/2022/07/install-adobe-after-effects.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 You have a variety of settings in Adobe After Effects on the right side. Then, choose "Effects & Presets." A search bar will appear as a result. Enter "CC Force Motion Blur" in the search field if you wish to add motion blur to the video. You may apply this effect to whatever layer you choose since your movie is made up of layers.
 
 ![preview effects and presets after effects](https://images.wondershare.com/filmora/article-images/2022/07/preview-effects-and-presets-after-effects.jpg)
@@ -57,15 +65,15 @@ Step3 Next, drag the "CC Force Motion Blur" to the layers that represent your im
 
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** Before applying any speed effects, first trim your film to the proper length. Once the speed effects have been included, you need also make sure that your composition is lengthy enough for your clip. Once you're satisfied with the footage you want to slow down, choose one of the ways—Time warp or Time Stretch.
 
 Step4 Customize "Shutter Angle" and "Motion Blur Samples." Always be careful to preview the video after any modifications. Adjust to your needs and specifications. Additionally, if you wish, you may add any additional effect to the video. When finished, save the video by selecting "File" in the upper left corner.
 
 ![composition settings after effects](https://images.wondershare.com/filmora/article-images/2022/07/composition-settings-after-effects.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step5 Finally, hit the OK button and afterwards, export the project with the Motion Blur embedded inside the main video. Adobe AE also gives you flexibility to export to the desired format with the preset project settings.
 
@@ -89,13 +97,13 @@ Media files may be easily added to the timeline in [Filmora](https://tools.techi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Utilize Filmstock
 
 On [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), there is a full-service shop called Filmstock that offers a ton of exciting media and after-effects for download. You may get free sound effects and short video clips to add to your videos on this website.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Edit Effect
 
@@ -103,20 +111,12 @@ Download films from the effect store or import them from your device and add the
 
 ![edit effect](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Apply filters
 
 Overlays and video filters are effects used to enhance the appeal of the video. Open the effects tab and select your desired filter to apply overlays and filters. To apply it, drag and drop it into the timeline's video. Additionally, filters may be adjusted to change the time scale and transparency.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Export
@@ -138,16 +138,24 @@ Motion blur is crucial when animating characters to move. Your videos require so
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-recorder-royalty-best-premium-recording-software-on-pc-and-macos-free/"><u>[New] In 2024, Recorder Royalty Best Premium Recording Software on PC & MacOS FREE</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-exclusive-guide-to-top-youtube-to-webm-conversion-software/"><u>2024 Approved Exclusive Guide to Top YouTube-to-WebM Conversion Software</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-techniques-for-blurring-and-excising-picture-borders/"><u>2024 Approved Techniques for Blurring and Excising Picture Borders</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-words-to-pictures-how-chatgpt-enables-image-creation-in-ai/"><u>From Words to Pictures: How ChatGPT Enables Image Creation in AI</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-oneplus-11-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our OnePlus 11 5G Phone Screen?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-mastering-video-speed-control-slow-down-speed-up-and-edit-with-ease/"><u>New 2024 Approved Mastering Video Speed Control Slow Down, Speed Up, and Edit with Ease</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-free-divx-video-trimming-tools-top-picks-for-2024/"><u>New Free Divx Video Trimming Tools Top Picks for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-are-you-wondering-how-to-slow-down-videos-or-speed-them-up-here-are-three-ways-to-do-it-speed-up-or-slow-down-your-videos-on-pc-online-and-phone/"><u>New In 2024, Are You Wondering How to Slow Down Videos or Speed Them up, Here Are Three Ways to Do It. Speed up or Slow Down Your Videos on PC, Online, and Phone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-to-know-about-phone-aspect-ratio-vertical-trying-to-learn-about-iphone-vertical-video-dimensions-read-this-article-to-get-all-your-a/"><u>New In 2024, Do You Want to Know About Phone Aspect Ratio Vertical? Trying to Learn About iPhone Vertical Video Dimensions? Read This Article to Get All Your Answers on Vertical Phone Aspect Ratio Definition, Types and Tips</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-using-ai-to-replace-skies-finding-the-right-methods/"><u>New In 2024, Using AI to Replace Skies Finding the Right Methods</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-mask-tracking-with-adobe-premiere-pro-a-detailed-guide-for-2024/"><u>Updated Mask Tracking with Adobe Premiere Pro A Detailed Guide for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-decoding-best-practices-navigating-through-top-9-free-logo-creators/"><u>[New] 2024 Approved Decoding Best Practices Navigating Through Top 9 Free Logo Creators</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-building-interest-with-budget-friendly-youtube-video-intros/"><u>2024 Approved Building Interest with Budget-Friendly YouTube Video Intros</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/comprehensive-hardware-evaluations-with-expertise-from-toms-technology-hub/"><u>Comprehensive Hardware Evaluations with Expertise From Tom's Technology Hub</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/enhance-your-virtual-adventures-the-ultimate-review-of-the-oculus-quest-2s-elite-gaming-accessory-kit-with-extra-battery-life-and-safe-transportation-box/"><u>Enhance Your Virtual Adventures: The Ultimate Review of the Oculus Quest 2'S Elite Gaming Accessory Kit with Extra Battery Life and Safe Transportation Box</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/headphone-compatibility-with-windows-11-explained-and-resolved/"><u>Headphone Compatibility with Windows 11 Explained and Resolved</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-x-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset iPhone X to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-quick-ways-to-transfer-contacts-from-apple-iphone-7-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Quick Ways to Transfer Contacts from Apple iPhone 7 to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-note-30-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Infinix Note 30 Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-premium-pick-of-budget-friendly-vectors-and-graphic-sites/"><u>In 2024, Premium Pick of Budget-Friendly Vectors & Graphic Sites</u></a></li>
+<li><a href="https://win-tips.techidaily.com/latest-2018-first-party-tyme-karaoke-subscriptions-unveiling-the-new-features-and-upgrades/"><u>Latest 2018 First Party Tyme Karaoke Subscriptions: Unveiling the New Features and Upgrades!</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/mastering-the-art-of-setting-up-unknown-audio-devices-on-windows-11/"><u>Mastering the Art of Setting Up Unknown Audio Devices on Windows 11</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/navigating-the-digital-world-with-toms-hardware-wisdom/"><u>Navigating the Digital World with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionizing-gaming-how-top-pc-manufacturers-leverage-chromebook-power-insights/"><u>Revolutionizing Gaming: How Top PC Manufacturers Leverage Chromebook Power Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721991702158-secrets-to-keeping-your-chatgpt-dialogues-confidential-no-deletes-required/"><u>Secrets to Keeping Your ChatGPT Dialogues Confidential, No Deletes Required!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-resolution-for-ralink-rt3290-driver-compatibility-in-windows-1187-environments/"><u>Step-by-Step Resolution for Ralink RT3290 Driver Compatibility in Windows 11/8/7 Environments</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1723262352877-toms-hardware-hub-explore-cutting-edge-tech-advice-for-every-level-of-user/"><u>Tom's Hardware Hub: Explore Cutting-Edge Tech Advice For Every Level of User!</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/troubleshooting-tips-overcoming-errors-in-hearts-of-iron-4/"><u>Troubleshooting Tips: Overcoming Errors in Hearts of Iron 4</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/unveiling-tech-secrets-trustworthy-insights-from-toms-gadget-reviews/"><u>Unveiling Tech Secrets: Trustworthy Insights From Tom’s Gadget Reviews</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/unveiling-the-latest-in-pc-technology-at-toms-hardware-hub/"><u>Unveiling the Latest in PC Technology at Tom's Hardware Hub</u></a></li>
 </ul></div>
 

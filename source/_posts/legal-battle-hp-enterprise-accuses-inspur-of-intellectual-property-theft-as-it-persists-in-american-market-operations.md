@@ -1,7 +1,7 @@
 ---
 title: "Legal Battle: HP Enterprise Accuses Inspur of Intellectual Property Theft as It Persists in American Market Operations"
-date: 2025-01-11T18:50:45.292Z
-updated: 2025-01-14T20:13:44.953Z
+date: 2025-01-19T17:26:56.974Z
+updated: 2025-01-21T17:33:04.333Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,16 +60,20 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-immediate-pause-screen-capture-steps/"><u>[New] Immediate Pause Screen Capture Steps</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instaloops-unlocked-the-addictive-power-of-instagrams-boomers/"><u>2024 Approved InstaLoops Unlocked The Addictive Power of Instagram's Boomers</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/creative-ways-to-add-green-screen-effects-in-photoshop-for-2024/"><u>Creative Ways to Add Green Screen Effects In Photoshop for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/how-to-create-a-green-screen-video-in-after-effects/"><u>How To Create A Green Screen Video In After Effects</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-apple-iphone-15-plus-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From Apple iPhone 15 Plus without Password?</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-max-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro Max to Android? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-6-plus-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 6 Plus Randomly Asking for Apple ID Password</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-best-mts-video-editors-top-picks/"><u>New 2024 Approved Best MTS Video Editors Top Picks</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-separate-audio-from-video-in-davinci-resolve-step-by-step/"><u>New In 2024, Separate Audio From Video in DaVinci Resolve Step by Step</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-unveiling-the-latest-gadgets-and-components/"><u>Tom's Tech Reviews: Unveiling the Latest Gadgets and Components</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-3-in-camera-transitions-tricks-to-make-videos/"><u>Updated 2024 Approved 3 In-Camera Transitions Tricks To Make Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-seo-power-play-strategies-to-amplify-your-podcasts-impact/"><u>[New] In 2024, SEO Power Play Strategies To Amplify Your Podcast's Impact</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-free-recording-exploring-apowersofts-screen-capture/"><u>[Updated] 2024 Approved Free Recording Exploring Apowersoft's Screen Capture</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-scrutinizing-hdr-performance-in-luminance-tech/"><u>[Updated] Scrutinizing HDR Performance in Luminance Tech</u></a></li>
+<li><a href="https://win-online.techidaily.com/1728488065450-error-404-webpage-unavailable-what-to-do-when-you-hit-a-dead-end-online/"><u>Error 404: Webpage Unavailable – What To Do When You Hit a Dead End Online</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-xiaomi-redmi-note-12-proplus-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Xiaomi Redmi Note 12 Pro+ 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-infinix-hot-40i-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Infinix Hot 40i</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-zoom-in-and-out-on-mac/"><u>New 2024 Approved How to Zoom In and Out on Mac</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-understanding-the-dynamics-underlying-in-ai-slow-motion-editing/"><u>New In 2024, Understanding the Dynamics Underlying in AI Slow Motion Editing</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-want-to-find-a-good-camera-for-youtube-this-article-brings-you-some-of-the-best-options-of-different-varieties-for-your-channel-for-2024/"><u>New Want to Find a Good Camera for YouTube? This Article Brings You some of the Best Options of Different Varieties for Your Channel for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-wondering-how-to-create-a-stunning-intro-video-with-kinemaster-here-are-the-simple-steps-to-use-kinemaster-to-design-your-intro-video-in-simple-steps-fo/"><u>New Wondering How to Create a Stunning Intro Video with KineMaster? Here Are the Simple Steps to Use KineMaster to Design Your Intro Video in Simple Steps for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/privacy-innovation-new-terms-and-usage-guide/"><u>Privacy Innovation: New Terms & Usage Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unifying-online-collaboration-tools-skype-and-zoom/"><u>Unifying Online Collaboration Tools Skype & Zoom</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-are-you-eager-to-know-how-to-create-an-adjustment-layer-in-premiere-pro-this-article-will-highlight-the-significance-of-adding-an-adju/"><u>Updated 2024 Approved Are You Eager to Know How to Create an Adjustment Layer in Premiere Pro? This Article Will Highlight the Significance of Adding an Adjustment Layer in Premiere Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-learning-how-to-slow-down-a-video-on-iphone-properly/"><u>Updated 2024 Approved Learning How to Slow Down a Video on iPhone Properly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723011865131-wwe-2k22-pc-version-why-does-it-keep-crashing-solutions-inside/"><u>WWE 2K22 PC Version: Why Does It Keep Crashing? - Solutions Inside!</u></a></li>
 </ul></div>
 

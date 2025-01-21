@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Discover the Essential Steps for Editing a Music Video in This Guide. Learn About Aspect Ratio and the First Cut Process to Create a Visually Captivating Video
-date: 2025-01-11T04:22:27.345Z
-updated: 2025-01-15T07:32:12.303Z
+date: 2025-01-15T16:07:25.688Z
+updated: 2025-01-21T17:29:13.787Z
 tags: 
   - ai
   - animation videos
@@ -39,10 +39,6 @@ You should always ask your cinematographer about the aspect ratio. There are cha
 
 ![some common aspect ratios](https://images.wondershare.com/filmora/article-images/2023/04/some-common-aspect-ratios.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to find the width/height of the frame?
 
 Most of the frames that are being shot on the camera are 3424 pixels wide, which is a little under 4k. If you have a measurement of one side of the frame, you can find the other by using some math. Let's suppose your frame is 3424 pixels wide. You can use this formula to find the height.
@@ -50,10 +46,6 @@ Most of the frames that are being shot on the camera are 3424 pixels wide, which
 **Formula:** 3424 pixels wide **x** 1 high / 2.35 wide (or whatever your aspect ratio)
 
 ![1st step of the formula](https://images.wondershare.com/filmora/article-images/2023/04/1st-step-of-the-formula.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now you can cancel out the width from the multiplier and the denominator.
 
@@ -77,6 +69,10 @@ Open your music video project in [Filmora](https://tools.techidaily.com/wondersh
 
 ![clicking on the screen icon](https://images.wondershare.com/filmora/article-images/2023/04/clicking-on-the-screen-icon.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then select the **Change Project Aspect Ratio**.
 
 ![clicking on the change project aspect ratio](https://images.wondershare.com/filmora/article-images/2023/04/clicking-on-the-change-project-aspect-ratio.jpg)
@@ -86,10 +82,6 @@ Then select the **Change Project Aspect Ratio**.
 Now set the project **Width to 3424** pixels and its **Height to 1457** pixels. You can also adjust the frame rate by selecting the one in which you shot the video. Then click **OK**.
 
 ![changing the width and the height](https://images.wondershare.com/filmora/article-images/2023/04/changing-the-width-and-the-height.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Assembly
 
@@ -123,10 +115,6 @@ One last thing is, if you shot any scene in mirror-image format, you can flip it
 
 ![flipping the clip](https://images.wondershare.com/filmora/article-images/2023/04/flipping-the-clip.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Send your first draft
 
 The first draft is the video in which you added audio and re-ordered the shots. You decided on the pace and flow of the video to create a basic structure. You made changes to make it interesting and captivating.
@@ -144,10 +132,14 @@ For first drafts, you don't need anything fancy. A lower-resolution and more com
 
 ![adding timer](https://images.wondershare.com/filmora/article-images/2023/04/adding-timer.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now you are all set to export the first draft of your music video. You can also adjust the video format on the export option, but MP4 is recommended.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -178,11 +170,19 @@ Most of the frames that are being shot on the camera are 3424 pixels wide, which
 
 ![1st step of the formula](https://images.wondershare.com/filmora/article-images/2023/04/1st-step-of-the-formula.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now you can cancel out the width from the multiplier and the denominator.
 
 \= 3424 pixels wide **x** 1 high / 2.35 wide
 
 ![2nd step of the formula](https://images.wondershare.com/filmora/article-images/2023/04/2nd-step-of-the-formula.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you are left with the equation:
 
@@ -230,10 +230,6 @@ Arrange the shots according to the storyboard you created and sync them with the
 
 ![arranging the shots in order](https://images.wondershare.com/filmora/article-images/2023/04/arranging-the-shots-in-order.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step3Add the title
 
 Once you arrange all shots in order, you can add the title of your music video. Click on the **Titles**, then choose your desired style and add the name of your music video in the title box. You can also change the text's size, font, and color.
@@ -262,6 +258,10 @@ For first drafts, you don't need anything fancy. A lower-resolution and more com
 4. Adjust the position and add the duration of your music video.
 
 ![adding timer](https://images.wondershare.com/filmora/article-images/2023/04/adding-timer.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you are all set to export the first draft of your music video. You can also adjust the video format on the export option, but MP4 is recommended.
 
@@ -315,6 +315,10 @@ After you name each folder, use the Import button to upload each video files you
 
 ![use the Import button to upload each video files](https://images.wondershare.com/filmora/article-images/2022/12/organize-media-filmora-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** since the media files you import into your project get the name associated with the code given by the source, it becomes hard to capture a specific file while editing. You need to rename each of the elements you imported for easier access.
@@ -332,10 +336,6 @@ A tool like Filmora editor can help create proxies of your video file flawlessly
 Step1 Locate the large video file you imported to Filmora and right-click it. Then, select Create Proxy File.
 
 ![locate the large video file to filmora](https://images.wondershare.com/filmora/article-images/2022/12/use-proxies-filmora-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 You should see the proxy icon at the bottom right corner of your video once it completes. This takes only a few minutes.
 
@@ -369,6 +369,10 @@ Step2 Select Keyboard Shortcuts from the drop-down list.
 
 ![select keyboard shortcuts](https://images.wondershare.com/filmora/article-images/2022/12/use-keyboard-shortcuts-filmora-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 The new pop-up window on your PC screen will display all shortcuts you can employ while using Filmora, and the interesting part is that you can customize the shortcut keys to your preference. Moreover, you can freely switch keyboard shortcuts between Filmora, Adobe Premiere Pro, and Final Cut Pro.
 
 ![customize the shortcut keys](https://images.wondershare.com/filmora/article-images/2022/12/use-keyboard-shortcuts-filmora-2.jpg)
@@ -384,6 +388,10 @@ In case while editing the A roll, you find something that requires a quick fix i
 Step1 Firstly, focus on your video footage. Move them to the required timeline.
 
 ![focus on your video footage](https://images.wondershare.com/filmora/article-images/2022/12/edit-in-stages-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 Next, move your B-roll to the relevant timeline. Then, apply the required editing.
 
@@ -435,17 +443,13 @@ Step1 Click on the Add icon at the left side of the Timeline and select Add Vide
 
 ![click on the add icon](https://images.wondershare.com/filmora/article-images/2022/12/organize-audio-and-video-tracks-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Drag-n-drop the video clips and audio clips to the relevant timeline.
 
 ![drag-n-drop the video clips and audio clips](https://images.wondershare.com/filmora/article-images/2022/12/organize-audio-and-video-tracks-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Keyboard Shortcuts
 
@@ -472,10 +476,6 @@ In case while editing the A roll, you find something that requires a quick fix i
 Step1 Firstly, focus on your video footage. Move them to the required timeline.
 
 ![focus on your video footage](https://images.wondershare.com/filmora/article-images/2022/12/edit-in-stages-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Next, move your B-roll to the relevant timeline. Then, apply the required editing.
 
@@ -529,15 +529,18 @@ A video source option called "OBS Virtual Camera" may be found in the settings o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-astro-bio-revolution-crafting-signature-whatsapp-identities/"><u>[New] Astro-Bio Revolution Crafting Signature WhatsApp Identities</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ssential-video-marketing-strategies-top-8-verified-services/"><u>[New] Essential Video Marketing Strategies Top 8 Verified Services</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solved-wireless-keyboard-lagging-on-windows/"><u>[SOLVED] Wireless Keyboard Lagging on Windows</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/alibaba-yitian-710-cpu-leads-the-race-as-top-arm-based-processor-for-cloud-servers-research-finds/"><u>Alibaba Yitian 710 CPU Leads the Race as Top Arm-Based Processor for Cloud Servers, Research Finds</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/critical-aspects-to-assess-when-looking-for-an-unbound-cellular-phone/"><u>Critical Aspects to Assess When Looking for an Unbound Cellular Phone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/global-launch-alert-lenovos-innovative-mini-pc-the-yoga-portal-ai-enhanced-by-powerful-intel-desktop-chips/"><u>Global Launch Alert: Lenovo's Innovative Mini PC - The Yoga Portal AI Enhanced by Powerful Intel Desktop Chips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-aerial-titans-unveiled-the-10-powerful-drone-list/"><u>In 2024, Aerial Titans Unveiled The 10 Powerful Drone List</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-text-message-woes-fix-incoming-mms-from-android-devices-now/"><u>IPhone Text Message Woes? Fix Incoming MMS From Android Devices Now</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/unlock-efficient-digital-sanitization-how-to-effectively-use-stellar-file-eraser-5-on-your-windows-system/"><u>Unlock Efficient Digital Sanitization: How To Effectively Use Stellar File Eraser 5 on Your Windows System</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-tecno-pova-5-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Tecno Pova 5 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-digital-dynamo-dames-the-next-generation-of-youtubes-powerhouses-for-2024/"><u>[New] Digital Dynamo Dames The Next Generation of YouTube's Powerhouses for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-discovering-your-favorite-makeup-vloggers-on-youtube-for-2024/"><u>[New] Discovering Your Favorite Makeup Vloggers on YouTube for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-film-quality-faceoff-hero-black-and-keymission-camera/"><u>[New] In 2024, Film Quality Faceoff HERO Black and Keymission Camera</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-pioneering-visual-effects-strategic-use-of-luts-in-adobe-projects-for-2024/"><u>[New] Pioneering Visual Effects Strategic Use of LUTs in Adobe Projects for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-powered-troubleshooting-resolve-common-pc-glitches-with-chatgpt-help/"><u>AI-Powered Troubleshooting: Resolve Common PC Glitches with ChatGPT Help</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-vivo-x100-pro-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Vivo X100 Pro? Try These Fixes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-platforms-for-free-movie-subtitle-downloads-srt-format/"><u>Top Platforms for FREE Movie Subtitle Downloads (SRT Format)</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-change-aspect-ratio-in-imovie/"><u>Updated 2024 Approved How to Change Aspect Ratio in iMovie</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-unravel-the-creative-potential-of-adobe-after-effects-for-precise-motion-synchronization-learn-how-to-use-track-matte-and-tracking-wit/"><u>Updated 2024 Approved Unravel the Creative Potential of Adobe After Effects for Precise Motion Synchronization. Learn How to Use Track Matte and Tracking with a Simple Alternative</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-get-zoom-on-tv-easy-solutions-for-2024/"><u>Updated How to Get Zoom on TV Easy Solutions for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-find-a-solution-for-effortless-sky-replacement-photoshop-in-this-comprehensive-guide-also-use-the-easiest-video-editing-tool-to-make-your-me/"><u>Updated In 2024, Find a Solution for Effortless Sky Replacement Photoshop in This Comprehensive Guide. Also, Use the Easiest Video Editing Tool to Make Your Media Stunning</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713963870780-updated-in-this-article-you-will-learn-about-splitting-the-video-into-the-frames-in-ffmpeg-and-mentioning-the-easy-option-for-doing-the-same-task-in-a-few-s/"><u>Updated In This Article, You Will Learn About Splitting the Video Into the Frames in FFmpeg and Mentioning the Easy Option for Doing the Same Task in a Few Seconds by Wondershare Filmora for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-steps-to-make-a-neon-dance-effect-with-filmora-for-2024/"><u>Updated Steps to Make a Neon Dance Effect With Filmora for 2024</u></a></li>
 </ul></div>
 

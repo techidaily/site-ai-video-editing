@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Razer Microphone: A Step-by-Step Guide to Troubleshooting the Mic"
-date: 2025-01-14T08:03:54.436Z
-updated: 2025-01-15T02:32:46.374Z
+date: 2025-01-16T16:46:37.249Z
+updated: 2025-01-21T18:35:38.166Z
 tags:
   - win11
   - win10
@@ -40,10 +40,6 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/run-troubleshooter-1.jpg)
 2. Scroll down to**Recording Audio** . Then select it and click**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/run-troubleshooter-2-1.jpg)
 
  Wait for the process to complete and follow the on-screen instructions to repair the detected issues. If your microphone still doesn’t work, proceed to the next method.
@@ -61,19 +57,19 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 4. **Toggle on the button** below Allow apps to access your microphone.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-3-1.jpg)
 5. Scroll to locate Allow desktop apps to access your microphone, and set the option to**On** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-2.jpg)
 
  Now you should be able to use the Onikuma headset mic with whatever applications. But if the problem persists, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Set your Onikuma mic as the default device
 
@@ -86,26 +82,30 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-2-1.jpg)
 3. Select the**Recording** tab. Then right-click your Onikuma headset mic and click**Enable** (if it’s not) and click**Set as Default Device** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don’t see it listed, right-click any blank space and tick**Show Disabled Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-0-1.jpg)
 4. Right-click the microphone again and select**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/sound-settings-3-1.jpg)
 5. On the**Levels** tab, check whether the microphone is muted. If yes, click the**speaker icon** to unmute it and**drag the volume slider to the max** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2-8-1.jpg)
 
  In some cases, Onikuma headset mic not working only occurs in specific applications. If so, you should**check the application settings** and manually**set the Onikuma headset as your preferred audio device** .
 
  If this method doesn’t help either, move on to the next fix to check your audio driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Update your audio driver
 
@@ -132,11 +132,11 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click**Update** to do it for free, but it’s partly manual.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -165,24 +165,18 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-comprehensive-look-at-editing-and-uploading-virtual-reality-videos-to-youtube/"><u>[New] In 2024, A Comprehensive Look at Editing and Uploading Virtual Reality Videos to YouTube</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-whos-watching-your-guide-to-instagram-eye-rolls-count/"><u>[New] In 2024, Who's Watching? Your Guide to Instagram Eye-Rolls Count</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-what-are-the-disadvantages-of-virtual-reality-in-2024/"><u>[New] What Are the Disadvantages of Virtual Reality, In 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-elevate-your-video-watchlist-activate-av1-on-youtube/"><u>[Updated] In 2024, Elevate Your Video Watchlist - Activate AV1 on YouTube</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-your-first-impression-matters-8-must-try-youtube-tools-for-thumbnails/"><u>[Updated] Your First Impression Matters 8 Must-Try YouTube Tools for Thumbnails</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-intelligence-in-question-why-the-iphone-16-may-not-be-your-smartest-choice-insights-from-zdnet/"><u>Apple Intelligence in Question: Why the iPhone 16 May Not Be Your Smartest Choice - Insights From ZDNet</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/backup-and-organize-your-tons-of-footage-in-minutes/"><u>Backup and Organize Your Tons of Footage in Minutes</u></a></li>
-<li><a href="https://games-able.techidaily.com/concealing-gaming-trails-silent-steam-play/"><u>Concealing Gaming Trails: Silent Steam Play</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/exhaustive-evaluation-the-new-360-camera/"><u>Exhaustive Evaluation The New 360 Camera</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-motorola-g54-5g-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Motorola G54 5G?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-add-a-miniature-effect-on-your-video-for-filmy-looks-to-add-this-effect-read-the-complete-guide-and-make-your-video-cinematic-by-wondershare-filmora/"><u>In 2024, Add a Miniature Effect on Your Video for Filmy Looks. To Add This Effect, Read the Complete Guide and Make Your Video Cinematic by Wondershare Filmora</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-correct-lens-distortion-with-filmora/"><u>In 2024, How to Correct Lens Distortion With Filmora</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-are-you-looking-to-store-your-videos-securely-and-efficiently-look-no-further-than-our-top-pick-for-the-best-cloud-storage-service-for-videos-for-2024.m/"><u>New Are You Looking to Store Your Videos Securely and Efficiently? Look No Further than Our Top Pick for the Best Cloud Storage Service for Videos for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-top-free-luts-to-use-in-shotcut-an-overview/"><u>New Top Free LUTs To Use in Shotcut An Overview</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/premium-enhancements-guide-to-superior-terria/"><u>Premium Enhancements Guide to Superior Terria</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/tips-to-make-cinematic-color-grading/"><u>Tips to Make Cinematic Color Grading</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-best-video-title-generators/"><u>Updated 2024 Approved Best Video Title Generators</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-do-you-want-to-know-about-efficient-motion-blur-plugins-for-adobe-effects-read-this-article-to-find-out-how-to-use-motion-blur-plugins-for-enhanced-/"><u>Updated Do You Want to Know About Efficient Motion Blur Plugins for Adobe Effects? Read This Article to Find Out How to Use Motion Blur Plugins for Enhanced Results</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/using-one-of-the-best-converter-tools-to-turn-gifs-into-png-or-jpg-here-learn-about-the-ten-best-ones-for-different-operating-systems-with-details-on-featur/"><u>Using One of the Best Converter Tools to Turn GIFs Into PNG or JPG. Here, Learn About the Ten Best Ones for Different Operating Systems, with Details on Features, Prices, and More</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ersonalize-your-channel-with-free-pics/"><u>[New] Personalize Your Channel With Free Pics!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-squad-mic-not-working-2024-guide/"><u>[Solved] Squad Mic Not Working – 2024 Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-comprehensive-analysis-of-top-6-hdmi-enabled-monitors-for-2024/"><u>[Updated] Comprehensive Analysis of Top 6 HDMI-Enabled Monitors for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-itel-p55plus-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Itel P55+ to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-windows-11-search-skills-with-these-essentials/"><u>Enhance Your Windows 11 Search Skills with These Essentials</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How to Detect and Stop mSpy from Spying on Your Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-wondering-how-to-edit-a-video-to-slow-motion-on-iphone-and-android-devices-find-out-how-to-use-wondershare-filmora-to-create-and-edit-slo-/"><u>New 2024 Approved Wondering How to Edit a Video to Slow Motion on iPhone and Android Devices? Find Out How to Use Wondershare Filmora to Create and Edit Slo Mo Videos in a Few Clicks</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-what-should-be-considered-to-choose-a-nice-gopro-for-vlogging-for-2024/"><u>New What Should Be Considered to Choose A Nice GoPro for Vlogging for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/optimal-use-of-zoom-on-chrome-os-devices/"><u>Optimal Use of Zoom on Chrome OS Devices</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-often-feel-fascinated-to-try-hands-at-anime-character-design-to-spark-up-your-editing-skills-or-just-for-a-fun-filled-activity-/"><u>Updated 2024 Approved Do You Often Feel Fascinated to Try Hands at Anime Character Design to Spark up Your Editing Skills, or Just for a Fun-Filled Activity? Stay Here for the Best Inspirations You Can Ever Get</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-explore-the-advanced-tools-to-help-you-reshape-the-art-of-sky-replacement-in-digital-imagery-discover-methods-to-enhance-your-visual-n/"><u>Updated 2024 Approved Explore the Advanced Tools to Help You Reshape the Art of Sky Replacement in Digital Imagery. Discover Methods to Enhance Your Visual Narratives Through AI</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-11-pro-maxipad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone 11 Pro Max/iPad? Solved | Dr.fone</u></a></li>
 </ul></div>
 

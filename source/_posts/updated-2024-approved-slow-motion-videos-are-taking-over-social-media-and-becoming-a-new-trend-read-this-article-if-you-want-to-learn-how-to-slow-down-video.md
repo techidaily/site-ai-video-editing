@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Slow Motion Videos Are Taking over Social Media and Becoming a New Trend. Read This Article if You Want to Learn How to Slow Down Video in After Effects
-date: 2025-01-05T18:36:52.346Z
-updated: 2025-01-09T18:13:58.549Z
+date: 2025-01-19T18:26:43.289Z
+updated: 2025-01-21T17:12:32.960Z
 tags: 
   - ai
   - animation videos
@@ -25,6 +25,10 @@ If you also want to experiment with this video aspect, then you're at the right 
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: A Complete Overview of Adobe After Effects
 
 Before learning **how to slow mo in After Effects**, we want to introduce you to the software. [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) is a professional software designed to assist in post-production. Those unrealistic scenes you see in a sci-fi movie are its creation. Users can work with multiple effects categories to create animated scenes and titles.
@@ -36,6 +40,10 @@ The software has undergone multiple updates since its creation. With each versio
 * **Motion Tracking:** Do you want to blur out or remove a person or scene throughout a video? With this feature, doing that is a piece of cake. Select the object-to-motion track and play the video from start to end. The tracker will detect the object's motion and add a specific effect throughout.
 * **Masking:** Many video editors offer masking options, but a few offer precision. Precision is very important during masking, and After Effects is a master of that. Along with different masking options, it offers custom settings to bring accuracy.
 * **Timeline Editing:** To see how professional software is, see if it has a timeline panel. Timeline editing is one of the functions that bring accuracy and professionalism. You can cut, align, apply effects, transitions, and much more on it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: A Guide to Slow Down Video in Adobe After Effects During Editing
 
@@ -52,10 +60,6 @@ Upon learning about After Effects and its functionalities, let’s move forward.
 **Step 3:** To bring precision to your slow-mo, you need to adjust the frame rate of the video. For this, right-click on the timeline and go to "Frame Blending > Pixel Motion" option. Afterward, play your video from start to end and observe the changes.
 
 ![look for pixel motion](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Alternative: Slowing Down Video in Wondershare Filmora with Clarity
 
@@ -85,7 +89,7 @@ Once you have downloaded Filmora, start it and click the “New Project” tab. 
 ![add videos to timeline](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step 2Access Uniform Speed Option
@@ -101,7 +105,7 @@ A settings panel will appear on the right side of the screen; navigate towards i
 ![adjust speed and execute](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Method 2\. Step-by-Step Guide to Slow a Video Using Optical Flow Option
@@ -114,10 +118,6 @@ After importing media and bringing it to the timeline panel, select it. Then, na
 
 ![look for speed ramping section](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 2Access the AI Frame Interpolation
 
 Continue to select a specific preset for speed ramping. As you select one, locate and expand the “AI Frame Interpolation” section. From the appearing option, select the “Optical Flow” option.
@@ -129,10 +129,6 @@ Continue to select a specific preset for speed ramping. As you select one, locat
 Once you have enabled this option, navigate towards the timeline toolbar. Search and select the "Render Preview" option from the given icons. Play the video to see the results, adjust, and click the "Export" button to download.
 
 ![render preview and export](https://images.wondershare.com/filmora/article-images/2023/slowing-down-video-in-after-effects-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Edit Beyond Basic with AI Video Editing Features of Filmora
 
@@ -155,7 +151,7 @@ Filmora offers multiple mask options to infuse effects and filters to specific p
 Thumbnails increase video views by evoking the audience's interest in seeing a video. In Filmora, you can employ the AI Thumbnail creator to auto-create thumbnails. It analyzes the best frame out of your video and chooses it as a thumbnail. You can further apply many templates to this thumbnail according to context.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -168,6 +164,10 @@ However, we recommend Wondershare Filmora as it is a more accessible alternative
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -177,22 +177,24 @@ However, we recommend Wondershare Filmora as it is a more accessible alternative
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-expert-pick-mics-for-youtube-entrepreneurs-for-2024/"><u>[New] Expert Pick Mics for YouTube Entrepreneurs for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-clues-to-detecting-an-snapchat-block/"><u>[New] In 2024, The Clues to Detecting an Snapchat Block</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-vector-magic-discovering-the-10-software-picks-you-need/"><u>[New] Vector Magic Discovering the 10 Software Picks You Need</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-itel-p55-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Itel P55 by Name | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/affordable-top-2-in-1-pcs-non-lenovo-non-dell-options-with-falling-prices-reviewed-by-zdnet/"><u>Affordable Top 2-in-1 PCs: Non-Lenovo, Non-Dell Options with Falling Prices Reviewed by ZDNet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/come-comprimere-un-video-in-hd-senza-perdere-qualita-per-whatsapp-con-winxdvd/"><u>Come Comprimere Un Video in HD Senza Perdere Qualità per WhatsApp Con WinXDVD</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effective-fixes-dealing-with-compatibility-issues-of-ralink-rt3290-drivers-on-older-windows-versions/"><u>Effective Fixes: Dealing with Compatibility Issues of Ralink RT3290 Drivers on Older Windows Versions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-for-handling-mass-email-selection-on-googles-mail-service/"><u>How-To for Handling Mass Email Selection on Google's Mail Service</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-discover-how-you-can-use-vectorscope-to-adjust-luminance-color-grading-and-more-in-your-video-editing-projects-for-2024/"><u>New Discover How You Can Use Vectorscope to Adjust Luminance, Color Grading, and More in Your Video Editing Projects for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713942930825-new-imovie-review-is-it-the-best-video-editor-for-mac-users/"><u>New IMovie Review – Is It The Best Video Editor for Mac Users</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-need-to-learn-about-halftone-effects-learn-how-to-quickly-create-a-halftone-effect-in-adobe-photoshop-with-simple-easy-to-follow-instructions/"><u>New In 2024, Need to Learn About Halftone Effects? Learn How to Quickly Create a Halftone Effect in Adobe Photoshop with Simple, Easy-to-Follow Instructions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/revealing-successful-markets-for-2024/"><u>Revealing Successful Markets for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-davinci-resolve-scopes-have-undergone-significant-improvements-find-out-how-to-use-these-scopes-and-improve-your-video-editing-skills./"><u>Updated 2024 Approved DaVinci Resolve Scopes Have Undergone Significant Improvements. Find Out How to Use These Scopes and Improve Your Video Editing Skills</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-use-adjustment-layer-in-photoshop-in-2024/"><u>Updated How to Use Adjustment Layer in Photoshop, In 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-zoom-in-and-out-on-mac-for-2024/"><u>Updated How to Zoom In and Out on Mac for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-create-eye-catching-slow-motion-videos-to-set-your-own-trend-for-this-purpose-read-this-article-to-find-and-learn-to-use-capcuts-new-slow-mo/"><u>Updated In 2024, Create Eye-Catching Slow-Motion Videos to Set Your Own Trend. For This Purpose, Read This Article to Find and Learn to Use CapCuts New Slow-Motion Templates</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713965288071-updated-tiktok-aspect-ratio-is-a-crucial-element-to-succeeding-in-the-tiktok-algorithm-here-are-some-suggestions-to-improve-video-quality-and-land-on-the-fo/"><u>Updated Tiktok Aspect Ratio Is a Crucial Element to Succeeding in the Tiktok Algorithm. Here Are some Suggestions to Improve Video Quality and Land on the for You Page for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rofessional-insights-crafting-youtube-trailers-using-filmora-for-2024/"><u>[New] Professional Insights Crafting YouTube Trailers Using Filmora for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-guide-to-iphones-video-length-tailoring/"><u>[New] Ultimate Guide to iPhone's Video Length Tailoring</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-inside-the-studio-world-xvideo-studio-breakdown/"><u>[Updated] In 2024, Inside the Studio World XVideo Studio Breakdown</u></a></li>
+<li><a href="https://win11.techidaily.com/54sh5paz44gn5qw944gx44ka77yb44or44k944kz44oz5bcc55so44gu5pya6auy44gu5yaz55yf44k544op44kk44oj44k344on44o844oe44o844or44oq44k544oi/"><u>無料で楽しむ！パソコン専用の最高の写真スライドショーツールリスト</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/a-guide-to-adopting-lumetri-color-presets-in-effective-color-grading/"><u>A Guide To Adopting Lumetri Color Presets in Effective Color Grading</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/do-you-want-to-create-adjustment-layers-in-final-cut-pro-this-article-will-discuss-a-simple-yet-efficient-method-to-generate-adjustment-layers-in-final-cut-/"><u>Do You Want to Create Adjustment Layers in Final Cut Pro? This Article Will Discuss a Simple yet Efficient Method to Generate Adjustment Layers in Final Cut Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-lava-blaze-2-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Lava Blaze 2 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-demystifying-creator-studio-a-practical-handbook/"><u>In 2024, Demystifying Creator Studio A Practical Handbook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premium-devices-to-elevate-your-mobile-video-skills/"><u>In 2024, Premium Devices to Elevate Your Mobile Video Skills</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-social-media-boost-link-your-facebook-story-4-methods/"><u>In 2024, Social Media Boost Link Your Facebook Story [4 Methods]</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-be-aware-of-vhss-meaning-there-is-nothing-to-be-worried-about-because-we-will-guide-you-in-this-article/"><u>New 2024 Approved Do You Want to Be Aware of VHSs Meaning? There Is Nothing to Be Worried About because We Will Guide You in This Article</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-change-font-in-premiere-pro-for-2024/"><u>New How To Change Font In Premiere Pro for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-record-video-streams-with-ffmpeg-on-windows-and-mac-for-2024/"><u>New How to Record Video Streams With FFmpeg on Windows and Mac for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-dvr-showdown-tivo-takes-on-comcast-in-the-ultimate-battle-for-your-tv-time/"><u>New In 2024, DVR Showdown TiVo Takes on Comcast in the Ultimate Battle for Your TV Time</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-kinetic-typography-text-effect-easyandfast-for-2024/"><u>New Kinetic Typography Text Effect 【EASY&FAST】 for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-elevating-taskmanager/"><u>The Art of Elevating TaskManager</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-looking-for-the-best-quiz-making-tools-read-our-full-review-to-find-out-the-10-best-video-quiz-makers-available/"><u>Updated 2024 Approved Looking for the Best Quiz-Making Tools? Read Our Full Review to Find Out the 10 Best Video Quiz Makers Available</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-top-10-sound-extractors-to-extract-sound-from-video-2023/"><u>Updated 2024 Approved Top 10 Sound Extractors to Extract Sound From Video 2023</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-fixing-the-slow-playback-issues-in-davinci-resolve/"><u>Updated In 2024, Fixing The Slow Playback Issues in DaVinci Resolve</u></a></li>
 </ul></div>
 

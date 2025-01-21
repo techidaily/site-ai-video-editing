@@ -1,7 +1,7 @@
 ---
 title: "Rainbow Six Extraction Error Resolved: How to Address 'No Compatible Driver/Hardware Found'"
-date: 2025-01-07T22:01:31.344Z
-updated: 2025-01-14T16:59:00.660Z
+date: 2025-01-16T18:04:42.121Z
+updated: 2025-01-21T18:39:12.280Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/740b68b56d6bbac7152f3eef9f605d6bffa61f711
 Constantly getting this error message **‘ _Connection to the Battle.net game server has been lost. Please exit and try again._ ‘** ? You’re not alone there. Many Call of Duty players find this random disconnection quite annoying and have a hard time finding a real solution. But here in this post, you will learn every possible way that has been proved helpful to other gamers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why am I getting this error message?
@@ -37,10 +37,6 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 * Software confliction
 * etc.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix ‘ **_Connection to the Battle.net game server has been lost_**  ‘?
 
  Before you try any of these fixes below, please make sure to[check the game server status](https://support.activision.com/onlineservices) and restart your modem and router to rule out any possible connection issues.
@@ -56,7 +52,7 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1\. Allow your game to run through Windows Firewall
@@ -72,8 +68,16 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
 3. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As you know Public network is an unsafe territory, do not allow any third-party application of unknown origin on any public network in your computer settings.
 
@@ -83,16 +87,8 @@ If your game isn’t on the list, follow these steps:
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/07/add-program.gif)
 2. Click**Browse** to locate your game (**BlackOpsColdWar.exe** ) and click**Add** once selected.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Once added, tick both the**Private** and**Public** boxes for the application.
 4. Restart your Battle.net and play the game again the test the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2\. Perform a network reset
 
@@ -112,6 +108,10 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2021/07/reset.png)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3\. Change your DNS server
 
@@ -133,7 +133,7 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 6. Click **OK** to apply.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4\. Update your device drivers
@@ -158,7 +158,7 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 4. Once your drivers are up to date, restart your computer for the changes to take full effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5\. Use a VPN
@@ -199,15 +199,19 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-a-deeper-dive-into-the-game-five-easy-zooming-methods/"><u>[New] In 2024, A Deeper Dive Into the Game Five Easy Zooming Methods</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/1725289180442-mp4/"><u>「無料MP4コンプレッション：高い圧縮比で最小化し、ストレージ容量を節約！」</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/amazon-cloud-drive/"><u>Amazon Cloud Driveマックファイル同期手順：詳細なステップバイステップガイド</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/convert-your-vob-videos-to-mpeg-for-free-effortless-online-tool-by-movavi/"><u>Convert Your VOB Videos to MPEG for Free - Effortless Online Tool by Movavi!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/gratis-mkv-player-professionelles-tool-zum-abspielen-von-mkv-dateien/"><u>Gratis MKV Player: Professionelles Tool Zum Abspielen Von MKV-Dateien</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-overview-of-best-luts-for-vlog/"><u>New 2024 Approved Overview of Best LUTs for Vlog</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-vlogs-and-travel-content-are-incomplete-without-a-fast-motion-effect-learn-step-by-step-how-to-make-fast-motion-video-on-an-iphone-in-this-artic/"><u>New In 2024, Vlogs and Travel Content Are Incomplete without a Fast-Motion Effect. Learn Step-by-Step How to Make Fast Motion Video on an iPhone in This Article</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-have-you-ever-used-an-adjustment-layer-in-photoshop-read-this-article-to-find-out-how-to-add-resize-change-and-use-an-adjustment-layer/"><u>Updated 2024 Approved Have You Ever Used an Adjustment Layer in Photoshop? Read This Article to Find Out How to Add, Resize, Change, and Use an Adjustment Layer in Photoshop Efficiently</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-learn-to-create-custom-sequence-presets-in-premiere-pro-for-efficient-video-editing-ensure-consistency-and-speed-up-your-workflow-with-perso/"><u>Updated In 2024, Learn to Create Custom Sequence Presets in Premiere Pro for Efficient Video Editing. Ensure Consistency and Speed up Your Workflow with Personalized Settings</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-update-fresh-start-procedure/"><u>Windows Update Fresh Start Procedure</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-unlocking-audience-connection-top-video-formats-for-youtube-success/"><u>[New] 2024 Approved Unlocking Audience Connection Top Video Formats for YouTube Success</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-exclusive-screen-time-delight-with-these-top-offline-games/"><u>[New] In 2024, Exclusive Screen Time Delight with These Top Offline Games</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-swift-shadowing-secrets-for-2024/"><u>[Updated] Swift Shadowing Secrets for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-your-first-steps-in-the-digital-world-course-recommendations/"><u>[Updated] Your First Steps in the Digital World Course Recommendations</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-unmatched-6-safe-online-collaboration-software-rankings/"><u>2024 Approved Unmatched 6 Safe Online Collaboration Software Rankings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazing-deal-unveiled-snag-the-high-performance-4tb-samsung-t5-ssd-at-over-45-off-prices-limited-stock-at-amazon-zdnet/"><u>Amazing Deal Unveiled: Snag the High-Performance 4TB Samsung T5 SSD at Over 45% Off Prices - Limited Stock at Amazon! | ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-read-aloud-fix-restoring-speech-for-word-documents/"><u>Microsoft Read Aloud Fix: Restoring Speech for Word Documents</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-are-you-trying-to-make-slow-mo-videos-on-instagram-in-this-article-we-will-discuss-top-rated-ways-to-produce-perfect-slow-motion-videos-for-instagram-fo/"><u>New Are You Trying to Make Slow-Mo Videos on Instagram? In This Article, We Will Discuss Top-Rated Ways to Produce Perfect Slow-Motion Videos for Instagram for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-stunning-glitch-effect-and-its-creation-guideline-for-premiere-pro/"><u>New In 2024, Stunning Glitch Effect and Its Creation Guideline for Premiere Pro</u></a></li>
+<li><a href="https://win-hot.techidaily.com/top-mp3-downloading-apps-for-your-windows-phone-a-comprehensive-guide/"><u>Top MP3 Downloading Apps for Your Windows Phone: A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-are-you-looking-for-a-voice-changer-to-make-your-gaming-experience-more-fun-here-is-a-list-of-the-top-6-best-alternatives-of-clownfish/"><u>Updated 2024 Approved Are You Looking for a Voice Changer to Make Your Gaming Experience More Fun? Here Is a List of the Top 6 Best Alternatives of Clownfish Voice Changers to Use</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-use-your-social-media-app-and-make-slow-motion-videos-by-reading-this-guide-besides-learning-slow-motion-snapchat-get-useful-apps-serv/"><u>Updated 2024 Approved Use Your Social Media App and Make Slow-Motion Videos by Reading This Guide. Besides Learning Slow-Motion Snapchat, Get Useful Apps Serving the Same Purposes</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-want-to-make-your-photos-and-videos-look-different-from-others-there-are-many-lightroom-luts-free-and-they-make-your-media-content-st/"><u>Updated In 2024, Do You Want to Make Your Photos and Videos Look Different From Others? There Are Many Lightroom LUTs Free, and They Make Your Media Content Stand Out From Others</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-learn-how-to-make-a-gaming-montage-guide-and-tips-for-2024/"><u>Updated Learn How to Make a Gaming Montage - Guide & Tips for 2024</u></a></li>
 </ul></div>
 

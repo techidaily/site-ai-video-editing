@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Zoom In and Out on Mac
-date: 2025-01-14T00:24:25.028Z
-updated: 2025-01-14T18:29:21.286Z
+date: 2025-01-20T16:03:35.604Z
+updated: 2025-01-21T16:36:17.737Z
 tags: 
   - ai
   - animation videos
@@ -29,10 +29,6 @@ Step1Go to Accessibility > System Preferences > Zoom, then click Zoom in the sid
 
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/open-zoom-from-accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2Press the plus/equal sign ("+ =") button, which is adjacent to the delete button on the top right side of the keyboard, while continuing to hold down the command button to zoom in.
 
 Step3Press the dash/underscore button ("- \_"), which is situated next to the "+ =" button on the top right side of the keyboard, while still holding down the command button, to zoom out.
@@ -42,7 +38,7 @@ Step3Press the dash/underscore button ("- \_"), which is situated next to the "+
 You may quickly learn how to zoom in on a Mac using trackpad movements if you prefer using a touchpad versus learning any kind of keyboard shortcuts. With a MacBook, there is another, maybe simpler way to zoom in and out in addition to the approach mentioned above. If your keyboard isn't entirely working, it may still be helpful. However, make sure that gesture support is turned on in the settings on your Mac. Although a Mac still supports the usage of a mouse, new Mac software is designed to be used with a trackpad. Apple is abandoning the mouse. And with a little practice, you can do it too. What you must do is as follows:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Steps to Enable Trackpad Gestures
@@ -56,7 +52,7 @@ Step2You can zoom in or out on Mac by placing two fingers on the touchpad and mo
 Step3Another option is to simply zoom in and out by double-tapping the touchpad with two fingers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 3: Use Scroll Gesture
@@ -69,6 +65,10 @@ Step1To make this feature active, from the Apple menu, choose System Preferences
 
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/use-scroll-gesture.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2Select "Use scroll motion with modifier keys to zoom" from the drop-down menu as shown above.
 
 Step3Select the desired modifier key from the dropdown menu.
@@ -78,7 +78,7 @@ Step3Select the desired modifier key from the dropdown menu.
 Use the wonderful assistive feature called Hover Text to enlarge a single macOS user interface piece without zooming out the whole Mac screen. One of your alternatives is to enable zooming while hovering over text. The "Enable Hover Text" option is part of the Zoom menu but does not directly magnify the display. The function allows users to use the Command key to momentarily enlarge just the text below the pointer and is accessible without Zoom having to be activated. When Hover Text is enabled on your Mac, you may drag the cursor over anything on the screen, such as text, input fields, menu items, or buttons, and a high-resolution magnified version of those objects will appear in a new window. Find out here how to make Hover Text available on your Mac:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Steps to Use Hover Text to Zoom
@@ -87,13 +87,13 @@ Step1When you choose this option, a larger, higher-resolution picture of the tex
 
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/enable-hover-text-to-zoom.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2Additional customization options are available in the Options menu, including the ability to alter the font, the size of the zoomed-in text (which may range from 14pt to 128pt), the font's appearance surrounding the cursor, and the modifier key that activates the function.
 
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/customize-text-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 5: Enable Touch Bar
 
@@ -110,7 +110,7 @@ Step3Select "Keyboard" > "Keyboard" and then select "Touch Bar shows" under the 
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/enable-touch-bar-on-mac.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -130,20 +130,15 @@ In any case, you have our support. There are various ways to zoom in and out on 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-improving-vimeo-playback-pace/"><u>[New] Improving Vimeo Playback Pace</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-achieving-professional-level-youtube-streams-using-wirecast/"><u>[Updated] 2024 Approved Achieving Professional-Level Youtube Streams Using WireCast</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-essentials-of-earning-on-youtube-latest-changes/"><u>[Updated] 2024 Approved The Essentials of Earning on YouTube Latest Changes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-go-pro-simple-techniques-for-captivating-slow-motion-videos-on-android/"><u>2024 Approved Go Pro Simple Techniques for Captivating Slow Motion Videos on Android</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/5-tips-for-faster-editing-in-filmora-video-editor-for-2024/"><u>5 Tips for Faster Editing in Filmora Video Editor for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/hitching-a-ride-in-high-flying-tiktok-live-shows/"><u>Hitching a Ride in High-Flying TikTok Live Shows</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-do-censor-effects-with-filmora/"><u>In 2024, How to Do Censor Effects with Filmora</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-this-article-is-actually-the-guide-regarding-editing-the-videos-through-veed-as-a-substitute-wondershare-filmora-is-also-under-discussion-that-is-al/"><u>In 2024, This Article Is Actually the Guide Regarding Editing the Videos Through VEED. As a Substitute, Wondershare Filmora Is Also Under Discussion that Is Also Available for the Same Purpose</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-can-the-samsung-galaxy-a71-5g-challenge-flagship-devices-on-value-and-performance/"><u>In-Depth Analysis: Can the Samsung Galaxy A71 5G Challenge Flagship Devices on Value & Performance?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-back-up-and-organize-your-files-to-protect-any-misfortune-befalling-them-the-article-will-guide-you-on-how-to-back-up-and-manage-your-foot/"><u>New 2024 Approved Back up and Organize Your Files to Protect Any Misfortune Befalling Them. The Article Will Guide You on How to Back up and Manage Your Footage</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-text-reveal-effect-easily-for-2024/"><u>New How to Make Text Reveal Effect Easily for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/transformative-colors-in-video-editing-workflows-for-2024/"><u>Transformative Colors in Video Editing Workflows for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-make-a-tattoo-disappear-like-a-magic/"><u>Updated 2024 Approved Make A Tattoo Disappear Like A Magic</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-use-motion-tracking-in-video-editing-for-2024/"><u>Updated How to Use Motion Tracking in Video Editing for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-a-gamers-guide-to-lgs-360-degree-vr-experience/"><u>[New] In 2024, A Gamer's Guide to LG's 360-Degree VR Experience</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-five-ideas-of-winter-youtube-background-to-warm-up-your-videos/"><u>[Updated] Five Ideas of Winter YouTube Background to Warm Up Your Videos</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-nokia-c02-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Nokia C02</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-oppo-a2-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Oppo A2? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-mastering-the-art-of-real-time-photography-on-google-meet/"><u>In 2024, Mastering the Art of Real-Time Photography on Google Meet</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-want-to-find-a-good-camera-for-youtube-this-article-brings-you-some-of-the-best-options-of-different-varieties-for-your-channel/"><u>New In 2024, Want to Find a Good Camera for YouTube? This Article Brings You some of the Best Options of Different Varieties for Your Channel</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-oppo-a58-4g-by-fonelab-android-recover-data/"><u>Recover lost data from Oppo A58 4G</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-creating-flawless-slow-motion-videos-is-every-content-creators-dream-learn-about-davinci-resolve-slow-motion-video-creation-amongst-ot/"><u>Updated 2024 Approved Creating Flawless Slow-Motion Videos Is Every Content Creators Dream. Learn About DaVinci Resolve Slow-Motion Video Creation, Amongst Other Tools</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-youtube-algorithm-hacks/"><u>Updated 2024 Approved YouTube Algorithm Hacks</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-templates-increase-the-editing-possibilities-for-beginners-and-professionals-read-this-article-to-learn-about-some-customizable-slow-motion-/"><u>Updated In 2024, Templates Increase the Editing Possibilities for Beginners and Professionals. Read This Article to Learn About some Customizable Slow-Motion CapCut Templates</u></a></li>
 </ul></div>
 

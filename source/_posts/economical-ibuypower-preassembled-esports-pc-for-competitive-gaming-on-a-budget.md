@@ -1,7 +1,7 @@
 ---
 title: Economical iBUYPOWER Preassembled Esports PC for Competitive Gaming on a Budget
-date: 2025-01-13T12:57:35.126Z
-updated: 2025-01-14T16:40:53.329Z
+date: 2025-01-16T18:32:49.909Z
+updated: 2025-01-21T17:07:53.046Z
 tags:
   - desktop
 categories:
@@ -30,10 +30,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ## Best $500 PC Build for Gaming
 
 ![Cooler Master MasterBox Q300L](https://cdn.mos.cms.futurecdn.net/Zoebn2FkWQprjxmm7jKxZS-320-80.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Newegg)
 
@@ -71,9 +67,17 @@ If you want a computer that meets your exact needs and budget, you need to put i
   
  Finally, we need something to power the whole system, and this is an area where we opted to compromise in pursuit of the $500 price point. The $40 500W PSU should be fine for this basic build, which will likely peak at around 200W of power use, but the Thermaltake Smart series isn't exactly highly regarded, and the listing mentions Haswell support (circa 2014) and it only has 80 Plus certification, which are clear drawbacks. If you want a quality PSU, check out the[Thermaltake Toughpower GX2 600W](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB087CDR14Z%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-2901418645577992029-20) that costs $20 more. It's an 80 Plus Gold certified PSU, from a reputable brand, albeit overkill for a build like this.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best $800 PC Build for Gaming
 
 ![Gamdias Aura GC1](https://cdn.mos.cms.futurecdn.net/fixBMW57Uvy4YDmfRJpWAd-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Amazon)
 
@@ -97,10 +101,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![14400 CPU vs competition](https://cdn.mos.cms.futurecdn.net/FVyBrR3Fkm8RXeguWat4ik-320-80.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  To go with this Intel processor, we're using an ASRock B760M-HDV motherboard because it supports 14th Gen CPUs without a BIOS update. It's a DDR4 board so we can save money by using DDR4 memory. It also features two M.2 slots for SSDs, with one of them supporting PCIe 4.0 drives.
@@ -108,6 +108,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
  Our graphics card at this price point is the Nvidia RTX 4060, which comes in just under $300\. The 4060 has strong performance at 1080p, ultra settings, having averaged 84.9 fps on our suite of tests. It ranks just above the RTX 2080 and below the Raden RX 6700 on our[GPU benchmarks hierarchy](https://www.tomshardware.com/reviews/gpu-hierarchy,4388.html) .
 
 ![1080p GPUs Ranked](https://cdn.mos.cms.futurecdn.net/ktyz8PAoeeySeFAwDS7RGh-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -118,7 +122,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![Crucial P5 Plus Tests](https://cdn.mos.cms.futurecdn.net/dVtKieHEMPgzXkpEJa7jcm-320-80.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -168,7 +172,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![3DMark Storage for WD SN580](https://cdn.mos.cms.futurecdn.net/YduTXHRsvK8iHR2sEsSWHH-320-80.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -176,10 +180,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
  We're going with the[Phanteks XT Pro](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-3971734713525887260%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fblack-phanteks-xt-mid-tower%252Fp%252F11-854-132) as our case, because it has a quality, mesh design, room for up to a 360mm AIO up top and the ability to support back-connecting motherboards, should you get one in the future. For $20, you can get the[Phanteks XT Pro Ultra](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-2132366878660750340%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fblack-phanteks-xt-mid-tower%252Fp%252FN82E16811854133) , which comes with four ARGB fans.
 
  Finally, we've stepped up to a 750-watt power supply and we're going with Corsair CX750M, which is 80+ Bronze certified and semi-modular. You can get a modular PSU or one that's 80+ Gold certified for a bit more, but that's money you don't need to spend at this price point.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best $1,500 PC Build for Gaming
 
@@ -222,7 +222,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![WD SN850X](https://cdn.mos.cms.futurecdn.net/Zgbo67f5diWaNQg29SQ3nQ-320-80.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -273,10 +273,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![Memory Latency](https://cdn.mos.cms.futurecdn.net/ew9VS2PUuTupX8YSvcyb5X-320-80.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Image credit: Future)
 
  For the SSD, we're sticking with the WD Black SN850X at 2TB. You really can't do much better without spending a lot more money on a PCIe 5 drive or a 4TB capacity.
@@ -288,6 +284,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ## Best $4000+ PC Build for Gaming
 
 ![Fractal Design North XL](https://cdn.mos.cms.futurecdn.net/gohZoiw9QykbPm5kgrhfbi-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -314,7 +314,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![RTX 4090 Performance](https://cdn.mos.cms.futurecdn.net/mKv5emaUBYKBRQ8URPsxCY-320-80.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -325,6 +325,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![Ryzen 7 7950X3D Charts](https://cdn.mos.cms.futurecdn.net/DiWoGh9Fc2ovFWFiYuJeuG-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  We're using an Asus ROG Strix X670E-E motherboard, which comes with built-in Wi-Fi 6E, four M.2 slots for storage and 18+2 power stages. To cool the Ryzen 9 7950X3D, we're using a 360mm Lian-Li Galahad II Trinity 360mm AIO. When we[reviewed the Galahad II](https://www.tomshardware.com/reviews/lian-li-galahad-ii-performance-360) , we found that it had the absolute best performance of any all-in-one cooler we've ever tested.
@@ -334,10 +338,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
  We're going with a 4TB Samsung 990 Pro, which has plenty of capacity and is the fastest PCIe 4.0 drive you can buy. Sure, we can go up to a PCIe 5.0 drive but we don't see enough performance gains to justify one, even in this high end build right now.
 
 ![Samsung 990 Pro 4TB Benchmarks](https://cdn.mos.cms.futurecdn.net/GArKvY8BSc22ZhDRwWyr2C-320-80.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -364,18 +364,20 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-exploring-advanced-phone-lenses-in-ios-11/"><u>[New] 2024 Approved Exploring Advanced Phone Lenses in iOS 11</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-the-hidden-guide-watching-highly-engaged-comments-with-ease-on-youtube-for-2024/"><u>[New] The Hidden Guide Watching Highly Engaged Comments with Ease on YouTube for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-asmr-production-101-essential-strategies-for-cutting-edge-video-making/"><u>[Updated] ASMR Production 101 Essential Strategies for Cutting-Edge Video Making</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transcoding-ttml-and-ssa-into-easy-to-use-srt-format/"><u>2024 Approved Transcoding TTML & SSA Into Easy-to-Use SRT Format</u></a></li>
-<li><a href="https://network-issues.techidaily.com/cure-undetected-gpu-mishaps/"><u>Cure Undetected GPU Mishaps</u></a></li>
-<li><a href="https://win-premium.techidaily.com/direktkopieren-von-festplatteninhalten-auf-windows-t-ohne-umwandlung/"><u>Direktkopieren Von Festplatteninhalten Auf Windows T Ohne Umwandlung</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-boredom-to-laughter-your-kinemaster-guide-for-2024/"><u>From Boredom to Laughter Your KineMaster Guide for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-do-you-want-to-download-slow-motion-apps-that-can-edit-video-professionally-this-article-will-discuss-some-slomo-makers-for-both-ios-and-android-for-202/"><u>New Do You Want to Download Slow-Motion Apps that Can Edit Video Professionally? This Article Will Discuss some Slomo Makers for Both iOS and Android for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-zoom-in-discord/"><u>New In 2024, How to Zoom in Discord</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-overview-of-best-luts-for-vlog-for-2024/"><u>New Overview of Best LUTs for Vlog for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/personalizing-your-android-a-step-by-step-guide-to-ringtone-and-sound-settings-for-2024/"><u>Personalizing Your Android A Step-by-Step Guide to Ringtone & Sound Settings for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-ai-has-influenced-all-video-editors-to-speed-up-editing-this-article-discusses-the-significance-of-ai-slow-motion-and-the-tools-that-o/"><u>Updated 2024 Approved AI Has Influenced All Video Editors to Speed up Editing. This Article Discusses the Significance of AI Slow Motion and the Tools that Offer It</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-advanced-strategies-for-rl-capture-success/"><u>[New] Advanced Strategies for RL Capture Success</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-ultimate-guide-to-inspiring-youtube-names/"><u>[Updated] 2024 Approved The Ultimate Guide to Inspiring YouTube Names</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leveraging-visual-storytelling-in-podcast-trailer-production/"><u>2024 Approved Leveraging Visual Storytelling in Podcast Trailer Production</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-through-virtual-realms-with-headgear/"><u>2024 Approved Navigating Through Virtual Realms with Headgear</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-with-billions-mastering-facebook-twitter-instagram-and-youtube-for-ultimate-engagement/"><u>Connect With Billions: Mastering Facebook, Twitter, Instagram, and YouTube for Ultimate Engagement</u></a></li>
+<li><a href="https://win-hot.techidaily.com/effortless-backup-of-computer-folders-on-onedrive-using-three-effective-strategies/"><u>Effortless Backup of Computer Folders on OneDrive Using Three Effective Strategies</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-essential-strategies-for-spotify-advertising-success/"><u>In 2024, Essential Strategies for Spotify Advertising Success</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-your-photos-and-videos-to-give-an-old-and-vintage-feel-here-are-some-vintage-luts-premiere-pro-free-and-paid-options-available/"><u>New 2024 Approved Do You Want Your Photos and Videos to Give an Old and Vintage Feel? Here Are some Vintage LUTs Premiere Pro Free and Paid Options Available to Download</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-read-and-learn-how-to-convert-a-slow-motion-video-to-normal-in-this-guide-besides-find-the-best-desktop-solution-to-adjust-video-speed-qui/"><u>New 2024 Approved Read and Learn How to Convert a Slow-Motion Video to Normal in This Guide. Besides, Find the Best Desktop Solution to Adjust Video Speed Quickly and Easily</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-do-you-know-capcut-has-some-amazing-slow-motion-templates-you-can-utilize-read-this-article-to-access-the-slow-motion-capcut-templates-link-for-2024/"><u>New Do You Know CapCut Has some Amazing Slow-Motion Templates You Can Utilize? Read This Article to Access the Slow-Motion CapCut Templates Link for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-have-you-ever-used-an-adjustment-layer-in-photoshop-read-this-article-to-find-out-how-to-add-resize-change-and-use-an-adjustment-layer-in-photos/"><u>New In 2024, Have You Ever Used an Adjustment Layer in Photoshop? Read This Article to Find Out How to Add, Resize, Change, and Use an Adjustment Layer in Photoshop Efficiently</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713964810457-new-templates-increase-the-editing-possibilities-for-beginners-and-professionals-read-this-article-to-learn-about-some-customizable-slow-motion-capcut-templ/"><u>New Templates Increase the Editing Possibilities for Beginners and Professionals. Read This Article to Learn About some Customizable Slow-Motion CapCut Templates for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-looking-into-how-slow-mo-guys-have-changed-the-dynamics-of-slow-motion/"><u>Updated 2024 Approved Looking Into How Slow Mo Guys Have Changed the Dynamics of Slow-Motion</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-so-without-wasting-time-let-me-show-you-how-to-mask-a-video-in-wondershare-filmora-lets-get-started/"><u>Updated 2024 Approved So, without Wasting Time, Let Me Show You How to Mask a Video in Wondershare Filmora. Lets Get Started</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/ischerpyvayushij-rukovodstvo-vybor-luchshej-po-dlya-effektivnogo-klonirovaniya-vashego-zagruzochnogo-nositelya/"><u>Исчерпывающий Руководство: Выбор Лучшей ПО Для Эффективного Клонирования Вашего Загрузочного Носителя</u></a></li>
 </ul></div>
 
