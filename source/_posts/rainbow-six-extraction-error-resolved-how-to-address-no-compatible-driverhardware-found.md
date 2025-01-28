@@ -1,7 +1,7 @@
 ---
 title: "Rainbow Six Extraction Error Resolved: How to Address 'No Compatible Driver/Hardware Found'"
-date: 2025-01-16T18:04:42.121Z
-updated: 2025-01-21T18:39:12.280Z
+date: 2025-01-22T19:35:40.895Z
+updated: 2025-01-27T20:48:19.184Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/740b68b56d6bbac7152f3eef9f605d6bffa61f711
 Constantly getting this error message **‘ _Connection to the Battle.net game server has been lost. Please exit and try again._ ‘** ? You’re not alone there. Many Call of Duty players find this random disconnection quite annoying and have a hard time finding a real solution. But here in this post, you will learn every possible way that has been proved helpful to other gamers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why am I getting this error message?
@@ -51,10 +51,6 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1\. Allow your game to run through Windows Firewall
 
  Check for any firewall and antivirus restrictions that may hinder your connection. As reported by some gamers, turning off firewall restrictions and uninstalling antivirus software worked for them immediately.
@@ -68,16 +64,8 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
 3. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As you know Public network is an unsafe territory, do not allow any third-party application of unknown origin on any public network in your computer settings.
 
@@ -86,6 +74,10 @@ If your game isn’t on the list, follow these steps:
 1. Click on **Change settings > Allow another app…**  
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/07/add-program.gif)
 2. Click**Browse** to locate your game (**BlackOpsColdWar.exe** ) and click**Add** once selected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Once added, tick both the**Private** and**Public** boxes for the application.
 4. Restart your Battle.net and play the game again the test the issue.
@@ -110,7 +102,7 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3\. Change your DNS server
@@ -120,21 +112,29 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa.jpg)
 3. Right-click your current network connection, and select **Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Preferred DNS server: 8.8.8.8**  
 **Alternate DNS server: 8.8.4.4**  
 
 ![change DNS server](https://images.drivereasy.com/wp-content/uploads/2021/07/following-DNS.jpg)
 6. Click **OK** to apply.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4\. Update your device drivers
 
@@ -158,7 +158,7 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 4. Once your drivers are up to date, restart your computer for the changes to take full effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5\. Use a VPN
@@ -199,19 +199,19 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-unlocking-audience-connection-top-video-formats-for-youtube-success/"><u>[New] 2024 Approved Unlocking Audience Connection Top Video Formats for YouTube Success</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-exclusive-screen-time-delight-with-these-top-offline-games/"><u>[New] In 2024, Exclusive Screen Time Delight with These Top Offline Games</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-swift-shadowing-secrets-for-2024/"><u>[Updated] Swift Shadowing Secrets for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-your-first-steps-in-the-digital-world-course-recommendations/"><u>[Updated] Your First Steps in the Digital World Course Recommendations</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-unmatched-6-safe-online-collaboration-software-rankings/"><u>2024 Approved Unmatched 6 Safe Online Collaboration Software Rankings</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amazing-deal-unveiled-snag-the-high-performance-4tb-samsung-t5-ssd-at-over-45-off-prices-limited-stock-at-amazon-zdnet/"><u>Amazing Deal Unveiled: Snag the High-Performance 4TB Samsung T5 SSD at Over 45% Off Prices - Limited Stock at Amazon! | ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/microsoft-read-aloud-fix-restoring-speech-for-word-documents/"><u>Microsoft Read Aloud Fix: Restoring Speech for Word Documents</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-are-you-trying-to-make-slow-mo-videos-on-instagram-in-this-article-we-will-discuss-top-rated-ways-to-produce-perfect-slow-motion-videos-for-instagram-fo/"><u>New Are You Trying to Make Slow-Mo Videos on Instagram? In This Article, We Will Discuss Top-Rated Ways to Produce Perfect Slow-Motion Videos for Instagram for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-stunning-glitch-effect-and-its-creation-guideline-for-premiere-pro/"><u>New In 2024, Stunning Glitch Effect and Its Creation Guideline for Premiere Pro</u></a></li>
-<li><a href="https://win-hot.techidaily.com/top-mp3-downloading-apps-for-your-windows-phone-a-comprehensive-guide/"><u>Top MP3 Downloading Apps for Your Windows Phone: A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-are-you-looking-for-a-voice-changer-to-make-your-gaming-experience-more-fun-here-is-a-list-of-the-top-6-best-alternatives-of-clownfish/"><u>Updated 2024 Approved Are You Looking for a Voice Changer to Make Your Gaming Experience More Fun? Here Is a List of the Top 6 Best Alternatives of Clownfish Voice Changers to Use</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-use-your-social-media-app-and-make-slow-motion-videos-by-reading-this-guide-besides-learning-slow-motion-snapchat-get-useful-apps-serv/"><u>Updated 2024 Approved Use Your Social Media App and Make Slow-Motion Videos by Reading This Guide. Besides Learning Slow-Motion Snapchat, Get Useful Apps Serving the Same Purposes</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-want-to-make-your-photos-and-videos-look-different-from-others-there-are-many-lightroom-luts-free-and-they-make-your-media-content-st/"><u>Updated In 2024, Do You Want to Make Your Photos and Videos Look Different From Others? There Are Many Lightroom LUTs Free, and They Make Your Media Content Stand Out From Others</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-learn-how-to-make-a-gaming-montage-guide-and-tips-for-2024/"><u>Updated Learn How to Make a Gaming Montage - Guide & Tips for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-complete-srt-file-makers-handbook/"><u>[New] 2024 Approved The Complete SRT File Maker's Handbook</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-image-protection-the-art-of-photowatermarking-for-2024/"><u>[New] Instagram Image Protection The Art of Photowatermarking for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-ultimate-guide-to-never-ending-snapstreaks/"><u>[Updated] The Ultimate Guide to Never-Ending Snapstreaks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-of-breed-exceptional-episodes-on-google-podcasts/"><u>2024 Approved Best of Breed Exceptional Episodes on Google Podcasts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-lava-yuva-2-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Lava Yuva 2 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-blueprints-to-hiring-creative-cinematographers/"><u>In 2024, Blueprints to Hiring Creative Cinematographers</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-get-zoom-on-tv-easy-solutions/"><u>New In 2024, How to Get Zoom on TV Easy Solutions</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/premier-tools-for-tiktok-video-creators/"><u>Premier Tools for TikTok Video Creators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-significance-of-ai-in-prompt-design-and-workforce-outlook/"><u>The Significance of AI in Prompt Design and Workforce Outlook</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-discover-how-you-can-use-vectorscope-to-adjust-luminance-color-grading-and-more-in-your-video-editing-projects/"><u>Updated 2024 Approved Discover How You Can Use Vectorscope to Adjust Luminance, Color Grading, and More in Your Video Editing Projects</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-have-a-desire-to-uplift-your-editing-creativity-with-trying-hands-at-working-with-storyboards-keep-reading-to-have-a-comprehensive-und/"><u>Updated 2024 Approved Have a Desire to Uplift Your Editing Creativity with Trying Hands at Working with Storyboards? Keep Reading to Have a Comprehensive Understating of the Workflow Through Stepwise User Guides</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-mastering-video-speed-control-slow-down-speed-up-and-edit-with-ease/"><u>Updated In 2024, Mastering Video Speed Control Slow Down, Speed Up, and Edit with Ease</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-what-do-you-prefer-more-mkv-file-format-or-mov-increase-your-knowledge-and-learn-more-about-mkv-format-by-ready-the-detailed-article-below.m/"><u>Updated In 2024, What Do You Prefer More, MKV File Format or MOV? Increase Your Knowledge and Learn More About MKV Format by Ready the Detailed Article Below</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-wondering-how-to-replace-sky-in-after-effects-learn-how-for-2024/"><u>Updated Wondering How to Replace Sky in After Effects? Learn How for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Put a Background on A Green Screen
-date: 2025-01-17T16:27:32.297Z
-updated: 2025-01-21T16:09:19.548Z
+date: 2025-01-23T01:02:01.857Z
+updated: 2025-01-27T16:16:22.217Z
 tags: 
   - ai
   - animation videos
@@ -25,13 +25,13 @@ Starting from replacing the green screen with a studio setup like news broadcast
 
 * [How to change the background of green screen image](#part2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. How to put a background on a green screen to video?
 
 The first thing you need to do is shoot your video with high-quality green screen in the background. Make sure that it is evenly spread and lit up so that there are no light and dark patches. Now that you have green screen video, you will need a professional video editor to replace the green screen with any background as per your requirements. Here are the three ways on how to add background to green screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Way 1\. Use Filmora
 
@@ -51,6 +51,10 @@ Step3 Double-click on the video clip that you have dropped on Timeline. Go to Vi
 
 ![double click on the video clip](https://images.wondershare.com/filmora/guide/green-screen-overlay-video-chroma-key-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 You will see on the Instant Viewer that the green screen of recorded video is replaced with the replacement background immediately. You can adjust the parameters under Chroma Key such as offset, tolerance, and edge thickness as required.
 
 Step5 Finally, play the video and if you are satisfied, click on Export button to save the video in your desired file format.
@@ -58,7 +62,7 @@ Step5 Finally, play the video and if you are satisfied, click on Export button t
 ![click on export button](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 2\. Use iMovie
@@ -81,6 +85,10 @@ Step5 You can adjust Softness as well as Clean-up option so that the green scree
 
 ![adjust softness green screen video imovie](https://images.wondershare.com/filmora/article-images/2022/07/adjust-softness-green-screen-video-imovie.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 3\. Use Premiere Pro
 
 When it comes to professional video editing, Premiere Pro is undoubted one of the most widely used video editors. The learning curve is steep for amateurs, but professionals love to edit videos in Premiere Pro. You can edit 4K videos, 3D videos, multi-cam videos, and it supports cross-platform project workflow. You can replace green screen background with any desired background video or image. Here are the steps on how to add background to green screen in Premiere Pro.
@@ -88,10 +96,6 @@ When it comes to professional video editing, Premiere Pro is undoubted one of th
 Step1 Launch Adobe Premiere Pro and go to File> Import option. Select the green screen video clip as well as replacement background video and click on Open button.
 
 ![import video premiere pro](https://images.wondershare.com/filmora/article-images/2022/07/import-video-premiere-pro.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Drag the video clips from the Project panel and place them to Timeline so that the green screen video stays at the top.
 
@@ -107,6 +111,10 @@ Step5 Go to Ultra Key> Output> and select Alpha Channel option. Set Setting loca
 
 ![ultra key output premiere](https://images.wondershare.com/filmora/article-images/2022/07/ultra-key-output-premiere.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step6 Go to Matte Generation and adjust Transparency using the slider available.
 
 ![matte generation premiere](https://images.wondershare.com/filmora/article-images/2022/07/matte-generation-premiere.jpg)
@@ -116,7 +124,7 @@ Step7 You will see the green screen get replaced by the video or photo you have 
 ![edit green screen video premiere](https://images.wondershare.com/filmora/article-images/2022/07/edit-green-screen-video-premiere.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to change the background of green screen image?
@@ -133,16 +141,12 @@ Step3 Now select green screen image layer and go to Select menu and click on Col
 
 ![color range photoshop](https://images.wondershare.com/filmora/article-images/2022/07/color-range-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 Go to Select menu and click on Inverse option. Go to Select menu and click on Refine Edge option. This is to smoothen the edges so that no green screen is visible. Click on Ok button.
 
 ![refine edge photoshop](https://images.wondershare.com/filmora/article-images/2022/07/refine-edge-photoshop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step5 Go to Select menu and click on Inverse option. Press Delete key and the green screen background will disappear and the replacement image will appear in the background.
@@ -150,11 +154,7 @@ Step5 Go to Select menu and click on Inverse option. Press Delete key and the gr
 ![apply green screen to image ps](https://images.wondershare.com/filmora/article-images/2022/07/apply-green-screen-to-image-ps.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -172,24 +172,24 @@ We have illustrated how you can add a background to your green screen video on y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/levate-your-youtube-presence-strategic-tagging-and-titling-techniques-for-2024/"><u>[New] Elevate Your YouTube Presence Strategic Tagging and Titling Techniques for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-harnessing-power-of-luts-for-advanced-obs-studio-output/"><u>[New] Harnessing Power of LUTs for Advanced OBS Studio Output</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-facebook-featured-best-10-music-clips-today/"><u>[Updated] Facebook Featured Best 10 Music Clips Today</u></a></li>
-<li><a href="https://techtrends.techidaily.com/finding-the-right-channel-contacting-snapchat-customer-service-efficiently/"><u>Finding the Right Channel: Contacting Snapchat Customer Service Efficiently</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-google-pixel-fold-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Google Pixel Fold</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-phantom-v-flip-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Phantom V Flip Phone FRP Lock</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-zoom-in-and-out-on-mac/"><u>New 2024 Approved How to Zoom In and Out on Mac</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-are-you-looking-to-create-some-impressive-slow-motion-video-content-get-this-done-with-some-impressive-android-slow-motion-video-apps-for-2024/"><u>New Are You Looking to Create some Impressive Slow-Motion Video Content? Get This Done with some Impressive Android Slow Motion Video Apps for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-split-videos-in-premier-pro-for-2024/"><u>New How To Split Videos in Premier Pro for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-to-experiment-with-various-sky-backgrounds-for-your-footage-learn-about-sky-replacement-after-effects-in-this-article-with-a-step-by/"><u>New In 2024, Do You Want to Experiment with Various Sky Backgrounds for Your Footage? Learn About Sky Replacement After Effects in This Article with a Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-understanding-the-dynamics-underlying-in-ai-slow-motion-editing/"><u>New In 2024, Understanding the Dynamics Underlying in AI Slow Motion Editing</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-want-to-find-a-good-camera-for-youtube-this-article-brings-you-some-of-the-best-options-of-different-varieties-for-your-channel-for-2024/"><u>New Want to Find a Good Camera for YouTube? This Article Brings You some of the Best Options of Different Varieties for Your Channel for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/seamless-audio-switch-from-srt-to-xmlssa-guide-for-2024/"><u>Seamless Audio Switch From SRT to XML/SSA Guide for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723011818124-the-principle-of-operation-involving-charging-particles-and-collecting-them-on-plates-with-an-opposite-charge/"><u>The Principle of Operation Involving Charging Particles and Collecting Them on Plates with an Opposite Charge.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/understanding-apples-latest-move-adding-9-mac-models-to-its-obsolete-roster-insights-from-zdnet/"><u>Understanding Apple's Latest Move: Adding 9 Mac Models to Its 'Obsolete' Roster | Insights From ZDNet</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-your-brother-mfc-7860dw-printer-software-for-optimal-performance-on-windows-pcs/"><u>Update Your Brother MFC-#7860DW Printer Software for Optimal Performance on Windows PCs</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-are-you-eager-to-know-how-to-create-an-adjustment-layer-in-premiere-pro-this-article-will-highlight-the-significance-of-adding-an-adju/"><u>Updated 2024 Approved Are You Eager to Know How to Create an Adjustment Layer in Premiere Pro? This Article Will Highlight the Significance of Adding an Adjustment Layer in Premiere Pro</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-learning-how-to-slow-down-a-video-on-iphone-properly/"><u>Updated 2024 Approved Learning How to Slow Down a Video on iPhone Properly</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713963247477-updated-have-you-ever-used-the-path-blur-effect-in-your-photos-this-article-will-address-how-to-use-path-blur-in-photoshop-to-generate-appealing-results-acc/"><u>Updated Have You Ever Used the Path Blur Effect in Your Photos? This Article Will Address How to Use Path Blur in Photoshop to Generate Appealing Results Accurately for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-hidden-harmony-harvesters-ios-and-android-secret-audio-apps/"><u>[Updated] 2024 Approved Hidden Harmony Harvesters IOS & Android Secret Audio Apps</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-charting-a-course-to-your-personalized-tiktok-marker-for-2024/"><u>[Updated] Charting a Course to Your Personalized TikTok Marker for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tweet-to-facebook-video-sharing-a-2023-perspective/"><u>[Updated] In 2024, Tweet-to-Facebook Video Sharing A 2023 Perspective</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-ultimate-upscaling-preferred-platforms-for-tapping-snapalert-rhythms/"><u>[Updated] In 2024, Ultimate Upscaling Preferred Platforms for Tapping SnapAlert Rhythms</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-story-lore-who-are-the-premier-channels/"><u>2024 Approved Story Lore Who Are the Premier Channels?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-targets-leading-web-browser-with-unsettling-promotional-campaign-discover-how-theyre-doing-it/"><u>Apple Targets Leading Web Browser with Unsettling Promotional Campaign: Discover How They're Doing It</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/lay-youtube-on-phones-without-interruption/"><u>Autoplay YouTube on Phones without Interruption</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-samsung-galaxy-s23-fe-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Samsung Galaxy S23 FE to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/innovating-with-obs-studio-on-android-systems/"><u>Innovating with OBS Studio on Android Systems</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-based-on-preferences-you-can-adjust-the-speed-of-youtube-videos-learn-how-to-produce-a-youtube-slow-motion-video-in-this-article/"><u>New 2024 Approved Based on Preferences, You Can Adjust the Speed of YouTube Videos. Learn How to Produce a YouTube Slow-Motion Video in This Article</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-can-you-enhance-your-drone-footage-with-cinematic-drone-luts-this-article-discusses-top-drone-luts-recommendations-to-simplify-video-editi/"><u>New 2024 Approved Can You Enhance Your Drone Footage with Cinematic Drone LUTs? This Article Discusses Top Drone LUTs Recommendations to Simplify Video Editing</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-explore-a-variety-of-inexpensive-camera-models-suitable-for-making-slow-motion-footage-without-compromising-quality/"><u>New 2024 Approved Explore a Variety of Inexpensive Camera Models Suitable for Making Slow-Motion Footage without Compromising Quality</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-embrace-creativity-in-your-media-by-replacing-backgrounds-learn-to-replace-the-sky-in-lightroom-through-the-steps-and-details-discussed-in-this-/"><u>New In 2024, Embrace Creativity in Your Media by Replacing Backgrounds. Learn to Replace the Sky in Lightroom Through the Steps and Details Discussed in This Article</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-instagram-edge-rotating-videos-like-a-pro/"><u>The Instagram Edge Rotating Videos Like a Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-want-to-use-luts-in-final-cut-pro-there-are-many-free-luts-for-fcpx-available-that-you-can-use-using-luts-you-can-create-profes/"><u>Updated 2024 Approved Do You Want to Use LUTs in Final Cut Pro? There Are Many Free LUTs for FCPX Available that You Can Use. Using LUTs, You Can Create Professional-Looking Content</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-if-you-want-an-app-to-make-videos-with-pictures-and-music-for-social-media-posts-we-are-with-the-best-apps-to-make-videos-with-music-a/"><u>Updated 2024 Approved If You Want an App to Make Videos with Pictures and Music for Social Media Posts, We Are with the Best Apps to Make Videos with Music and Pictures</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713963128418-updated-green-screen-is-a-widely-used-effect-in-after-effects-many-professional-photographers-use-it-to-make-creative-video-effects-this-guide-will-show-you/"><u>Updated Green Screen Is a Widely Used Effect in After Effects. Many Professional Photographers Use It to Make Creative Video Effects. This Guide Will Show You How to Use Green Screen to Videos in After Effects for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-overview-of-best-luts-for-vlog/"><u>Updated In 2024, Overview of Best LUTs for Vlog</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-top-15-slow-motion-capcut-templates-to-work-with/"><u>Updated In 2024, Top 15 Slow Motion CapCut Templates to Work With</u></a></li>
 </ul></div>
 

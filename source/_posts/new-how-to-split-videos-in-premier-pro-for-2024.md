@@ -1,7 +1,7 @@
 ---
 title: New How To Split Videos in Premier Pro for 2024
-date: 2025-01-20T18:41:40.470Z
-updated: 2025-01-21T16:13:00.908Z
+date: 2025-01-21T00:08:41.291Z
+updated: 2025-01-27T20:33:52.016Z
 tags: 
   - ai
   - animation videos
@@ -20,13 +20,13 @@ You might regularly split and cut clips while doing video editing to find the pe
 Premiere Pro is the most popular video editing program for movies, television, and online. You may edit the footage into polished films and videos with the aid of creative tools and interaction with other apps and services.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. How to split a clip in premiere pro?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. The Razor tool
@@ -41,15 +41,15 @@ Step2Drag the clip onto the timeline if there is an existing sequence. If not, u
 
 ![new sequence from clip](https://images.wondershare.com/filmora/article-images/2022/08/how-to-split-in-premierpro-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3Choose the Razor tool from the panel next to the timeline to split the clip.
 
 Step4To split a video clip, click on the section you want to split.
 
 Step5Now that you have two segments from the same video file, you can edit them separately.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Current-Time Indicator
 
@@ -64,7 +64,7 @@ Step2Ensure that the video layer you want to split is highlighted on the timelin
 Step3Use the keyboard shortcuts Cmd+K or Ctrl+K to split the clip.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Source Panel
@@ -82,7 +82,7 @@ Step2Wherever you want the In and Out indicators to appear, press the **I** or *
 Step3Select Insert from the Source panel's tools once your marks are in place.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to split audio from video in premiere pro?
@@ -96,20 +96,24 @@ Step3Select Insert from the Source panel's tools once your marks are in place.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/iy-gif-creation-extracting-motion-from-youtube-videos-for-2024/"><u>[New] DIY GIF Creation Extracting Motion From YouTube Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-discovering-your-lately-watched-fb-movies-made-simple/"><u>[New] In 2024, Discovering Your Lately Watched Fb Movies Made Simple</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-comprehensive-walkthrough-for-bulk-tiktok-download/"><u>[Updated] Comprehensive Walkthrough for Bulk TikTok Download</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-editors-edge-exploring-the-best-of-youtube-video-tools/"><u>[Updated] The Editor's Edge Exploring the Best of YouTube Video Tools</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/10-best-websites-to-discover-free-premiere-pro-video-templates-for-2024/"><u>10 Best Websites to Discover Free Premiere Pro Video Templates for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-10-best-text-effects-for-your-video/"><u>2024 Approved 10 Best Text Effects for Your Video</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-review-highest-quality-power-inverters-2n4/"><u>Expert Review: Highest Quality Power Inverters - 2N4</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-essential-strategies-for-successful-mukbang-production/"><u>In 2024, Essential Strategies for Successful Mukbang Production</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-overview-of-best-luts-for-vlog/"><u>New 2024 Approved Overview of Best LUTs for Vlog</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-to-download-slow-motion-apps-that-can-edit-video-professionally-this-article-will-discuss-some-slomo-makers-for-both-ios-and-android/"><u>New In 2024, Do You Want to Download Slow-Motion Apps that Can Edit Video Professionally? This Article Will Discuss some Slomo Makers for Both iOS and Android</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-vlogs-and-travel-content-are-incomplete-without-a-fast-motion-effect-learn-step-by-step-how-to-make-fast-motion-video-on-an-iphone-in-this-artic/"><u>New In 2024, Vlogs and Travel Content Are Incomplete without a Fast-Motion Effect. Learn Step-by-Step How to Make Fast Motion Video on an iPhone in This Article</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-have-you-ever-used-an-adjustment-layer-in-photoshop-read-this-article-to-find-out-how-to-add-resize-change-and-use-an-adjustment-layer/"><u>Updated 2024 Approved Have You Ever Used an Adjustment Layer in Photoshop? Read This Article to Find Out How to Add, Resize, Change, and Use an Adjustment Layer in Photoshop Efficiently</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-learn-to-create-custom-sequence-presets-in-premiere-pro-for-efficient-video-editing-ensure-consistency-and-speed-up-your-workflow-with-perso/"><u>Updated In 2024, Learn to Create Custom Sequence Presets in Premiere Pro for Efficient Video Editing. Ensure Consistency and Speed up Your Workflow with Personalized Settings</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-wondering-how-to-create-a-stunning-intro-video-with-kinemaster-here-are-the-simple-steps-to-use-kinemaster-to-design-your-intro-video-in-sim/"><u>Updated In 2024, Wondering How to Create a Stunning Intro Video with KineMaster? Here Are the Simple Steps to Use KineMaster to Design Your Intro Video in Simple Steps</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/why-is-my-iphones-backup-dragging-on-strategies-to-accelerate-the-process/"><u>Why Is My iPhone's Backup Dragging On? Strategies to Accelerate the Process</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-eluding-prying-eyes-privacy-preserving-video-editing/"><u>[New] Eluding Prying Eyes Privacy-Preserving Video Editing</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-how-much-could-you-make-on-youtube-snippets/"><u>[New] In 2024, How Much Could You Make on YouTube Snippets?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artificially-inspired-creativity-how-to-compose-poetry-books-with-chatgpt/"><u>Artificially Inspired Creativity: How to Compose Poetry Books with ChatGPT</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/connect-play-and-share-the-essentials-of-xbox-zoom-for-2024/"><u>Connect, Play and Share The Essentials of Xbox Zoom for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/criando-um-imagem-iso-de-disco-de-vinil-em-windows-11-10-8-ou-7-e-macos/"><u>Criando Um Imagem ISO De Disco De Vinil Em Windows (11, 10, 8 Ou 7) E macOS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-thunderbolt-driver-downloads-compatible-with-windows/"><u>Free Thunderbolt Driver Downloads: Compatible with Windows</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-lava-yuva-3-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-are-you-looking-to-make-a-thumbnail-for-your-fortnite-video-this-article-features-a-guide-explaining-creating-a-fortnite-motion-blur-thumb/"><u>New 2024 Approved Are You Looking to Make a Thumbnail for Your Fortnite Video? This Article Features a Guide Explaining Creating a Fortnite Motion Blur Thumbnail</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-sony-vegas-not-cutting-it-find-the-perfect-windows-alternative-here/"><u>New 2024 Approved Sony Vegas Not Cutting It? Find the Perfect Windows Alternative Here</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-the-ultimate-guide-for-the-10-leading-slow-motion-cameras/"><u>New 2024 Approved The Ultimate Guide for the 10 Leading Slow-Motion Cameras</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-ai-has-influenced-all-video-editors-to-speed-up-editing-this-article-discusses-the-significance-of-ai-slow-motion-and-the-tools-that-offer-it-for-2024.m/"><u>New AI Has Influenced All Video Editors to Speed up Editing. This Article Discusses the Significance of AI Slow Motion and the Tools that Offer It for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-do-you-want-to-download-slow-motion-apps-that-can-edit-video-professionally-this-article-will-discuss-some-slomo-makers-for-both-ios-and-android-for-202/"><u>New Do You Want to Download Slow-Motion Apps that Can Edit Video Professionally? This Article Will Discuss some Slomo Makers for Both iOS and Android for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-zoom-in-discord/"><u>New In 2024, How to Zoom in Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-skeptical-approach-to-fake-playtime-teasers/"><u>The Skeptical Approach to Fake Playtime Teasers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-80s-cinema-hits-essential-movies-from-the-decade-to-stream-today/"><u>Top 80S Cinema Hits: Essential Movies From the Decade to Stream Today</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-ai-has-influenced-all-video-editors-to-speed-up-editing-this-article-discusses-the-significance-of-ai-slow-motion-and-the-tools-that-o/"><u>Updated 2024 Approved AI Has Influenced All Video Editors to Speed up Editing. This Article Discusses the Significance of AI Slow Motion and the Tools that Offer It</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-explore-the-potential-of-slow-motion-video-for-different-industries-read-this-guide-and-choose-the-best-slow-motion-camera-app-to-crea/"><u>Updated 2024 Approved Explore the Potential of Slow-Motion Video for Different Industries. Read This Guide and Choose the Best Slow-Motion Camera App to Create Stunning Videos</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-slowing-down-gif-with-the-best-available-methods/"><u>Updated In 2024, Slowing Down GIF With The Best Available Methods</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-the-ultimate-guide-for-the-10-leading-slow-motion-cameras/"><u>Updated In 2024, The Ultimate Guide for the 10 Leading Slow-Motion Cameras</u></a></li>
 </ul></div>
 

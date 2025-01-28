@@ -1,7 +1,7 @@
 ---
 title: New Discover How You Can Use Vectorscope to Adjust Luminance, Color Grading, and More in Your Video Editing Projects for 2024
-date: 2025-01-18T17:34:42.675Z
-updated: 2025-01-21T18:05:48.163Z
+date: 2025-01-26T01:47:25.191Z
+updated: 2025-01-27T22:27:01.225Z
 tags: 
   - ai
   - animation videos
@@ -23,6 +23,10 @@ Our eyes process colors differently. When two people look at the same picture, t
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 1\. Vectorscope: What is It and How to Read**
 
 Vectorscopes provide a great post-production way for color correction. It is video scope that provides greater data about the color properties of an image. Another way to look at it is that a Vectorscope is a circular graph, which monitors the following information of an image. By looking at it, you can measure saturation outward from the center while hue is measured in a circular pattern.
@@ -30,10 +34,6 @@ Vectorscopes provide a great post-production way for color correction. It is vid
 The Vectorscope contains markings indicating the degree of saturation and hue in an image. The distance of the markings from the center indicates how saturated the color is in your image. In simple terms, the further the markings, the more saturated the color. The two main options of Vectorscope are HLS and YUV. The HLS displays the hue, lightness, saturation, and signal information at a glance. On the other hand, the YUV mode contains several color boxes, giving accurate levels of hue and saturation.
 
 ![vectorscope](https://images.wondershare.com/filmora/article-images/2023/demystifying-the-vectorscope-a-comprehensive-guide-for-premiere-pro-color-correction-1.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Vectorscopes are useful to filmmakers and editors to ensure greater conformity in a film as they transition from one shot to the next. When the camera captures an image with too much saturation, using a Vectorscope helps to reduce the said saturation. This makes Vectorscope a useful feature for color correction and color grading. Color correction involves altering the colors of an image within a film to provide consistency and tone for the film. On the other hand, color grading is more like a supercharged version of color correction. It refers to altering a film so that it matches a tone or theme. Since the two, grading and correction are important, more video editing will use a combination of both.
 
@@ -50,7 +50,7 @@ Keep note of the two boxes in each main color. The box that is close to the cent
 Without proper calibration, your images may end up looking too red or too blue. They will not look natural at all and will affect the overall quality of your video. Therefore, using the features within the vectorsope will help you color-grade your images to perfection.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 2\.** ** Vectorscope in Premiere Pro
@@ -58,10 +58,6 @@ Without proper calibration, your images may end up looking too red or too blue. 
 Just like many other video editing software, Adobe Premiere Pro offers Vectorscope to help in post-production. The best way to look at Vectorscope in Premiere Pro is to use the Color Correction workspace. Once you have launched the software, Click Window, followed by Workspace, and then Color Correction. Access the reference monitor directly to deliver the program.
 
 The reference monitor will first display composite video. Clicking on the setting icon allows you to access the panel and choose the video scope you want to use. Now, this is how you use the Vectorscope in Premiere Pro:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **1\. Reading a Vectorscope on Premiere Pro**
 
@@ -73,25 +69,29 @@ As you examine the Vectorscope, you get to see how strong a particular color is 
 
 ![drop-down](https://images.wondershare.com/filmora/article-images/2023/demystifying-the-vectorscope-a-comprehensive-guide-for-premiere-pro-color-correction-4.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **2\. Adjusting Skin Tones**
 
 A commonly used feature of the Premier Pro Vectorscope is the Skin Tone Line. With this feature, you get the line on the scope between the Yellow and the Red sections at about 10.30 or 11 o’clock position.
 
 ![skin tones](https://images.wondershare.com/filmora/article-images/2023/demystifying-the-vectorscope-a-comprehensive-guide-for-premiere-pro-color-correction-5.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The Vectorscope skin tone line represents the color of blood flowing through the skin. You can use this line to check the accuracy of skin tone color representation regardless of the ethnicity of the person you’re filming. In particular, video images are more accurate
 
 The major problem is figuring out how to look at skin tones in a shot with many other colors. With the skin tons line in Premiere Pro, color correction becomes easy and quick. You only need to use a garbage matte, which is found under video effects then keying. Adjust the points so that they cover the skin of the person on the shot, then look at the Premiere Pro Vectorscope to see your end results.
 
 ![skin tone adjustments](https://images.wondershare.com/filmora/article-images/2023/demystifying-the-vectorscope-a-comprehensive-guide-for-premiere-pro-color-correction-6.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Part 3\.** **How to Use Vectorscope in Filmora
 
@@ -118,7 +118,7 @@ After starting a new project, head to the top right corner of the main interface
 ![access video scopes](https://images.wondershare.com/filmora/article-images/2023/demystifying-the-vectorscope-a-comprehensive-guide-for-premiere-pro-color-correction-8.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step 3Customize Video Scopes Layout Bar
@@ -140,7 +140,7 @@ To achieve more accurate and better results, explore the other video scopes in t
 ![manage Vectorscope](https://images.wondershare.com/filmora/article-images/2023/demystifying-the-vectorscope-a-comprehensive-guide-for-premiere-pro-color-correction-11.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -160,20 +160,18 @@ Vectorscopes are great for post-production color correction. Although lesser-kno
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-best-hash-tracking-apps-a-comprehensive-review-fbtwitterinsta/"><u>[New] In 2024, The Best Hash Tracking Apps A Comprehensive Review (FB/Twitter/Insta)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-ultimate-list-best-general-knowledge-trivia-series-2024/"><u>[New] Ultimate List Best General Knowledge Trivia Series 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-peek-into-innovation-with-microsofts-hololens-review/"><u>[Updated] In 2024, Peek Into Innovation with Microsoft's HoloLens Review</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-breakthrough-strategies-for-effective-fb-health-promotion/"><u>2024 Approved Breakthrough Strategies for Effective FB Health Promotion</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-keywords-that-captivate-enhancing-your-video-content/"><u>In 2024, Keywords that Captivate Enhancing Your Video Content</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-mavericks-video-creator-bringing-your-vision-to-life/"><u>New 2024 Approved Mavericks Video Creator Bringing Your Vision to Life</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-know-that-you-can-apply-different-luts-and-create-your-own-there-are-many-lut-online-and-offline-generators-that-you-can-use-to-create-yo/"><u>New In 2024, Do You Know that You Can Apply Different LUTs and Create Your Own? There Are Many LUT Online and Offline Generators that You Can Use to Create Your LUT</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-top-10-glitch-video-editing-apps-for-mobile-creatives/"><u>New The Ultimate List Top 10 Glitch Video Editing Apps for Mobile Creatives</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-hdmi-audio-connectivity-issues-for-windows-7-users/"><u>Overcoming HDMI Audio Connectivity Issues for Windows 7 Users</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-are-you-wondering-how-to-slow-down-videos-or-speed-them-up-here-are-three-ways-to-do-it-speed-up-or-slow-down-your-videos-on-pc-online/"><u>Updated 2024 Approved Are You Wondering How to Slow Down Videos or Speed Them up, Here Are Three Ways to Do It. Speed up or Slow Down Your Videos on PC, Online, and Phone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-slow-mo-youtube-videos/"><u>Updated 2024 Approved How to Slow-Mo YouTube Videos</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-zoom-in-discord/"><u>Updated 2024 Approved How to Zoom in Discord</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-what-is-the-best-mp4-cutters-for-youtubers-on-mac/"><u>Updated 2024 Approved What Is the Best MP4 Cutters for YouTubers on Mac?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-can-you-enhance-your-drone-footage-with-cinematic-drone-luts-this-article-discusses-top-drone-luts-recommendations-to-simplify-video-editing-for-202/"><u>Updated Can You Enhance Your Drone Footage with Cinematic Drone LUTs? This Article Discusses Top Drone LUTs Recommendations to Simplify Video Editing for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-learn-how-to-make-a-gaming-montage-guide-and-tips/"><u>Updated In 2024, Learn How to Make a Gaming Montage - Guide & Tips</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-seamless-integration-share-confidential-youtube-videos-on-gmail/"><u>[New] In 2024, Seamless Integration Share Confidential YouTube Videos on Gmail</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nlocking-youtube-success-with-savvy-backlinking-for-2024/"><u>[New] Unlocking YouTube Success with Savvy Backlinking for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-how-to-record-video-presentations-using-adobe-presenter/"><u>2024 Approved How to Record Video Presentations Using Adobe Presenter</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/expert-tips-for-downloading-and-upgrading-to-the-latest-xp-pen-drivers/"><u>Expert Tips for Downloading and Upgrading to the Latest XP-Pen Drivers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/flawless-picture-preservation-gratis-space-plus-charged-cloud-sanctuaries-await/"><u>Flawless Picture Preservation Gratis Space + Charged Cloud Sanctuaries Await</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-erase-iphone-12-pro-max-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase iPhone 12 Pro Max Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-nokia-c12-plus-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Nokia C12 Plus FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://driver-download.techidaily.com/logitech-g203-controller-driver-installation-guide-for-windows-users-windows-71011/"><u>Logitech G203 Controller Driver Installation Guide for Windows Users (Windows 7/10/11)</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-davinci-resolve-scopes-have-undergone-significant-improvements-find-out-how-to-use-these-scopes-and-improve-your-video-editing-skills/"><u>New 2024 Approved DaVinci Resolve Scopes Have Undergone Significant Improvements. Find Out How to Use These Scopes and Improve Your Video Editing Skills</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-vlogs-and-travel-content-are-incomplete-without-a-fast-motion-effect-learn-step-by-step-how-to-make-fast-motion-video-on-an-iphone-in-this/"><u>New 2024 Approved Vlogs and Travel Content Are Incomplete without a Fast-Motion Effect. Learn Step-by-Step How to Make Fast Motion Video on an iPhone in This Article</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-unlocking-the-power-of-davinci-resolve-scopes-enhance-your-color-grad/"><u>Updated 2024 Approved Unlocking the Power of DaVinci Resolve Scopes Enhance Your Color Grad</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-are-you-searching-for-the-best-canon-lut-download-this-article-provides-the-best-recommendations-for-creating-the-best-professional-videos-for-2024./"><u>Updated Are You Searching for the Best Canon LUT Download? This Article Provides the Best Recommendations for Creating the Best Professional Videos for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-a-vlogger-looking-for-good-color-correction-and-video-grading-presets-here-youll-find-different-vlog-luts-that-you-can-use-for-your-/"><u>Updated In 2024, Are You a Vlogger Looking for Good Color Correction and Video Grading Presets? Here Youll Find Different Vlog LUTs that You Can Use for Your Videos</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix FIFA 22 Game Crashes on Your Computer
-date: 2025-01-16T16:01:28.774Z
-updated: 2025-01-21T17:25:41.178Z
+date: 2025-01-22T01:34:42.835Z
+updated: 2025-01-27T20:02:56.171Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/fe074f06665304f02bb44d59a2cf2f7a7e742cf6a
 ## Finding a Fix When Your Computer Isn't Responding to the Minecraft Game
 
 The infinite world in Minecraft is waiting for you to explore, but you just can’t get in. It keeps not responding forever. How annoying it is! Don’t worry, Minecraft not responding is nothing new. Thousands of players are reporting the same issue. The good news is that you can solve it easily.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Why is Minecraft not responding?
 
@@ -49,6 +45,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 5. **[Disable Mods](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall your Minecraft](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Disable Discord Overlay
 
  Many users are reporting that Discord overlay can cause Minecraft not to respond. To fix it, you need to**disable Discord Overlay** or**close Discord completely** .
@@ -61,15 +61,15 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/discord-overlay.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Launch your Minecraft again.
 
  See if the issue still persists. If your Minecraft is still not responding, you can move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Remove incompatible software
 
@@ -80,10 +80,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
  If you’ve removed all these conflicting applications but your Minecraft is still not responding, you can try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -115,7 +111,7 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-09-24_10-03-23-9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to your graphics driver to download the correct version of its driver, then you can manually install it.
@@ -125,6 +121,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
  Click the**Update All** button at the bottom right to automatically update all the drivers. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get**full support** and a**30-day money back guarantee** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/update-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -148,6 +148,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/admin-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Run Minecraft again to see if this works.
 
 ---
@@ -163,7 +167,7 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Reinstall your Minecraft
@@ -185,10 +189,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
  5) Right-click the**.minecraft** folder and select**Delete** to make sure you’ve deleted the related files.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/remove-minecraft-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) After uninstalling, restart your computer. Go to the[**official Minecraft website**](https://www.minecraft.net/en-us/) to download and install Minecraft again.
 
@@ -218,22 +218,15 @@ Feel free to leave us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-exploring-instagrams-premier-after-effects-themes/"><u>[New] 2024 Approved Exploring Instagram's Premier After Effects Themes</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-unlocking-the-secrets-of-seamless-video-and-picture-upload-w11-for-2024/"><u>[Updated] Unlocking the Secrets of Seamless Video & Picture Upload W11 for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-streamlined-playback-import-tunes-into-inshot/"><u>2024 Approved Streamlined Playback Import Tunes Into InShot</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726030040741-musescore/"><u>完璧なサウンド出力: MuseScoreで高解像度オーディオを作成するためのテクニック</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-asus-pc-driver-conflicts-in-windows-10-easily/"><u>Fixing Asus PC Driver Conflicts in Windows 10 Easily</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-winx-dvd-ripper-convert-dvds-to-mp4avi-for-ios-android-devices-effortlessly/"><u>Free WinX DVD Ripper: Convert DVDs to MP4/AVI for iOS, Android Devices Effortlessly</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-are-you-curious-about-finding-a-good-iphone-slow-motion-app-discover-the-top-rated-applications-in-the-market-that-will-help-you-create-th/"><u>New 2024 Approved Are You Curious About Finding a Good iPhone Slow-Motion App? Discover the Top-Rated Applications in the Market that Will Help You Create the Perfect Video</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-experiment-with-various-sky-backgrounds-for-your-footage-learn-about-sky-replacement-after-effects-in-this-article-with-a-s/"><u>New 2024 Approved Do You Want to Experiment with Various Sky Backgrounds for Your Footage? Learn About Sky Replacement After Effects in This Article with a Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-knowing-all-ways-to-slow-down-video-with-adobe-premiere-pro/"><u>New 2024 Approved Knowing All Ways To Slow Down Video With Adobe Premiere Pro</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-learn-how-to-make-a-gaming-montage-guide-and-tips/"><u>New 2024 Approved Learn How to Make a Gaming Montage - Guide & Tips</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-put-a-background-on-a-green-screen/"><u>New In 2024, How to Put a Background on A Green Screen</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-mask-tracking-is-believed-to-be-a-helpful-procedure-for-marking-proper-areas-in-videos-learn-how-to-perform-premiere-pro-mask-tracking-in-this-g/"><u>New In 2024, Mask Tracking Is Believed to Be a Helpful Procedure for Marking Proper Areas in Videos. Learn How to Perform Premiere Pro Mask Tracking in This Guide</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-the-art-of-fashioning-slow-motions-has-remained-popular-ever-since-read-this-article-to-learn-how-to-do-slow-mo-in-capcut-and-other-powerful-too/"><u>New In 2024, The Art of Fashioning Slow Motions Has Remained Popular Ever Since. Read This Article to Learn How to Do Slow-Mo in CapCut and Other Powerful Tools</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/quick-and-simple-adding-youtube-songs-to-imovie-edit-for-2024/"><u>Quick and Simple Adding Youtube Songs to iMovie Edit for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/stopping-fb-reel-views-a-step-by-step-guide/"><u>Stopping FB Reel Views: A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-want-to-add-a-slow-mo-effect-in-your-videos-in-this-guide-we-will-discuss-how-to-add-slow-motion-effects-in-the-videos-with-aft/"><u>Updated 2024 Approved Do You Want to Add a Slow-Mo Effect in Your Videos? In This Guide, We Will Discuss How to Add Slow-Motion Effects in the Videos with After Effects in an Efficient Way</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-capturing-live-gaming-decide-on-obsshadowplay/"><u>[New] In 2024, Capturing Live Gaming - Decide on OBS/ShadowPlay</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-navigating-snapchats-new-spotlight-functionality/"><u>[New] Navigating Snapchat's New Spotlight Functionality</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boost-your-photo-workflow-in-windows-11-for-2024/"><u>Boost Your Photo Workflow in Windows 11 for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-perform-mask-tracking-discovering-the-best-methods/"><u>New 2024 Approved How to Perform Mask Tracking Discovering the Best Methods</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-use-deep-fried-meme-maker/"><u>New 2024 Approved How to Use Deep Fried Meme Maker</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-master-premiere-pro-custom-sequence-presets/"><u>New 2024 Approved Master Premiere Pro Custom Sequence Presets</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-are-you-a-video-editor-making-use-of-imovie-do-you-wish-to-read-how-to-change-orientation-in-imovie-youre-in-the-right-place-at-the-end-of-this-/"><u>New In 2024, Are You a Video Editor Making Use of iMovie? Do You Wish to Read How to Change Orientation in iMovie? Youre in the Right Place! At the End of This Guide, Youd Have Learned How to Change Video Orientation in iMovie</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/strategie-per-identificare-e-rimuovere-duplicati-non-autorizzati-del-sistema-operativo-windows/"><u>Strategie per Identificare E Rimuovere Duplicati Non Autorizzati Del Sistema Operativo Windows</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-ultimate-pc-clipper-guide-choose-from-the-5-best-tools-for-2024/"><u>The Ultimate PC Clipper Guide - Choose From the 5 Best Tools for 2024</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/top-rated-clear-screen-protector-background-applications-for-android-and-iphone-devices/"><u>Top Rated Clear Screen Protector Background Applications for Android and iPhone Devices</u></a></li>
 </ul></div>
 

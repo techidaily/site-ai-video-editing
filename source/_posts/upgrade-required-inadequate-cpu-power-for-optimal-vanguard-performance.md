@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Required: Inadequate CPU Power for Optimal Vanguard Performance"
-date: 2025-01-17T16:43:02.315Z
-updated: 2025-01-21T16:42:35.967Z
+date: 2025-01-22T23:07:12.271Z
+updated: 2025-01-28T01:06:59.541Z
 tags:
   - win11
   - win10
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
  Released in early 2020, Warzone is still one of the hottest FPS in 2021\. But the game is never problem-free, and many players are still reporting that**the game isn’t using GPU** . If you’re on the same boat, don’t worry. Here’re some working fixes that can help you get everything back on track.
 
  Before troubleshooting, you should**try different hardware monitors** to see if it’s just a false alarm.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -57,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
  If the latest GPU driver doesn’t give you luck, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Install all Windows updates
@@ -70,6 +66,10 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
@@ -78,10 +78,6 @@ Here’s how you can check for updates manually:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
 Once done, restart your PC and see if Warzone is using your GPU.
@@ -89,7 +85,7 @@ Once done, restart your PC and see if Warzone is using your GPU.
  If updating your system doesn’t help, you can take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Change settings in your graphics control panel
@@ -103,14 +99,14 @@ Once done, restart your PC and see if Warzone is using your GPU.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-1.jpg)
 3. In the left pane, select**Set PhysX Configuration** . Under**Select a PhysX processor** , click to expand the drop down list and**select your GPU** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-2.jpg)
 4. Now start your game and check if it’s running properly.
 
  If this trick doesn’t work for you, simply move on to the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Set graphics preference to High performance
 
@@ -120,19 +116,19 @@ Once done, restart your PC and see if Warzone is using your GPU.
 ![how to disable hardware accelerated GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2020/10/display-settngs.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of Warzone. Choose**ModernWarfare.exe** in the game folder.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (By default it’s_%USERPROFILE%\\Documents\\Call of Duty Modern Warfare_ )  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/graphics-settings-warzone-browse.jpg)
 4. Click**Options** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-force-gpu-1.jpg)
@@ -142,6 +138,10 @@ Once done, restart your PC and see if Warzone is using your GPU.
 6. You can do the same for**Modern Warfare Launcher.exe** . Once done, start Warzone and compare the GPU utilization with the gameplay.
 
  If this setting doesn’t help, take a look at the next solution below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Run Warzone in Windowed mode
 
@@ -171,20 +171,24 @@ Once done, restart your PC and see if Warzone is using your GPU.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-eliminating-fisheye-lens-distortions-with-gopro/"><u>[Updated] 2024 Approved Eliminating Fisheye Lens Distortions with GoPro</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-find-your-perfect-match-top-8-mirrorless-cameras-for-live-streams/"><u>[Updated] Find Your Perfect Match Top 8 Mirrorless Cameras For Live Streams</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-get-people-to-subscribe-by-asking-the-right-way/"><u>[Updated] In 2024, How to Get People to Subscribe by Asking the Right Way</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-master-the-art-of-professional-webcam-filming/"><u>[Updated] In 2024, Master the Art of Professional Webcam Filming</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/beat-bugs-and-glitches-how-to-ensure-smooth-gaming-with-battlefield-5-on-your-desktop/"><u>Beat Bugs & Glitches: How To Ensure Smooth Gaming with Battlefield 5 on Your Desktop</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-brighten-up-your-gaming-setup-eliminate-black-screens-with-obs/"><u>[New] 2024 Approved Brighten Up Your Gaming Setup Eliminate Black Screens with OBS</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-discovering-the-finest-mac-screen-capture-software/"><u>[New] Discovering the Finest Mac Screen Capture Software</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-framerate-and-quality-in-game-recorders-explored/"><u>[New] Framerate and Quality in Game Recorders Explored</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-full-mastery-guide-adobe-cloud-and-its-rival-services/"><u>[New] In 2024, Full Mastery Guide Adobe Cloud and Its Rival Services</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-perfectly-synchronized-clip-composites-via-modes/"><u>[Updated] Perfectly Synchronized Clip Composites via Modes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/compatibility-check-can-the-nintendo-switch-play-netflix-shows-and-movies/"><u>Compatibility Check: Can The Nintendo Switch Play Netflix Shows and Movies?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/cyberpunk-2077-release-issues-resolved-now-playable/"><u>Cyberpunk 2077 Release Issues Resolved: Now Playable</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/decoding-complex-hardware-for-beginners-a-look-inside-with-toms-experience/"><u>Decoding Complex Hardware for Beginners: A Look Inside With Tom's Experience</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/decoding-high-performance-gadgets-an-in-depth-guide-by-toms-hardware/"><u>Decoding High-Performance Gadgets: An In-Depth Guide by Tom's Hardware</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-samsung-galaxy-a15-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Samsung Galaxy A15 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/how-to-fix-fifa-22-game-crashes-on-your-computer/"><u>How to Fix FIFA 22 Game Crashes on Your Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-revive-your-iphones-battery-life-after-the-latest-ios-1751-installation-tips-from-zdnet/"><u>How to Revive Your iPhone's Battery Life After the Latest iOS 17.5.1 Installation | Tips From ZDNet</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/leading-network-enclosures-and-server-racks-of-2024-in-depth-review/"><u>Leading Network Enclosures and Server Racks of 2024 – In-Depth Review</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reunion-rocks-all-wacom-devices-connected/"><u>Reunion Rocks: All Wacom Devices Connected</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/the-ultimate-guide-to-the-amazon-fire-hd-10-an-all-family-friendly-media-powerhouse-review/"><u>The Ultimate Guide to the Amazon Fire HD 10: An All-Family-Friendly Media Powerhouse Review</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1722996356181-easy-steps-to-fix-windows-11-or-10-spatial-audio-not-working-correctly/"><u>Easy Steps to Fix Windows 11 or 10 Spatial Audio Not Working Correctly.</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/economical-ibuypower-preassembled-esports-pc-for-competitive-gaming-on-a-budget/"><u>Economical iBUYPOWER Preassembled Esports PC for Competitive Gaming on a Budget</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722978315812-essential-vga-driver-downloads-for-optimal-performance-grab-them-here/"><u>Essential VGA Driver Downloads for Optimal Performance - Grab Them Here!</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/expert-evaluation-of-the-docooler-usb-20-capturing-at-12-megapixels-unveiling-the-truth/"><u>Expert Evaluation of the Docooler USB 2.0, Capturing at 12 Megapixels: Unveiling the Truth</u></a></li>
+<li><a href="https://blog-min.techidaily.com/iphonempeg/"><u>IPhone上にMPEGファイルをスムーズに再生するためのシンプルテクニック</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/rainbow-six-extraction-error-resolved-how-to-address-no-compatible-driverhardware-found/"><u>Rainbow Six Extraction Error Resolved: How to Address 'No Compatible Driver/Hardware Found'</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/review-of-the-latest-totobay-wake-up-light-is-it-your-best-budget-sleep-solution/"><u>Review of the Latest Totobay Wake-Up Light: Is It Your Best Budget Sleep Solution?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streamlining-your-tasks-the-ultimate-guide-to-macos-finders-quick-actions-for-enhanced-efficiency-expert-tips-by-zdnet/"><u>Streamlining Your Tasks: The Ultimate Guide to MacOS Finder's Quick Actions for Enhanced Efficiency | Expert Tips by ZDNET</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/toms-tech-review-your-ultimate-guide-to-computer-gear/"><u>Tom's Tech Review: Your Ultimate Guide to Computer Gear</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-unlock-the-power-of-screen-recording-a-filmora-scrn-tutorial/"><u>Updated Unlock the Power of Screen Recording A Filmora Scrn Tutorial</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/worlds-first-amd-advantage-mini-pc-introducing-the-atomman-g7-pt-with-r9-7945hx-and-rx-760e-xt-graphics/"><u>World's First AMD Advantage Mini PC: Introducing the AtomMan G7 Pt with R9 7945HX & RX 760E XT Graphics</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210367972-9781633412514-twist-your-fate/"><u>Twist Your Fate | Free Book</u></a></li>
 </ul></div>
 

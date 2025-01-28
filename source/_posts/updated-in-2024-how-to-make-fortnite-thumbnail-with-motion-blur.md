@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Make Fortnite Thumbnail with Motion Blur?
-date: 2025-01-20T16:53:24.953Z
-updated: 2025-01-21T18:23:28.918Z
+date: 2025-01-21T02:08:22.641Z
+updated: 2025-01-28T00:51:36.642Z
 tags: 
   - ai
   - animation videos
@@ -25,10 +25,6 @@ In this article, we will work on the best methods to make a **Fortnite motion bl
 
 There are many ways to add motion blur to Fortnite thumbnails, as stated above. In this article, we will be providing appropriate methods for users of all types. From smartphone to online and desktop solutions, this article has it all.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Way 1: Make Motion Blur Fortnite Thumbnail with Picsart (Smartphone)
 
 For the first method, we will be discussing an appropriate way that can be used to make motion blur in Fortnite thumbnails. [Picsart](https://picsart.com/apps) is a known mobile application providing unique photo editing services. This photo editor is a complete package containing some of the best tools. Integrated with artificial intelligence, this tool presents a perfect platform to perform motion blur on Fortnite thumbnails.
@@ -43,11 +39,19 @@ Download and install Picsart on your phone and proceed to launch it. As it opens
 
 ![create a picsart account if needed](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2 Proceed to Effects Tab After Importing Thumbnail
 
 You will have to import the created Fortnite thumbnail that is to be edited. After importing the thumbnail, select “Effects” from the bottom panel of the application.
 
 ![choose the effects tool](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step3 Add Motion Blur and Export
 
@@ -56,7 +60,7 @@ On the next screen, look for the "Blur" section from the bottom and find the "Mo
 ![apply the motion blur](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 2: Make Motion Blur Fortnite Thumbnail with Fotor (Online)
@@ -73,10 +77,6 @@ You must open the Fotor Photo Editor on your web browser. Then, proceed to impor
 
 ![upload the fortnite thumbnail](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step2 Add Motion Blur on Photo
 
 In the “Adjust” tab, look for the “Blur” option for including motion blur within the photo. You can select “Circular” or “Linear” blur, per the requirements.
@@ -88,6 +88,10 @@ In the “Adjust” tab, look for the “Blur” option for including motion blu
 Continue to set the “Blur Intensity” and make changes by clicking “Apply.” If you wish to blur your background, consider using the “Background Blur” option in the list. Once the editing completes, click “Download” to export the Fortnite thumbnail.
 
 ![adjust the blur intensity](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Way 3: Make Motion Blur Fortnite Thumbnail with Photoshop (Desktop)
 
@@ -115,14 +119,6 @@ Create another duplicate layer and proceed to the "Filter" tab. Look for "Blur G
 
 ![choose the motion blur](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Last Words
 
 Many tools can be used to add motion blur within photos and videos. As you create a thumbnail for Fortnite, you will need a proper tool to help you add motion blur. We have discussed several tools in this article for adding motion blur.
@@ -135,6 +131,10 @@ In this article, we will work on the best methods to make a **Fortnite motion bl
 
 ![fortnite thumbnail with motion blur](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -144,24 +144,19 @@ In this article, we will work on the best methods to make a **Fortnite motion bl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024s-guide-to-cutting-edge-cost-effective-storage/"><u>[New] 2024’S Guide to Cutting-Edge, Cost-Effective Storage</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-going-on-youtube-video-upload-tutorial-in-premiere/"><u>[Updated] 2024 Approved Get Going on YouTube Video Upload Tutorial in Premiere</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-mastering-the-craft-of-digital-cinematography-with-ipad/"><u>[Updated] In 2024, Mastering the Craft of Digital Cinematography with iPad</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-immersive-tech-the-best-vr-gadgets-rated/"><u>2024 Approved Immersive Tech The Best VR Gadgets Rated</u></a></li>
-<li><a href="https://win-able.techidaily.com/boosting-outriders-stability-tips-for-eliminating-freezing-glitches-on-desktops/"><u>Boosting Outriders Stability: Tips for Eliminating Freezing Glitches on Desktops</u></a></li>
-<li><a href="https://win-help.techidaily.com/fix-your-audio-problems-essential-steps-to-repair-a-faulty-sound-card-advice-from-yl-tech-experts/"><u>Fix Your Audio Problems: Essential Steps to Repair a Faulty Sound Card – Advice From YL Tech Experts</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/guide-to-completely-erase-data-on-iphone-6s-to-avoid-privacy-leak-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Guide to Completely Erase Data on iPhone 6s to Avoid Privacy Leak | Stellar</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-reliable-tool-for-quick-high-quality-tiktok-to-mp4-extraction/"><u>In 2024, Reliable Tool for Quick, High-Quality TikTok to MP4 Extraction</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-list-of-supported-iphone-video-formats-and-best-iphone-video-editor/"><u>New 2024 Approved List of Supported iPhone Video Formats and Best iPhone Video Editor</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-want-to-find-a-good-camera-for-youtube-this-article-brings-you-some-of-the-best-options-of-different-varieties-for-your-channel/"><u>New 2024 Approved Want to Find a Good Camera for YouTube? This Article Brings You some of the Best Options of Different Varieties for Your Channel</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-being-an-after-effects-editor-you-often-find-yourself-the-need-to-add-motion-blur-after-effects-this-guide-has-got-you-covered-follow-to-find-ou/"><u>New In 2024, Being an After Effects Editor, You Often Find Yourself the Need to Add Motion Blur After Effects. This Guide Has Got You Covered. Follow to Find Out How to Add Motion Blur in After Effects</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-to-use-luts-in-final-cut-pro-there-are-many-free-luts-for-fcpx-available-that-you-can-use-using-luts-you-can-create-professional-loo/"><u>New In 2024, Do You Want to Use LUTs in Final Cut Pro? There Are Many Free LUTs for FCPX Available that You Can Use. Using LUTs, You Can Create Professional-Looking Content</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-your-photos-and-videos-to-give-an-old-and-vintage-feel-here-are-some-vintage-luts-premiere-pro-free-and-paid-options-available-to-do/"><u>New In 2024, Do You Want Your Photos and Videos to Give an Old and Vintage Feel? Here Are some Vintage LUTs Premiere Pro Free and Paid Options Available to Download</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/pioneering-screen-capture-methods-with-adobe-captivity-unveiled-for-2024/"><u>Pioneering Screen Capture Methods with Adobe Captivity Unveiled for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-wish-to-create-high-quality-videos-and-experience-effective-videos-with-editing-no-problem-at-all-because-the-keyboard-shortcuts-list/"><u>Updated In 2024, Do You Wish to Create High-Quality Videos and Experience Effective Videos with Editing? No Problem at All because the Keyboard Shortcuts Listed Here Will Assist You</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713964138345-updated-learn-how-to-effortlessly-mirror-video-clips-in-adobe-premiere-pro-with-this-step-by-step-guide-perfect-for-creating-a-symmetrical-look-in-your-vide/"><u>Updated Learn How to Effortlessly Mirror Video Clips in Adobe Premiere Pro with This Step-by-Step Guide. Perfect for Creating a Symmetrical Look in Your Videos for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-lets-introduce-the-top-5-applications-to-add-a-song-to-a-video-for-free-with-some-amazing-sound-and-visual-effects-for-2024/"><u>Updated Lets Introduce the Top 5 Applications to Add a Song to a Video for Free with some Amazing Sound and Visual Effects for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-the-way-to-quick-and-efficient-editing-keyboard-shortcuts-in-filmora-for-2024/"><u>Updated The Way to Quick and Efficient Editing | Keyboard Shortcuts in Filmora for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726221549228-movavi/"><u>모바일 사용자를위한 안전하고 효과적인 Movavi 미드리뷰 포트폴로</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-your-system-errors-by-manually-uninstalling-amd-drivers-on-windows-pcs/"><u>Fix Your System Errors by Manually Uninstalling AMD Drivers on Windows PCs</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/fixes-and-solutions-resolving-metro-exodus-pc-crash-issues/"><u>Fixes & Solutions: Resolving Metro Exodus PC Crash Issues</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-v30-lite-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Vivo V30 Lite 5G Phone without Google Account?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-13-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 13 Pro Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-wish-to-learn-about-some-tools-to-slow-down-a-video-discover-how-to-slow-down-time-lapse-on-iphone-throughout-this-article/"><u>New 2024 Approved Do You Wish to Learn About some Tools to Slow Down a Video? Discover How to Slow Down Time Lapse on iPhone Throughout This Article</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-zoom-in-discord-for-2024/"><u>New How to Zoom in Discord for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-what-is-the-best-voice-changer-for-whatsapp-discover-the-seven-7-best-voice-changers-for-whatsapp-here-in-this-post/"><u>New In 2024, What Is the Best Voice Changer for WhatsApp? Discover the Seven (7) Best Voice Changers for WhatsApp Here in This Post</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-top-shortcut-towards-timeline-template-for-2024/"><u>New Top Shortcut Towards Timeline Template for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premier-vhs-inspired-tricks-for-editing-excellence-for-2024/"><u>Premier VHS-Inspired Tricks for Editing Excellence for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-guide-to-understanding-vr-technology/"><u>Step-by-Step Guide to Understanding VR Technology</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-the-way-to-quick-and-efficient-editing-keyboard-shortcuts-in-filmora/"><u>Updated In 2024, The Way to Quick and Efficient Editing | Keyboard Shortcuts in Filmora</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/verifying-your-digital-wallets-crypto-assets-a-step-by-step-guide-with-yl-computing/"><u>Verifying Your Digital Wallet's Crypto Assets - A Step-by-Step Guide with YL Computing</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Tecno Spark 10 Pro | Dr.fone</u></a></li>
 </ul></div>
 

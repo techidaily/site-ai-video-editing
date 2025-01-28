@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Do You Want to Experiment with Various Sky Backgrounds for Your Footage? Learn About Sky Replacement After Effects in This Article with a Step-by-Step Guide
-date: 2025-01-14T17:36:24.666Z
-updated: 2025-01-21T16:51:17.956Z
+date: 2025-01-24T01:32:13.184Z
+updated: 2025-01-27T20:04:43.716Z
 tags: 
   - ai
   - animation videos
@@ -25,10 +25,6 @@ In this article, the focus of the discussion is how to replace Sky After Effects
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: What Are the Benefits of Having Video Background Replacers?
 
 Along with enhancing the creative element in videos, background replacers help with more. Users can integrate them for both personal and professional uses. The following section will give a sneak peek at the advantages of background removers:
@@ -40,6 +36,10 @@ Video background removers extract the real surroundings, which addresses privacy
 ### 2\. Maintains Professional Appearance
 
 They help you set up professional backgrounds for Zoom meetings or Google Classrooms. In this way, they maintain the professional element of your videos.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Marketing Consistency
 
@@ -60,7 +60,7 @@ Do you want to elevate the graphics of your videos professionally? Adobe After E
 There are built-in effects and features to ease the editing process for you. In addition, you can do custom settings in it and save them as presets. One of its many specifications is that it is an elite background remover and replacement. It enables a seamless addition of the sky in the background. We have mentioned the step-by-step procedure of **After Effects replace Sky** below:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Procedure 1: Removing Video Background
@@ -69,29 +69,25 @@ There are built-in effects and features to ease the editing process for you. In 
 
 ![enable extract effect](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-after-effects-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** To avoid removing parts other than the sky, duplicate this video to the timeline. From the bottom video, eliminate the extractor effect. Navigate towards the top toolbar and select the "Mask" option. Create a mask around the ground at the bottom of the video. In the timeline, click the "Mask Path" option to create the mask throughout the video.
 
 ![enable pen tool to draw mask](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-after-effects-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Now, select the top video in the timeline and search for “Key Cleaner.” Adjust the values of options under the key cleaner for precision.
 
 ![enable key cleaner](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-after-effects-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4:** If there are still some spaces left, use the “Simple Choker” effect to correct them. You can find it using the search bar and adjust the given values.
 
 ![enable simple choker effect](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-after-effects-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Procedure 2: 3D Camera Tracking
 
@@ -99,12 +95,16 @@ There are built-in effects and features to ease the editing process for you. In 
 
 ![activate 3d tracking for mask](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-after-effects-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Next, select any three points from the footage and right-click on them. From the drop-down menu, select "Create Null and Camera" or "Create Solid and Camera."
 
 ![select a camera option](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-after-effects-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Procedure 3: Replacing the Sky
@@ -114,7 +114,7 @@ There are built-in effects and features to ease the editing process for you. In 
 ![adjust the position of sky](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-after-effects-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2:** Once you have set the sky's position, navigate towards the timeline panel again. From there, change the "Scale" of the background to set according to your footage. Afterward, see if the sky needs any flipping. This is because you must align the bright parts of the sky with the bright parts of the ground.
@@ -151,11 +151,19 @@ First, install Wondershare Filmora on your device and launch it. Afterward, use 
 
 ![import media after creating a project](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-after-effects-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 2Enable the Smart Cutout Option
 
 In the timeline panel, select the video and navigate towards the right-side settings panel. Afterwards, go to the "AI Tools" section under the "Video" tab. From there, enable the “Smart Cutout” option and click the Start button below.
 
 ![enable the smart cutout option](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-after-effects-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 3Start Removing Background
 
@@ -164,7 +172,7 @@ In the Smart Cutout Video window, use the brush to mark the object you want in t
 ![save the cutout video](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-after-effects-13.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step 4Replace a Background and Export Video
@@ -172,10 +180,6 @@ In the Smart Cutout Video window, use the brush to mark the object you want in t
 Once the background has been removed, click this video in the timeline. Hover the cursor towards the right settings panel and access the "Video > Basic" tab. Scroll down to find the "Backgrounds" section and enable it. In the "Type" section, select the background type and choose from the options to add. Once you have added the background, click the "Export" button to save this video.
 
 ![replace the background](https://images.wondershare.com/filmora/article-images/2023/replace-sky-background-in-after-effects-14.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -187,10 +191,6 @@ Wondershare Filmora, on the other hand, can carry on the process with efficiency
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -200,19 +200,22 @@ Wondershare Filmora, on the other hand, can carry on the process with efficiency
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-easy-customization-free-youtube-visual-templates/"><u>[Updated] In 2024, Easy Customization Free YouTube Visual Templates</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-unveiling-facebooks-secrets-30-insider-tricks-for-growth-for-2024/"><u>[Updated] Unveiling Facebook's Secrets 30 Insider Tricks for Growth for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-quick-access-to-hidden-past-reddit-posts-and-articles/"><u>2024 Approved Quick Access to Hidden, Past Reddit Posts and Articles</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/asus-mg28uq-elevating-your-visual-experience-to-new-heights-for-2024/"><u>ASUS MG28UQ Elevating Your Visual Experience to New Heights for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-content-management-for-instagram-profiles/"><u>In 2024, YouTube Content Management for Instagram Profiles</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-bored-of-extraneous-software-downloads-and-program-installations-to-edit-your-videos-the-best-video-editing-online-utilities-are-here-at-your-re/"><u>New In 2024, Bored of Extraneous Software Downloads and Program Installations to Edit Your Videos? The Best Video Editing Online Utilities Are Here at Your Rescue</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-what-should-be-considered-to-choose-a-nice-gopro-for-vlogging-in-2024/"><u>New What Should Be Considered to Choose A Nice GoPro for Vlogging, In 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/seamless-integration-combining-b-roll-and-main-scenes/"><u>Seamless Integration Combining B-Roll and Main Scenes</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/top-9-premium-wedding-films-online-youtube-and-vimeo/"><u>Top 9 Premium Wedding Films Online Youtube & Vimeo</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-are-you-trying-to-make-slow-mo-videos-on-instagram-in-this-article-we-will-discuss-top-rated-ways-to-produce-perfect-slow-motion-video/"><u>Updated 2024 Approved Are You Trying to Make Slow-Mo Videos on Instagram? In This Article, We Will Discuss Top-Rated Ways to Produce Perfect Slow-Motion Videos for Instagram</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-get-zoom-on-tv-easy-solutions/"><u>Updated In 2024, How to Get Zoom on TV Easy Solutions</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-learn-to-merge-clips-in-davinci-resolve-simple-steps/"><u>Updated In 2024, Learn to Merge Clips in DaVinci Resolve Simple Steps</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-tiktok-video-aspect-ratio-for-2024/"><u>Updated Tiktok Video Aspect Ratio for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-step-by-step-techniques-for-computer-based-photo-filtering/"><u>[New] In 2024, Step-By-Step Techniques for Computer-Based Photo Filtering</u></a></li>
+<li><a href="https://common-error.techidaily.com/avoid-game-pauses-with-x3daudio17dll-restoration/"><u>Avoid Game Pauses with X3DAudio1_7.dll Restoration</u></a></li>
+<li><a href="https://win-dash.techidaily.com/canon-lbp600d-inkjet-driver-downloader-update-instructions-for-windows-users/"><u>Canon LBP600d Inkjet Driver Downloader: Update Instructions for Windows Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/ergodyne-topo-mat-evaluation-revolutionize-your-standing-experience/"><u>Ergodyne Topo Mat Evaluation: Revolutionize Your Standing Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-spoken-words-to-written-text-ppt-innovation-guide-for-2024/"><u>From Spoken Words to Written Text PPT Innovation Guide for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-oneplus-nord-ce-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-huawei-nova-y71-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-apple-iphone-15-pro-max-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On Apple iPhone 15 Pro Max? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-are-you-eager-to-know-how-to-create-an-adjustment-layer-in-premiere-pro-this-article-will-highlight-the-significance-of-adding-an-adjustme/"><u>New 2024 Approved Are You Eager to Know How to Create an Adjustment Layer in Premiere Pro? This Article Will Highlight the Significance of Adding an Adjustment Layer in Premiere Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-create-eye-catching-slow-motion-videos-to-set-your-own-trend-for-this-purpose-read-this-article-to-find-and-learn-to-use-capcuts-new-slow-motion/"><u>New In 2024, Create Eye-Catching Slow-Motion Videos to Set Your Own Trend. For This Purpose, Read This Article to Find and Learn to Use CapCuts New Slow-Motion Templates</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-slow-mo-youtube-videos/"><u>New In 2024, How to Slow-Mo YouTube Videos</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-top-list-the-best-slow-motion-video-editors-available/"><u>New In 2024, Top List The Best Slow Motion Video Editors Available</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713965404650-new-unravel-the-creative-potential-of-adobe-after-effects-for-precise-motion-synchronization-learn-how-to-use-track-matte-and-tracking-with-a-simple-alterna/"><u>New Unravel the Creative Potential of Adobe After Effects for Precise Motion Synchronization. Learn How to Use Track Matte and Tracking with a Simple Alternative for 2024</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-oppo-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Oppo password or pattern lock</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-confused-about-which-gopro-should-you-use-this-article-introduces-and-provides-a-detailed-overview-of-the-best-gopro-for-youtubers-you/"><u>Updated 2024 Approved Confused About Which GoPro Should You Use? This Article Introduces and Provides a Detailed Overview of the Best GoPro for YouTubers You Can Find in the Market for Vlogging</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-mask-tracking-with-adobe-premiere-pro-a-detailed-guide/"><u>Updated 2024 Approved Mask Tracking with Adobe Premiere Pro A Detailed Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-premiere-pro-best-slow-motion-effects-to-use/"><u>Updated In 2024, Premiere Pro Best Slow Motion Effects To Use</u></a></li>
 </ul></div>
 

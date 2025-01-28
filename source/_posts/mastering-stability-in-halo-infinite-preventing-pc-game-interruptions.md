@@ -1,7 +1,7 @@
 ---
 title: "Mastering Stability in Halo Infinite: Preventing PC Game Interruptions"
-date: 2025-01-15T17:02:59.935Z
-updated: 2025-01-21T17:20:52.083Z
+date: 2025-01-22T20:27:36.313Z
+updated: 2025-01-28T01:42:12.849Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/8f63bb0ba2ec8bc31c40485e081b6a90e2c27c800
 
 Halo Infinite is available now and some gamers have noticed that the game has been stuttering, lagging, and having low frame rates. If you encounter this issue and want to get it fixed, you’ve come to the right place. This post has gathered fixes that would help.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. [Check the minimum system requirement](https://tools.techidaily.com/drivereasy/download/)
@@ -28,6 +24,10 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 3. [Change in-game settings](https://tools.techidaily.com/drivereasy/download/)
 4. [Turn off background apps](https://tools.techidaily.com/drivereasy/download/)
 5. [Change NVIDIA resolution](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Check the minimum system requirement
 
@@ -44,6 +44,10 @@ Halo Infinite is available now and some gamers have noticed that the game has be
  Halo Infinite supports indicates some minimum hardware specification GPUs may crash when playing intro cinematic sequences in 4k resolution.
 
 You can fix it by uninstalling the multiplayer HD texture packs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphic driver
 
@@ -64,10 +68,6 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 4. Relaunch Halo Infinite and check if it fixes the stuttering issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -83,31 +83,35 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
 
  4) Set**MINIMUM FRAME RATE** &**MAXIMUM FRAM RATE** . Enable**VSYNC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-34.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7) Run the game to check.
 
 If it’s not working, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Turn off background apps
 
@@ -120,10 +124,6 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Change NVIDIA resolution
 
@@ -150,19 +150,21 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-bandicam-scrutiny-a-detailed-evaluation-for-screen-capture-users-for-2024/"><u>[New] Bandicam Scrutiny A Detailed Evaluation for Screen Capture Users for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-industry-leaders-top-notch-free-presentation-resources/"><u>[New] Industry Leaders Top-Notch, Free Presentation Resources</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-comedy-classics-a-curated-15-channel-collection-for-humor/"><u>[Updated] 2024 Approved Comedy Classics A Curated 15-Channel Collection for Humor</u></a></li>
-<li><a href="https://win-special.techidaily.com/how-to-speed-up-a-sluggish-pc-expert-tips-from-yl-computing/"><u>How to Speed Up a Sluggish PC: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-quick-guide-how-to-save-final-cut-pro-project/"><u>In 2024, Quick Guide How to Save Final Cut Pro Project？</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-are-you-looking-to-make-a-thumbnail-for-your-fortnite-video-this-article-features-a-guide-explaining-creating-a-fortnite-motion-blur-thumbnail-for-2024./"><u>New Are You Looking to Make a Thumbnail for Your Fortnite Video? This Article Features a Guide Explaining Creating a Fortnite Motion Blur Thumbnail for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-knowing-all-ways-to-slow-down-video-with-adobe-premiere-pro-for-2024/"><u>New Knowing All Ways To Slow Down Video With Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-iphones-flashlight-woes-with-these-12-troubleshooting-steps/"><u>Solve Your iPhone's Flashlight Woes with These 12 Troubleshooting Steps</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/universal-templates-galore-for-youtube-crafting-for-2024/"><u>Universal Templates Galore – For YouTube Crafting for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-are-you-looking-to-make-a-thumbnail-for-your-fortnite-video-this-article-features-a-guide-explaining-creating-a-fortnite-motion-blur-thumbnail-for-2/"><u>Updated Are You Looking to Make a Thumbnail for Your Fortnite Video? This Article Features a Guide Explaining Creating a Fortnite Motion Blur Thumbnail for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713962634968-updated-do-you-want-to-make-your-photos-and-videos-look-different-from-others-there-are-many-lightroom-luts-free-and-they-make-your-media-content-stand-out-/"><u>Updated Do You Want to Make Your Photos and Videos Look Different From Others? There Are Many Lightroom LUTs Free, and They Make Your Media Content Stand Out From Others for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-want-to-create-slow-motion-videos-this-article-shows-methods-to-create-slow-mo-videos-without-changing-the-medias-quality/"><u>Updated In 2024, Do You Want to Create Slow-Motion Videos? This Article Shows Methods to Create Slow-Mo Videos without Changing the Medias Quality</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-use-your-social-media-app-and-make-slow-motion-videos-by-reading-this-guide-besides-learning-slow-motion-snapchat-get-useful-apps-serving-th/"><u>Updated In 2024, Use Your Social Media App and Make Slow-Motion Videos by Reading This Guide. Besides Learning Slow-Motion Snapchat, Get Useful Apps Serving the Same Purposes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-direct-download-destiny-10-online-tool-reviewers-choice/"><u>[New] In 2024, Direct Download Destiny #10 Online Tool Reviewers' Choice</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-toolwiz-photography-companion-a-thorough-2023-breakdown/"><u>[New] In 2024, Toolwiz Photography Companion A Thorough 2023 Breakdown</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-ultimate-virtual-reality-experience-playlist-for-2024/"><u>[New] The Ultimate Virtual Reality Experience Playlist for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-10-free-and-paid-luts-for-canon-camera/"><u>[Updated] 2024 Approved 10 Free & Paid LUTs for Canon Camera</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-editors-secret-best-free-premiere-pro-resources/"><u>[Updated] Top Editors' Secret Best FREE Premiere Pro Resources</u></a></li>
+<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-adding-soundtracks-to-shareable-fb-moments/"><u>In 2024, Adding Soundtracks to Shareable FB Moments</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-top-3-strategies-converting-pinner-visuals-to-audio/"><u>In 2024, Top 3 Strategies Converting Pinner Visuals to Audio</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-top-6-best-alternatives-to-clownfish-voice-changer/"><u>New 2024 Approved Top 6 Best Alternatives to Clownfish Voice Changer</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-use-deep-fried-meme-maker/"><u>New In 2024, How to Use Deep Fried Meme Maker</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-want-to-learn-how-to-make-gaming-montage-videos-you-have-come-to-the-right-place-this-guide-will-teach-you-all-you-need-to-know-to-create-montag/"><u>New In 2024, Want to Learn How to Make Gaming Montage Videos? You Have Come to the Right Place. This Guide Will Teach You All You Need to Know to Create Montages of Video Games and Share Them with Other Players</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/unlocking-the-secrets-to-becoming-an-exceptional-interviewer-for-2024/"><u>Unlocking The Secrets To Becoming An Exceptional Interviewer for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-are-you-an-apple-user-interested-in-adding-a-slow-mo-to-their-videos-this-article-features-an-exceptional-procedure-for-creating-slow-/"><u>Updated 2024 Approved Are You an Apple User Interested in Adding a Slow-Mo to Their Videos? This Article Features an Exceptional Procedure for Creating Slow-Mo in iMovie</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-make-videos-with-pictures-and-music-10-apps/"><u>Updated 2024 Approved Make Videos with Pictures and Music-10 Apps</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-top-shortcut-towards-timeline-template/"><u>Updated 2024 Approved Top Shortcut Towards Timeline Template</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-using-vn-editor-to-add-luts-for-video-editing/"><u>Updated 2024 Approved Using VN Editor To Add Luts for Video Editing</u></a></li>
 </ul></div>
 
