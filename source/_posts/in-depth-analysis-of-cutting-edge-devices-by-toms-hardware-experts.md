@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis of Cutting-Edge Devices by Tom's Hardware Experts
-date: 2025-01-26T18:07:30.934Z
-updated: 2025-01-27T20:35:01.598Z
+date: 2025-02-02T02:48:16.372Z
+updated: 2025-02-08T19:38:06.728Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,18 +68,19 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-expert-insights-on-ps3-gameplay-documentation/"><u>[Updated] In 2024, Expert Insights on PS3 Gameplay Documentation</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-5-innovative-multimedia-collaboration-services/"><u>[Updated] Top 5 Innovative Multimedia Collaboration Services</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ppmbmp-movavi/"><u>「オンラインで簡単！フリーPPM形式のBMPへの変換 - Movavi」</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/budget-friendly-tablet-showdown-of-2024-in-depth-analysis-and-ratings/"><u>Budget-Friendly Tablet Showdown of 2024: In-Depth Analysis & Ratings</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-restore-your-adata-solid-state-drive-and-securely-back-up-files/"><u>How To Restore Your ADATA Solid-State Drive & Securely Back Up Files</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-15-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 15 Pro? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-slow-motion-videos-are-taking-over-social-media-and-becoming-a-new-trend-read-this-article-if-you-want-to-learn-how-to-slow-down-video-in-/"><u>New 2024 Approved Slow Motion Videos Are Taking over Social Media and Becoming a New Trend. Read This Article if You Want to Learn How to Slow Down Video in After Effects</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-stunning-glitch-effect-in-photoshop-in-2024/"><u>New How to Make Stunning Glitch Effect in Photoshop, In 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-using-slow-motion-in-adobe-after-effects-a-step-by-step-procession/"><u>New In 2024, Using Slow Motion in Adobe After Effects A Step-by-Step Procession</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/protect-your-pixels-easy-steps-to-safeguard-photos-on-your-ipad-with-three-techniques/"><u>Protect Your Pixels: Easy Steps to Safeguard Photos on Your iPad with Three Techniques</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-davinci-resolve-scopes-have-undergone-significant-improvements-find-out-how-to-use-these-scopes-and-improve-your-video-editing-skills-for-2024/"><u>Updated DaVinci Resolve Scopes Have Undergone Significant Improvements. Find Out How to Use These Scopes and Improve Your Video Editing Skills for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-stunning-glitch-effect-in-photoshop-for-2024/"><u>Updated How to Make Stunning Glitch Effect in Photoshop for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-the-availability-of-the-slow-motion-feature-on-the-iphone-is-often-debated-this-article-will-guide-you-on-how-to-slow-down-a-video-on-iphone-for-202/"><u>Updated The Availability of the Slow-Motion Feature on the iPhone Is Often Debated. This Article Will Guide You on How to Slow Down a Video on iPhone for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-10-must-have-plugins-to-boost-discord-experience/"><u>[New] 10 Must-Have Plugins to Boost Discord Experience</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-seamless-content-curation-with-youtubes-watch-later-feature/"><u>[New] 2024 Approved Seamless Content Curation with YouTube’s Watch Later Feature</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-your-guide-to-premium-metaverse-goggles-and-headsets-for-2024/"><u>[Updated] Your Guide to Premium Metaverse Goggles & Headsets for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-the-essential-top-10-hd-webcams-reviewed/"><u>2024 Approved The Essential Top 10 HD Webcams Reviewed</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/beat-bugs-and-glitches-how-to-ensure-smooth-gaming-with-battlefield-5-on-your-desktop/"><u>Beat Bugs & Glitches: How To Ensure Smooth Gaming with Battlefield 5 on Your Desktop</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-fix-fifa-22-game-crashes-on-your-computer/"><u>How to Fix FIFA 22 Game Crashes on Your Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-dotnet-top-5-reparations-for-pcs-max-156/"><u>Reviving DotNet: Top 5 Reparations for PCs (Max 156)</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/solution-found-overcoming-the-siths-blackout-glitch-in-star-wars-battlefront-2/"><u>Solution Found! Overcoming the Sith's Blackout Glitch in Star Wars Battlefront 2</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/speed-kings-and-queens-key-moments-from-the-short-track-games-for-2024/"><u>Speed Kings and Queens Key Moments From the Short Track Games for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1776784-9781583949115-the-hidden-teaching-beyond-yoga/"><u>The Hidden Teaching Beyond Yoga | Free Book</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-razer-book-13-unveiled-a-small-gadget-with-giant-capabilities/"><u>The Razer Book 13 Unveiled: A Small Gadget with Giant Capabilities</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/the-toms-tech-blog-pioneering-discoveries-in-the-world-of-hardware/"><u>The Tom's Tech Blog: Pioneering Discoveries in the World of Hardware</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/unveiling-gadgets-with-toms-equipment-guides/"><u>Unveiling Gadgets with Tom's Equipment Guides</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/worlds-first-amd-advantage-mini-pc-introducing-the-atomman-g7-pt-with-r9-7945hx-and-rx-760e-xt-graphics/"><u>World's First AMD Advantage Mini PC: Introducing the AtomMan G7 Pt with R9 7945HX & RX 760E XT Graphics</u></a></li>
 </ul></div>
 
