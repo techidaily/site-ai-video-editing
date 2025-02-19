@@ -1,7 +1,7 @@
 ---
 title: New How to Zoom In and Out on Mac for 2024
-date: 2025-02-04T11:32:47.063Z
-updated: 2025-02-09T14:15:53.547Z
+date: 2025-02-13T16:36:06.745Z
+updated: 2025-02-19T16:27:10.347Z
 tags: 
   - ai
   - animation videos
@@ -29,6 +29,10 @@ Step1Go to Accessibility > System Preferences > Zoom, then click Zoom in the sid
 
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/open-zoom-from-accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2Press the plus/equal sign ("+ =") button, which is adjacent to the delete button on the top right side of the keyboard, while continuing to hold down the command button to zoom in.
 
 Step3Press the dash/underscore button ("- \_"), which is situated next to the "+ =" button on the top right side of the keyboard, while still holding down the command button, to zoom out.
@@ -36,6 +40,10 @@ Step3Press the dash/underscore button ("- \_"), which is situated next to the "+
 ## Way 2: Use Trackpad Gestures
 
 You may quickly learn how to zoom in on a Mac using trackpad movements if you prefer using a touchpad versus learning any kind of keyboard shortcuts. With a MacBook, there is another, maybe simpler way to zoom in and out in addition to the approach mentioned above. If your keyboard isn't entirely working, it may still be helpful. However, make sure that gesture support is turned on in the settings on your Mac. Although a Mac still supports the usage of a mouse, new Mac software is designed to be used with a trackpad. Apple is abandoning the mouse. And with a little practice, you can do it too. What you must do is as follows:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps to Enable Trackpad Gestures
 
@@ -47,13 +55,13 @@ Step2You can zoom in or out on Mac by placing two fingers on the touchpad and mo
 
 Step3Another option is to simply zoom in and out by double-tapping the touchpad with two fingers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 3: Use Scroll Gesture
 
 If you'd like to use your mouse, you may utilize the screen zoom option, which enlarges everything on your screen rather than just the app window you're now viewing. This would need holding down one of the designated modifier keys while scrolling in order to zoom in on a Mac. Just like on an iPhone or iPad, you can zoom in and out by pinching and un-pinching. The smart zoom motion, on the other hand, is executed by double-tapping with two fingers. This immediately zooms into or immediately zooms out of a web page or pdf.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Steps to Enable Scroll Gesture
 
@@ -62,16 +70,24 @@ Step1To make this feature active, from the Apple menu, choose System Preferences
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/use-scroll-gesture.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2Select "Use scroll motion with modifier keys to zoom" from the drop-down menu as shown above.
 
 Step3Select the desired modifier key from the dropdown menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 4: Enable Hover Text to Zoom
 
 Use the wonderful assistive feature called Hover Text to enlarge a single macOS user interface piece without zooming out the whole Mac screen. One of your alternatives is to enable zooming while hovering over text. The "Enable Hover Text" option is part of the Zoom menu but does not directly magnify the display. The function allows users to use the Command key to momentarily enlarge just the text below the pointer and is accessible without Zoom having to be activated. When Hover Text is enabled on your Mac, you may drag the cursor over anything on the screen, such as text, input fields, menu items, or buttons, and a high-resolution magnified version of those objects will appear in a new window. Find out here how to make Hover Text available on your Mac:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps to Use Hover Text to Zoom
 
@@ -79,25 +95,13 @@ Step1When you choose this option, a larger, higher-resolution picture of the tex
 
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/enable-hover-text-to-zoom.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2Additional customization options are available in the Options menu, including the ability to alter the font, the size of the zoomed-in text (which may range from 14pt to 128pt), the font's appearance surrounding the cursor, and the modifier key that activates the function.
 
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/customize-text-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Way 5: Enable Touch Bar
 
 This substitute is only accessible on Macs equipped with Touch Bars. A handy feature is the Touch Bar. The Touch Bar is a feature on every current MacBook Pro model, including the 13-inch and 16-inch versions. On the Touch Bar, there is a mix of App Controls and a Control Strip. To use with your compatible MacBook Pro, the Touch Bar has additional features. Although it is helpful right out of the box, some customization may be required for your advantage. Fortunately, Apple makes modifications rather straightforward. You may change your default by following the instructions below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Steps to Enable Touch Bar on MacBook
 
@@ -108,10 +112,6 @@ Step2Click the Apple symbol in the upper left corner of your screen and choose "
 Step3Select "Keyboard" > "Keyboard" and then select "Touch Bar shows" under the Touch Bar settings. Then choose an option from the menu, which also includes the larger Control Strip and app buttons.
 
 ![how to zoom in/out on mac](https://images.wondershare.com/filmora/article-images/2022/07/enable-touch-bar-on-mac.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -130,21 +130,20 @@ In any case, you have our support. There are various ways to zoom in and out on 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-hidden-videos-no-more-discover-these-12-efficient-methods-for-visible-vids-on-fb/"><u>[New] 2024 Approved Hidden Videos No More Discover These 12 Efficient Methods for Visible Vids on FB</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-youtube-shorts-earning-blueprint/"><u>[New] In 2024, Youtube Shorts Earning Blueprint</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-captureit-all-the-complete-screen-recorder-hack/"><u>[Updated] CaptureIt All The Complete Screen Recorder Hack</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-ricoh-theta-s-uncovered-a-complete-audit/"><u>[Updated] Ricoh Theta S Uncovered A Complete Audit</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-reasons-to-approach-generative-ai-with-caution-in-chat-apps/"><u>7 Reasons to Approach Generative AI with Caution in Chat Apps</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/fixing-silent-menace-solutions-for-evil-genius-2-audio-issues/"><u>Fixing Silent Menace: Solutions for 'Evil Genius 2' Audio Issues</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/harmonic-highlights-the-right-song-for-your-ig-video/"><u>Harmonic Highlights The Right Song for Your IG Video</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-apple-iphone-11-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On Apple iPhone 11? 5 Tips You Must Know</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-windows-10-screen-recording-tools-the-ultimate-selection/"><u>In 2024, Windows 10 Screen Recording Tools - The Ultimate Selection</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/inside-toms-hardware-realm-unveiling-top-gadgets/"><u>Inside Tom's Hardware Realm: Unveiling Top Gadgets</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/revamped-gamers-choice-discover-the-latest-upgrades-to-maingears-north-desktop-lineup/"><u>Revamped Gamer's Choice: Discover the Latest Upgrades to Maingear's North Desktop Lineup</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/solution-found-overcoming-the-siths-blackout-glitch-in-star-wars-battlefront-2/"><u>Solution Found! Overcoming the Sith's Blackout Glitch in Star Wars Battlefront 2</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-complete-psvr2-guide-latest-updates-pricing-info-launch-timeline-and-detailed-specifications/"><u>The Complete PSVR2 Guide: Latest Updates, Pricing Info, Launch Timeline, and Detailed Specifications</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/the-toms-tech-blog-pioneering-discoveries-in-the-world-of-hardware/"><u>The Tom's Tech Blog: Pioneering Discoveries in the World of Hardware</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/unlocking-the-secrets-with-toms-pc-hardware-insights/"><u>Unlocking the Secrets with Tom's PC Hardware Insights</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/unveiling-the-latest-in-technology-with-toms-gear-insights/"><u>Unveiling the Latest in Technology with Tom's Gear Insights</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-youtube-livestreaming-screen-recorders/"><u>[New] 2024 Approved Best YouTube Livestreaming Screen Recorders</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-bringing-video-life-youtube-slide-insertion/"><u>[New] In 2024, Bringing Video Life YouTube Slide Insertion</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-craft-a-powerhouse-channel-with-studio-expertise/"><u>[Updated] Craft a Powerhouse Channel with Studio Expertise</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-streamline-your-snapchat-chat-and-calls-with-3-key-steps-for-2024/"><u>[Updated] Streamline Your Snapchat Chat and Calls with 3 Key Steps for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/how-to-optimize-your-video-storage-on-64128gb-devices/"><u>How to Optimize Your Video Storage on 64/128GB Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hype-generating-headline-author/"><u>In 2024, Hype-Generating Headline Author</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-premium-accelerated-photo-browser-for-windows/"><u>In 2024, Premium Accelerated Photo Browser for Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keep-your-internet-experience-smooth-with-the-latest-google-chrome-update-tips-from-zdnet-for-this-weekend/"><u>Keep Your Internet Experience Smooth with the Latest Google Chrome Update - Tips From ZDNet for This Weekend</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-confused-about-which-gopro-should-you-use-this-article-introduces-and-provides-a-detailed-overview-of-the-best-gopro-for-youtubers-you-can/"><u>New 2024 Approved Confused About Which GoPro Should You Use? This Article Introduces and Provides a Detailed Overview of the Best GoPro for YouTubers You Can Find in the Market for Vlogging</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-applications-and-software-take-up-your-devices-storage-to-create-slow-mo-explore-this-piece-to-learn-about-some-slow-motion-video-online-makers./"><u>New In 2024, Applications and Software Take up Your Devices Storage to Create Slow-Mo. Explore This Piece to Learn About some Slow-Motion Video Online Makers</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-storyboards-are-amazing-way-if-you-want-to-present-your-story-in-a-visual-way-like-explaining-any-process-or-giving-any-information-it-is-a-grap/"><u>New In 2024, Storyboards Are Amazing Way if You Want to Present Your Story in a Visual Way, Like Explaining Any Process or Giving Any Information. It Is a Graphic Layout to Tell You a Story</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713965423093-new-use-your-social-media-app-and-make-slow-motion-videos-by-reading-this-guide-besides-learning-slow-motion-snapchat-get-useful-apps-serving-the-same-purpo/"><u>New Use Your Social Media App and Make Slow-Motion Videos by Reading This Guide. Besides Learning Slow-Motion Snapchat, Get Useful Apps Serving the Same Purposes for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-what-is-the-best-mp4-cutters-for-youtubers-on-mac-for-2024/"><u>New What Is the Best MP4 Cutters for YouTubers on Mac for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-tiktok-video-aspect-ratio/"><u>Updated 2024 Approved Tiktok Video Aspect Ratio</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-wish-to-design-the-perfect-slow-motion-video-on-your-smartphone-learn-some-top-rated-free-slow-mo-apps-for-android-and-ios-users-in-t/"><u>Updated In 2024, Do You Wish to Design the Perfect Slow-Motion Video on Your Smartphone? Learn some Top-Rated Free Slow-Mo Apps for Android and iOS Users in This Article</u></a></li>
 </ul></div>
 

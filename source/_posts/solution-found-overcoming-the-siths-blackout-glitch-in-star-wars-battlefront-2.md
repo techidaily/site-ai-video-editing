@@ -1,7 +1,7 @@
 ---
 title: Solution Found! Overcoming the Sith's Blackout Glitch in Star Wars Battlefront 2
-date: 2025-02-02T22:38:22.478Z
-updated: 2025-02-09T04:02:54.458Z
+date: 2025-02-13T16:34:37.095Z
+updated: 2025-02-19T16:40:07.908Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-28_11-24-29.jpg)
 
  Many players have been reporting the**Error Code Centipede on Destiny 2** for PC, PS5/PS4, and Xbox. If you also get the Centipede Error, it means that you’re not able to connect to Destiny servers currently. The good news is there are some working fixes available. Read on and find out what they are.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -47,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
 
  If Destiny 2 servers are working as intended, then the problem may be with your Internet connection. Read on for some fixes to configure your Internet settings and resolve the Error Centipede on Destiny 2.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Check your Internet connection
 
  If your Internet connection is unstable or slow, you may get the Error Centipede when trying to log in to Destiny 2\. There are a few things you should pay attention to and configure as needed:
@@ -58,15 +58,15 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
 
 If you still get the Error Centipede, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Choose NAT Type 1/Open NAT
 
  When you get the Error Centipede on Destiny 2, you’ll need to make sure your connection is not restricted and can connect to Destiny 2 servers. It’s recommended to set your NAT to Type 1/Open for a stable connection to Destiny servers.
 
  NAT is short for Network Address Translation. Put simply, it operates on your router and allows a single IP address to represent all the devices on your private network. To configure your NAT settings, you’ll either need to enable UPnP or set up Port Forwarding. It’s usually recommended to**try only one method** , unless the first one doesn’t work for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1: Enable UPnP
 
@@ -86,10 +86,6 @@ If you still get the Error Centipede, try the next fix.
 
 You can now test a game to see if you still get the Centipede Error.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 2: Port Forwarding
 
  Port Forwarding works on incoming Internet connections. It routes an outside internet connection to use the open ports, which will allow you to connect to Destiny 2\. This process is a bit difficult than enabling UPnP, technically speaking, but it’s generally a little safer. There are a few steps to do, here we’ll divide them into Step 1,2, and 3.
@@ -103,6 +99,10 @@ You can now test a game to see if you still get the Centipede Error.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfigall.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 2: Assign a static IP address
 
 1. Press the**Windows logo key** and**R** to invoke the Run box.
@@ -111,20 +111,20 @@ You can now test a game to see if you still get the Centipede Error.
 3. Click on the**Ethernet icon** , right-click it then click**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ethernet-properties-1.jpg)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipv4-properties.jpg)
 5. Select**Use the following IP address** and**Use the following DNS server addresses** . Fill in the information you recorded in Step 1:**IP address, Subnet mask, Default gateway, DNS servers** . Once complete, click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/assign-static-ip.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Step 3: Set up Port Forwarding
 
@@ -161,10 +161,6 @@ You can now test a game to see if you still get the Centipede Error.
 
  If setting up the NAT type doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Update your network adapter driver
 
  If you’ve tried the above fixes but nothing worked, then it’s likely that you would need to check your driver. An outdated or faulty network adapter driver could lead to random networking problems, so you may want to make sure yours is up-to-date and functioning properly.
@@ -178,6 +174,10 @@ You can now test a game to see if you still get the Centipede Error.
  1) [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
@@ -224,21 +224,20 @@ You can now test a game to see if you still get the Centipede Error.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/arning-power-up-embracing-the-techniques-of-sourav-joshi-by-2024/"><u>[New] Earning Power Up Embracing the Techniques of Sourav Joshi by 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-quick-and-easy-xbox-one-image-snaps-for-gaming-for-2024/"><u>[New] Quick & Easy Xbox One Image Snaps for Gaming for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-capture-hearts-on-tiktok-designed-templates-for-visual-impact/"><u>[Updated] Capture Hearts on TikTok Designed Templates for Visual Impact</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-superior-cams-for-traditional-animation/"><u>[Updated] Superior Cams for Traditional Animation</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-leading-gif-software-ranked-apples-favorites/"><u>2024 Approved Leading GIF Software Ranked Apple's Favorites</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-optimize-your-streaming-game-incorporating-chroma-key-effects-with-ease/"><u>2024 Approved Optimize Your Streaming Game Incorporating Chroma Key Effects with Ease</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-these-6-amazing-free-photoshop-substitutes/"><u>Discover These 6 Amazing Free Photoshop Substitutes</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-are-you-looking-for-a-video-format-converter-free-we-will-introduce-the-5-best-online-converters-and-also-the-5-best-video-format-converte/"><u>New 2024 Approved Are You Looking for a Video Format Converter Free? We Will Introduce the 5 Best Online Converters and Also the 5 Best Video Format Converters for PC</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-often-feel-fascinated-to-try-hands-at-anime-character-design-to-spark-up-your-editing-skills-or-just-for-a-fun-filled-activity-stay/"><u>New 2024 Approved Do You Often Feel Fascinated to Try Hands at Anime Character Design to Spark up Your Editing Skills, or Just for a Fun-Filled Activity? Stay Here for the Best Inspirations You Can Ever Get</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-steps-to-make-a-neon-dance-effect-with-filmora/"><u>New 2024 Approved Steps to Make a Neon Dance Effect With Filmora</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-duties-assigned-to-film-set-personnel/"><u>New In 2024, Duties Assigned to Film Set Personnel</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-slowing-down-gif-with-the-best-available-methods/"><u>Updated 2024 Approved Slowing Down GIF With The Best Available Methods</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-are-you-looking-to-create-some-impressive-slow-motion-video-content-get-this-done-with-some-impressive-android-slow-motion-video-apps-for-2024/"><u>Updated Are You Looking to Create some Impressive Slow-Motion Video Content? Get This Done with some Impressive Android Slow Motion Video Apps for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-want-to-show-your-mood-in-your-digital-media-content-but-dont-know-how-to-there-are-many-moody-luts-available-that-highlight-your-moo/"><u>Updated In 2024, Do You Want to Show Your Mood in Your Digital Media Content but Dont Know How To? There Are Many Moody LUTs Available that Highlight Your Mood in Your Content</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-premiere-pro-slow-playback-issues-finding-the-best-solutions-for-2024/"><u>Updated Premiere Pro Slow Playback Issues Finding The Best Solutions for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-10-best-zero-cost-videochats-collaboration-at-your-desk/"><u>[New] In 2024, 10 Best Zero-Cost Videochats Collaboration at Your Desk</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-high-performance-windows-editing-tools-roundup-reviewed/"><u>[New] In 2024, High Performance Windows Editing Tools Roundup Reviewed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-master-quick-red-eye-correction-in-iphone-photos-for-free/"><u>[New] Master Quick Red-Eye Correction in iPhone Photos for FREE</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-elevate-your-gaming-advanced-techniques-for-recording-minecraft/"><u>[Updated] In 2024, Elevate Your Gaming Advanced Techniques for Recording Minecraft</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-harmonized-high-res-overlays-for-devices/"><u>[Updated] In 2024, Harmonized High-Res Overlays for Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-12-vlogger-friendly-cameras-unveiled/"><u>[Updated] Top 12 Vlogger-Friendly Cameras Unveiled</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/detailed-guide-to-rotate-videos-in-blender-for-2024/"><u>Detailed Guide to Rotate Videos in Blender for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-zero-cost-gems-for-flourishing-windows-11-pcs/"><u>Essential Zero-Cost Gems for Flourishing Windows 11 PCs</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-concatenate-videos-using-ffmpeg-for-2024/"><u>How to Concatenate Videos Using FFmpeg for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-remove-background-from-a-video-in-premier-pro/"><u>In 2024, How to Remove Background From a Video in Premier Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-your-way-in-graphic-design-careers/"><u>In 2024, Navigating Your Way in Graphic Design Careers</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-blender-is-an-open-source-cross-platform-3d-graphics-program-but-this-doesnt-mean-its-a-low-rent-option-for-2024/"><u>New Blender Is an Open-Source Cross-Platform 3D Graphics Program, but This Doesnt Mean Its a Low-Rent Option for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-crop-a-video-in-windows-media-player/"><u>New How to Crop a Video in Windows Media Player</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-master-premiere-pro-custom-sequence-presets/"><u>New Master Premiere Pro Custom Sequence Presets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/premier-free-software-for-ai-image-fabrication/"><u>Premier Free Software for AI Image Fabrication</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix FIFA 22 Game Crashes on Your Computer
-date: 2025-02-04T22:31:24.254Z
-updated: 2025-02-09T08:36:01.287Z
+date: 2025-02-17T16:56:00.249Z
+updated: 2025-02-19T16:19:30.807Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/fe074f06665304f02bb44d59a2cf2f7a7e742cf6a
 ## Finding a Fix When Your Computer Isn't Responding to the Minecraft Game
 
 The infinite world in Minecraft is waiting for you to explore, but you just canâ€™t get in. It keeps not responding forever. How annoying it is! Donâ€™t worry, Minecraft not responding is nothing new. Thousands of players are reporting the same issue. The good news is that you can solve it easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Why is Minecraft not responding?
 
@@ -33,6 +37,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 | **Software** | Minecraft Release 1.6 or newer                                                                                                                                                                  | Latest version                                                                                         |
 
  Also make sure you have downloaded **[the latest Java version](https://java.com/en/download/manual.jsp)**  , which is important for your Minecraft to run smoothly. Note that you should download the Java file according to your operating system (32-bit or 64-bit).[How to check my computer specs?](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -102,6 +110,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-09-24_10-03-23-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to your graphics driver to download the correct version of its driver, then you can manually install it.
 
 **Or**
@@ -111,7 +123,7 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/update-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easyâ€™s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -137,16 +149,12 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/admin-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Run Minecraft again to see if this works.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable Mods
 
@@ -158,10 +166,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Reinstall your Minecraft
 
  If none of these fixes above works for you, you may need to try reinstalling the game to solve this problem.
@@ -172,23 +176,19 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/APP-uninstall.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click**Minecraft** and select**Uninstall** .
 
  4) Press the Windows logo key and R again to open the Run box again, then type**%appdata%** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/appdata.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Right-click the**.minecraft** folder and select**Delete** to make sure youâ€™ve deleted the related files.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/remove-minecraft-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) After uninstalling, restart your computer. Go to the[**official Minecraft website**](https://www.minecraft.net/en-us/) to download and install Minecraft again.
 
@@ -218,21 +218,20 @@ Feel free to leave us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/est-youtube-thumbnail-size-how-to-make-a-thumbnail-for-youtube/"><u>[New] Best YouTube Thumbnail Size How to Make a Thumbnail for YouTube</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-elevating-mobile-messaging-customizing-whatsapp-ringtones-on-iphonesandroids/"><u>[Updated] In 2024, Elevating Mobile Messaging Customizing WhatsApp Ringtones on iPhones/Androids</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/adobe-premiere-pro-cs6-mac-version-free-download-tutorials-and-resources/"><u>Adobe Premiere Pro CS6 Mac Version Free Download, Tutorials, and Resources</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-fixes-for-when-your-roku-tv-wont-boot-up-properly/"><u>Easy Fixes for When Your Roku TV Won't Boot Up Properly</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/how-to-use-slow-zoom-effect-in-your-video-in-2024/"><u>How To Use Slow Zoom Effect in Your Video, In 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-11-proplus-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Realme 11 Pro+</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-do-you-want-to-add-a-motion-blur-effect-in-valorant-read-this-guide-to-find-out-how-to-create-a-motion-blur-effect-in-valorant-without-any-hassle/"><u>In 2024, Do You Want to Add a Motion Blur Effect in Valorant? Read This Guide to Find Out How to Create a Motion Blur Effect in Valorant without Any Hassle</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-essential-tips-for-youtube-short-fixes/"><u>In 2024, Essential Tips for YouTube Short Fixes</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-all-things-about-adding-effects-in-kinemaster/"><u>New All Things About Adding Effects In Kinemaster</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/unlock-locked-iphone-6-plus-by-restoring-it-to-default-settings-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 6 Plus by restoring it to default settings</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-easy-steps-to-export-video-in-filmora/"><u>Updated 2024 Approved Easy Steps to Export Video in Filmora</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-add-text-in-adobe-rush/"><u>Updated In 2024, How to Add Text in Adobe Rush</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-if-you-want-to-know-what-to-prepare-and-how-to-make-the-wedding-video-perfect-for-videographers-check-out-this-menu-here/"><u>Updated In 2024, If You Want to Know What to Prepare and How to Make the Wedding Video Perfect for Videographers, Check Out This Menu Here</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-ultimate-guide-to-online-vertical-video-editors/"><u>Updated In 2024, The Ultimate Guide to Online Vertical Video Editors</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/youtube-lives-are-very-popular-nowadays-and-people-can-interact-with-the-anchor-at-real-time-if-you-want-to-comment-on-a-youtube-live-chat-you-can-follow-th/"><u>YouTube Lives Are Very Popular Nowadays and People Can Interact with the Anchor at Real Time. If You Want to Comment on a YouTube Live Chat, You Can Follow the Guide Below</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-enhance-footage-quality-with-premium-handheld-stabilizers/"><u>[Updated] 2024 Approved Enhance Footage Quality with Premium Handheld Stabilizers</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-poco-x6-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-create-a-freeze-frame-sequence-effect/"><u>2024 Approved How to Create a Freeze Frame Sequence Effect</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-its-competitors-is-forefront-ai-a-more-advanced-option-for-users/"><u>ChatGPT and Its Competitors: Is Forefront AI a More Advanced Option for Users?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-mobile-photography-with-android-lightroom-application-for-2024/"><u>Exploring Mobile Photography with Android Lightroom Application for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-edit-facebook-ecommerce-video-ads/"><u>How to Edit Facebook eCommerce Video Ads</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-slow-down-gif-building-an-understanding/"><u>How To Slow Down GIF Building an Understanding</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-precision-editing-on-inshot-mastering-the-art-of-transitioning/"><u>In 2024, Precision Editing on Inshot Mastering the Art of Transitioning</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-seagate-backup-plus-essential-advice-and-hacks-success/"><u>Mastering Seagate Backup Plus: Essential Advice and Hacks Success</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-save-as-mp4-file-on-windows-movie-maker/"><u>New 2024 Approved How to Save As MP4 File on Windows Movie Maker?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reviving-lenovo-bt-with-win11-expertise-and-know-how/"><u>Reviving Lenovo BT with Win11 Expertise and Know-How</u></a></li>
+<li><a href="https://fox-access.techidaily.com/streaming-made-easy-with-these-11-advanced-recording-tips/"><u>Streaming Made Easy with These 11 Advanced Recording Tips</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/top-ranking-ghost-free-designs-from-creative-tim-expert-picks/"><u>Top-Ranking Ghost-Free Designs From Creative Tim: Expert Picks</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-create-vintage-film-effect-1990s/"><u>Updated How to Create Vintage Film Effect 1990S</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-a-video-by-mouse-in-filmora/"><u>Updated How To Make a Video by Mouse in Filmora?</u></a></li>
 </ul></div>
 

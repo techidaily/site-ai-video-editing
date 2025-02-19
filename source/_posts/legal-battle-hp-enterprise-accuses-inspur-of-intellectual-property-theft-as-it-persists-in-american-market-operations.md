@@ -1,7 +1,7 @@
 ---
 title: "Legal Battle: HP Enterprise Accuses Inspur of Intellectual Property Theft as It Persists in American Market Operations"
-date: 2025-02-07T20:13:04.558Z
-updated: 2025-02-09T07:23:15.459Z
+date: 2025-02-17T16:21:08.348Z
+updated: 2025-02-19T16:47:11.213Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,18 +60,20 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-elite-assortment-advanced-webcam-mounts/"><u>[New] 2024 Approved Elite Assortment Advanced Webcam Mounts</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-elite-women-gaming-leaders-top-10-on-yt/"><u>[New] 2024 Approved Elite Women Gaming Leaders Top 10 On YT</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-virtual-realm-mastery-prime-metaverse-vr-equipment/"><u>[New] 2024 Approved Virtual Realm Mastery Prime Metaverse VR Equipment</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-elevating-your-visual-storytelling-with-advanced-drone-edits/"><u>[Updated] Elevating Your Visual Storytelling with Advanced Drone Edits</u></a></li>
-<li><a href="https://win-blog.techidaily.com/comprehensive-guide-getting-your-amd-radeon-driver-program-running-again/"><u>Comprehensive Guide: Getting Your AMD Radeon Driver Program Running Again</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-nubia-z50-ultra-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Nubia Z50 Ultra FRP</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-looking-for-the-best-online-video-editors-to-add-filter-to-your-video-here-is-the-list-of-the-best-video-editors-to-add-filter-video-online-in-simpl/"><u>In 2024, Looking for the Best Online Video Editors to Add Filter to Your Video? Here Is the List of the Best Video Editors to Add Filter Video Online in Simple Steps</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-what-is-hdri-everything-you-need-to-know-about-hdri/"><u>New 2024 Approved What Is HDRI? Everything You Need to Know About HDRI</u></a></li>
-<li><a href="https://win-able.techidaily.com/skyrim-sounds-restored-eliminating-the-games-silent-voices-permanently/"><u>Skyrim Sounds Restored - Eliminating the Game's Silent Voices Permanently</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-use-premiere-pro-and-want-to-learn-how-to-change-a-videos-frame-rate-using-the-tool-here-are-the-steps-that-you-need-to-follow./"><u>Updated 2024 Approved Do You Use Premiere Pro and Want to Learn How to Change a Videos Frame Rate Using the Tool? Here Are the Steps that You Need to Follow</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-best-online-youtube-video-trimmer/"><u>Updated Best Online YouTube Video Trimmer</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-add-font-effects-to-videos/"><u>Updated How to Add Font Effects to Videos</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713954225633-updated-whatre-the-best-alternatives-to-pexels-in-2024/"><u>Updated Whatre the Best Alternatives to Pexels, In 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-pro-tips-to-capture-stunning-and-breathtaking-gopro-time-lapse-video/"><u>[Updated] 2024 Approved Pro Tips to Capture Stunning and Breathtaking GoPro Time-Lapse Video</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-superior-7-streamers-choice-for-videos/"><u>[Updated] Superior 7 Streamer's Choice for Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-strategies-to-tackle-the-problem-of-a-lost-bootmgr-file/"><u>Expert Strategies to Tackle the Problem of a Lost BOOTMGR File</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721952253229-how-to-surpass-the-standard-chatgpt-discover-10-custom-gpts/"><u>How to Surpass the Standard ChatGPT? Discover 10 Custom GPTs!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID From your Apple iPhone 7 Plus?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-are-you-looking-to-make-a-thumbnail-for-your-fortnite-video-this-article-features-a-guide-explaining-creating-a-fortnite-motion-blur-thumbnail-for-2024./"><u>New Are You Looking to Make a Thumbnail for Your Fortnite Video? This Article Features a Guide Explaining Creating a Fortnite Motion Blur Thumbnail for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-knowing-all-ways-to-slow-down-video-with-adobe-premiere-pro-for-2024/"><u>New Knowing All Ways To Slow Down Video With Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-gen-ai-escalating-cybersecurity-concerns/"><u>Next-Gen AI: Escalating Cybersecurity Concerns</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamless-setup-swift-and-simple-surface-dock-driver-update-process/"><u>Seamless Setup: Swift and Simple Surface Dock Driver Update Process</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-comprehensive-guides-on-computer-hardware/"><u>Tom's Tech Review - Comprehensive Guides on Computer Hardware</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-future-of-tablets-at-apples-latest-launch-meet-the-m4-ipad-pro-13-inch-ipad-air-and-enhanced-apple-pencil-pro-tech-insights/"><u>Unveiling the Future of Tablets at Apple's Latest Launch - Meet the M4 iPad Pro, 13-Inch iPad Air & Enhanced Apple Pencil Pro | Tech Insights</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713962634968-updated-do-you-want-to-make-your-photos-and-videos-look-different-from-others-there-are-many-lightroom-luts-free-and-they-make-your-media-content-stand-out-/"><u>Updated Do You Want to Make Your Photos and Videos Look Different From Others? There Are Many Lightroom LUTs Free, and They Make Your Media Content Stand Out From Others for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-are-you-wondering-how-to-slow-down-videos-or-speed-them-up-here-are-three-ways-to-do-it-speed-up-or-slow-down-your-videos-on-pc-online-and-p/"><u>Updated In 2024, Are You Wondering How to Slow Down Videos or Speed Them up, Here Are Three Ways to Do It. Speed up or Slow Down Your Videos on PC, Online, and Phone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-make-videos-with-pictures-and-music-10-apps/"><u>Updated In 2024, Make Videos with Pictures and Music-10 Apps</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-slow-down-the-gif-to-emphasize-details-better-to-do-so-read-this-guide-and-learn-to-use-the-best-platforms-for-slow-motion-gifs-for-2024/"><u>Updated Slow Down the GIF to Emphasize Details Better. To Do so, Read This Guide and Learn to Use the Best Platforms for Slow-Motion GIFs for 2024</u></a></li>
 </ul></div>
 

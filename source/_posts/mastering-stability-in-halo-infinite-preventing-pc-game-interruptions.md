@@ -1,7 +1,7 @@
 ---
 title: "Mastering Stability in Halo Infinite: Preventing PC Game Interruptions"
-date: 2025-02-02T14:34:12.861Z
-updated: 2025-02-09T09:14:46.677Z
+date: 2025-02-17T16:20:36.337Z
+updated: 2025-02-19T16:19:39.371Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/8f63bb0ba2ec8bc31c40485e081b6a90e2c27c800
 
 Halo Infinite is available now and some gamers have noticed that the game has been stuttering, lagging, and having low frame rates. If you encounter this issue and want to get it fixed, you’ve come to the right place. This post has gathered fixes that would help.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. [Check the minimum system requirement](https://tools.techidaily.com/drivereasy/download/)
@@ -30,7 +26,7 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 5. [Change NVIDIA resolution](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Check the minimum system requirement
@@ -65,12 +61,16 @@ There are mainly two ways you can update the graphics driver:
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 4. Relaunch Halo Infinite and check if it fixes the stuttering issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -97,21 +97,17 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-34.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7) Run the game to check.
 
 If it’s not working, move to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Turn off background apps
 
@@ -124,6 +120,10 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Change NVIDIA resolution
 
@@ -150,17 +150,24 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-premier-virtual-microphones-for-2024/"><u>[New] Premier Virtual Microphones for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-captivate-viewers-learn-to-perfectly-border-ig-videos-for-2024/"><u>[Updated] Captivate Viewers Learn to Perfectly Border IG Videos for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-the-long-term-viability-electric-vs-gasoline-engine-durability/"><u>Exploring the Long-Term Viability: Electric Vs. Gasoline Engine Durability</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-boosting-vimeo-streams-tips-and-tricks/"><u>In 2024, Boosting Vimeo Streams Tips & Tricks</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-xr-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, iPhone XR Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713950496574-in-this-guidepost-youll-learn-what-an-hdri-photo-is-and-how-to-use-the-best-free-hdri-program-to-edit-photos-youll-also-know-the-difference-between-hdr-and-/"><u>In This Guidepost, Youll Learn What an HDRI Photo Is and How to Use the Best Free HDRI Program to Edit Photos. Youll Also Know the Difference Between HDR and HDRI for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ting-successfully-with-a-makeup-channel/"><u>Investing Successfully with a Makeup Channel</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713964496835-new-making-a-countdown-timer-video-like-a-pro-isnt-a-problem-anymore-follow-the-steps-mentioned-in-this-guide-and-create-an-impressive-countdown-timer-for-y/"><u>New Making a Countdown Timer Video Like a Pro Isnt a Problem Anymore. Follow the Steps Mentioned in This Guide and Create an Impressive Countdown Timer for Your Videos for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-top-10-windows-and-macos-compatible-daws-the-ultimate-selection-for-2024/"><u>New Top 10 Windows & macOS Compatible DAWs The Ultimate Selection for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-having-gopro-accessories-is-easy-but-editing-on-gopro-quik-is-challenging-read-this-guide-and-stepwise-learn-to-use-gopro-slow-motion-/"><u>Updated 2024 Approved Having GoPro Accessories Is Easy, but Editing on GoPro Quik Is Challenging. Read This Guide and, Stepwise, Learn to Use GoPro Slow-Motion for Perfect Shots</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-clone-yourself-in-videos-with-filmora/"><u>Updated How to Clone Yourself in Videos with Filmora?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-vivo-v30-pro-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Vivo V30 Pro Phones</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-maintaining-mystery-techniques-for-smoothing-out-visuals/"><u>[New] 2024 Approved Maintaining Mystery Techniques for Smoothing Out Visuals</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-pureaiediting-refined-photo-craftsmanship/"><u>[New] 2024 Approved PureAiEditing Refined Photo Craftsmanship</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-crafting-immersive-video-experiences-using-captivate/"><u>[New] Crafting Immersive Video Experiences Using Captivate</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-live-broadcasts-the-most-effective-6-microphone-selections/"><u>[Updated] Mastering Live Broadcasts The Most Effective 6 Microphone Selections</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-nubia-z50-ultra-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Nubia Z50 Ultra with Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Google Pixel 7a? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unleash-creativity-with-these-4-simple-steps-to-loops-on-instagram/"><u>In 2024, Unleash Creativity with These 4 Simple Steps to Loops on Instagram</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-make-a-fantastic-cafe-vlog/"><u>New 2024 Approved How to Make A Fantastic Café Vlog</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-looking-forward-to-making-up-your-career-in-video-editing-land-in-here-to-learn-about-the-credibility-of-some-popular-video-editing-course/"><u>New 2024 Approved Looking Forward to Making up Your Career in Video Editing? Land in Here to Learn About the Credibility of some Popular Video Editing Courses</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-creating-flawless-slow-motion-videos-is-every-content-creators-dream-learn-about-davinci-resolve-slow-motion-video-creation-amongst-other-tools-for-2024/"><u>New Creating Flawless Slow-Motion Videos Is Every Content Creators Dream. Learn About DaVinci Resolve Slow-Motion Video Creation, Amongst Other Tools for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-stunning-glitch-effect-in-photoshop-for-2024/"><u>New How to Make Stunning Glitch Effect in Photoshop for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-make-video-editing-easy-download-videoleap-on-your-macbook-now/"><u>New Make Video Editing Easy Download Videoleap on Your MacBook Now</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-vivo-y200e-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Vivo Y200e 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722964083443-step-by-step-tutorial-to-download-and-enhance-rndis-drivers-in-windows-now-fixed/"><u>Step-by-Step Tutorial to Download & Enhance RNDIS Drivers in Windows Now Fixed</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-want-to-know-about-phone-aspect-ratio-vertical-trying-to-learn-about-iphone-vertical-video-dimensions-read-this-article-to-get-/"><u>Updated 2024 Approved Do You Want to Know About Phone Aspect Ratio Vertical? Trying to Learn About iPhone Vertical Video Dimensions? Read This Article to Get All Your Answers on Vertical Phone Aspect Ratio Definition, Types and Tips</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-overview-of-perfect-moody-luts-for-vn-editor/"><u>Updated 2024 Approved Overview of Perfect Moody LUTs for VN Editor</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-using-slow-motion-in-adobe-after-effects-a-step-by-step-procession/"><u>Updated 2024 Approved Using Slow Motion in Adobe After Effects A Step-by-Step Procession</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-are-you-a-vlogger-looking-for-good-color-correction-and-video-grading-presets-here-youll-find-different-vlog-luts-that-you-can-use-for-your-videos-f/"><u>Updated Are You a Vlogger Looking for Good Color Correction and Video Grading Presets? Here Youll Find Different Vlog LUTs that You Can Use for Your Videos for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-offering-the-best-understanding-of-performing-imovie-slow-motion-video/"><u>Updated In 2024, Offering The Best Understanding of Performing iMovie Slow Motion Video</u></a></li>
 </ul></div>
 

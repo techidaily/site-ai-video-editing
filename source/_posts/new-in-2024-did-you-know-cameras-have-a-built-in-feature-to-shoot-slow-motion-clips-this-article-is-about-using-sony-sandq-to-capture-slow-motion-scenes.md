@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Did You Know Cameras Have a Built-In Feature to Shoot Slow-Motion Clips? This Article Is About Using Sony S&Q to Capture Slow-Motion Scenes
-date: 2025-02-02T01:31:27.886Z
-updated: 2025-02-08T18:51:43.017Z
+date: 2025-02-12T16:41:22.067Z
+updated: 2025-02-19T16:40:15.319Z
 tags: 
   - ai
   - animation videos
@@ -26,7 +26,7 @@ This article will provide a brief review of S&Q mode and Sony Vegas slow motion.
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Capturing Slow Motion Videos with Sony S&Q Feature
@@ -38,6 +38,10 @@ Who hasn't heard about Sony and its services in the world of videography? Along 
 From your camera’s dial, select the “S&Q” option. Access the camera’s display screen and go to “Menu 2” from the top bar. Then, “S&Q Settings” in the featured section.
 
 ![go to menu 2 settings](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-sony-sq-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 2
 
@@ -52,7 +56,7 @@ Click the "Enter" option to finalize the Record settings.
 ![press enter to save settings](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-sony-sq-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step 4
@@ -72,7 +76,7 @@ There is no lack of devices that help you capture any scene with perfection. Som
 ![sony a7 iii camera](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-sony-sq-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Sony ZV-E10
@@ -80,6 +84,10 @@ There is no lack of devices that help you capture any scene with perfection. Som
 This is an upgraded **S&Q** **mode** **Sony** camera that first emerged in 2021 with a fully articulated screen. It has an APS-C size, 24.2-megapixel, and an Exmor CMOS sensor for balanced shooting. This version also has the highest video frame rate of 120 fps for the professional slo-mo effect. It captures slomos in 4K (UHD) 3840 x 1920 video resolution for quality maintenance. It has a directional 3-capsule microphone for high-definition audio.
 
 ![sony zv e10 camera](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-sony-sq-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Slow Down Video in Sony Vegas Pro?
 
@@ -97,10 +105,6 @@ Navigate towards the editing panel where the clip and audio track are showing. P
 
 ![drag the import media in timeline](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-sony-sq-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: Wondershare Filmora: Comprehending the Best Alternative for Slowing Down Videos
 
 All the above slow-motion solutions are adequate but not reliable. This is because shooting in **So** **ny** **S&** **Q mode** declines video quality upon export. In addition, the **Sony** **Vegas slow motion** subscription plans start at more than $500\. This seems expensive for someone who just started editing and is a beginner.
@@ -112,7 +116,7 @@ All the above slow-motion solutions are adequate but not reliable. This is becau
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step-by-Step Guide to Creating Slow Motion in Filmora
@@ -124,10 +128,6 @@ The fundamental technique for achieving slow motion in Filmora involves Uniform 
 Initiate Filmora by clicking the “New Project” button and access the editing interface. Hit the “Ctrl + I” keys to import media and bring it to the timeline. After selecting the clip in the timeline, navigate to the settings panel. Proceed to the "Speed" > "Uniform Speed" to access the speed change slider. Drag the slider towards the left to adjust the slow-motion speed.
 
 ![adjust speed slider](https://images.wondershare.com/filmora/article-images/2023/slow-motion-videos-with-sony-sq-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step 2Access AI Frame Interpolation Settings
 
@@ -153,10 +153,6 @@ Filmora doesn't just claim to be the best; there are multiple features to suppor
 
 * [**AI Image:**](https://tools.techidaily.com/wondershare/filmora/download/) Can't spare time to capture images for your new content idea? With Filmora's text to generate AI, you can now curate images. The AI only requires you to add a prompt and craft results accordingly. Upon creation, users can also select a preferred image resolution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 This article has discussed the purpose of **Sony S&Q** and how to use it for slo-mo creation. In addition, users learned about two of Sony's cameras, which are popular for slow-motion. Afterward, we discussed a desktop method to create slow motion. Considering all the drawbacks of these methods, we recommended Filmora. It is a desktop alternative to these tools with AI abilities to enhance task achievement.
@@ -164,6 +160,10 @@ This article has discussed the purpose of **Sony S&Q** and how to use it for slo
 [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [Make A Slow Motion Video](https://tools.techidaily.com/wondershare/filmora/download/) [More Features](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -174,19 +174,22 @@ This article has discussed the purpose of **Sony S&Q** and how to use it for slo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-securing-a-seamless-srt-upload-experience-on-social-networks/"><u>[New] Securing a Seamless SRT Upload Experience on Social Networks</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-srt-transition-subbed-content-conversion-strategies/"><u>[Updated] In 2024, SRT Transition Subbed Content Conversion Strategies</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-mastering-the-art-of-auto-play-youtube-content-in-fb/"><u>[Updated] Mastering the Art of Auto-Play YouTube Content in FB</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/converti-file-aifc-in-formato-aiff-gratuitamente-su-internet-con-movavi/"><u>Converti File AIFC in Formato AIFF Gratuitamente Su Internet Con Movavi</u></a></li>
-<li><a href="https://win-blog.techidaily.com/discover-the-finest-selection-of-15-watermark-free-video-transcoding-apps-at-zero-cost/"><u>Discover the Finest Selection of 15 Watermark-Free Video Transcoding Apps at Zero Cost</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-motorola-moto-g73-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Motorola Moto G73 5G for Free? | Dr.fone</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/mastering-altcoin-investment-with-expert-tips-from-yl-software/"><u>Mastering Altcoin Investment with Expert Tips From YL Software</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-vlogs-and-travel-content-are-incomplete-without-a-fast-motion-effect-learn-step-by-step-how-to-make-fast-motion-video-on-an-iphone-in-this-artic/"><u>New In 2024, Vlogs and Travel Content Are Incomplete without a Fast-Motion Effect. Learn Step-by-Step How to Make Fast Motion Video on an iPhone in This Article</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/resolving-windows-8-issues-a-comprehensive-guide-to-troubleshooting-and-solutions/"><u>Resolving Windows 8 Issues: A Comprehensive Guide to Troubleshooting and Solutions</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-have-you-ever-used-an-adjustment-layer-in-photoshop-read-this-article-to-find-out-how-to-add-resize-change-and-use-an-adjustment-layer/"><u>Updated 2024 Approved Have You Ever Used an Adjustment Layer in Photoshop? Read This Article to Find Out How to Add, Resize, Change, and Use an Adjustment Layer in Photoshop Efficiently</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-zoom-in-and-out-on-mac/"><u>Updated In 2024, How to Zoom In and Out on Mac</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-learn-to-create-custom-sequence-presets-in-premiere-pro-for-efficient-video-editing-ensure-consistency-and-speed-up-your-workflow-with-perso/"><u>Updated In 2024, Learn to Create Custom Sequence Presets in Premiere Pro for Efficient Video Editing. Ensure Consistency and Speed up Your Workflow with Personalized Settings</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-the-benefits-of-using-video-for-social-media-marketing-for-2024/"><u>Updated The Benefits Of Using Video For Social Media Marketing for 2024</u></a></li>
-<li><a href="https://win-info.techidaily.com/oggogv/"><u>자리 표시자를 사용하여 OGG/OGV 오디오 파일을 안전하게 바꾸기 - 제공 없음, 무세</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-avoid-posting-mistakes-on-twitter-by-knowing-the-aspect-ratio/"><u>[New] 2024 Approved Avoid Posting Mistakes on Twitter by Knowing the Aspect Ratio</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-auditory-ambition-realized-selecting-the-ultimate-interface/"><u>[New] In 2024, Auditory Ambition Realized Selecting the Ultimate Interface</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-nikon-j5-unleashed-embracing-4k-camera-technology/"><u>[New] Nikon J5 Unleashed Embracing 4K Camera Technology</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-all-in-one-screen-capture-az-insights-and-alternatives/"><u>[Updated] 2024 Approved All-in-One Screen Capture - AZ Insights & Alternatives</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-simplifying-the-process-of-deleting-youtube-files-for-2024/"><u>[Updated] Simplifying the Process of Deleting YouTube Files for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/best-game-streaming-software-you-should-know-for-2024/"><u>Best Game Streaming Software You Should Know for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-apple-iphone-6-plus-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from Apple iPhone 6 Plus Safe and Legal</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo T2 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-edit-facebook-ecommerce-video-ads/"><u>How to Edit Facebook eCommerce Video Ads</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-slow-down-gif-building-an-understanding/"><u>How To Slow Down GIF Building an Understanding</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-100-working-methods-to-learn-how-to-rotate-tiktok-video/"><u>New 100 Working Methods to Learn How to Rotate TikTok Video</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-save-as-mp4-file-on-windows-movie-maker/"><u>New 2024 Approved How to Save As MP4 File on Windows Movie Maker?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-7-tips-to-create-teaching-videos/"><u>New 7 Tips to Create Teaching Videos</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-different-ways-to-crop-tiktok-video-in-high-quality/"><u>New In 2024, Different Ways to Crop TikTok Video in High-Quality</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-issue-how-to-get-roblox-running-expert-strategies/"><u>Solving the Issue: How to Get Roblox Running - Expert Strategies</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-create-vintage-film-effect-1990s/"><u>Updated How to Create Vintage Film Effect 1990S</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713965542791-updated-want-to-apply-a-filter-on-your-video-using-your-iphone-or-mac-here-are-the-simple-steps-to-put-add-filters-on-imovie-find-out-a-better-imovie-altern/"><u>Updated Want to Apply a Filter on Your Video Using Your iPhone or Mac? Here Are the Simple Steps to Put Add Filters on iMovie. Find Out a Better iMovie Alternative with More Filters for 2024</u></a></li>
 </ul></div>
 

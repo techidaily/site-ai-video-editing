@@ -1,7 +1,7 @@
 ---
 title: In-Depth Look at AmazonBasics' Affordable Flat Antenna for Catching Free Broadcasts
-date: 2025-02-05T04:37:32.871Z
-updated: 2025-02-08T16:10:45.008Z
+date: 2025-02-13T16:44:25.014Z
+updated: 2025-02-19T16:27:18.037Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Look at AmazonBasics' Affordable Flat Antenna for Catching Free Broadcasts
@@ -12,10 +12,6 @@ thumbnail: https://www.lifewire.com/thmb/G6NVZKElOp84uFm7QUmSmpoSQ4s=/400x300/fi
 ## Experience Portable Gaming on a Budget with Our In-Depth Look at the Nintendo Switch Lite
 
 4.2
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Nintendo Switch Lite
 
@@ -40,6 +36,10 @@ Lifewire / Zach Sweat
 [View On Walmart $165](https://www.walmart.com/ip/Nintendo-Switch-Lite-Console-Turquoise/306029956) [View On Best Buy $200](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fnintendo-switch-32gb-lite-turquoise%2F6257139.p%3FskuId%3D6257139) [View On Macy's $240](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.macys.com%2Fshop%2Fproduct%2Fswitch-gaming-console-32gb-lite%3FID%3D10316544%26pla%255Fcountry%3DUS%26CAGPSPN%3Dpla%26slpfid%3D3)
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Nintendo Switch Lite
 
@@ -72,10 +72,14 @@ Lifewire / Zach Sweat
 ![Nintendo Switch Lite](https://www.lifewire.com/thmb/EUqklfDyxuB1ye8-DBboDrjzkUw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo-Switch-Lite-2-225f5107c7b74f159afecba8c3f6174a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Design: Cute and compact**
 
@@ -102,6 +106,10 @@ Lifewire / Zach Sweat
  There’s still the issue with the USB-C port sticking straight out of the bottom, making it hard to sit flat against something, but this is somewhat less annoying since you’ll likely be holding it while gaming. Unfortunately, the Lite does not fit into the dock that came with a Switch. If you want to charge it, you have to plug it directly into the included[USB-C charger](https://www.lifewire.com/best-usb-c-chargers-4155815) or the one on a regular Switch, as they’re the same.
 
 ![Nintendo Switch Lite](https://www.lifewire.com/thmb/7502vZ1Vh2D4nRux6hEnq4BL3Rk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo-Switch-Lite-5-2fb7aa309cc54dd79c07bd799ef7fe84.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Zach Sweat
 
@@ -131,15 +139,7 @@ Lifewire / Zach Sweat
 
 ![Nintendo Switch Lite](https://www.lifewire.com/thmb/kQx9K3tATPBWAMgyJJymqBqYPao=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo-Switch-Lite-3-7349fa7d79f34dbaa50c25cb59aec820.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Zach Sweat
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Performance: Decent for mobile gaming, but no FHD**
 
@@ -177,10 +177,6 @@ Lifewire / Zach Sweat
 
 ![Nintendo Switch Lite](https://www.lifewire.com/thmb/KxMaFgooi4rm3qbImmLKatuUtVI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo-Switch-Lite-4-ef84dbbbde3d48ff97515e5c6b9981a4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Zach Sweat
 
 ## **Software: Still a bit drab, but smooth and snappy**
@@ -199,6 +195,10 @@ Lifewire / Zach Sweat
 
 ![Nintendo Switch Lite](https://www.lifewire.com/thmb/eFyBn6jL7cdHOO4q7zc6pALdQzw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo-Switch-Lite-6-42a5bc5ea4e544bdb6d3fbbd074583c2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Zach Sweat
 
 ## **Battery Life: Slightly better, but not the best**
@@ -216,7 +216,7 @@ Lifewire / Zach Sweat
  Lastly, the battery is internal, so you can't easily pop in a new one when it starts to degrade. While I haven't seen any degradation with mine, it'll happen at some point. When it does, sending it to Nintendo for repair is the only real option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: Inexpensive console gaming in your hands**
@@ -228,10 +228,6 @@ Lifewire / Zach Sweat
 ![Nintendo Switch Lite](https://www.lifewire.com/thmb/7XA6hgAK2B4hDSlWdmB8VQddrjw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nintendo-Switch-Lite-7-Comparison-44dcf88ec51247a2b0756445a3c7884d.jpg)
 
  Lifewire / Zach Sweat
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Nintendo Switch Lite vs. Nintendo Switch**
 
@@ -252,6 +248,10 @@ Lifewire / Zach Sweat
 **Perfect for gamers who prefer handheld.**
 
  Despite being stripped of some of the Switch’s more unique features and strengths, the Switch Lite is a perfect console for gamers on the go or those who prefer handheld. It features an extensive library of exclusives that are perfect for a highly mobile system like Animal Crossing—and it’s hard to argue with the price.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -295,22 +295,16 @@ Lifewire / Zach Sweat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-financial-freedom-from-viewing-videos-effective-monetization-tactics-for-fb/"><u>[New] Financial Freedom From Viewing Videos Effective Monetization Tactics for FB</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-engage-enchant-excel-the-quintessential-5-strategies-for-youtube-marketing/"><u>[Updated] Engage, Enchant, Excel The Quintessential 5 Strategies for YouTube Marketing</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-hunters-top-5-video-tools-of-today-for-2024/"><u>[Updated] Hunters' Top 5 Video Tools of Today for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-exploring-video-playback-vlc-vs-mx/"><u>[Updated] In 2024, Exploring Video Playback VLC Vs. MX</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-olympic-thrills-amidst-snowy-bliss-in-beijing-2022/"><u>[Updated] In 2024, Olympic Thrills Amidst Snowy Bliss in Beijing 2022</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-professional-insights-top-10-capture-cards-for-youtube-enthusiasts/"><u>[Updated] Professional Insights Top 10 Capture Cards for YouTube Enthusiasts</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-s17e-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo S17e</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/easy-guide-to-use-a-stabilization-tool-in-filmora-for-2024/"><u>Easy Guide to Use a Stabilization Tool in Filmora for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-m1-advantages-in-high-quality-video-production-workstations/"><u>In 2024, M1 Advantages in High-Quality Video Production Workstations</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-3-best-effects-to-appear-on-camera/"><u>New 3 Best Effects to Appear on Camera</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-best-ideas-on-using-green-screen-with-filmora/"><u>New Best Ideas on Using Green Screen with Filmora</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-remove-audio-from-videos-with-ffmpeg/"><u>New In 2024, How to Remove Audio From Videos with FFmpeg?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-tiktok-velocity-dance-tutorial-filmora-for-2024/"><u>New TikTok Velocity Dance Tutorial| Filmora for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-add-zoom-blur-effect-in-photoshop-step-by-step/"><u>Updated 2024 Approved Add Zoom Blur Effect In Photoshop Step by Step</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-add-effects-on-tiktok-for-2024/"><u>Updated How to Add Effects on TikTok for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-the-complete-guide-to-making-fortnite-montage-for-2024/"><u>Updated The Complete Guide to Making Fortnite Montage for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-durecorder-uncovered-features-and-analysis/"><u>[Updated] 2024 Approved DuRecorder Uncovered Features and Analysis</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-minimca-mastery-starting-point-for-mc-habitats/"><u>[Updated] MiniMCA Mastery Starting Point for MC Habitats</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-pajama-plots-and-prose-critical-review-of-childrens-videos/"><u>2024 Approved Pajama Plots and Prose Critical Review of Children's Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/preayers-guide-to-polishing-youtube-content-via-imovie-editing-techniques-for-2024/"><u>A Compreayer's Guide to Polishing YouTube Content via iMovie Editing Techniques for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-elevate-your-content-expert-tips-on-facebook-video-playbacks/"><u>In 2024, Elevate Your Content Expert Tips on Facebook Video Playbacks</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-fortnite-thumbnail-with-motion-blur-for-2024/"><u>New How to Make Fortnite Thumbnail with Motion Blur for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-use-your-social-media-app-and-make-slow-motion-videos-by-reading-this-guide-besides-learning-slow-motion-snapchat-get-useful-apps-serving-the-sa/"><u>New In 2024, Use Your Social Media App and Make Slow-Motion Videos by Reading This Guide. Besides Learning Slow-Motion Snapchat, Get Useful Apps Serving the Same Purposes</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-the-way-to-quick-and-efficient-editing-keyboard-shortcuts-in-filmora-for-2024/"><u>New The Way to Quick and Efficient Editing | Keyboard Shortcuts in Filmora for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-on-how-to-upload-swf-file-as-an-animated-gif-for-the-web/"><u>Step-by-Step Tutorial on How to Upload SWF File as an Animated GIF for the Web</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/top-5-solutions-how-to-stop-constant-wi-fi-drops-on-your-iphone/"><u>Top 5 Solutions: How to Stop Constant Wi-Fi Drops on Your iPhone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-want-to-download-slow-motion-apps-that-can-edit-video-professionally-this-article-will-discuss-some-slomo-makers-for-both-ios-a/"><u>Updated 2024 Approved Do You Want to Download Slow-Motion Apps that Can Edit Video Professionally? This Article Will Discuss some Slomo Makers for Both iOS and Android</u></a></li>
 </ul></div>
 

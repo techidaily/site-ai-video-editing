@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Zoom in Discord
-date: 2025-02-04T08:11:02.778Z
-updated: 2025-02-08T17:05:43.565Z
+date: 2025-02-12T16:29:00.550Z
+updated: 2025-02-19T16:41:58.992Z
 tags: 
   - ai
   - animation videos
@@ -19,6 +19,10 @@ Discord is the most popular platform for communication among gaming communities 
 
 There could also be a scenario where you have excessive zoom in effect, and you need to zoom out for better readability. Similarly, if you have pressed the wrong shortcuts accidentally and the screen on Discord has zoomed in, you have to zoom out to bring the screen to its original state. We will illustrate how to zoom out in Discord as well for computer, smartphone, and online users.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Zoom Discord on Computer
 
 Since Discord is mostly popular among gamers, Discord desktop app is the most widely used. If you want to zoom in on Discord desktop app, you should know that the zoom option is not readily available under any menu, and there is no keyboard shortcut you can press to zoom in and zoom out instantly. Instead, here are the steps on how to zoom in on Discord.
@@ -28,7 +32,7 @@ Step1Launch Discord desktop app on your computer. Click on the Gear icon located
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/launch-discord-desktop-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2Once Settings window opens, go to App Settings section from the left side and click on Appearance option.
@@ -38,16 +42,12 @@ Step3On the right section, scroll down, and you will find three options for zoom
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/discord-nitro-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step4According to your requirements, you can move the slider to the right to zoom in on Discord. You can also press Ctrl and “+” keys together to zoom in. Press Ctrl and “-“ keys together to zoom out. If you want to reset the changes, press Ctrl and O keys together.
 
 Step5Once you are satisfied with the level of zooming, press Esc key on your keyboard to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Zoom Discord Online
 
@@ -62,16 +62,12 @@ Step3From the drop-down menu, go to Zoom option. Click on “+” icon to zoom i
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/online-discord-zoom-icon.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Alternatively, you can simply launch Discord on any browser and press Ctrl and “+” or “-“ keys together for zooming in and out. You get to see by how much percentage the browser is zooming in and zooming out. If you want to reset, bring the percentage to 100%.
 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/zoom-discord-screen-online.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to Zoom Discord on Mobile
 
@@ -88,6 +84,10 @@ Step3Scroll down and come to Chat Font Scaling and move the slider to the right 
 ![how to zoom in discord](https://images.wondershare.com/filmora/article-images/2022/07/discord-appearance-zoom.jpg)
 
 There is Reset option at the bottom to cancel out the changes made as far as zoom effect goes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -106,24 +106,24 @@ There could also be a scenario where you have excessive zoom in effect, and you 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ips-for-constructing-motivating-daily-routine-vids/"><u>[New] Tips for Constructing Motivating Daily Routine Vids</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-how-lgs-27uhd68-enhances-gaming-experience/"><u>[Updated] 2024 Approved How LG's 27UHD68 Enhances Gaming Experience</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-co-creating-content-brands-team-up-for-youtube-success/"><u>[Updated] Co-Creating Content Brands Team Up for YouTube Success</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-innovative-recording-tech-the-leaders-choice/"><u>[Updated] Innovative Recording Tech The Leaders' Choice</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-this-article-provides-helpful-tips-for-creating-better-film-footage-in-public-places-learn-how-to-choose-the-right-angle-and-re-record-the-aud/"><u>2024 Approved This Article Provides Helpful Tips for Creating Better Film Footage in Public Places. Learn How to Choose the Right Angle and Re-Record the Audio with Filmora</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-comprehensible-approach-to-masterful-gopro-studio-edits-for-2024/"><u>A Comprehensible Approach to Masterful GoPro Studio Edits for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-successfully-reinstall-and-rectify-errors-in-your-ryzen-master-driver-setup/"><u>How To Successfully Reinstall and Rectify Errors in Your Ryzen Master Driver Setup</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamline-your-video-experience-with-advanced-vlc-techniques-macos/"><u>In 2024, Streamline Your Video Experience with Advanced VLC Techniques (macOS)</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-the-entrepreneurial-guide-to-video-content-monetization/"><u>In 2024, The Entrepreneurial Guide to Video Content Monetization</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-the-best-peter-mckinnon-luts-recommendation/"><u>New 2024 Approved The Best Peter McKinnon LUTs Recommendation</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713954227686-new-2024-approved-whatre-the-best-alternatives-to-pexels/"><u>New 2024 Approved Whatre the Best Alternatives to Pexels?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-have-you-ever-played-roblox-games-read-this-article-to-find-out-how-to-get-motion-blur-in-roblox-using-simple-and-efficient-ways-for-2024/"><u>New Have You Ever Played Roblox Games? Read This Article to Find Out How to Get Motion Blur in Roblox Using Simple and Efficient Ways for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713963502155-new-how-to-create-fantastic-glitch-effects-with-filmora-read-this-guide-to-find-out-how-to-apply-glitch-effects-on-your-videos-and-make-custom-glitch-effect/"><u>New How to Create Fantastic Glitch Effects with Filmora? Read This Guide to Find Out How to Apply Glitch Effects on Your Videos and Make Custom Glitch Effects for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-want-to-create-a-stunning-intro-video-on-your-smartphone-legend-intro-maker-is-a-popular-choice-learn-the-steps-to-design-intro-video-legend-int/"><u>New In 2024, Want to Create a Stunning Intro Video on Your Smartphone? Legend Intro Maker Is a Popular Choice. Learn the Steps to Design Intro Video Legend Intro Maker</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-this-article-aims-to-show-you-how-to-export-videos-in-filmora-for-2024/"><u>New This Article Aims to Show You How to Export Videos in Filmora for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/organization-local-scope/"><u>Organization-Local Scope</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-mp3-cutter-downloadmp3-cutter-download-is-one-of-the-most-reliable-tools-for-editing-of-music-files-in-a-fast-and-friendly-way/"><u>Updated 2024 Approved MP3 CUTTER DOWNLOADMP3 Cutter Download Is One of the Most Reliable Tools for Editing of Music Files in a Fast and Friendly Way</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-creative-ways-to-add-green-screen-effects-in-photoshop/"><u>Updated Creative Ways to Add Green Screen Effects In Photoshop</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/usb-headphone-no-sound-on-windows-7-solved/"><u>USB Headphone No Sound on Windows 7 [Solved]</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/calm-and-clear-how-to-smooth-out-a-jittery-gopro-video/"><u>Calm and Clear How to Smooth Out a Jittery GoPro Video</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-harmonyhunter-discovering-audio-dimensions/"><u>In 2024, HarmonyHunter Discovering Audio Dimensions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-apple-iphone-8-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID From your Apple iPhone 8?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-infinix-hot-40-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Infinix Hot 40 Through Google Earth?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 13 mini?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-are-you-an-apple-user-interested-in-adding-a-slow-mo-to-their-videos-this-article-features-an-exceptional-procedure-for-creating-slow-mo-i/"><u>New 2024 Approved Are You an Apple User Interested in Adding a Slow-Mo to Their Videos? This Article Features an Exceptional Procedure for Creating Slow-Mo in iMovie</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-stop-worrying-if-your-adobe-premiere-playback-slows-down-this-guide-will-show-you-the-best-solutions-to-resolve-this-issue-and-a-perfect-a/"><u>New 2024 Approved Stop Worrying if Your Adobe Premiere Playback Slows Down. This Guide Will Show You the Best Solutions to Resolve This Issue and a Perfect Alternative</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-slow-down-videos-on-instagram-with-perfection-a-guide/"><u>New In 2024, Slow Down Videos on Instagram With Perfection A Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-understanding-the-best-tools-for-changing-sky-background-for-2024/"><u>New Understanding The Best Tools for Changing Sky Background for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/prepare-your-device-for-apples-ventura-system-transition/"><u>Prepare Your Device for Apple's Ventura System Transition</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-into-the-realm-of-3d-graffiti-a-guide-to-10-exceptional-websites-for-2024/"><u>Step Into the Realm of 3D Graffiti A Guide to 10 Exceptional Websites for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-3-emerging-technologies-you-cant-ignore/"><u>Top 3 Emerging Technologies You Can't Ignore</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-want-to-experiment-with-various-sky-backgrounds-for-your-footage-learn-about-sky-replacement-after-effects-in-this-article-with/"><u>Updated 2024 Approved Do You Want to Experiment with Various Sky Backgrounds for Your Footage? Learn About Sky Replacement After Effects in This Article with a Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-recording-slow-motion-videos-is-not-more-difficult-using-a-smartphone-learn-everything-from-how-to-record-slow-motion-video-and-edit-a/"><u>Updated 2024 Approved Recording Slow-Motion Videos Is Not More Difficult Using a Smartphone. Learn Everything From How to Record Slow-Motion Video and Edit a Video to Slow Down It</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-audio-metamorphosis-transforming-mp3-files-into-mp4-with-ease/"><u>Updated In 2024, Audio Metamorphosis Transforming MP3 Files Into MP4 with Ease</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-the-ultimate-guide-for-the-10-leading-slow-motion-cameras-for-2024/"><u>Updated The Ultimate Guide for the 10 Leading Slow-Motion Cameras for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713965669511-updated-want-to-learn-how-to-make-gaming-montage-videos-you-have-come-to-the-right-place-this-guide-will-teach-you-all-you-need-to-know-to-create-montages-o/"><u>Updated Want to Learn How to Make Gaming Montage Videos? You Have Come to the Right Place. This Guide Will Teach You All You Need to Know to Create Montages of Video Games and Share Them with Other Players for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713966033930-updated-wondering-how-to-create-a-stunning-intro-video-with-kinemaster-here-are-the-simple-steps-to-use-kinemaster-to-design-your-intro-video-in-simple-step/"><u>Updated Wondering How to Create a Stunning Intro Video with KineMaster? Here Are the Simple Steps to Use KineMaster to Design Your Intro Video in Simple Steps for 2024</u></a></li>
 </ul></div>
 

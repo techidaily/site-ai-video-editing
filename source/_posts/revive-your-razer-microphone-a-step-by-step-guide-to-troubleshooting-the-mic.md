@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Razer Microphone: A Step-by-Step Guide to Troubleshooting the Mic"
-date: 2025-02-07T05:18:01.561Z
-updated: 2025-02-09T03:03:34.686Z
+date: 2025-02-16T16:01:21.497Z
+updated: 2025-02-19T16:40:56.254Z
 tags:
   - win11
   - win10
@@ -40,20 +40,16 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/run-troubleshooter-1.jpg)
 2. Scroll down to**Recording Audio** . Then select it and click**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/run-troubleshooter-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for the process to complete and follow the on-screen instructions to repair the detected issues. If your microphone still doesn’t work, proceed to the next method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Check the privacy settings
@@ -65,15 +61,11 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-1-2.jpg)
 3. Navigate to the**Microphone** tab on the left pane. Then, click the**Change** button and**turn on** Microphone access for this device.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-2-1.jpg)
 4. **Toggle on the button** below Allow apps to access your microphone.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-3-1.jpg)
@@ -95,7 +87,7 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 3. Select the**Recording** tab. Then right-click your Onikuma headset mic and click**Enable** (if it’s not) and click**Set as Default Device** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you don’t see it listed, right-click any blank space and tick**Show Disabled Devices** .  
@@ -136,7 +128,15 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click**Update** to do it for free, but it’s partly manual.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -165,24 +165,20 @@ If you’re experiencing Onikuma headset mic not working, you’re not alone. Th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-discover-two-hands-on-approaches-to-personalize-snapchat-audio/"><u>[Updated] 2024 Approved Discover Two Hands-On Approaches to Personalize Snapchat Audio</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-craft-your-own-story-10-best-cost-free-ios-photo-collage-tools/"><u>2024 Approved Craft Your Own Story 10 Best, Cost-Free iOS Photo Collage Tools</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-effortless-installation-apple-podcasts-made-simple/"><u>2024 Approved Effortless Installation Apple Podcasts Made Simple</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/advanced-computing-insights-from-toms-equipment-analysis/"><u>Advanced Computing Insights From Tom’s Equipment Analysis</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/ayaneos-latest-innovation-am01-mini-with-amd-zen-3-echoing-the-iconic-macintosh-style/"><u>Ayaneo's Latest Innovation - AM01 Mini with AMD Zen 3, Echoing the Iconic Macintosh Style</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/evolution-of-action-cameras-from-gopro-hero4-to-hero5/"><u>Evolution of Action Cameras From GoPro (Hero4 to Hero5)</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/exploring-the-world-of-gadgets-with-tom-in-depth-analysis/"><u>Exploring the World of Gadgets with Tom - In-Depth Analysis</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-upgrade-to-windows-11-step-by-step-instructions-and-tips/"><u>Free Upgrade to Windows 11: Step-by-Step Instructions and Tips</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/guide-simple-comment-copier-votre-collection-dvd-sur-disque-dur-avec-windows-11107-and-mac-os-x/"><u>Guide Simple : Comment Copier Votre Collection DVD Sur Disque Dur Avec Windows 11/10/7 & Mac OS X</u></a></li>
-<li><a href="https://win-tips.techidaily.com/guide-relocating-imessage-history-from-one-user-account-to-a-new-apple-id/"><u>Guide: Relocating iMessage History From One User Account to a New Apple ID</u></a></li>
-<li><a href="https://facebook.techidaily.com/insights-on-facebooks-fresh-home-tab/"><u>Insights on Facebook's Fresh Home Tab</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/legal-battle-hp-enterprise-accuses-inspur-of-intellectual-property-theft-as-it-persists-in-american-market-operations/"><u>Legal Battle: HP Enterprise Accuses Inspur of Intellectual Property Theft as It Persists in American Market Operations</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-court-and-your-computer-solve-nba-2k21-pc-glitches-easily/"><u>Mastering the Court and Your Computer: Solve NBA 2K21 PC Glitches Easily!</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/navigating-digital-realms-at-toms-tech-oasis/"><u>Navigating Digital Realms at Tom's Tech Oasis</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/next-level-peripheral-connectivity-pci-sig-releases-innovative-copprlink-cables-to-power-pci-express-gen-v-and-vi-while-preparing-for-version-vii-developmen105/"><u>Next-Level Peripheral Connectivity: PCI-SIG Releases Innovative CopprLink Cables to Power PCI Express Gen V and VI, While Preparing for Version VII Development</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/no-more-glitches-master-easy-techniques-for-stable-rage-2-gameplay/"><u>No More Glitches: Master Easy Techniques for Stable RAGE 2 Gameplay</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/the-authors-secret-weapon-discover-how-chatgpt-revolutionizes-writing/"><u>The Author's Secret Weapon? Discover How ChatGPT Revolutionizes Writing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-underground-guide-5-unauthorized-uses-of-ai/"><u>The Underground Guide: 5 Unauthorized Uses of AI</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/unveiling-innovative-solutions-discover-top-picks-at-techmaster-review-center/"><u>Unveiling Innovative Solutions: Discover Top Picks at TechMaster Review Center</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-decoding-youtubes-clandestine-content-with-orderliness/"><u>[New] 2024 Approved Decoding YouTube's Clandestine Content with Orderliness</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-crafting-a-winning-sponsorship-proposal-for-youtube-creators-for-2024/"><u>[New] Crafting a Winning Sponsorship Proposal for Youtube Creators for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-diving-deep-into-samsung-photo-enhancers-guide/"><u>[New] In 2024, Diving Deep Into Samsung Photo Enhancers Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-ultimate-guide-to-youtube-thumbnail-sizes/"><u>[New] The Ultimate Guide to YouTube Thumbnail Sizes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-cutting-edge-of-vid-extraction-top-5-free-fast-pinterest-tools/"><u>2024 Approved The Cutting Edge of Vid Extraction Top 5 Free, Fast Pinterest Tools</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/analyzing-the-microsoft-surface-go-a-cost-effective-tablets-struggle-with-brand-positioning/"><u>Analyzing the Microsoft Surface Go - A Cost-Effective Tablet's Struggle with Brand Positioning</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-discover-the-best-top-rated-video-animation-apps-for-android-iphone-and-ipad/"><u>In 2024, Discover the Best Top-Rated Video Animation Apps for Android, iPhone, and iPad</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-explore-our-comprehensive-guide-to-the-10-best-cameras-unlock-the-world-of-advanced-technology-perfect-for-capturing-slow-motion-footage-i/"><u>New 2024 Approved Explore Our Comprehensive Guide to the 10 Best Cameras . Unlock the World of Advanced Technology Perfect for Capturing Slow-Motion Footage in Various Scenarios</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-zoom-in-on-powerpoint-easy-ways-for-2024/"><u>New How to Zoom in on PowerPoint Easy Ways for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-know-capcut-has-some-amazing-slow-motion-templates-you-can-utilize-read-this-article-to-access-the-slow-motion-capcut-templates-link/"><u>New In 2024, Do You Know CapCut Has some Amazing Slow-Motion Templates You Can Utilize? Read This Article to Access the Slow-Motion CapCut Templates Link</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-lets-introduce-the-top-5-applications-to-add-a-song-to-a-video-for-free-with-some-amazing-sound-and-visual-effects/"><u>Updated 2024 Approved Lets Introduce the Top 5 Applications to Add a Song to a Video for Free with some Amazing Sound and Visual Effects</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-through-speed-ramping-create-a-smooth-transition-in-slow-motion-videos-follow-this-guide-and-learn-about-premiere-pro-slow-motion-and-/"><u>Updated 2024 Approved Through Speed Ramping, Create a Smooth Transition in Slow-Motion Videos. Follow This Guide and Learn About Premiere Pro Slow Motion and a Better Alternative</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-tiktok-video-aspect-ratio/"><u>Updated In 2024, Tiktok Video Aspect Ratio</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-understanding-the-best-tools-for-changing-sky-background-for-2024/"><u>Updated Understanding The Best Tools for Changing Sky Background for 2024</u></a></li>
 </ul></div>
 

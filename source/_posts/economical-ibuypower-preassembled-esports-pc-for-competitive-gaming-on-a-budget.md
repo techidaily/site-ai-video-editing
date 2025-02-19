@@ -1,7 +1,7 @@
 ---
 title: Economical iBUYPOWER Preassembled Esports PC for Competitive Gaming on a Budget
-date: 2025-02-05T00:11:08.866Z
-updated: 2025-02-08T22:42:35.989Z
+date: 2025-02-13T16:38:15.871Z
+updated: 2025-02-19T16:38:09.518Z
 tags:
   - desktop
 categories:
@@ -17,6 +17,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
  To help you assemble the best PC build for gaming or productivity that you can get, we've created recommended parts lists for every budget: from a super-cheap sub-$500 system to an affordable sub-$1,000 build to a $4,000+ dream machine for those with deep pockets.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Picking and Pricing the Best PC Builds
 
  Why you can trust Tom's Hardware  Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you.[Find out more about how we test](https://www.tomshardware.com/news/how-we-test) .
@@ -26,6 +30,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
  We are also going to recommend GPUs rather than specific makes and models of graphics cards. For example, we'd recommend an RTX 4070 Ti and link to a list of available cards rather than, for example, the[Zotac RTX 4070 Ti](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FZOTAC-Graphics-IceStorm-Advanced-ZT-D40710J-10P%2Fdp%2FB0BQCVTSR3%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1261595583226646282-20) [.](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FZOTAC-Graphics-IceStorm-Advanced-ZT-D40810B-10P%2Fdp%2FB0BKK3RFT6%2F%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8032896364299685703-20) Given frequent price and stock changes in the space, you should get whichever third or first-party card is available with the GPU you want for the best price at the time you read this.
 
  Also note that we don't include the cost of an operating system, because you can get[Windows for Free or Cheap](https://www.tomshardware.com/reviews/get-windows-10-free-or-cheap,5717.html) . Nor do we include the price of peripherals such as the[best gaming monitors](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.html) ,[best gaming keyboards](https://www.tomshardware.com/peripherals/gaming-keyboards/best-gaming-keyboards) or[best gaming mouse](https://www.tomshardware.com/best-picks/best-gaming-mouse) . And if you've never made a computer before, see our article on[how to build a PC](https://www.tomshardware.com/how-to/build-a-pc) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best $500 PC Build for Gaming
 
@@ -71,6 +79,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![Gamdias Aura GC1](https://cdn.mos.cms.futurecdn.net/fixBMW57Uvy4YDmfRJpWAd-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Amazon)
 
  Swipe to scroll horizontally
@@ -101,6 +113,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![1080p GPUs Ranked](https://cdn.mos.cms.futurecdn.net/ktyz8PAoeeySeFAwDS7RGh-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The card can also do some ray tracing as it averaged 41.7 fps on 1080p ultra with ray tracing enabled. Forget about playing in 2K with ray tracing as that only gave us 25.8 fps.
@@ -110,7 +126,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![Crucial P5 Plus Tests](https://cdn.mos.cms.futurecdn.net/dVtKieHEMPgzXkpEJa7jcm-320-80.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -120,7 +136,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
  Our case is the Gamdias Aura GC1, a full-size ATX case that comes with four ARGB fans. The GC1 has a mesh front for optimal airflow and plenty of room for expansion.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best $1,000 PC Build for Gaming
@@ -151,10 +167,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![CPU 1080p performance for Ryzen 7 5700X3D](https://cdn.mos.cms.futurecdn.net/FubLpBjdNUCy6aXRouBReZ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Image credit: Newegg)
 
  To support our Ryzen 7 57003XD, we're using a Gigabyte B550 UD AC motherboard. This board has built-in Wi-Fi 6 and it also has Q-Flash, which allows you to[update the BIOS](https://www.tomshardware.com/how-to/update-bios-on-a-pc) , before you install the CPU. This may be necessary as the 5700X3D just came out a few months ago.
@@ -167,10 +179,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![3DMark Storage for WD SN580](https://cdn.mos.cms.futurecdn.net/YduTXHRsvK8iHR2sEsSWHH-320-80.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  We're going with the[Phanteks XT Pro](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-3971734713525887260%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fblack-phanteks-xt-mid-tower%252Fp%252F11-854-132) as our case, because it has a quality, mesh design, room for up to a 360mm AIO up top and the ability to support back-connecting motherboards, should you get one in the future. For $20, you can get the[Phanteks XT Pro Ultra](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-2132366878660750340%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fblack-phanteks-xt-mid-tower%252Fp%252FN82E16811854133) , which comes with four ARGB fans.
@@ -178,16 +186,12 @@ If you want a computer that meets your exact needs and budget, you need to put i
  Finally, we've stepped up to a 750-watt power supply and we're going with Corsair CX750M, which is 80+ Bronze certified and semi-modular. You can get a modular PSU or one that's 80+ Gold certified for a bit more, but that's money you don't need to spend at this price point.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best $1,500 PC Build for Gaming
 
 ![Lian Li Lancool 216](https://cdn.mos.cms.futurecdn.net/Km4g6hf6hy2XkxhB88oxBR-320-80.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -286,7 +290,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![Fractal Design North XL](https://cdn.mos.cms.futurecdn.net/gohZoiw9QykbPm5kgrhfbi-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -313,10 +317,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![RTX 4090 Performance](https://cdn.mos.cms.futurecdn.net/mKv5emaUBYKBRQ8URPsxCY-320-80.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  Our CPU is AMD's Ryzen 9 7950X3D, which offers faster gaming than any Intel CPU on the market, including the Core i9-14900K. It has a whopping 140MB of cache, thanks to AMDs innovative 3D V-Cache and it boasts 16 full-power cores and 32 threads, which is more regular cores than the 13900K's set of 8 (to go with 16 E-Cores).
@@ -335,15 +335,15 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![Samsung 990 Pro 4TB Benchmarks](https://cdn.mos.cms.futurecdn.net/GArKvY8BSc22ZhDRwWyr2C-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  We decided to go with a case that has a unique, premium look in the[Fractal Design North XL.](https://www.tomshardware.com/pc-components/pc-cases/fractal-design-north-xl-review) With its wood paneled front, this chassis looks more like a mid-century modern piece of furniture than a gaming PC, which is a nice subtle touch. However, it also has a tempered glass side panel which you can use to show off all of your RGB components (or you can buy it with a solid panel and no window). It also has fantastic thermal performance and plenty of room for more drives and fans. The XL model can accommodate up to an E-ATX motherboard, giving you plenty of room for future upgrades.
 
  With these high-end components, we don't want to skimp on the power supply, and having something that's fit for a future graphics card upgrade makes sense. We're going with a full 1000-watts of power and the Corsair HX1000\. This power supply is 80+ Platinum certified and fully modular.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Finding Discounts on the Best PC Components
 
@@ -364,18 +364,19 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-youtube-artistry-designing-channels-visual-assets-bannersicons/"><u>[New] 2024 Approved YouTube Artistry Designing Channels' Visual Assets (Banners/Icons)</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-dive-into-the-dos-and-donts-of-youtube-beauty-channels/"><u>[New] In 2024, Dive Into the Do's and Don'ts of YouTube Beauty Channels</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-top-10-stabilizing-tech-for-youtube-creators-success/"><u>[New] In 2024, Top 10 Stabilizing Tech for YouTube Creators' Success</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-selecting-premium-text-tools-for-ae/"><u>[New] The Ultimate Guide to Selecting Premium Text Tools for AE</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-create-the-stranger-things-upside-down-effect-video/"><u>2024 Approved Create the Stranger Things Upside Down Effect Video</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-sky-high-streams-on-facebook-a-dji-drone-users-guide/"><u>2024 Approved Sky-High Streams on Facebook A DJI Drone User's Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/best-unboxing-video-series-the-ultimate-2024-watchlist/"><u>Best Unboxing Video Series - The Ultimate 2024 Watchlist</u></a></li>
-<li><a href="https://win-trending.techidaily.com/download-vids-from-coub-in-various-formats-step-by-step-tutorial/"><u>Download Vids From Coub in Various Formats: Step-by-Step Tutorial</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/how-to-fade-in-text-in-adobe-premiere-pro/"><u>How to Fade in Text in Adobe Premiere Pro</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/innovative-ways-to-implement-b-roll-in-productions/"><u>Innovative Ways to Implement B Roll in Productions</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-11-tips-to-make-product-ad-videos/"><u>New 2024 Approved 11 Tips to Make Product Ad Videos</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-want-to-apply-a-filter-on-your-video-using-your-iphone-or-mac-here-are-the-simple-steps-to-put-add-filters-on-imovie-find-out-a-better-imovie-alternativ/"><u>New Want to Apply a Filter on Your Video Using Your iPhone or Mac? Here Are the Simple Steps to Put Add Filters on iMovie. Find Out a Better iMovie Alternative with More Filters</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-solving-iphone-recognition-problems-with-windows-10-and-itunes/"><u>Troubleshooting Guide: Solving iPhone Recognition Problems with Windows 10 and iTunes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-crack-the-code-of-creativity-in-depth-snapchat-filters-exploration-for-2024/"><u>[Updated] Crack the Code of Creativity In-Depth Snapchat Filters Exploration for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-sky-archives-reimagined-exploring-the-best-cloud-vaults-of-2024/"><u>[Updated] Sky Archives Reimagined Exploring the Best Cloud Vaults of 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1722996356181-easy-steps-to-fix-windows-11-or-10-spatial-audio-not-working-correctly/"><u>Easy Steps to Fix Windows 11 or 10 Spatial Audio Not Working Correctly.</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/exploring-the-capabilities-of-the-heavy-but-powerful-radpower-radcity-nplus/"><u>Exploring the Capabilities of the Heavy but Powerful RadPower RadCity N+</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-search-for-proof-of-registration-entry-in-databases/"><u>How to Search for Proof of Registration Entry in Databases</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Vivo X100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-ornate-asian-dwellings-for-your-next-build-off/"><u>In 2024, Ornate Asian Dwellings for Your Next Build-Off</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-walkthrough-incorporating-subtitles-in-mp4s/"><u>In 2024, Step-by-Step Walkthrough Incorporating Subtitles in MP4s</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-depth-gadget-evaluations-by-team-tom/"><u>In-Depth Gadget Evaluations by Team Tom</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-depth-look-at-amazonbasics-affordable-flat-antenna-for-catching-free-broadcasts/"><u>In-Depth Look at AmazonBasics' Affordable Flat Antenna for Catching Free Broadcasts</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/is-investing-in-copilot-pro-a-smart-move-against-the-free-microsoft-alternative-insights-from-zdnet/"><u>Is Investing in Copilot Pro a Smart Move Against the Free Microsoft Alternative? Insights From ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-issues-with-a-malfunctioning-iphone-close-range-detector/"><u>Resolving Issues with a Malfunctioning iPhone Close-Range Detector</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-lava-blaze-2-by-drfone-android/"><u>Three Ways to Sim Unlock Lava Blaze 2</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/top-notch-wireless-technology-tested-netgears-nighthawk-c7000-reviewed-for-maximum-connectivity/"><u>Top-Notch Wireless Technology Tested - Netgear's Nighthawk C7000 Reviewed for Maximum Connectivity</u></a></li>
 </ul></div>
 

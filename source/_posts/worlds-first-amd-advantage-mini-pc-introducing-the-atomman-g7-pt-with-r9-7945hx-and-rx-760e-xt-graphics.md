@@ -1,7 +1,7 @@
 ---
 title: "World's First AMD Advantage Mini PC: Introducing the AtomMan G7 Pt with R9 7945HX & RX 760E XT Graphics"
-date: 2025-02-05T04:17:04.595Z
-updated: 2025-02-09T11:28:29.354Z
+date: 2025-02-15T16:48:09.102Z
+updated: 2025-02-19T16:05:52.437Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -62,24 +62,22 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-evaluating-dji-flying-visor-experience/"><u>[New] 2024 Approved Evaluating DJI Flying Visor Experience</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instagrams-secret-weapon-tailoring-photos-to-standout-highlights/"><u>[New] 2024 Approved Instagram's Secret Weapon Tailoring Photos to Standout Highlights</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-safe-exit-procedures-for-departing-discord-servers/"><u>[Updated] 2024 Approved Safe Exit Procedures for Departing Discord Servers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-iphone-guide-to-breathtaking-shadow-images/"><u>[Updated] The Ultimate iPhone Guide to Breathtaking Shadow Images</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-what-is-color-finale/"><u>2024 Approved What Is Color Finale</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-z-flip-5-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy Z Flip 5 to Outlook | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-secure-your-favorite-instagram-chats-with-pin-feature-explained/"><u>How-To: Secure Your Favorite Instagram Chats with Pin Feature Explained</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713950242747-if-you-are-a-marketer-who-want-to-create-facebook-ads-to-boost-your-business-you-are-coming-to-the-right-place-well-share-you-some-useful-tips-to-start-your/"><u>If You Are a Marketer Who Want to Create Facebook Ads to Boost Your Business, You Are Coming to the Right Place. Well Share You some Useful Tips to Start Your First FB Ads Campaign for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-be-a-youtube-vlogger/"><u>In 2024, How to Be a YouTube Vlogger</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-y100-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo Y100 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/metaverse-jokes-and-giggles-how-to-craft-your-own-laughter-inducing-memes-for-2024/"><u>Metaverse Jokes & Giggles How to Craft Your Own Laughter-Inducing Memes for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-create-a-bokeh-effect-for-2024/"><u>New How to Create a Bokeh Effect for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-boost-the-pace-of-your-instagram-reels-videos-with-these-simple-tricks/"><u>New In 2024, Boost the Pace of Your Instagram Reels Videos with These Simple Tricks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/next-level-gaming-rig-craft-your-mini-pc-with-a-high-speed-egpu-pcie-link-surpassing-traditional-thunderbolt-4-speeds/"><u>Next-Level Gaming Rig: Craft Your Mini PC with a High-Speed eGPU PCIe Link Surpassing Traditional Thunderbolt 4 Speeds</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-best-ways-to-add-meme-text-to-videos-for-2024/"><u>Updated Best Ways to Add Meme Text to Videos for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-create-freeze-frame-clone-effect-for-2024/"><u>Updated How to Create Freeze Frame Clone Effect for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-use-motion-blur-on-video-star-for-2024/"><u>Updated How To Use Motion Blur On Video Star for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-here-is-a-step-by-step-guide-to-color-correct-and-color-grade-a-video-professionally-with-wondershare-filmora-lets-get-going/"><u>Updated In 2024, Here Is a Step-by-Step Guide to Color Correct and Color Grade a Video Professionally with Wondershare Filmora. Lets Get Going</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024s-cheapest-cloud-providers-exposed/"><u>[New] 2024’S Cheapest Cloud Providers Exposed</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-turning-creativity-into-comprehensive-captivating-tiktok-masterpieces/"><u>[New] Turning Creativity Into Comprehensive, Captivating TikTok Masterpieces</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-shifting-paradigms-non-youtube-video-hosts-for-2024/"><u>[Updated] Shifting Paradigms Non-Youtube Video Hosts for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-meme-framework-essentials/"><u>2024 Approved Prime Meme Framework Essentials</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/acces-gratuit-au-codec-heconome-debloquez-la-qualite-superieure-pour-votre-visionnage-en-hd-avec-notre-pack-des-codecs-h264/"><u>Accès Gratuit Au Codec H.econome, Débloquez La Qualité Supérieure Pour Votre Visionnage en HD Avec Notre Pack Des Codecs H.264</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cyber-monday-deals-unbeatable-prices-on-apples-m2-macbook-air-the-ultimate-bargain/"><u>Cyber Monday Deals: Unbeatable Prices on Apple's M2 MacBook Air - The Ultimate Bargain</u></a></li>
+<li><a href="https://win11.techidaily.com/exclusive-insight-discerning-storage-type-on-windows/"><u>Exclusive Insight: Discerning Storage Type on Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-12-mini-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock iPhone 12 mini Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-add-freeze-frame-to-your-video-from-any-device/"><u>In 2024, How to Add Freeze Frame to Your Video From Any Device?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-100-working-methods-to-learn-how-to-rotate-tiktok-video/"><u>New 100 Working Methods to Learn How to Rotate TikTok Video</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-a-detailed-guid-to-remove-background-from-a-video-in-premier-pro/"><u>New 2024 Approved A Detailed Guid to Remove Background From a Video in Premier Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-7-tips-to-create-teaching-videos/"><u>New 7 Tips to Create Teaching Videos</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-different-ways-to-crop-tiktok-video-in-high-quality/"><u>New In 2024, Different Ways to Crop TikTok Video in High-Quality</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-basics-of-heimvisions-sunrise-alarm-clock-a80s-features-and-functionality-overview/"><u>Unveiling the Basics of HeimVision's Sunrise Alarm Clock A80S: Features and Functionality Overview</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-top-8-sites-to-download-glitch-transition-for-premiere-pro/"><u>Updated In 2024, Top 8 Sites to Download Glitch Transition for Premiere Pro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-level-up-videos-by-applying-keyframe-like-a-pro-for-2024/"><u>Updated Level Up Videos By Applying Keyframe Like A Pro for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713965542791-updated-want-to-apply-a-filter-on-your-video-using-your-iphone-or-mac-here-are-the-simple-steps-to-put-add-filters-on-imovie-find-out-a-better-imovie-altern/"><u>Updated Want to Apply a Filter on Your Video Using Your iPhone or Mac? Here Are the Simple Steps to Put Add Filters on iMovie. Find Out a Better iMovie Alternative with More Filters for 2024</u></a></li>
 </ul></div>
 

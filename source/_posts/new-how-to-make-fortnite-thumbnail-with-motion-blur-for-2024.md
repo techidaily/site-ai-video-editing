@@ -1,7 +1,7 @@
 ---
 title: New How to Make Fortnite Thumbnail with Motion Blur for 2024
-date: 2025-02-07T19:04:25.226Z
-updated: 2025-02-08T22:54:31.379Z
+date: 2025-02-13T16:47:17.164Z
+updated: 2025-02-19T16:13:25.305Z
 tags: 
   - ai
   - animation videos
@@ -20,6 +20,10 @@ Motion blur has been a provocative effect used in filming and video making. The 
 In this article, we will work on the best methods to make a **Fortnite motion blur thumbnail.** With the help of these methods, you will be able to design the perfect Fortnite thumbnail for your video.
 
 ![fortnite thumbnail with motion blur](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How to Add Motion Blur to Fortnite Thumbnail?
 
@@ -46,7 +50,7 @@ You will have to import the created Fortnite thumbnail that is to be edited. Aft
 ![choose the effects tool](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step3 Add Motion Blur and Export
@@ -56,7 +60,7 @@ On the next screen, look for the "Blur" section from the bottom and find the "Mo
 ![apply the motion blur](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 2: Make Motion Blur Fortnite Thumbnail with Fotor (Online)
@@ -86,11 +90,7 @@ Continue to set the “Blur Intensity” and make changes by clicking “Apply.�
 ![adjust the blur intensity](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 3: Make Motion Blur Fortnite Thumbnail with Photoshop (Desktop)
@@ -119,10 +119,6 @@ Create another duplicate layer and proceed to the "Filter" tab. Look for "Blur G
 
 ![choose the motion blur](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Last Words
 
 Many tools can be used to add motion blur within photos and videos. As you create a thumbnail for Fortnite, you will need a proper tool to help you add motion blur. We have discussed several tools in this article for adding motion blur.
@@ -135,6 +131,10 @@ In this article, we will work on the best methods to make a **Fortnite motion bl
 
 ![fortnite thumbnail with motion blur](https://images.wondershare.com/filmora/article-images/2023/02/make-fortnite-thumbnail-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -144,24 +144,18 @@ In this article, we will work on the best methods to make a **Fortnite motion bl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-podcast-logo-basics-key-principles-for-striking-art/"><u>[New] Podcast Logo Basics Key Principles for Striking Art</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-sculpt-the-perfect-youtube-moniker-tips-and-tricks-for-2024/"><u>[Updated] How to Sculpt the Perfect YouTube Moniker Tips & Tricks for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-humor-hub-picture-composer/"><u>[Updated] Humor Hub Picture Composer</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-complete-guide-to-capturing-ps4-games-via-obs/"><u>2024 Approved Complete Guide to Capturing PS4 Games via OBS</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-create-a-freeze-frame-sequence-effect/"><u>2024 Approved How to Create a Freeze Frame Sequence Effect</u></a></li>
-<li><a href="https://app-tips.techidaily.com/explore-apples-device-management-insights-into-mdm-and-platform-implementation-strategies/"><u>Explore Apple's Device Management: Insights Into MDM and Platform Implementation Strategies</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/how-to-edit-facebook-ecommerce-video-ads/"><u>How to Edit Facebook eCommerce Video Ads</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-smart-8-plus-drfone-by-drfone-android/"><u>How to Screen Mirroring Infinix Smart 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/how-to-slow-down-gif-building-an-understanding/"><u>How To Slow Down GIF Building an Understanding</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovo-t430-driver-downloads-compatibility-with-windows-11-8-and-7-a-simple-walkthrough/"><u>Lenovo T430 Driver Downloads: Compatibility with Windows 11, 8 & 7 - A Simple Walkthrough</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-save-as-mp4-file-on-windows-movie-maker/"><u>New 2024 Approved How to Save As MP4 File on Windows Movie Maker?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-guide-to-create-a-timelapse-video-in-after-effects-for-2024/"><u>New Guide to Create a Timelapse Video in After Effects for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-create-a-green-screen-video-in-after-effects/"><u>New In 2024, How To Create A Green Screen Video In After Effects</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimizing-vlc-media-player-reducing-delay-effects/"><u>Optimizing VLC Media Player: Reducing Delay Effects</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unbranded-and-unbeatable-the-best-free-online-video-editors/"><u>Updated 2024 Approved Unbranded and Unbeatable The Best Free Online Video Editors</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-8-best-sites-to-get-glitch-transition-for-premiere-pro/"><u>Updated 8 Best Sites to Get Glitch Transition for Premiere Pro</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-create-vintage-film-effect-1990s/"><u>Updated How to Create Vintage Film Effect 1990S</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-a-video-by-mouse-in-filmora/"><u>Updated How To Make a Video by Mouse in Filmora?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/upgraded-run-options-in-windows-adding-powerful-script-execution-capability/"><u>Upgraded Run Options in Windows: Adding Powerful Script Execution Capability</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-blueprint-for-tiktok-profitability-mastering-filmmaker-funds-for-2024/"><u>[New] The Blueprint for TikTok Profitability – Mastering Filmmaker Funds for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-toolwiz-in-pictures-complete-review-unveiled/"><u>[Updated] 2024 Approved Toolwiz in Pictures Complete Review Unveiled</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/best-practices-in-embedding-real-time-videos-from-fb-for-2024/"><u>Best Practices in Embedding Real-Time Videos From FB for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/excellent-backdrops-setting-the-stage-for-streaming/"><u>Excellent Backdrops Setting the Stage for Streaming</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/expanding-your-fb-video-scope-full-hd/"><u>Expanding Your Fb Video Scope Full HD</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/high-quality-fullscreen-recorders-for-desktops-for-2024/"><u>High-Quality Fullscreen Recorders for Desktops for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-if-you-want-an-app-to-make-videos-with-pictures-and-music-for-social-media-posts-we-are-with-the-best-apps-to-make-videos-with-music-and-p/"><u>New 2024 Approved If You Want an App to Make Videos with Pictures and Music for Social Media Posts, We Are with the Best Apps to Make Videos with Music and Pictures</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-did-you-know-cameras-have-a-built-in-feature-to-shoot-slow-motion-clips-this-article-is-about-using-sony-sandq-to-capture-slow-motion-scenes-for-2024/"><u>New Did You Know Cameras Have a Built-In Feature to Shoot Slow-Motion Clips? This Article Is About Using Sony S&Q to Capture Slow-Motion Scenes for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-zoom-in-on-powerpoint-easy-ways-for-2024/"><u>New How to Zoom in on PowerPoint Easy Ways for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-know-capcut-has-some-amazing-slow-motion-templates-you-can-utilize-read-this-article-to-access-the-slow-motion-capcut-templates-link/"><u>New In 2024, Do You Know CapCut Has some Amazing Slow-Motion Templates You Can Utilize? Read This Article to Access the Slow-Motion CapCut Templates Link</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-what-should-be-considered-to-choose-a-nice-gopro-for-vlogging/"><u>New In 2024, What Should Be Considered to Choose A Nice GoPro for Vlogging?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-infinix-zero-5g-2023-turbo-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Infinix Zero 5G 2023 Turbo Device</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-looking-for-efficient-ways-to-create-a-slow-motion-video-read-the-article-for-reliable-solutions-that-provide-excellent-results/"><u>Updated 2024 Approved Looking for Efficient Ways to Create a Slow-Motion Video? Read the Article for Reliable Solutions that Provide Excellent Results</u></a></li>
 </ul></div>
 

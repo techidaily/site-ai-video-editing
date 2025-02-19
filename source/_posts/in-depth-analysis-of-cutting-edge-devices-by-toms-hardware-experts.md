@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis of Cutting-Edge Devices by Tom's Hardware Experts
-date: 2025-02-02T02:48:16.372Z
-updated: 2025-02-08T19:38:06.728Z
+date: 2025-02-17T16:43:32.674Z
+updated: 2025-02-19T16:08:17.778Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,19 +68,18 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-10-must-have-plugins-to-boost-discord-experience/"><u>[New] 10 Must-Have Plugins to Boost Discord Experience</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-seamless-content-curation-with-youtubes-watch-later-feature/"><u>[New] 2024 Approved Seamless Content Curation with YouTube’s Watch Later Feature</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-your-guide-to-premium-metaverse-goggles-and-headsets-for-2024/"><u>[Updated] Your Guide to Premium Metaverse Goggles & Headsets for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-the-essential-top-10-hd-webcams-reviewed/"><u>2024 Approved The Essential Top 10 HD Webcams Reviewed</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/beat-bugs-and-glitches-how-to-ensure-smooth-gaming-with-battlefield-5-on-your-desktop/"><u>Beat Bugs & Glitches: How To Ensure Smooth Gaming with Battlefield 5 on Your Desktop</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/how-to-fix-fifa-22-game-crashes-on-your-computer/"><u>How to Fix FIFA 22 Game Crashes on Your Computer</u></a></li>
-<li><a href="https://windows11.techidaily.com/reviving-dotnet-top-5-reparations-for-pcs-max-156/"><u>Reviving DotNet: Top 5 Reparations for PCs (Max 156)</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/solution-found-overcoming-the-siths-blackout-glitch-in-star-wars-battlefront-2/"><u>Solution Found! Overcoming the Sith's Blackout Glitch in Star Wars Battlefront 2</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/speed-kings-and-queens-key-moments-from-the-short-track-games-for-2024/"><u>Speed Kings and Queens Key Moments From the Short Track Games for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1776784-9781583949115-the-hidden-teaching-beyond-yoga/"><u>The Hidden Teaching Beyond Yoga | Free Book</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-razer-book-13-unveiled-a-small-gadget-with-giant-capabilities/"><u>The Razer Book 13 Unveiled: A Small Gadget with Giant Capabilities</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/the-toms-tech-blog-pioneering-discoveries-in-the-world-of-hardware/"><u>The Tom's Tech Blog: Pioneering Discoveries in the World of Hardware</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/unveiling-gadgets-with-toms-equipment-guides/"><u>Unveiling Gadgets with Tom's Equipment Guides</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/worlds-first-amd-advantage-mini-pc-introducing-the-atomman-g7-pt-with-r9-7945hx-and-rx-760e-xt-graphics/"><u>World's First AMD Advantage Mini PC: Introducing the AtomMan G7 Pt with R9 7945HX & RX 760E XT Graphics</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-explore-5-premier-mac-cam-recording-software-beyond-bandicam/"><u>[New] 2024 Approved Explore 5 Premier Mac Cam Recording Software Beyond Bandicam</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-navigating-the-world-of-instantaneous-public-sharing/"><u>[New] 2024 Approved Navigating the World of Instantaneous Public Sharing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-enhance-visibility-the-most-effective-30-freefire-tags-for-video-marketing-for-2024/"><u>[Updated] Enhance Visibility The Most Effective 30 FreeFire Tags for Video Marketing for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unlock-enhanced-video-playback-and-app-functionality-with-chromes-pip/"><u>[Updated] In 2024, Unlock Enhanced Video Playback and App Functionality with Chrome’s PIP</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-poco-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Poco</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-se-2022-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone SE (2022) In Different Conditionsin</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-apowersofts-capabilities-tested-against-market-contenders/"><u>In 2024, Apowersoft's Capabilities Tested Against Market Contenders</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-demystifying-twitter-archives-for-users-and-analysts/"><u>In 2024, Demystifying Twitter Archives for Users & Analysts</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-are-you-a-newbie-across-youtube-want-to-know-who-the-best-vloggers-are-this-article-provides-you-with-the-best-vloggers-on-youtube/"><u>New 2024 Approved Are You a Newbie Across YouTube? Want to Know Who the Best Vloggers Are? This Article Provides You with the Best Vloggers on YouTube</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-to-show-your-mood-in-your-digital-media-content-but-dont-know-how-to-there-are-many-moody-luts-available-that-highlight-your-mood-in/"><u>New In 2024, Do You Want to Show Your Mood in Your Digital Media Content but Dont Know How To? There Are Many Moody LUTs Available that Highlight Your Mood in Your Content</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-transferring-your-music-collection-from-mac-to-iphones/"><u>Step-by-Step Guide: Transferring Your Music Collection From Mac to iPhones</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-wmv-file-format-has-many-benefits-over-the-video-industry-if-you-are-excited-to-know-more-about-the-format-and-its-pros-and-cons-then-lets-s/"><u>Updated In 2024, WMV File Format Has Many Benefits over the Video Industry. If You Are Excited to Know More About the Format and Its Pros and Cons, Then Lets Start the Discussion</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-replace-sky-background-in-video-figuring-out-the-best-options-for-2024/"><u>Updated Replace Sky Background in Video Figuring Out the Best Options for 2024</u></a></li>
 </ul></div>
 
